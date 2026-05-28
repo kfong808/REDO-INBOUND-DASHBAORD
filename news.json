@@ -1,6 +1,28 @@
 {
-  "updated": "2026-05-28T01:59:22.321680+00:00",
+  "updated": "2026-05-28T06:13:36.870253+00:00",
   "items": [
+    {
+      "title": "Nobody gets bypassed - Agentic commerce was supposed to route around the OTAs. Google's partner list routes straight through them - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcVFBSDhRcEJOTjZESVdQN0lmbFpVcy1oMEdGTlpiX0dKTm5WaTdCMUhlUEthY0hCb3ZSUXBWUV9zQ0s1Zms4d1pmWTZQQUZTMWNwMS1WRHRrMnI5eTgzQU5QdVdSdlVfVEg3ZHJGd0tFMGFRbmp0NnMycmFxcFhSZV9UemphdThWM2Rici16b2d3blBTa3hQYTYzblhYSDN0YmxMSGdLMHhPUjNFbW5JTk1OcWo0aDg0RURWbncyVjJNc0xva2E2NWxTREdvcXRKTE5VeVltOXBjTnZDN0ZVQUdsaS1OWjF0aGtNT1BtSHhkTE5hcDJ6NllJSldqZS11d2c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 28 May 2026 06:00:00 GMT",
+      "summary": "Nobody gets bypassed - Agentic commerce was supposed to route around the OTAs. Google's partner list routes straight through them &nbsp;&nbsp; Hospitality Net",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779948000.0
+    },
+    {
+      "title": "redirect from llms.txt to agents.md is changing the entire shopify game",
+      "url": "https://www.reddit.com/r/shopify/comments/1tps9u7/redirect_from_llmstxt_to_agentsmd_is_changing_the/",
+      "source": "r/shopify",
+      "published": "2026-05-28T03:53:03+00:00",
+      "summary": "while optimizing the clients front store and code content using our own platform, we learnt about this new redirection, and tbh i deep down feel it sucks though there was hardly any proof that llms.txt and llms.full.txt helped you get cited by AI. the entire motive behind this redirection is to prepare the store owners for the agentic commerce. shopify built ucp in collaboration with a few software gaints, and the entire agents md is just the instruction for any llm to follow. our platform has i",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779940383.0
+    },
     {
       "title": "75% of Americans say they would trust AI shopping recommendations less if results were sponsored — which means OpenAI just made a decision that could structurally damage the thing that makes it valuable - Space Daily",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQN2JZWTY1bWprVEZRM2ZuaUZtNDVrSGdaWGxBNFpySWx1bWZJMXFVUnoycWdBeVR1cktmUnZESFh2OTFVYUVJVkM1WkxRRkFiazRDUXZrZE1YWUhDWVlzNFB4eXo2TFN5Xy1BU3RPMXpwemZ3cW9ValpycjRwUlE3LTI5MmR4ZnozLTlHN0lISHRLaHhVNjFVMVViNlNXWm9ydVBUdXVDaUlfdXRQanN4aFlDOU1QMGVPNmFmZWoyN1Uyb3Z6MDFZUHowYko4RW5tTmtSZ3lIX25OY0lWVUEtRkw2VG42djNaSnM5SEpDUEZkN3loNWxudVRqaC1uNzhhTElFM1Ytd2N5NHFhWnRwclVaMUNUMkhpbWViSW84UnBIQ1FTd3NIajVESVlSdGZJZWd2b0M1RXpkOF8z?oc=5",
@@ -22,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1779919952.0
-    },
-    {
-      "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUZtaThoZWw4cTI1VEh0YVpwSFJkVTJ2UVh5aDhJSlpEalV3aXdMd2M1ZFF0VV9QLWpIbUlraVREQzBjSHkxTTYyaTVqXzA5eV9WUnducHFSRk1DdE1zVFBXSFl1QmhPRDlUREQ2dkxSVlVuNGVmQVFQRUdIbXBRZ1ljM0ZweHZ6UVdFUGZoUDZXdzdzNlNn?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 27 May 2026 15:26:45 GMT",
-      "summary": "Visa, Mastercard envision agentic commerce benefits &nbsp;&nbsp; Payments Dive",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779895605.0
     },
     {
       "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
@@ -134,17 +145,6 @@
       "published_ts": 1778396400.0
     },
     {
-      "title": "Agentic Commerce: An Executive Guide to What's Happening and What to Do About It (2026) - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaYmhESjRFYmQwZTBGcjF2U1ZSM3lhQ2FQT2pRUVd6ZHhXWUphb21xRXlORHd5cG4wOGNJbEZBRHhBYXNBMGhRRDFmYTVMdkllanZPeWtUa0RpTEVsWkxoWXZvMlZTMmF1TG5mNkJqZHo3LVFvaXVBN2doQnA?oc=5",
-      "source": "Google News: headless commerce",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Agentic Commerce: An Executive Guide to What's Happening and What to Do About It (2026) &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1776927600.0
-    },
-    {
       "title": "American Express Debuts Agentic Commerce Experiences (ACE)™ Developer Kit and Announces Industry-First Protection for Registered Agent Purchases - American Express",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONlo4bWNNNTBVMG93djEwdjlYQU50TlFXQ0dmYXJJcFlNdHRfNWlIb2x6Rm5Da242cXVqYlNNUDQtTU5lMjh0WUVyMDViOXNMcmFsVEZyQ1Y0R09WQ0d0SXNNMHJOMEtGbzR2OEdxYjdDbGJQekNLVHRDOUNVSDFscU1uekxMaktrUE5KYm5XN05uSWJXVDkxdTBPTTBBMXRCRjlmTWZMbXRleUJfbmFaSjhZenN3eFBfWXNQRVRENFN2UGJrZ0RVSUdlUmxlbkJQM1E?oc=5",
       "source": "Google News: agentic commerce",
@@ -211,17 +211,6 @@
       "published_ts": 1767686400.0
     },
     {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
-    },
-    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -231,17 +220,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
-    },
-    {
-      "title": "How True Classic uses post-purchase experiences to increase revenue - MarTech",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWHBOZkJoc3lXNHBkbDlWdWJLdFppVVl4dndobms1QlJ5YWVjeENSTW5HalpDRFJ4QUFkZTM2Y0tHRUlsTWdNM2RvUFJ1a2xYNVg4MU5QZTJEMWE1eXFwQWdqVS1vUUF6ektZS0JTRW9tOURCVURiTVdybEdVYlBXYVN6bjYzdlh1WHA3RFVpS0FPQQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 23 Apr 2024 07:00:00 GMT",
-      "summary": "How True Classic uses post-purchase experiences to increase revenue &nbsp;&nbsp; MarTech",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1713855600.0
     },
     {
       "title": "Collision prompts OPP reminder: 'remain attentive' - Sarnia News Today",
@@ -255,15 +233,15 @@
       "published_ts": 1779909015.0
     },
     {
-      "title": "Superior of Spiritans in Ghana Urges “attentive listening” and Missionary Renewal in Pentecost 2026 Message - aciafrica.org",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdG4tZHQweFZmVzRfeURGLWZPU3Z2LUFvcGxDbHdqZlRadGtXMTl0SVhjZGU2eHZvdEdIbXJYbVZEa1h4UFhDcXp6aWpzeUNBMi1zWW9XbUtZUi1LRmlZQTZUSGplQkQ0WjNJdVVQclA2MXdyeU9BUHhudWFpNzBsel9feXpJcUlUWm1RQ09MdFdRV3U3dEF3UnVYWFRXRFcwcUtfUEhjQUc0eWs4eE1rLUxydE1GVGtqelN6Nm5uYnJtdGp6X3hSODJnOXdBVHVWUVUwaXcyVGdnUdIB3wFBVV95cUxPVEZBTDZUcWFrQmtEbXR4aF9zMEFTYzBReHdvM1RET0NPQkNOS3VlVHItbXFUUjZkSkdhdHdzX1pkSUx0VkJKbVJFTTBseml5Vmo5QWZDdXBHZXhwUkdNa2JiZzJuMExNSEd4M0ZBeURCZURlcEgtcnRWN21YcmFudk9INzVwNW1QRHFzcjVQZHk3YlJ0V1U2U2x4bGNRXzZpZUdudC01NDdpWW1NY0RvSUdBOW1TazJOUXlMb3lUU1NXUWd2UUl4NFcyRktlYlFIUy1SX2QwQTlfNmRsNnlB?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 27 May 2026 06:43:21 GMT",
-      "summary": "Superior of Spiritans in Ghana Urges “attentive listening” and Missionary Renewal in Pentecost 2026 Message &nbsp;&nbsp; aciafrica.org",
+      "title": "Klaviyo(KVYO) Stock Options Chain | Quotes & News - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRi1jUGxQN0xKOXY1RGREa0c0WnJoUGcxMThRVFhvZlJMcG81bWh2bU5nN0tTZUt3Y3ZKWmdLd0hHblkyLW1rZVBDMjZGdGpwUmxSZmdZOTVmbTlKY283RlJ6ZmNjOThGcERrTVUxSnhwQlQzMnZVckQ4N2hMMkdBUnVHUXF0SnlNU1F2QlBrN2c4ajZIQXlOdW1jMmk3dnUySkdxMHhoMThQN1oxSGJ4SnlYWGxDaDNVX21YZnhnY1JZVWxGSmN4MzI1akFmVUZoeE8wVFRIMlVPanlUT19VNDBtMHFiSE0zdW5pbnROMF9raW5DTWVIWUNDLTBQa0tCOFFOZFFVUzJpVXduQ1pheXhlSEQtczZJVHdQQ3l2S1YtWDlYRHFycWNB?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 27 May 2026 08:12:24 GMT",
+      "summary": "Klaviyo(KVYO) Stock Options Chain | Quotes & News &nbsp;&nbsp; Moomoo",
       "classification": "threat",
       "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1779864201.0
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1779869544.0
     },
     {
       "title": "IndyCar News: 2026 Indianapolis 500 Postscript - AutoRacing1.com",
@@ -286,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
       "published_ts": 1779567690.0
-    },
-    {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG5JMFhodnR4MlZINWh2Z0JmRHZOclBMdTRrbUJiWGFPNGhTTV9IZTdoUU92eGR1dldvTDBaYkVnQXYzU1ZpUjlCRExfdlBHcEFVMHlqeHc1VGF1RXJXQTAzUjdWWV9neXB6ZWwwODcxWnA3TXlBWTgxcDNmRVQ0YXhtX0VtQUpkeTF6TzdvbFl3akdmNFJXX25QTTNKWnpEY05VbGx3cHlYRVZlWVVRRm52a0M?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 21 May 2026 22:38:28 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1779403108.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -343,17 +310,6 @@
       "published_ts": 1777964400.0
     },
     {
-      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 01 May 2026 07:00:00 GMT",
-      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1777618800.0
-    },
-    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -387,6 +343,17 @@
       "published_ts": 1770710400.0
     },
     {
+      "title": "Attentive® Expands Patented Two-Tap™, Adds New Solutions for Omnichannel Visibility and Compliance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3ZNdjFzOWgwZlVtVmNDTm5wS2x1cXlNVHdCWjl2MzY4TFpDaE5idF94RUdFd1lrSm5tZk1SdklZMWp4QnY3eUU1d2Fnb1BEOElkNTFFWlI3ZXhEaFpxdXBFYndYdnJPbF9lWjNFejFfTlNSaGM4eVV3S1dMWEl6YmVQUVc4QUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "Attentive® Expands Patented Two-Tap™, Adds New Solutions for Omnichannel Visibility and Compliance &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1769673600.0
+    },
+    {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
       "source": "Google News: Omnisend",
@@ -418,6 +385,17 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
+    },
+    {
+      "title": "Intuit Mailchimp Revenue 2025: $180.1M ARR, $12B Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTRV9MdDJxTm83bld2RDZidlc5M0hlY180MHliQmhLdktfX1NaQTVITnRIZWJ0dGhQZ3FPYzQtNUpSaHRKc3pvbWxYNFQ4YWE1S0hyYlU0Yw?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Revenue 2025: $180.1M ARR, $12B Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + valuation",
+      "published_ts": 1766390400.0
     },
     {
       "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
@@ -565,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 288,
-    "kept": 51,
-    "opportunities": 22,
+    "kept": 49,
+    "opportunities": 20,
     "threats": 29,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.5
+    "runtime_seconds": 12.1
   }
 }
