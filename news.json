@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T00:01:59.810155+00:00",
+  "updated": "2026-05-29T05:04:57.059893+00:00",
   "items": [
     {
       "title": "Garnix (A Nix CI) is shutting down",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: shutting down",
       "published_ts": 1780011401.0
-    },
-    {
-      "title": "The agentic commerce readiness gap: Are you AI-ready? - Mirakl",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb05qRkVJbDdnVTRCQm9jYnVsdEtvdFRPZVRHNlM3dW5rTXE3amY2OWNGM2xkazRpLVNMb3VpdmNNVEJvQ0daOURyUC1GOUlveHhleXIxeVRpMU5YV3ZKMEd5TjU1MW5uLWh2WFNsMUZsSmlkeGNlODVjcHBXWW5raENDcVA1cWNPTXF1YmNNNmhoazZ5cE1Pdk14My1jR1dla2prUHVob2kxMDRHZ1VPZVJpbGc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 28 May 2026 18:16:29 GMT",
-      "summary": "The agentic commerce readiness gap: Are you AI-ready? &nbsp;&nbsp; Mirakl",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779992189.0
     },
     {
       "title": "Marketplace Briefing: Why Amazon is selling its AI-powered shopping tools to other retailers",
@@ -255,6 +244,17 @@
       "published_ts": 1713855600.0
     },
     {
+      "title": "Intuit Mailchimp Launches Analytics AI To Streamline Marketing Data - bandt.com.au",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFRncUM4LTRpT3k3bjIzRUY5am9TcFc1R0tGaEIzaENTNmozX3l5UEtVWExYUjlpMHRiY0dCM19jVXE4T00yaVpYbGxyREh5dWpoaU94eUlrRFB2VXhtZXNQSTB4VUJBLUppZ0ZVSkFZVVhOS25BeldVZE05U3JBeXlnallQLUlNc1JUSk02bEpuX2xGaURhbA?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 29 May 2026 02:23:12 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI To Streamline Marketing Data &nbsp;&nbsp; bandt.com.au",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1780021392.0
+    },
+    {
       "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnRkMXMwRkpRNWxacU1EOTBDNUlSV0IxSW5iZjQ1STFlci0tMDdSd3RTNi1VODRSeGlwR0dqV1R6a25sTWFtZkJLLWNaYl9HYmRVSUFGRkRkakJoc0NwNmNtOHBzaFVmbTVqMTI0ZkcxRlNjVnpJVldqWFloVHdWLXdXeWtIZlZ3TllmdFI2Nml6Snc2ZGFsZGRQTTYzaVZyZW9DQndIelgyb3Y2MmRRcnA0cUI?oc=5",
       "source": "Google News: Mailchimp",
@@ -310,17 +310,6 @@
       "published_ts": 1779973405.0
     },
     {
-      "title": "Collision prompts OPP reminder: 'remain attentive' - Sarnia News Today",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXk5RkdfUnhmMmlpX0JBSDVHZmlLU2hDU1ZUZjVUQTI3OWpBSE1nT3dmN0h3Z2xvQmlsU2wwUXREdEJ6d29zNHBRRFNqSmxpeF9vWmRGVWJfMXhzLU13ZHhoOXdyRWRrMmV4YXF4WUs1Y1ZtSHdrbHNWb01iaVpSVF9IUnVTTGx1dU02TGk5LWRkWTBDT1MyRDB0MFNnUQ?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 27 May 2026 19:10:15 GMT",
-      "summary": "Collision prompts OPP reminder: 'remain attentive' &nbsp;&nbsp; Sarnia News Today",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1779909015.0
-    },
-    {
       "title": "IndyCar News: 2026 Indianapolis 500 Postscript - AutoRacing1.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkd2YzlRdnRaRnp4dUtGXzZmSi1QbWhvTlZyM0VRVzJ6UkpXbXZhLTF5X3lyWERXXzlFV0ZuT0RnYzRGWGNXYUI0elRIczFZdWhnc1JMdlZMWkxRMi1keDhFX1VBTG1aLU9HVTNFeFcyc3RSTEpFUWhmV1YwekVqNFVmdFdfcG1ZSlpUTw?oc=5",
       "source": "Google News: Postscript",
@@ -341,28 +330,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
       "published_ts": 1779567690.0
-    },
-    {
-      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 20 May 2026 12:00:00 GMT",
-      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1779278400.0
-    },
-    {
-      "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Mon, 18 May 2026 08:41:23 GMT",
-      "summary": "Attentive - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1779093683.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -420,17 +387,6 @@
       "published_ts": 1777964400.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1776927600.0
-    },
-    {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzJpM2lKczF1elFhQ3liQXRTQjFqZ1p1OU5SLWl3Q19YXzZqYjlFZ3ZoS19CajUzMFM5dnN5OUVsc280TlEwbnZEN25waTl3clY1MnczSnhDeV90SDNPS0RMeXlzVnk3TDRkLUptc0FteGJTSHlzTmNHVk11STdsT1FDRlhJWlRsTjhTbkM5d1UyX0s4NUtjczhnRVFOYmdkbWpLd2FEMldZUFFS?oc=5",
       "source": "Google News: Narvar",
@@ -473,6 +429,17 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
+    },
+    {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
@@ -609,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 55,
-    "opportunities": 23,
-    "threats": 32,
+    "kept": 52,
+    "opportunities": 22,
+    "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.8
+    "runtime_seconds": 11.6
   }
 }
