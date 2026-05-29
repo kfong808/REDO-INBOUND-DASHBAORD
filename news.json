@@ -1,6 +1,17 @@
 {
-  "updated": "2026-05-28T22:26:16.674940+00:00",
+  "updated": "2026-05-29T00:01:59.810155+00:00",
   "items": [
+    {
+      "title": "Garnix (A Nix CI) is shutting down",
+      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "source": "Hacker News",
+      "published": "Thu, 28 May 2026 23:36:41 +0000",
+      "summary": "Comments",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: shutting down",
+      "published_ts": 1780011401.0
+    },
     {
       "title": "The agentic commerce readiness gap: Are you AI-ready? - Mirakl",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb05qRkVJbDdnVTRCQm9jYnVsdEtvdFRPZVRHNlM3dW5rTXE3amY2OWNGM2xkazRpLVNMb3VpdmNNVEJvQ0daOURyUC1GOUlveHhleXIxeVRpMU5YV3ZKMEd5TjU1MW5uLWh2WFNsMUZsSmlkeGNlODVjcHBXWW5raENDcVA1cWNPTXF1YmNNNmhoazZ5cE1Pdk14My1jR1dla2prUHVob2kxMDRHZ1VPZVJpbGc?oc=5",
@@ -134,17 +145,6 @@
       "published_ts": 1779282000.0
     },
     {
-      "title": "AI Shopping Agents Put New Pressure on Payments Companies - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUkxbHlBSE1XVnM0b2tCazBuN0h6YjVSQ3VtSWpqVDA2T2xQNm12ZlZGS0dtSnJET0F4OENZdWtHWDBwamZnVF9QME9qT2RhQS0tb3g5U1hMRzJ3Ni1UUnU0UnhiVTlUN3FKWnQ0S0dpbG1kWE1CNV85WS1yVVdXcW93XzU5YUM4dTdxY1R6YnF5UkdIeXctNFNFMG5EbXJWaDZQTVM3VmdXNWlmYi05Wkt3?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Put New Pressure on Payments Companies &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778742000.0
-    },
-    {
       "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -165,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1778396400.0
-    },
-    {
-      "title": "Meta readies AI shopping agents for Instagram to rival TikTok Shop - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0tjZmxLbDJiUXJqbVNVVmRYdzBuS2U4UTNvQ0xRdjVEdEVTMjI4YS10T1ppZlJQQTNxM0NNTmxNVEQxd1N2TXdEUGhyc1RIVFhjdjB2VGQyS3dvSkRfS25wcnp5WlljQmE5bW5nZzI2enhHRzk5V0JDOTVGOFJiUE43dkRvNHJ6Y0V5M2FQbmcwVG9qYTdnZQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "summary": "Meta readies AI shopping agents for Instagram to rival TikTok Shop &nbsp;&nbsp; eMarketer",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778050800.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -220,6 +209,28 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1767686400.0
+    },
+    {
+      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1764316800.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -310,17 +321,6 @@
       "published_ts": 1779909015.0
     },
     {
-      "title": "Superior of Spiritans in Ghana Urges “attentive listening” and Missionary Renewal in Pentecost 2026 Message - aciafrica.org",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEZBTDZUcWFrQmtEbXR4aF9zMEFTYzBReHdvM1RET0NPQkNOS3VlVHItbXFUUjZkSkdhdHdzX1pkSUx0VkJKbVJFTTBseml5Vmo5QWZDdXBHZXhwUkdNa2JiZzJuMExNSEd4M0ZBeURCZURlcEgtcnRWN21YcmFudk9INzVwNW1QRHFzcjVQZHk3YlJ0V1U2U2x4bGNRXzZpZUdudC01NDdpWW1NY0RvSUdBOW1TazJOUXlMb3lUU1NXUWd2UUl4NFcyRktlYlFIUy1SX2QwQTlfNmRsNnlB0gHfAUFVX3lxTE9URkFMNlRxYWtCa0RtdHhoX3MwQVNjMFF4d28zVERPQ09CQ05LdWVUci1tcVRSNmRKR2F0d3NfWmRJTHRWQkptUkVNMGx6aXlWajlBZkN1cEdleHBSR01rYmJnMm4wTE1IR3gzRkF5REJlRGVwSC1ydFY3bVhyYW52T0g3NXA1bVBEcXNyNVBkeTdiUnRXVTZTbHhsY1FfNmllR250LTU0N2lZbU1jRG9JR0E5bVNrMk5ReUxveVRTU1dRZ3ZRSXg0VzJGS2ViUUhTLVJfZDBBOV82ZGw2eUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 27 May 2026 06:43:54 GMT",
-      "summary": "Superior of Spiritans in Ghana Urges “attentive listening” and Missionary Renewal in Pentecost 2026 Message &nbsp;&nbsp; aciafrica.org",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1779864234.0
-    },
-    {
       "title": "IndyCar News: 2026 Indianapolis 500 Postscript - AutoRacing1.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkd2YzlRdnRaRnp4dUtGXzZmSi1QbWhvTlZyM0VRVzJ6UkpXbXZhLTF5X3lyWERXXzlFV0ZuT0RnYzRGWGNXYUI0elRIczFZdWhnc1JMdlZMWkxRMi1keDhFX1VBTG1aLU9HVTNFeFcyc3RSTEpFUWhmV1YwekVqNFVmdFdfcG1ZSlpUTw?oc=5",
       "source": "Google News: Postscript",
@@ -341,6 +341,17 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
       "published_ts": 1779567690.0
+    },
+    {
+      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 20 May 2026 12:00:00 GMT",
+      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1779278400.0
     },
     {
       "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -374,6 +385,17 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1778763600.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 13:37:02 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778593022.0
     },
     {
       "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
@@ -586,11 +608,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 279,
-    "kept": 53,
-    "opportunities": 22,
-    "threats": 31,
+    "total_fetched": 289,
+    "kept": 55,
+    "opportunities": 23,
+    "threats": 32,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.5
+    "runtime_seconds": 13.8
   }
 }
