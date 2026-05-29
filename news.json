@@ -1,6 +1,17 @@
 {
-  "updated": "2026-05-29T16:35:12.155922+00:00",
+  "updated": "2026-05-29T19:26:33.190723+00:00",
   "items": [
+    {
+      "title": "The Trust Gap Holding Agentic Commerce Back - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFZoUUN3Nnd0NzB5dlB4YUtPOGRyN09kTy05T0JQcnUxNmdWZ0ZhNkdYWjFvU0ZhNnhpYjFRTllGY0pVcC1RMTBwVlFMMlNyZnRTVm03M29PbFBzb3JDcVVyVFNZV1lwVVRoZk5fUGg1Z01QbHhMV3FmWnI1ZVBNTFJLai1FMjJwT2RCQmprdUNPTHo1N2hNTU9uc19hQQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 29 May 2026 17:04:16 GMT",
+      "summary": "The Trust Gap Holding Agentic Commerce Back &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780074256.0
+    },
     {
       "title": "AI Shopping Assistants Automate Entire Purchase Process - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3ItWVU1S1J2X0J0aWE1eHRNeXk2Ym1uZ0ZMbVRRSFB2S3d3dDJZS1luS2N6WUlQTHMycUxFeGZwbVFjM1RKYloxb1ZvcHdnNzBTMW9veWhueUNGOEd5VlpmTzVRc1Z3LV85ZmVfbF85MEhmM1lxZFNtWU0zLUdpS19hVmFBNllF?oc=5",
@@ -77,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1779927235.0
-    },
-    {
-      "title": "Highnote Teams Up with Visa to Launch Agentic Commerce Capabilities - Finovate",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXF1a1RJZkhTamFtOUdjWmJsZjhtazFlUjlfSnZVTERxQ2dSUjJjWGcyWGZoanRocE5zNzVZVVdxUGhqTUVCS2s3aDlWTkpZcEY2U0dJMF9zYTNfYXN6OVp1Znh6dm1WQUFSV3FZYW0xU0x5ZW9jbF9iN0psVS1sOWtuY2V2M3d5ZmNJY1dqUUFidzg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 27 May 2026 22:12:32 GMT",
-      "summary": "Highnote Teams Up with Visa to Launch Agentic Commerce Capabilities &nbsp;&nbsp; Finovate",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779919952.0
     },
     {
       "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
@@ -170,12 +170,12 @@
       "title": "Agentic commerce: The rise of the delegated buyer - Bessemer Venture Partners",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkb2JYWTdoU1EwUF9VNUozTlpkVFRWMU5GZmhEcWwwc1ZBWnlWX1I5bDBJUW9nSEpUa3FqVDQxVVNFSkxZanVTYy1SMGhpZkxNZ2dxVml2a29Cd2IzZHZma2ltNUoxOGZvZ1J4eUlrWF81ZTJZRG1RbF9zdWJwVkU?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 21 May 2026 03:01:45 GMT",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
       "summary": "Agentic commerce: The rise of the delegated buyer &nbsp;&nbsp; Bessemer Venture Partners",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779332505.0
+      "published_ts": 1779260400.0
     },
     {
       "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
@@ -244,6 +244,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "How Klaviyo Inc. Series A (KVYO) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmdQSFFKbnZ3cUZCLXgxVk9YRHY3Y3lmaUFWYm9RZlpqLUdvSGVzMV8yTEk0VTlOUTNVakZQOGM5M3NCY0FYWE50QlFCd1NRSzdVUlBtdnMwbDNITklHU0t2R3FMamRteTdKWG95b21rd0VsT0xWOFBTbzdaZzFHc1VUalhJTEtBV0g3X0ctZW9GSEdzSVlVb1l0bmt1dWdBZlY4cG5TelBVU0Z1R0xCNXdVMnlxeXoxaTJOZGNqYm52MUZOQXZtZnM2UFhYNEtZRElKZHlSVXlGTlpoaUE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 29 May 2026 13:20:02 GMT",
+      "summary": "How Klaviyo Inc. Series A (KVYO) Affects Rotational Strategy Timing &nbsp;&nbsp; Stock Traders Daily",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + series a",
+      "published_ts": 1780060802.0
+    },
+    {
       "title": "Mailchimp launches Analytics AI & expands integrations - CFOtech Australia",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFBlY0ZndUlyaEEzdVo2WURhME1QaWkyZ0Y0VmN1RVY3eXI1dTE2UVZJYnpxZ3NSZkJfU29uZnFvUHV5RTExOFVubmxXcnJBMkxtYTFtb0VJOVVDbkhjZnhrSkxNNEFZX2xuZTU5RFFhNGQyQWJ2TnZ4Zy1xckVfRXR3cDNDNTV0?oc=5",
       "source": "Google News: Mailchimp",
@@ -266,26 +277,15 @@
       "published_ts": 1780047993.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics AI To Streamline Marketing Data - bandt.com.au",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFRncUM4LTRpT3k3bjIzRUY5am9TcFc1R0tGaEIzaENTNmozX3l5UEtVWExYUjlpMHRiY0dCM19jVXE4T00yaVpYbGxyREh5dWpoaU94eUlrRFB2VXhtZXNQSTB4VUJBLUppZ0ZVSkFZVVhOS25BeldVZE05U3JBeXlnallQLUlNc1JUSk02bEpuX2xGaURhbA?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 29 May 2026 02:23:12 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI To Streamline Marketing Data &nbsp;&nbsp; bandt.com.au",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1780021392.0
-    },
-    {
       "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnRkMXMwRkpRNWxacU1EOTBDNUlSV0IxSW5iZjQ1STFlci0tMDdSd3RTNi1VODRSeGlwR0dqV1R6a25sTWFtZkJLLWNaYl9HYmRVSUFGRkRkakJoc0NwNmNtOHBzaFVmbTVqMTI0ZkcxRlNjVnpJVldqWFloVHdWLXdXeWtIZlZ3TllmdFI2Nml6Snc2ZGFsZGRQTTYzaVZyZW9DQndIelgyb3Y2MmRRcnA0cUI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 15:59:05 GMT",
+      "published": "Thu, 28 May 2026 21:31:32 GMT",
       "summary": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing &nbsp;&nbsp; GuruFocus",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
-      "published_ts": 1779983945.0
+      "published_ts": 1780003892.0
     },
     {
       "title": "Intuit Launches Conversational Analytics Agent, AI Segment Builder in Mailchimp - Moomoo",
@@ -343,17 +343,6 @@
       "published_ts": 1779606596.0
     },
     {
-      "title": "A Look At Klaviyo (KVYO) Valuation After Guidance Raise And CFO Transition News - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1pKT01iU1Y5SElTUWF6VHEybHBxWUpUdDJZRFhCTFNDVGd2a290cS1zY0VsT090ZXRMUEt4Vzl1VVBjUE1SNkJEQkNaTFBuTFEwTlp0WFJGVnlBOWxEamJkSno4cnJsZHAzU0tBbnNSb2R4a2RWYks2d3EtQnM2ajk0NlVSVk5qRVVkajNxZjYyYXA0LUxoTS1EMDJ2U29LZExFU3RIcVVkLU95dmM5RU5SUTFGWkstRmFJYkFhcDFRUdIBxwFBVV95cUxQN0pvWElJSUpuVW1IZUtBZHpHMXhyRTZrbmZMc1JlOENPc1F3d2MzcmxiZi1LTTlTVVM5U05GZGdNaEtEREQtUE9pTFkyR0dSdWdSdC1ZSGZQdXhBOXVMOGxfVV9VXzZXZkV3eGxPamM5TDQ5Rl80RGY3WDNiQV90eW56Z3d6X2dnQ1RuYkxUZng4UGxsSGM2UlhYN0tZOWxPbDdKSmR2bUI2MXhNQkRvZE1Xa1dUOEt6WWExTFhzX1hFRjZ6MmNj?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sat, 23 May 2026 20:21:30 GMT",
-      "summary": "A Look At Klaviyo (KVYO) Valuation After Guidance Raise And CFO Transition News &nbsp;&nbsp; simplywall.st",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1779567690.0
-    },
-    {
       "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
       "source": "Google News: Attentive",
@@ -407,17 +396,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778590800.0
-    },
-    {
-      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1777964400.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -608,11 +586,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 278,
-    "kept": 55,
+    "total_fetched": 288,
+    "kept": 53,
     "opportunities": 22,
-    "threats": 33,
+    "threats": 31,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.4
+    "runtime_seconds": 11.3
   }
 }
