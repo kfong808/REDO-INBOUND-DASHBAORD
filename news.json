@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T22:46:48.886393+00:00",
+  "updated": "2026-05-30T23:51:59.390466+00:00",
   "items": [
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
@@ -156,6 +156,17 @@
       "published_ts": 1779260400.0
     },
     {
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUFzVVZUNU5abzBrOURIY3pRNTd5b05JT295TmZJeDQ5eW9lU1YzcHV0V3BsUG9Fc1ZfOUt2cXBDQXlyVVl3WndJQVVwRW1paDN4WVNPNDNGbWpkR3RVajhIcURleF8yM21sOHl0VnNtRlk0ZGpmWWlEU1BhVzh5QzFlN2F2eDBtcFBzYTdGTGt4TjhFUHcwakNRU3Z0dnlydDJWNVVOVnpDQQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1779260400.0
+    },
+    {
       "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -176,17 +187,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1773730800.0
-    },
-    {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1772611200.0
     },
     {
       "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
@@ -266,17 +266,6 @@
       "published_ts": 1780047993.0
     },
     {
-      "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 21:31:32 GMT",
-      "summary": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing &nbsp;&nbsp; GuruFocus",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1780003892.0
-    },
-    {
       "title": "Intuit Launches Conversational Analytics Agent, AI Segment Builder in Mailchimp - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVNUI4TV93RWN3RnRGN3ZuSGhqTTlYMjVHTDNici1HS1h2Y3JDU3R2X3dpQktzTlpBNWRiZDVOeFFlTWVGelhkS3NJNmFVd09KdVdKTDJ4RnpXclE3UjhRMFp3NEtEWHRsX05jVmJ6ckhjVmdQQTFnb1VqR0RVZ3ZnUTRZVFRpVEhPeklieWo1RDc0UzM1LTBsNFRjRWtlWTk4MFpaQXBpS3JYVDVqRlRTdzVuNG1HNEhfRQ?oc=5",
       "source": "Google News: Mailchimp",
@@ -299,15 +288,15 @@
       "published_ts": 1779977169.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 13:04:17 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
+      "published": "Thu, 28 May 2026 13:00:00 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
-      "published_ts": 1779973457.0
+      "published_ts": 1779973200.0
     },
     {
       "title": "Collision prompts OPP reminder: 'remain attentive' - Sarnia News Today",
@@ -387,28 +376,6 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1777964400.0
-    },
-    {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1776927600.0
-    },
-    {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzJpM2lKczF1elFhQ3liQXRTQjFqZ1p1OU5SLWl3Q19YXzZqYjlFZ3ZoS19CajUzMFM5dnN5OUVsc280TlEwbnZEN25waTl3clY1MnczSnhDeV90SDNPS0RMeXlzVnk3TDRkLUptc0FteGJTSHlzTmNHVk11STdsT1FDRlhJWlRsTjhTbkM5d1UyX0s4NUtjczhnRVFOYmdkbWpLd2FEMldZUFFS?oc=5",
       "source": "Google News: Narvar",
@@ -418,6 +385,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
+    },
+    {
+      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1770710400.0
     },
     {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
@@ -497,17 +475,6 @@
       "published_ts": 1754377200.0
     },
     {
-      "title": "ShipStation launches new features to support fulfilment operations - - Enterprise Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFpCY3NpYzJ0OEwwNnVhLUFXZzJwbS1WRXJIYnBlbVdRUlNrc2syNWN0T0lJOGVPckhXbXduZDVINHpRemVJNy1yNktSRVFjdFRNRi1RTXlWWFdIUXBQa3lydmU0MS1JaGVxenFkVXd2RWRhU1VGRG8zOE9GdVJCdlpSY3ZvbDQyM3ZueDNqNFdtRDRpN2ZLbWZpdzN2V1ltbk9Da2s3cjcweGVkV2R2NzRB?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Fri, 11 Jul 2025 07:00:00 GMT",
-      "summary": "ShipStation launches new features to support fulfilment operations - &nbsp;&nbsp; Enterprise Times",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1752217200.0
-    },
-    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -572,14 +539,25 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 287,
-    "kept": 52,
+    "kept": 50,
     "opportunities": 21,
-    "threats": 31,
+    "threats": 29,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.3
+    "runtime_seconds": 11.5
   }
 }
