@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T20:43:21.318755+00:00",
+  "updated": "2026-05-30T21:50:47.204067+00:00",
   "items": [
     {
       "title": "Shopify merchants may want to review their /agents.md and robots.txt files",
@@ -387,6 +387,17 @@
       "published_ts": 1778590800.0
     },
     {
+      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1777964400.0
+    },
+    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -565,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 287,
-    "kept": 51,
+    "kept": 52,
     "opportunities": 22,
-    "threats": 29,
+    "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.6
+    "runtime_seconds": 13.0
   }
 }
