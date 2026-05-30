@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T06:14:10.322320+00:00",
+  "updated": "2026-05-30T09:08:58.666357+00:00",
   "items": [
     {
       "title": "AI Shopping Agents Automate Purchases, Ushering Zero-Click E-Commerce Era - 조선일보",
@@ -77,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1779940383.0
-    },
-    {
-      "title": "75% of Americans say they would trust AI shopping recommendations less if results were sponsored — which means OpenAI just made a decision that could structurally damage the thing that makes it valuable - Space Daily",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQN2JZWTY1bWprVEZRM2ZuaUZtNDVrSGdaWGxBNFpySWx1bWZJMXFVUnoycWdBeVR1cktmUnZESFh2OTFVYUVJVkM1WkxRRkFiazRDUXZrZE1YWUhDWVlzNFB4eXo2TFN5Xy1BU3RPMXpwemZ3cW9ValpycjRwUlE3LTI5MmR4ZnozLTlHN0lISHRLaHhVNjFVMVViNlNXWm9ydVBUdXVDaUlfdXRQanN4aFlDOU1QMGVPNmFmZWoyN1Uyb3Z6MDFZUHowYko4RW5tTmtSZ3lIX25OY0lWVUEtRkw2VG42djNaSnM5SEpDUEZkN3loNWxudVRqaC1uNzhhTElFM1Ytd2N5NHFhWnRwclVaMUNUMkhpbWViSW84UnBIQ1FTd3NIajVESVlSdGZJZWd2b0M1RXpkOF8z?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 28 May 2026 00:13:55 GMT",
-      "summary": "75% of Americans say they would trust AI shopping recommendations less if results were sponsored — which means OpenAI just made a decision that could structurally damage the thing that makes it valuable &nbsp;&nbsp; Space Daily",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1779927235.0
     },
     {
       "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
@@ -233,6 +222,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1764316800.0
+    },
+    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -266,17 +266,6 @@
       "published_ts": 1780060802.0
     },
     {
-      "title": "Mailchimp launches Analytics AI & expands integrations - CFOtech Australia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFBlY0ZndUlyaEEzdVo2WURhME1QaWkyZ0Y0VmN1RVY3eXI1dTE2UVZJYnpxZ3NSZkJfU29uZnFvUHV5RTExOFVubmxXcnJBMkxtYTFtb0VJOVVDbkhjZnhrSkxNNEFZX2xuZTU5RFFhNGQyQWJ2TnZ4Zy1xckVfRXR3cDNDNTV0?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 29 May 2026 12:00:00 GMT",
-      "summary": "Mailchimp launches Analytics AI & expands integrations &nbsp;&nbsp; CFOtech Australia",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1780056000.0
-    },
-    {
       "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
       "source": "Google News: Klaviyo",
@@ -286,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
       "published_ts": 1780047993.0
+    },
+    {
+      "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 21:31:32 GMT",
+      "summary": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing &nbsp;&nbsp; GuruFocus",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1780003892.0
     },
     {
       "title": "Intuit Launches Conversational Analytics Agent, AI Segment Builder in Mailchimp - Moomoo",
@@ -299,17 +299,6 @@
       "published_ts": 1779978983.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics Ai and Expanded Data Integrations - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaERabDVLTDNlaVJJdll4alNqc0tfbTV3NUIyU29QcHl5NEYyYmNzRGZXNi1QU0dWYnhVRFJDSEZqdjI1XzFxOU43MUExLWp1NTd5ZnJINi1STjRfUE1aX2RMdUFMQzZ4SGtZTEJrbGMxTkljbmxiMGZtWmo2UE14dnlZUno5NnhFZTg0S3NWTDYwTTNGeXNBX2VQX3ZWa1JfUTUtSDNMRWpmVVlnNnBJOFJ3b3VrTzk0NW44dldQOA?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 14:06:09 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics Ai and Expanded Data Integrations &nbsp;&nbsp; marketscreener.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1779977169.0
-    },
-    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
@@ -319,17 +308,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779973457.0
-    },
-    {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Bluefield Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQnBnTExob2o0SHFmZTRvY1lPYmFybXFRN0xwZDJLdFRnVmV2S1I3cEdmVnlSbG1yQmRRX2QxeHR3OWZ1ZTBoaS1hZ2JVYTljREFOd2RoTmltSFBPMWM0Ym1vQmFxeDZjb0NKb3FCQjF2YVk4WFpJeW10NVlOUVF1NnBNeHh0b2ExbE94WlpRVDBGaS1VVU91bkdrYjBtYVNfNlc4dFRVek9rSEVoc3VjTnNDVVRFWi1hZEVIQkpTZFFvTVJRSDY1ZVdZbVpWS2ZzTWJzQTlSZDJpQ3pFUUMydEp5eVI5YjJwR3dpTnNMb1B6NWs2NjdPMnc3S0pXSEh4b0pSeEowekx6VE9jcGxNZzlDTGFrbjRPaHhIMEl0blVpR3ljQXpwN19hd1JzaXM?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 13:03:25 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Bluefield Daily Telegraph",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1779973405.0
     },
     {
       "title": "Collision prompts OPP reminder: 'remain attentive' - Sarnia News Today",
@@ -418,6 +396,17 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
       "published_ts": 1777964400.0
+    },
+    {
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -583,25 +572,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
-    "total_fetched": 288,
-    "kept": 54,
+    "total_fetched": 289,
+    "kept": 52,
     "opportunities": 22,
-    "threats": 32,
+    "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 13.1
   }
 }
