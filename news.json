@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T23:02:58.682856+00:00",
+  "updated": "2026-05-30T02:02:42.244781+00:00",
   "items": [
     {
       "title": "AI Shopping Agents Automate Purchases, Ushering Zero-Click E-Commerce Era - 조선일보",
@@ -299,26 +299,15 @@
       "published_ts": 1780047993.0
     },
     {
-      "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 21:31:32 GMT",
-      "summary": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing &nbsp;&nbsp; GuruFocus",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1780003892.0
-    },
-    {
       "title": "Intuit Launches Conversational Analytics Agent, AI Segment Builder in Mailchimp - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNd2stN01vSERRWENuNS15aElWR2hVVmZqUzFHaHExY0ZjMVBXSDFyZzB5cmN1ZW9yMXlSckQ3cngzUFRZaEU4d2JYeGhPYlpib3ljNmJqSlFXT3RzVmlDNXlFVVpmaTI5ZEk5cEZ5dHpRbFJYM25MWW9jYUYyZ3dBU3VxNTN3V0c0MWR3TFEtTGNxNVF5XzBLclFjMVZpMnNlYkNKMEd0Q2tnbnc1SXZBSkFvbUpTMktfWFZYZ3lteDVpTWRzd2tnbHNidGlsLVpGN2xMV1BuaDYxR2k3RWZIS0ZBbGFJZkpzM09kTVRXbzNCNFdWZFUxeEo2YzRTWFlSdDhxXzZrdmxFX0FtYVhyMVYzanQ1WVRlaFVwZnFGWWJXNUpQdjd6QnFlell4ZU9TUEl0Qzc3ZXo2aTcyVnA5VkpEZ3VGVEhlLXFQSEt0SzVacTFQdFhCVVRTaDJORDZLRnEwZkFNYlRjNjJTUWo1d0R2bUpPZ2pvWEVpb0lpLWVPdkM3X3d0RmdGRFc2ZTZwNjZ3TUliYlMwazhYanRhaXg3TU1ia3lsYTFPaDlhdFdEWWhpOGN3dmFXTUdvdjdfeWN2bVhDRXdQOE1LaGNqTDlKZ084X04tOGdwajhNVVJnbmJHb3gzTXRtcnNtR09ySjA1SXVrYlFscjFndWhNNjRrU2w2WTJmRVRhQzkxTkYtXzdKN2k3Qjc0d2FGVkV0QjRnWDhHTFJfemwwMk5URXNQUmdaR3AtSVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVNUI4TV93RWN3RnRGN3ZuSGhqTTlYMjVHTDNici1HS1h2Y3JDU3R2X3dpQktzTlpBNWRiZDVOeFFlTWVGelhkS3NJNmFVd09KdVdKTDJ4RnpXclE3UjhRMFp3NEtEWHRsX05jVmJ6ckhjVmdQQTFnb1VqR0RVZ3ZnUTRZVFRpVEhPeklieWo1RDc0UzM1LTBsNFRjRWtlWTk4MFpaQXBpS3JYVDVqRlRTdzVuNG1HNEhfRQ?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 14:33:23 GMT",
+      "published": "Thu, 28 May 2026 14:36:23 GMT",
       "summary": "Intuit Launches Conversational Analytics Agent, AI Segment Builder in Mailchimp &nbsp;&nbsp; Moomoo",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
-      "published_ts": 1779978803.0
+      "published_ts": 1779978983.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -407,17 +396,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778590800.0
-    },
-    {
-      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1777964400.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -609,10 +587,10 @@
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 55,
+    "kept": 53,
     "opportunities": 23,
-    "threats": 32,
+    "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.7
+    "runtime_seconds": 129.7
   }
 }
