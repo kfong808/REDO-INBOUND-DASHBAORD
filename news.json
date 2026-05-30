@@ -1,17 +1,6 @@
 {
-  "updated": "2026-05-30T21:50:47.204067+00:00",
+  "updated": "2026-05-30T22:46:48.886393+00:00",
   "items": [
-    {
-      "title": "Shopify merchants may want to review their /agents.md and robots.txt files",
-      "url": "https://www.reddit.com/r/shopify/comments/1ts7sq3/shopify_merchants_may_want_to_review_their/",
-      "source": "r/shopify",
-      "published": "2026-05-30T18:39:09+00:00",
-      "summary": "I’ve been digging into the new AI/agentic commerce stuff on Shopify, and I think more store owners should probably look at the files Shopify is generating by default. I created my own agents.md.liquid so I could take more control over how AI agents understand my store, my product data, my checkout flow, and my support policies. While doing that, I noticed some of the default language seemed to push agents toward the Shop App / Shop skill pretty heavily. To be clear, I’m not saying to break the S",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780166349.0
-    },
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklaX2JPVllxamZoeGtlaXZhd2VmQmowLTlEX09nVWwwRWNxLXF5ZzJXeS1ObnFURzNMRUYtYU5qc21tMVNST0ctcEE2d1FlVm04VTlMblZsdlRaT2wtSDc3T19JREs3NFd2a3FhTmFOeUk4d0NBdFVRd1FCc2hSR2czMmc?oc=5",
@@ -189,6 +178,17 @@
       "published_ts": 1773730800.0
     },
     {
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1772611200.0
+    },
+    {
       "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -231,17 +231,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
-    },
-    {
-      "title": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant - Press Release Hub",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHczTTFKYi1CZTlPNEpKWnpmQ3J0QzY2TngxcWp1R3RpS1ZLQnZEdk5PSmVoU3V3a0UybklnTUNVa3NPRWRKMHdZSWtibTEySWRsQUs4WlltWEc1N20wcFZ2ZWlocWM3aFpyOVpKRGhBZVc5QXMySnZVbkZxR21wbXdTOWgzVGFOUlVzbXAxWjVDRGp0bHBiS0ZOUVh6cDd0U1VlekZnYWZpc2hFRTJUS01uSktSenVUaWVfcmRn?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "summary": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant &nbsp;&nbsp; Press Release Hub",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718002800.0
     },
     {
       "title": "KVYO Pops As Klaviyo Raises Outlook And Deepens Anthropic AI Ties - timothysykes.com",
@@ -297,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779978983.0
+    },
+    {
+      "title": "Intuit Mailchimp Launches Analytics Ai and Expanded Data Integrations - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaERabDVLTDNlaVJJdll4alNqc0tfbTV3NUIyU29QcHl5NEYyYmNzRGZXNi1QU0dWYnhVRFJDSEZqdjI1XzFxOU43MUExLWp1NTd5ZnJINi1STjRfUE1aX2RMdUFMQzZ4SGtZTEJrbGMxTkljbmxiMGZtWmo2UE14dnlZUno5NnhFZTg0S3NWTDYwTTNGeXNBX2VQX3ZWa1JfUTUtSDNMRWpmVVlnNnBJOFJ3b3VrTzk0NW44dldQOA?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 14:06:09 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics Ai and Expanded Data Integrations &nbsp;&nbsp; marketscreener.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1779977169.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -379,12 +379,12 @@
       "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEc4Y2JSMF9qU2ZaaXpmWjBqeHNVeFQxcDRSMzN6SG5rSWEzVDcwLThLQzFXLUNjc3E5VkV1U2J0d2hscFhnZGk5b204X3FlNmVaZFJjQVFxMjhTTWo0aUJDMHpZc3RxYS1IMl9XV29tZ2VvZ2V3UDJhNEZudkpraTdsNmt5SzdHRWp6OGR5ZWEzcjhVbVRyWHdNVnBOcHotUzVPVGgtZk02U2dkM2RVLXI2eGZScWVRS004?oc=5",
       "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 13:00:00 GMT",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
-      "published_ts": 1778590800.0
+      "published_ts": 1778569200.0
     },
     {
       "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
@@ -577,9 +577,9 @@
   "stats": {
     "total_fetched": 287,
     "kept": 52,
-    "opportunities": 22,
-    "threats": 30,
+    "opportunities": 21,
+    "threats": 31,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.0
+    "runtime_seconds": 13.3
   }
 }
