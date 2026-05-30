@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T14:11:46.051858+00:00",
+  "generated": "2026-05-30T12:06:44.835928+00:00",
   "recommendations": [],
   "status": "no_recommendations",
   "reason": "ANTHROPIC_API_KEY is not set. Add it to GitHub Secrets to enable AI-generated recommendations. See the README for instructions."
