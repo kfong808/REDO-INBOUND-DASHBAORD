@@ -1,6 +1,17 @@
 {
-  "updated": "2026-05-30T17:56:46.374150+00:00",
+  "updated": "2026-05-30T19:03:46.375230+00:00",
   "items": [
+    {
+      "title": "Shopify merchants may want to review their /agents.md and robots.txt files",
+      "url": "https://www.reddit.com/r/shopify/comments/1ts7sq3/shopify_merchants_may_want_to_review_their/",
+      "source": "r/shopify",
+      "published": "2026-05-30T18:39:09+00:00",
+      "summary": "I’ve been digging into the new AI/agentic commerce stuff on Shopify, and I think more store owners should probably look at the files Shopify is generating by default. I created my own agents.md.liquid so I could take more control over how AI agents understand my store, my product data, my checkout flow, and my support policies. While doing that, I noticed some of the default language seemed to push agents toward the Shop App / Shop skill pretty heavily. To be clear, I’m not saying to break the S",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780166349.0
+    },
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklaX2JPVllxamZoeGtlaXZhd2VmQmowLTlEX09nVWwwRWNxLXF5ZzJXeS1ObnFURzNMRUYtYU5qc21tMVNST0ctcEE2d1FlVm04VTlMblZsdlRaT2wtSDc3T19JREs3NFd2a3FhTmFOeUk4d0NBdFVRd1FCc2hSR2czMmc?oc=5",
@@ -90,11 +101,11 @@
       "published_ts": 1779887401.0
     },
     {
-      "title": "The agentic commerce readiness gap: Are you AI-ready? - Mirakl",
+      "title": "The agentic commerce readiness gap: Are you AI-ready? - mirakl.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb05qRkVJbDdnVTRCQm9jYnVsdEtvdFRPZVRHNlM3dW5rTXE3amY2OWNGM2xkazRpLVNMb3VpdmNNVEJvQ0daOURyUC1GOUlveHhleXIxeVRpMU5YV3ZKMEd5TjU1MW5uLWh2WFNsMUZsSmlkeGNlODVjcHBXWW5raENDcVA1cWNPTXF1YmNNNmhoazZ5cE1Pdk14My1jR1dla2prUHVob2kxMDRHZ1VPZVJpbGc?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "The agentic commerce readiness gap: Are you AI-ready? &nbsp;&nbsp; Mirakl",
+      "summary": "The agentic commerce readiness gap: Are you AI-ready? &nbsp;&nbsp; mirakl.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -244,17 +255,6 @@
       "published_ts": 1780060802.0
     },
     {
-      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 29 May 2026 09:46:33 GMT",
-      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1780047993.0
-    },
-    {
       "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
       "source": "Google News: Mailchimp",
@@ -357,12 +357,23 @@
       "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEc4Y2JSMF9qU2ZaaXpmWjBqeHNVeFQxcDRSMzN6SG5rSWEzVDcwLThLQzFXLUNjc3E5VkV1U2J0d2hscFhnZGk5b204X3FlNmVaZFJjQVFxMjhTTWo0aUJDMHpZc3RxYS1IMl9XV29tZ2VvZ2V3UDJhNEZudkpraTdsNmt5SzdHRWp6OGR5ZWEzcjhVbVRyWHdNVnBOcHotUzVPVGgtZk02U2dkM2RVLXI2eGZScWVRS004?oc=5",
       "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "published": "Tue, 12 May 2026 13:00:00 GMT",
       "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
+      "published_ts": 1778590800.0
+    },
+    {
+      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1777964400.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -531,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 278,
-    "kept": 48,
-    "opportunities": 20,
+    "total_fetched": 287,
+    "kept": 49,
+    "opportunities": 21,
     "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 15.7
+    "runtime_seconds": 12.8
   }
 }
