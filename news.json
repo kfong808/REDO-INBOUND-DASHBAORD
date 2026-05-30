@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T11:11:53.639343+00:00",
+  "updated": "2026-05-30T13:01:27.821713+00:00",
   "items": [
     {
       "title": "AI Shopping Agents Automate Purchases, Ushering Zero-Click E-Commerce Era - 조선일보",
@@ -66,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1779976800.0
-    },
-    {
-      "title": "redirect from llms.txt to agents.md is changing the entire shopify game",
-      "url": "https://www.reddit.com/r/shopify/comments/1tps9u7/redirect_from_llmstxt_to_agentsmd_is_changing_the/",
-      "source": "r/shopify",
-      "published": "2026-05-28T03:53:03+00:00",
-      "summary": "while optimizing the clients front store and code content using our own platform, we learnt about this new redirection, and tbh i deep down feel it sucks though there was hardly any proof that llms.txt and llms.full.txt helped you get cited by AI. the entire motive behind this redirection is to prepare the store owners for the agentic commerce. shopify built ucp in collaboration with a few software gaints, and the entire agents md is just the instruction for any llm to follow. our platform has i",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779940383.0
     },
     {
       "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
@@ -222,15 +211,15 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
+      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
+      "published_ts": 1767686400.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -299,6 +288,17 @@
       "published_ts": 1779978983.0
     },
     {
+      "title": "Intuit Mailchimp Launches Analytics Ai and Expanded Data Integrations - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaERabDVLTDNlaVJJdll4alNqc0tfbTV3NUIyU29QcHl5NEYyYmNzRGZXNi1QU0dWYnhVRFJDSEZqdjI1XzFxOU43MUExLWp1NTd5ZnJINi1STjRfUE1aX2RMdUFMQzZ4SGtZTEJrbGMxTkljbmxiMGZtWmo2UE14dnlZUno5NnhFZTg0S3NWTDYwTTNGeXNBX2VQX3ZWa1JfUTUtSDNMRWpmVVlnNnBJOFJ3b3VrTzk0NW44dldQOA?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 14:06:09 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics Ai and Expanded Data Integrations &nbsp;&nbsp; marketscreener.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1779977169.0
+    },
+    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
@@ -308,6 +308,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779973457.0
+    },
+    {
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Bluefield Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQnBnTExob2o0SHFmZTRvY1lPYmFybXFRN0xwZDJLdFRnVmV2S1I3cEdmVnlSbG1yQmRRX2QxeHR3OWZ1ZTBoaS1hZ2JVYTljREFOd2RoTmltSFBPMWM0Ym1vQmFxeDZjb0NKb3FCQjF2YVk4WFpJeW10NVlOUVF1NnBNeHh0b2ExbE94WlpRVDBGaS1VVU91bkdrYjBtYVNfNlc4dFRVek9rSEVoc3VjTnNDVVRFWi1hZEVIQkpTZFFvTVJRSDY1ZVdZbVpWS2ZzTWJzQTlSZDJpQ3pFUUMydEp5eVI5YjJwR3dpTnNMb1B6NWs2NjdPMnc3S0pXSEh4b0pSeEowekx6VE9jcGxNZzlDTGFrbjRPaHhIMEl0blVpR3ljQXpwN19hd1JzaXM?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 13:03:25 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Bluefield Daily Telegraph",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1779973405.0
     },
     {
       "title": "Collision prompts OPP reminder: 'remain attentive' - Sarnia News Today",
@@ -379,12 +390,12 @@
       "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEc4Y2JSMF9qU2ZaaXpmWjBqeHNVeFQxcDRSMzN6SG5rSWEzVDcwLThLQzFXLUNjc3E5VkV1U2J0d2hscFhnZGk5b204X3FlNmVaZFJjQVFxMjhTTWo0aUJDMHpZc3RxYS1IMl9XV29tZ2VvZ2V3UDJhNEZudkpraTdsNmt5SzdHRWp6OGR5ZWEzcjhVbVRyWHdNVnBOcHotUzVPVGgtZk02U2dkM2RVLXI2eGZScWVRS004?oc=5",
       "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "published": "Tue, 12 May 2026 13:00:00 GMT",
       "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
+      "published_ts": 1778590800.0
     },
     {
       "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
@@ -396,17 +407,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
       "published_ts": 1777964400.0
-    },
-    {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1776927600.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -586,11 +586,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 289,
+    "total_fetched": 288,
     "kept": 53,
-    "opportunities": 22,
-    "threats": 31,
+    "opportunities": 21,
+    "threats": 32,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 12.6
   }
 }
