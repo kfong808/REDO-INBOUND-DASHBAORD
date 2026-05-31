@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T17:54:34.863314+00:00",
+  "updated": "2026-05-31T19:02:00.806118+00:00",
   "items": [
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -156,6 +156,17 @@
       "published_ts": 1779801540.0
     },
     {
+      "title": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVFNZ2ZkUXE0YWVpNHppTVZPUkVqTVN4OFZpMUxxa2dOdUhUbmpXb3FPV2duakdkZFFMVzliQl9KTGc0QWZzQjRCWlNvNUw3c240Q0ZBMGdiNmZGRE9zUGE3aFdqR3BleTlWb21fdVA2QVFuY09kTGRFVUVzSHkyekFnanpldm9yNGlhd1kxUXVVXzJCZUFTeVJ3XzhCS2dpcWFSbWw5aGdvbXBFR285NXJsQ19NcXJkSGFMUjk0UkpvMk1kYjRweTVBMmhaV2x5a2xSZjZ5QmZzX1FzT0l5cktfT19UQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 25 May 2026 08:07:55 GMT",
+      "summary": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most &nbsp;&nbsp; inc.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1779696475.0
+    },
+    {
       "title": "AI Shifts Product Discovery, not Loyalty",
       "url": "https://www.practicalecommerce.com/ai-shifts-product-discovery-not-loyalty",
       "source": "Practical Ecommerce",
@@ -264,17 +275,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
       "published_ts": 1780153620.0
-    },
-    {
-      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 29 May 2026 09:46:33 GMT",
-      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1780047993.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations - Destination CRM",
@@ -420,11 +420,11 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -497,17 +497,6 @@
       "published_ts": 1754377200.0
     },
     {
-      "title": "ShipStation launches new features to support fulfilment operations - - Enterprise Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFpCY3NpYzJ0OEwwNnVhLUFXZzJwbS1WRXJIYnBlbVdRUlNrc2syNWN0T0lJOGVPckhXbXduZDVINHpRemVJNy1yNktSRVFjdFRNRi1RTXlWWFdIUXBQa3lydmU0MS1JaGVxenFkVXd2RWRhU1VGRG8zOE9GdVJCdlpSY3ZvbDQyM3ZueDNqNFdtRDRpN2ZLbWZpdzN2V1ltbk9Da2s3cjcweGVkV2R2NzRB?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Fri, 11 Jul 2025 07:00:00 GMT",
-      "summary": "ShipStation launches new features to support fulfilment operations - &nbsp;&nbsp; Enterprise Times",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1752217200.0
-    },
-    {
       "title": "ShipStation® Launches Advanced Features Enabling Businesses to Optimize Fulfillment Operations - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdG0zRGxBSmx5RkJKN3p3bUQ3YkRieGlUa3ZoMkFTX0xBcWp6Mzd4WXpHZ05nVUsxbHZQQVlucHluaWEzbGVxeXFJelZkUlU5VldtbFFROUQwZWw3TDd0Um5jVlZMaWpwdWQzZTV0OFd4aWhfYjdJN0lfaVU5X1JWRU8wVUhBYVB3bmpydkYyNVQ4RC00Rl9reF9RdzRPTUptTG9EN1FNcWVmNGxLMlBERHB6VlVVWGtqM3BDSE9Nb2lPV1AxUEZWLUxZMFctakR4bU5RelNOcTN4TVd5a3NVekN5Z0s?oc=5",
       "source": "Google News: ShipStation",
@@ -517,6 +506,17 @@
       "confidence": "medium",
       "reasoning": "Shipstation + launches",
       "published_ts": 1751958000.0
+    },
+    {
+      "title": "ShipStation Revenue 2025: $11.4M ARR, $34.3M Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZi1DOVUwbmRVR1ptdDM5NTFFWGYwWDhpQTJCN0RsZkpqNjQ3QlMzR3RmSFhCVXRhSk1jYnNLaElXTUlOeTRSVFBheEhRZ0liMFJMMGJuNkhqQQ?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 26 Jun 2025 07:00:00 GMT",
+      "summary": "ShipStation Revenue 2025: $11.4M ARR, $34.3M Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Shipstation + valuation",
+      "published_ts": 1750921200.0
     },
     {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
@@ -586,11 +586,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 289,
+    "total_fetched": 279,
     "kept": 53,
-    "opportunities": 23,
-    "threats": 30,
+    "opportunities": 24,
+    "threats": 29,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.3
+    "runtime_seconds": 12.7
   }
 }
