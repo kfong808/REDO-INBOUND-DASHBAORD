@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T19:02:00.806118+00:00",
+  "updated": "2026-05-31T20:47:48.156849+00:00",
   "items": [
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780232491.0
-    },
-    {
-      "title": "Video: Agentic commerce - new frontiers - Morgan Stanley",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlJSV1RoQ0VwbUUxTTZOMTU3T2FwWmdDNFVCYWZGS0ZHSWNnazg0RTVCZ21SQWNwU0dsR0sxTTBXakRaWURZcnd4M0U1OEcxdVFtY2dsSXp4OGpzcEVVVGZ6ZS1HVFRta09hVHRCRVZtbFRwV1RQc2ZrZF9FcmF1UVJseEJDc2l2LTd6dFhKUWVONEd4SmpreUxlcXpLM0M4S1VIR0thWTJJdXZCSWZjRWN6a2tXWTlVZy1IekhHcWZXRjdnaUtsQldYcnVUZFE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sat, 30 May 2026 19:58:13 GMT",
-      "summary": "Video: Agentic commerce - new frontiers &nbsp;&nbsp; Morgan Stanley",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780171093.0
     },
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
@@ -99,6 +88,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1779976800.0
+    },
+    {
+      "title": "Nobody gets bypassed - Agentic commerce was supposed to route around the OTAs. Google's partner list routes straight through them - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcVFBSDhRcEJOTjZESVdQN0lmbFpVcy1oMEdGTlpiX0dKTm5WaTdCMUhlUEthY0hCb3ZSUXBWUV9zQ0s1Zms4d1pmWTZQQUZTMWNwMS1WRHRrMnI5eTgzQU5QdVdSdlVfVEg3ZHJGd0tFMGFRbmp0NnMycmFxcFhSZV9UemphdThWM2Rici16b2d3blBTa3hQYTYzblhYSDN0YmxMSGdLMHhPUjNFbW5JTk1OcWo0aDg0RURWbncyVjJNc0xva2E2NWxTREdvcXRKTE5VeVltOXBjTnZDN0ZVQUdsaS1OWjF0aGtNT1BtSHhkTE5hcDJ6NllJSldqZS11d2c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 28 May 2026 06:00:00 GMT",
+      "summary": "Nobody gets bypassed - Agentic commerce was supposed to route around the OTAs. Google's partner list routes straight through them &nbsp;&nbsp; Hospitality Net",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779948000.0
     },
     {
       "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
@@ -269,12 +269,12 @@
       "title": "KVYO Pops As Klaviyo Raises Outlook And Deepens Anthropic AI Ties - timothysykes.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc3dJNEV1RHNweDRYS1lBZHRFRUY4NGp4MV9xbi1VVWhaQTZscUpvVjZJN1dxaHItRmd4MzFvVVVCVmJ6Njh0Z2VTZkFVRlVhSzdUY0E3S1lmYjJZSTMwYmRXNTdUWUcydFUxV1RYMzBud0N1aTV5a0dBSlNRUQ?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 30 May 2026 15:07:00 GMT",
+      "published": "Sat, 30 May 2026 21:13:00 GMT",
       "summary": "KVYO Pops As Klaviyo Raises Outlook And Deepens Anthropic AI Ties &nbsp;&nbsp; timothysykes.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
-      "published_ts": 1780153620.0
+      "published_ts": 1780175580.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations - Destination CRM",
@@ -332,17 +332,6 @@
       "published_ts": 1779909015.0
     },
     {
-      "title": "IndyCar News: 2026 Indianapolis 500 Postscript - AutoRacing1.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkd2YzlRdnRaRnp4dUtGXzZmSi1QbWhvTlZyM0VRVzJ6UkpXbXZhLTF5X3lyWERXXzlFV0ZuT0RnYzRGWGNXYUI0elRIczFZdWhnc1JMdlZMWkxRMi1keDhFX1VBTG1aLU9HVTNFeFcyc3RSTEpFUWhmV1YwekVqNFVmdFdfcG1ZSlpUTw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 25 May 2026 10:57:19 GMT",
-      "summary": "IndyCar News: 2026 Indianapolis 500 Postscript &nbsp;&nbsp; AutoRacing1.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1779706639.0
-    },
-    {
       "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
       "source": "Google News: Attentive",
@@ -396,17 +385,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
-    },
-    {
-      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1777964400.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -586,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 279,
-    "kept": 53,
+    "total_fetched": 288,
+    "kept": 51,
     "opportunities": 24,
-    "threats": 29,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.7
+    "runtime_seconds": 14.1
   }
 }
