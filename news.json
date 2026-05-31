@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T13:12:11.889424+00:00",
+  "updated": "2026-05-31T15:10:47.803463+00:00",
   "items": [
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780232491.0
-    },
-    {
-      "title": "Video: Agentic commerce - new frontiers - Morgan Stanley",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlJSV1RoQ0VwbUUxTTZOMTU3T2FwWmdDNFVCYWZGS0ZHSWNnazg0RTVCZ21SQWNwU0dsR0sxTTBXakRaWURZcnd4M0U1OEcxdVFtY2dsSXp4OGpzcEVVVGZ6ZS1HVFRta09hVHRCRVZtbFRwV1RQc2ZrZF9FcmF1UVJseEJDc2l2LTd6dFhKUWVONEd4SmpreUxlcXpLM0M4S1VIR0thWTJJdXZCSWZjRWN6a2tXWTlVZy1IekhHcWZXRjdnaUtsQldYcnVUZFE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sat, 30 May 2026 19:58:13 GMT",
-      "summary": "Video: Agentic commerce - new frontiers &nbsp;&nbsp; Morgan Stanley",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780171093.0
     },
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
@@ -110,6 +99,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1779895605.0
+    },
+    {
+      "title": "Amazon offers its AI shopping tech to outside retailers in new phase of agentic commerce race - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDVkRkQ2VzN3ck91WEdWc0hZZXlralM1UXFBZUhnTmJCTDUzRmNYaWxHRUsxRDdZUk5GVHI2clpxcjFRS3p5OWt0TEFlcS1PdHFsV29YUm5Nc05CSzloaDFKWm40Njg5eTZYcjZDdk4tbTZfSm9neHZWaTd6RURabXdBc2tZVkJFaXdObi1QMlpSVGptMW1lTmdIbFEzaXdIOFl4b1NqX1BnbzN0OEZoZmJDZjN3Y1gwd3hkQ3pxTHZfUQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 27 May 2026 13:24:17 GMT",
+      "summary": "Amazon offers its AI shopping tech to outside retailers in new phase of agentic commerce race &nbsp;&nbsp; GeekWire",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1779888257.0
     },
     {
       "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
@@ -277,17 +277,6 @@
       "published_ts": 1780153620.0
     },
     {
-      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 29 May 2026 09:46:33 GMT",
-      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1780047993.0
-    },
-    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations - Destination CRM",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTERVOU1BeDVST1NtNTdDLUhuNG8yLW1jX2VPbTEtaFdkclotckFoTjFXNy1DLUV1RU04NUZpeHlnVTM0eW9FMkVMemxVQWlZMDlOek5mbnE1NktYdDRBbS1hQnNKSnRNX0JDdHM0a1VkY0xoaXprbHlpaDhJYmt5SUkxZ2NMX0hNalp1a2pvbm5sZExwSDBndnVGdlNoNzJZSmMzVm5WY3NYTFZRd0l1YnF6VTR6VHNqNm9ZTmF2c0hmNF9vUTJrb3E0U1Z3WW5NZ0JGbTJiTDJlenhpdUJWRXk1VTc?oc=5",
       "source": "Google News: Mailchimp",
@@ -297,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1780027238.0
+    },
+    {
+      "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 21:31:32 GMT",
+      "summary": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing &nbsp;&nbsp; GuruFocus",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1780003892.0
     },
     {
       "title": "Intuit Launches Conversational Analytics Agent, AI Segment Builder in Mailchimp - Moomoo",
@@ -330,17 +330,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779973200.0
-    },
-    {
-      "title": "Collision prompts OPP reminder: 'remain attentive' - Sarnia News Today",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXk5RkdfUnhmMmlpX0JBSDVHZmlLU2hDU1ZUZjVUQTI3OWpBSE1nT3dmN0h3Z2xvQmlsU2wwUXREdEJ6d29zNHBRRFNqSmxpeF9vWmRGVWJfMXhzLU13ZHhoOXdyRWRrMmV4YXF4WUs1Y1ZtSHdrbHNWb01iaVpSVF9IUnVTTGx1dU02TGk5LWRkWTBDT1MyRDB0MFNnUQ?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 27 May 2026 19:10:15 GMT",
-      "summary": "Collision prompts OPP reminder: 'remain attentive' &nbsp;&nbsp; Sarnia News Today",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1779909015.0
     },
     {
       "title": "IndyCar News: 2026 Indianapolis 500 Postscript - AutoRacing1.com",
@@ -431,17 +420,6 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1770710400.0
-    },
-    {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
       "source": "Google News: Omnisend",
@@ -519,6 +497,17 @@
       "published_ts": 1754377200.0
     },
     {
+      "title": "ShipStation launches new features to support fulfilment operations - - Enterprise Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFpCY3NpYzJ0OEwwNnVhLUFXZzJwbS1WRXJIYnBlbVdRUlNrc2syNWN0T0lJOGVPckhXbXduZDVINHpRemVJNy1yNktSRVFjdFRNRi1RTXlWWFdIUXBQa3lydmU0MS1JaGVxenFkVXd2RWRhU1VGRG8zOE9GdVJCdlpSY3ZvbDQyM3ZueDNqNFdtRDRpN2ZLbWZpdzN2V1ltbk9Da2s3cjcweGVkV2R2NzRB?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Fri, 11 Jul 2025 07:00:00 GMT",
+      "summary": "ShipStation launches new features to support fulfilment operations - &nbsp;&nbsp; Enterprise Times",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Shipstation + launches",
+      "published_ts": 1752217200.0
+    },
+    {
       "title": "ShipStation® Launches Advanced Features Enabling Businesses to Optimize Fulfillment Operations - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdG0zRGxBSmx5RkJKN3p3bUQ3YkRieGlUa3ZoMkFTX0xBcWp6Mzd4WXpHZ05nVUsxbHZQQVlucHluaWEzbGVxeXFJelZkUlU5VldtbFFROUQwZWw3TDd0Um5jVlZMaWpwdWQzZTV0OFd4aWhfYjdJN0lfaVU5X1JWRU8wVUhBYVB3bmpydkYyNVQ4RC00Rl9reF9RdzRPTUptTG9EN1FNcWVmNGxLMlBERHB6VlVVWGtqM3BDSE9Nb2lPV1AxUEZWLUxZMFctakR4bU5RelNOcTN4TVd5a3NVekN5Z0s?oc=5",
       "source": "Google News: ShipStation",
@@ -528,17 +517,6 @@
       "confidence": "medium",
       "reasoning": "Shipstation + launches",
       "published_ts": 1751958000.0
-    },
-    {
-      "title": "ShipStation Revenue 2025: $11.4M ARR, $34.3M Valuation - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZi1DOVUwbmRVR1ptdDM5NTFFWGYwWDhpQTJCN0RsZkpqNjQ3QlMzR3RmSFhCVXRhSk1jYnNLaElXTUlOeTRSVFBheEhRZ0liMFJMMGJuNkhqQQ?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 26 Jun 2025 07:00:00 GMT",
-      "summary": "ShipStation Revenue 2025: $11.4M ARR, $34.3M Valuation &nbsp;&nbsp; GetLatka",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + valuation",
-      "published_ts": 1750921200.0
     },
     {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
@@ -594,24 +572,13 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
-    },
-    {
-      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
     }
   ],
   "stats": {
-    "total_fetched": 290,
-    "kept": 55,
+    "total_fetched": 288,
+    "kept": 52,
     "opportunities": 24,
-    "threats": 31,
+    "threats": 28,
     "classifier_mode": "keyword",
     "runtime_seconds": 11.5
   }
