@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T06:47:38.110032+00:00",
+  "updated": "2026-05-31T09:41:50.289501+00:00",
   "items": [
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
@@ -66,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1779976800.0
-    },
-    {
-      "title": "Highnote Teams Up with Visa to Launch Agentic Commerce Capabilities - Finovate",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXF1a1RJZkhTamFtOUdjWmJsZjhtazFlUjlfSnZVTERxQ2dSUjJjWGcyWGZoanRocE5zNzVZVVdxUGhqTUVCS2s3aDlWTkpZcEY2U0dJMF9zYTNfYXN6OVp1Znh6dm1WQUFSV3FZYW0xU0x5ZW9jbF9iN0psVS1sOWtuY2V2M3d5ZmNJY1dqUUFidzg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 27 May 2026 22:12:32 GMT",
-      "summary": "Highnote Teams Up with Visa to Launch Agentic Commerce Capabilities &nbsp;&nbsp; Finovate",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779919952.0
     },
     {
       "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
@@ -266,6 +255,17 @@
       "published_ts": 1780060802.0
     },
     {
+      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 29 May 2026 09:46:33 GMT",
+      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1780047993.0
+    },
+    {
       "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
       "source": "Google News: Mailchimp",
@@ -297,17 +297,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779977169.0
-    },
-    {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Bluefield Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQnBnTExob2o0SHFmZTRvY1lPYmFybXFRN0xwZDJLdFRnVmV2S1I3cEdmVnlSbG1yQmRRX2QxeHR3OWZ1ZTBoaS1hZ2JVYTljREFOd2RoTmltSFBPMWM0Ym1vQmFxeDZjb0NKb3FCQjF2YVk4WFpJeW10NVlOUVF1NnBNeHh0b2ExbE94WlpRVDBGaS1VVU91bkdrYjBtYVNfNlc4dFRVek9rSEVoc3VjTnNDVVRFWi1hZEVIQkpTZFFvTVJRSDY1ZVdZbVpWS2ZzTWJzQTlSZDJpQ3pFUUMydEp5eVI5YjJwR3dpTnNMb1B6NWs2NjdPMnc3S0pXSEh4b0pSeEowekx6VE9jcGxNZzlDTGFrbjRPaHhIMEl0blVpR3ljQXpwN19hd1JzaXM?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 13:03:25 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Bluefield Daily Telegraph",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1779973405.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
@@ -396,17 +385,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
-    },
-    {
-      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1777964400.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -586,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 290,
-    "kept": 53,
-    "opportunities": 22,
-    "threats": 31,
+    "total_fetched": 288,
+    "kept": 51,
+    "opportunities": 21,
+    "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.0
   }
 }
