@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T20:47:48.156849+00:00",
+  "updated": "2026-05-31T21:48:12.905591+00:00",
   "items": [
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -277,6 +277,28 @@
       "published_ts": 1780175580.0
     },
     {
+      "title": "How Klaviyo Inc. Series A (KVYO) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmdQSFFKbnZ3cUZCLXgxVk9YRHY3Y3lmaUFWYm9RZlpqLUdvSGVzMV8yTEk0VTlOUTNVakZQOGM5M3NCY0FYWE50QlFCd1NRSzdVUlBtdnMwbDNITklHU0t2R3FMamRteTdKWG95b21rd0VsT0xWOFBTbzdaZzFHc1VUalhJTEtBV0g3X0ctZW9GSEdzSVlVb1l0bmt1dWdBZlY4cG5TelBVU0Z1R0xCNXdVMnlxeXoxaTJOZGNqYm52MUZOQXZtZnM2UFhYNEtZRElKZHlSVXlGTlpoaUE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 29 May 2026 13:20:02 GMT",
+      "summary": "How Klaviyo Inc. Series A (KVYO) Affects Rotational Strategy Timing &nbsp;&nbsp; Stock Traders Daily",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + series a",
+      "published_ts": 1780060802.0
+    },
+    {
+      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 29 May 2026 09:46:33 GMT",
+      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1780047993.0
+    },
+    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations - Destination CRM",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTERVOU1BeDVST1NtNTdDLUhuNG8yLW1jX2VPbTEtaFdkclotckFoTjFXNy1DLUV1RU04NUZpeHlnVTM0eW9FMkVMemxVQWlZMDlOek5mbnE1NktYdDRBbS1hQnNKSnRNX0JDdHM0a1VkY0xoaXprbHlpaDhJYmt5SUkxZ2NMX0hNalp1a2pvbm5sZExwSDBndnVGdlNoNzJZSmMzVm5WY3NYTFZRd0l1YnF6VTR6VHNqNm9ZTmF2c0hmNF9vUTJrb3E0U1Z3WW5NZ0JGbTJiTDJlenhpdUJWRXk1VTc?oc=5",
       "source": "Google News: Mailchimp",
@@ -286,6 +308,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1780027238.0
+    },
+    {
+      "title": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lNX2xlSm1tN19NNjA3c0FFeVdXRjNOLURmR1gtUUdUc3NKSUtYbU5ya3JEYkJjN2tkU01qakt1Rm1kcWxFT08zTUctV1lGSW51c0NrUEFVM0k3b0FTUW1ORzF3V2RsZVVLLUlvTkdSamp1Q2c0d21xNEJjYWRTODRmYVBCX094REJZZUd3anlUeXl4bFRRYnBYU182X2JUVzczU0VnU3oxdXVUbHVOMmxBVE9iUkg1TjJYdndtVUNHZ0ty?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 21:31:32 GMT",
+      "summary": "Intuit Launches New AI Features in Mailchimp to Enhance Ecommerce Marketing &nbsp;&nbsp; GuruFocus",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1780003892.0
     },
     {
       "title": "Intuit Launches Conversational Analytics Agent, AI Segment Builder in Mailchimp - Moomoo",
@@ -396,6 +429,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
+    },
+    {
+      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1770278400.0
     },
     {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
@@ -565,10 +609,10 @@
   ],
   "stats": {
     "total_fetched": 288,
-    "kept": 51,
+    "kept": 55,
     "opportunities": 24,
-    "threats": 27,
+    "threats": 31,
     "classifier_mode": "keyword",
-    "runtime_seconds": 14.1
+    "runtime_seconds": 11.6
   }
 }
