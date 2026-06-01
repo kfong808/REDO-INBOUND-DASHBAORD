@@ -1,6 +1,17 @@
 {
-  "updated": "2026-06-01T02:53:32.460554+00:00",
+  "updated": "2026-06-01T08:24:28.872853+00:00",
   "items": [
+    {
+      "title": "How to add card processing fees in checkout - UK store",
+      "url": "https://www.reddit.com/r/shopify/comments/1ttlejz/how_to_add_card_processing_fees_in_checkout_uk/",
+      "source": "r/shopify",
+      "published": "2026-06-01T08:00:47+00:00",
+      "summary": "We’re a wholesaler looking to add card payments on our Shopify store. We currently only offer bank transfer payments in checkout as our AOV is in the region of 4k+ We can’t absorb 2.8% fees from Shopify/other card transactions as it’d eat too much margin. I want to add card payments to checkout where x% is added to the sale if card payment is selected. I’ve thought about raising pricing to absorb this, however we start becoming too expensive and I want to highlight to customers that it is more e",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: too expensive",
+      "published_ts": 1780300847.0
+    },
     {
       "title": "Naver evolves AI shopping agent beyond search to suggestion-based shopping - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2VJS2YyNGJ0ZmpEd1JJQWlwR2lMN0FmOXZmUUhVOFpjeks3c0FJM3hnalRnbDk4UkYzQmU5ZDBQcUpCYVFRTU52UkVvckNyUjA0V1hBMXQ0R01EZExiSE10Vm5kWllHcmY1ZUhvLUtwRlBhemxKSVNRTUhoX2RHN0pJS3lZek9XN0lxdGJ6U3dxTVl2LXBYRDE3ZTJuTFdXdTIwcllPbDBkUmhvRGktZ2lGMEQ0WXZDaEl3?oc=5",
@@ -33,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780232491.0
+    },
+    {
+      "title": "Video: Agentic commerce - new frontiers - Morgan Stanley",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlJSV1RoQ0VwbUUxTTZOMTU3T2FwWmdDNFVCYWZGS0ZHSWNnazg0RTVCZ21SQWNwU0dsR0sxTTBXakRaWURZcnd4M0U1OEcxdVFtY2dsSXp4OGpzcEVVVGZ6ZS1HVFRta09hVHRCRVZtbFRwV1RQc2ZrZF9FcmF1UVJseEJDc2l2LTd6dFhKUWVONEd4SmpreUxlcXpLM0M4S1VIR0thWTJJdXZCSWZjRWN6a2tXWTlVZy1IekhHcWZXRjdnaUtsQldYcnVUZFE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sat, 30 May 2026 19:58:13 GMT",
+      "summary": "Video: Agentic commerce - new frontiers &nbsp;&nbsp; Morgan Stanley",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780171093.0
     },
     {
       "title": "AI shopping assistants automate entire purchase process - MSN",
@@ -101,17 +123,6 @@
       "published_ts": 1779976800.0
     },
     {
-      "title": "Nobody gets bypassed - Agentic commerce was supposed to route around the OTAs. Google's partner list routes straight through them - Hospitality Net",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcVFBSDhRcEJOTjZESVdQN0lmbFpVcy1oMEdGTlpiX0dKTm5WaTdCMUhlUEthY0hCb3ZSUXBWUV9zQ0s1Zms4d1pmWTZQQUZTMWNwMS1WRHRrMnI5eTgzQU5QdVdSdlVfVEg3ZHJGd0tFMGFRbmp0NnMycmFxcFhSZV9UemphdThWM2Rici16b2d3blBTa3hQYTYzblhYSDN0YmxMSGdLMHhPUjNFbW5JTk1OcWo0aDg0RURWbncyVjJNc0xva2E2NWxTREdvcXRKTE5VeVltOXBjTnZDN0ZVQUdsaS1OWjF0aGtNT1BtSHhkTE5hcDJ6NllJSldqZS11d2c?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 28 May 2026 06:00:00 GMT",
-      "summary": "Nobody gets bypassed - Agentic commerce was supposed to route around the OTAs. Google's partner list routes straight through them &nbsp;&nbsp; Hospitality Net",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779948000.0
-    },
-    {
       "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUZtaThoZWw4cTI1VEh0YVpwSFJkVTJ2UVh5aDhJSlpEalV3aXdMd2M1ZFF0VV9QLWpIbUlraVREQzBjSHkxTTYyaTVqXzA5eV9WUnducHFSRk1DdE1zVFBXSFl1QmhPRDlUREQ2dkxSVlVuNGVmQVFQRUdIbXBRZ1ljM0ZweHZ6UVdFUGZoUDZXdzdzNlNn?oc=5",
       "source": "Google News: agentic commerce",
@@ -154,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1779818238.0
-    },
-    {
-      "title": "Mastercard’s vision for trusted agentic commerce - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDJ3YzgxaDZxb25vQTB3NU5tVU13S3BYN05VN3dJUU5aZG5MWWRLd1duYjM0cUlCdVo4aEExSWJzZkNmeUZNUEZKVHV6RFQwUm95Z0RTbllpZDR4a3E5akVQVzhHOHozclVkTTIydkhUNkp5UFBEVGtHamlCUFdhSG1ZS1BuZ1RNTlBJaU13d1N5TmVZeWREbkExa3FSSk92M1FHMFBQV1I?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 26 May 2026 13:19:00 GMT",
-      "summary": "Mastercard’s vision for trusted agentic commerce &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779801540.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -244,6 +244,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1767686400.0
+    },
+    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -255,17 +266,6 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant - PA Media",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHczTTFKYi1CZTlPNEpKWnpmQ3J0QzY2TngxcWp1R3RpS1ZLQnZEdk5PSmVoU3V3a0UybklnTUNVa3NPRWRKMHdZSWtibTEySWRsQUs4WlltWEc1N20wcFZ2ZWlocWM3aFpyOVpKRGhBZVc5QXMySnZVbkZxR21wbXdTOWgzVGFOUlVzbXAxWjVDRGp0bHBiS0ZOUVh6cDd0U1VlekZnYWZpc2hFRTJUS01uSktSenVUaWVfcmRn?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "summary": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant &nbsp;&nbsp; PA Media",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718002800.0
-    },
-    {
       "title": "KVYO Pops As Klaviyo Raises Outlook And Deepens Anthropic AI Ties - timothysykes.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc3dJNEV1RHNweDRYS1lBZHRFRUY4NGp4MV9xbi1VVWhaQTZscUpvVjZJN1dxaHItRmd4MzFvVVVCVmJ6Njh0Z2VTZkFVRlVhSzdUY0E3S1lmYjJZSTMwYmRXNTdUWUcydFUxV1RYMzBud0N1aTV5a0dBSlNRUQ?oc=5",
       "source": "Google News: Klaviyo",
@@ -275,28 +275,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
       "published_ts": 1780175580.0
-    },
-    {
-      "title": "How Klaviyo Inc. Series A (KVYO) Affects Rotational Strategy Timing - Stock Traders Daily",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmdQSFFKbnZ3cUZCLXgxVk9YRHY3Y3lmaUFWYm9RZlpqLUdvSGVzMV8yTEk0VTlOUTNVakZQOGM5M3NCY0FYWE50QlFCd1NRSzdVUlBtdnMwbDNITklHU0t2R3FMamRteTdKWG95b21rd0VsT0xWOFBTbzdaZzFHc1VUalhJTEtBV0g3X0ctZW9GSEdzSVlVb1l0bmt1dWdBZlY4cG5TelBVU0Z1R0xCNXdVMnlxeXoxaTJOZGNqYm52MUZOQXZtZnM2UFhYNEtZRElKZHlSVXlGTlpoaUE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 29 May 2026 13:20:02 GMT",
-      "summary": "How Klaviyo Inc. Series A (KVYO) Affects Rotational Strategy Timing &nbsp;&nbsp; Stock Traders Daily",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + series a",
-      "published_ts": 1780060802.0
-    },
-    {
-      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 29 May 2026 09:46:33 GMT",
-      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1780047993.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations - Destination CRM",
@@ -332,15 +310,15 @@
       "published_ts": 1779977169.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 13:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Business Wire",
+      "published": "Thu, 28 May 2026 13:04:17 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
-      "published_ts": 1779973200.0
+      "published_ts": 1779973457.0
     },
     {
       "title": "Collision prompts OPP reminder: 'remain attentive' - Sarnia News Today",
@@ -407,6 +385,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -597,11 +586,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 288,
-    "kept": 54,
+    "total_fetched": 287,
+    "kept": 53,
     "opportunities": 24,
-    "threats": 30,
+    "threats": 29,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 12.8
   }
 }
