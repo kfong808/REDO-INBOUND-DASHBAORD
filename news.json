@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T19:54:55.611431+00:00",
+  "updated": "2026-06-01T22:29:45.952373+00:00",
   "items": [
     {
       "title": "| AI shopping agents are coming for fashion's search budget - Fibre2Fashion",
@@ -33,6 +33,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780232491.0
+    },
+    {
+      "title": "Video: Agentic commerce - new frontiers - Morgan Stanley",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlJSV1RoQ0VwbUUxTTZOMTU3T2FwWmdDNFVCYWZGS0ZHSWNnazg0RTVCZ21SQWNwU0dsR0sxTTBXakRaWURZcnd4M0U1OEcxdVFtY2dsSXp4OGpzcEVVVGZ6ZS1HVFRta09hVHRCRVZtbFRwV1RQc2ZrZF9FcmF1UVJseEJDc2l2LTd6dFhKUWVONEd4SmpreUxlcXpLM0M4S1VIR0thWTJJdXZCSWZjRWN6a2tXWTlVZy1IekhHcWZXRjdnaUtsQldYcnVUZFE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sat, 30 May 2026 19:58:13 GMT",
+      "summary": "Video: Agentic commerce - new frontiers &nbsp;&nbsp; Morgan Stanley",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780171093.0
     },
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
@@ -99,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1779976800.0
-    },
-    {
-      "title": "Visa, Mastercard envision agentic commerce benefits - Payments Dive",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUZtaThoZWw4cTI1VEh0YVpwSFJkVTJ2UVh5aDhJSlpEalV3aXdMd2M1ZFF0VV9QLWpIbUlraVREQzBjSHkxTTYyaTVqXzA5eV9WUnducHFSRk1DdE1zVFBXSFl1QmhPRDlUREQ2dkxSVlVuNGVmQVFQRUdIbXBRZ1ljM0ZweHZ6UVdFUGZoUDZXdzdzNlNn?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 27 May 2026 15:26:45 GMT",
-      "summary": "Visa, Mastercard envision agentic commerce benefits &nbsp;&nbsp; Payments Dive",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779895605.0
     },
     {
       "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
@@ -475,17 +475,6 @@
       "published_ts": 1754377200.0
     },
     {
-      "title": "ShipStation® Launches Advanced Features Enabling Businesses to Optimize Fulfillment Operations - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdG0zRGxBSmx5RkJKN3p3bUQ3YkRieGlUa3ZoMkFTX0xBcWp6Mzd4WXpHZ05nVUsxbHZQQVlucHluaWEzbGVxeXFJelZkUlU5VldtbFFROUQwZWw3TDd0Um5jVlZMaWpwdWQzZTV0OFd4aWhfYjdJN0lfaVU5X1JWRU8wVUhBYVB3bmpydkYyNVQ4RC00Rl9reF9RdzRPTUptTG9EN1FNcWVmNGxLMlBERHB6VlVVWGtqM3BDSE9Nb2lPV1AxUEZWLUxZMFctakR4bU5RelNOcTN4TVd5a3NVekN5Z0s?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 08 Jul 2025 07:00:00 GMT",
-      "summary": "ShipStation® Launches Advanced Features Enabling Businesses to Optimize Fulfillment Operations &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1751958000.0
-    },
-    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -554,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 50,
+    "kept": 49,
     "opportunities": 23,
-    "threats": 27,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.3
+    "runtime_seconds": 11.3
   }
 }
