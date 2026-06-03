@@ -1,6 +1,28 @@
 {
-  "updated": "2026-06-03T08:05:24.570397+00:00",
+  "updated": "2026-06-03T13:05:45.335979+00:00",
   "items": [
+    {
+      "title": "New Ecommerce Tools: June 3, 2026",
+      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
+      "source": "Practical Ecommerce",
+      "published": "Wed, 03 Jun 2026 12:53:20 +0000",
+      "summary": "New services this week address Reddit ads, email marketing, design tools, crowdshipping, agentic commerce audits, last-mile delivery, and more. The post New Ecommerce Tools: June 3, 2026 appeared first on Practical Ecommerce .",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780491200.0
+    },
+    {
+      "title": "Terms of engagement: Agentic commerce - Research Live",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVFfZ2twVktaYWVJTlFobTNndnI2MTkzeGpJaE0wSEUycFBfWUxFcld6WG9NRnF3bWJwbFlQY1BROGs3Z3d2OGhhcXJDdHJSb2hXV0hFV25kX19mVmdyX3E4T3dVdjl5a2JSb3FNd1lEckticDFpOEFFLU9hcDhvZWwyNXdiMzM2RERfN2xiM2RBQkNEWHJ4aGZn?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 03 Jun 2026 10:45:40 GMT",
+      "summary": "Terms of engagement: Agentic commerce &nbsp;&nbsp; Research Live",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780483540.0
+    },
     {
       "title": "Walmart veteran Jeff Bartlett slides into Sr. Director, Product - AI Shopping Agentic Commerce role - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWDVEeENucXBJc0JNcERiS1dhN3FrNXAyWVdqV2ZKYUtOY1JxRXRfdE5xb1NhZVpEMWRKUFNCUHNKbERrMTlqZjFPZjVtU3kxdk1EMWRGN1lvdWZ1c1FibjNiUXUtTVo5QmY0MDlpZzZLa3lzSWc2RTJldklCS1hoQnljYm5SeUN6Vm43b2Q1NmNjRndKNHhodWNqZmpiNnVtSUVaaVFOMlRLVGJYaTJTQkllbjRwUGdCYmlydkphQXl4YzQyZDhzcUtwb2M0VUx5UlRKN1lyVFhfbWdkRXc?oc=5",
@@ -68,17 +90,6 @@
       "published_ts": 1780406968.0
     },
     {
-      "title": "Agentic Commerce: How to Win the Holiday Season - Google Business Profile",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTROWmtnUHE1N1dPMDVuMEhTLURvSWJLVENQWm53N0MwbkVrNGNWSHNKY1c4dU5SX2M4N3RpekIyVWdJSHNHNkotN1B1ZW1Zc01JcTVmUUZiQ1FJQ0ZPMVRKSUxJSDdlV1p2YU1xa0dYSG92cTFSbUl6UHVicTdCZ1EzTGpLeTdpQ0hFT2hsSFkzOVdsdkpNQU01WklkcEY1aUpxNzQxUE5iZ3hY?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 02 Jun 2026 10:25:21 GMT",
-      "summary": "Agentic Commerce: How to Win the Holiday Season &nbsp;&nbsp; Google Business Profile",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780395921.0
-    },
-    {
       "title": "| AI shopping agents are coming for fashion's search budget - Fibre2Fashion",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDQ3TzBONzBDX1lxZE5BdWV2LVhIcVVkU2hfQzc2aUtxRkh1bklSN1dyR3RyTHRQTkU5ZlJJbTllUkZOYWgyWEhUMVBUb3lIZTZKcDdIWExXUmdqVDFOM0doemphYmh6b01tdzBJMko0bGRNSmNtU1FOYk1yOUVDc1IxRmxyam82OVdhdDBNdzhwV3VLTmhUTm1rYVV0N2NMdHU1UVN5X1E2RlZNVEpvMWRkbzFGNWlMYlQ5LXpBcXUzWkRwcTZPYjNvYw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -88,17 +99,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780309077.0
-    },
-    {
-      "title": "How to add card processing fees in checkout - UK store",
-      "url": "https://www.reddit.com/r/shopify/comments/1ttlejz/how_to_add_card_processing_fees_in_checkout_uk/",
-      "source": "r/shopify",
-      "published": "2026-06-01T08:00:47+00:00",
-      "summary": "We’re a wholesaler looking to add card payments on our Shopify store. We currently only offer bank transfer payments in checkout as our AOV is in the region of 4k+ We can’t absorb 2.8% fees from Shopify/other card transactions as it’d eat too much margin. I want to add card payments to checkout where x% is added to the sale if card payment is selected. I’ve thought about raising pricing to absorb this, however we start becoming too expensive and I want to highlight to customers that it is more e",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: too expensive",
-      "published_ts": 1780300847.0
     },
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -112,15 +112,26 @@
       "published_ts": 1780232491.0
     },
     {
-      "title": "AI Shopping Agents Automate Purchases, Ushering Zero-Click E-Commerce Era - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3ItWVU1S1J2X0J0aWE1eHRNeXk2Ym1uZ0ZMbVRRSFB2S3d3dDJZS1luS2N6WUlQTHMycUxFeGZwbVFjM1RKYloxb1ZvcHdnNzBTMW9veWhueUNGOEd5VlpmTzVRc1Z3LV85ZmVfbF85MEhmM1lxZFNtWU0zLUdpS19hVmFBNllF?oc=5",
+      "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklaX2JPVllxamZoeGtlaXZhd2VmQmowLTlEX09nVWwwRWNxLXF5ZzJXeS1ObnFURzNMRUYtYU5qc21tMVNST0ctcEE2d1FlVm04VTlMblZsdlRaT2wtSDc3T19JREs3NFd2a3FhTmFOeUk4d0NBdFVRd1FCc2hSR2czMmc?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Fri, 29 May 2026 21:28:53 GMT",
-      "summary": "AI Shopping Agents Automate Purchases, Ushering Zero-Click E-Commerce Era &nbsp;&nbsp; 조선일보",
+      "published": "Sat, 30 May 2026 15:25:42 GMT",
+      "summary": "You Should Remember This Warning When Using An AI Shopping Agent &nbsp;&nbsp; AOL.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1780090133.0
+      "published_ts": 1780154742.0
+    },
+    {
+      "title": "AI shopping agents automate purchases, ushering zero-click e-commerce era - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHFJMVY0RjlidkltNWF3MlhMMXBsWWZyVFk4REJLUWRuRFU2MkszTTlEYjZzRnowejRCSHZtcV9nNHVUUjRIaExfTUY1TXN5d2R0MDZvZkJYUGdWaUFHVEgzakhSMTFIVnVibTQ3TU5EQ0g2NlVhdzMwbFZMX2ZqcWNCcWdwUHRUT21pS1ZQTFEtdjlwcEwtZ3M1ZUFCeVVIbmRTdVhaaTQwUTdVSlhvdWZkRXFBUVFpa3pJdWdn?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 30 May 2026 07:33:19 GMT",
+      "summary": "AI shopping agents automate purchases, ushering zero-click e-commerce era &nbsp;&nbsp; MSN",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780126399.0
     },
     {
       "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
@@ -134,17 +145,6 @@
       "published_ts": 1780065478.0
     },
     {
-      "title": "The State Of Agentic Commerce In Mid-2026 - Forrester",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGejVaLWFEcXZDMUhaVWZuV1BiQ3Z2bE14amFiZmpWX2tnb085eVFnZWYzVkg2bDcyM2Q3NlA3WUJaTTZyYklIM2VYUFBMYW1YbE55eG5hY2k0aVB6LTN6WE81blozMHlDYU05VXdmVGxhSUtYQlpRUXN1RE84Z2c?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 28 May 2026 22:13:54 GMT",
-      "summary": "The State Of Agentic Commerce In Mid-2026 &nbsp;&nbsp; Forrester",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780006434.0
-    },
-    {
       "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -154,17 +154,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1779887401.0
-    },
-    {
-      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQU1ISnpSZWVFUWRVQnJHSzJEMFN0OHY5ZkY4Y0JSTHdNb2VDYWRYa3VJMWlzRFJvbkdTZmlMOUtzZVNxRkduNmpwbk9JNEhxd24xelhzSERsUXZYdkVTSmFpU0VydGltR1U5NmlwNmswbGVDano4c2o0SGxLRW5DdjVITTU3akxmWFdwbWo5UEJKVExCd3Z0TDJNc1R1UC1SdWt4TkpZRFhMUjkxaXd5eTVBLXY3aEdIdGVfUA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 26 May 2026 17:57:18 GMT",
-      "summary": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779818238.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -244,28 +233,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1767686400.0
-    },
-    {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
-    },
-    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -275,17 +242,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
-    },
-    {
-      "title": "WWEX Group, Auctane Complete Merger to Launch ShipStation Global - AIM Media House",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkxnXzZpN0djVE9yWER1ak5wVkp4YnVFQ19peUxuMHVmRlVCYm81bjJES0tFbVR1NXNlZ19xZjBMR2FodFh4N2dDejdHZ0t5dzQxZkdlaXFOT1JCaFh3NDhLSUJ6MUkxSUFaS0pmdTlpTmVsTVhwUTJkUUpiY2E5VHZaeDdrQjFSSzdUeHUyVGRoWlllX2FjOWd5Q0RGRnVHbkVCeDBzczA?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 10:23:44 GMT",
-      "summary": "WWEX Group, Auctane Complete Merger to Launch ShipStation Global &nbsp;&nbsp; AIM Media House",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780395824.0
     },
     {
       "title": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO - Yahoo Finance",
@@ -475,6 +431,17 @@
       "published_ts": 1762416000.0
     },
     {
+      "title": "ShipStation® Customers Can Now Leverage Veho's Customer-Centric Delivery Service Across 56 US Markets - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnZ6OXQ3VmJXTnVYdEE4OVNzSC1DUEVPWXVWV3RWQjU3eFd2bkoxZUtlcmlrbHdkbUNaUVdDNWtBd3ZMLU53X0RHUUZUVG9nUTcxRXBnWHJpMmUybXkwNVZiSV9YaHBaSUZIbGNDbHFlNWsxemJnYl9heWktb0QyQTFCNVBVQVU3Q0ZKczNtTU43ODEwOGw1dmpxZGhVeWFhMjY5QVlqRExoNGVtRUNLNWtEYjlfd0o1VnhfTUtWXzdtdlBaM0tfX2NFZVo3UFd6Vm1QQjFhZUFiV1gzaDZVSi1MOVA0QWJTbDQ0?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "summary": "ShipStation® Customers Can Now Leverage Veho's Customer-Centric Delivery Service Across 56 US Markets &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1759215600.0
+    },
+    {
       "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHBkSW45S0k5bFBraVMxMW80TVlVYkNfM3FCYUNvWmpBYTNmTmk5Mk5KNzA4YzVnNTBSSVBNbzdMUWxKSmhHZkx6YVhXaDhQRTU4UTFEeDlnSEFwVC1wd3BIamcyaFFXNjg0TlJqQmllQko5YWNmc3dvSlMwcVZDNVVQcnNuYUtsTzdscXZ3?oc=5",
       "source": "Google News: Yotpo",
@@ -550,25 +517,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 288,
-    "kept": 51,
-    "opportunities": 25,
-    "threats": 26,
+    "kept": 47,
+    "opportunities": 22,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 12.1
   }
 }
