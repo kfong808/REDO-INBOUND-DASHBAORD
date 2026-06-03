@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T21:41:04.069047+00:00",
+  "updated": "2026-06-03T23:25:41.672341+00:00",
   "items": [
     {
       "title": "Horizon Media Study Identifies The \"Trust Tax\": How AI Shopping Can Quietly Erode Brand Loyalty - PR Newswire",
@@ -101,15 +101,26 @@
       "published_ts": 1780232491.0
     },
     {
-      "title": "AI Shopping Agents Automate Purchases, Ushering Zero-Click E-Commerce Era - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3ItWVU1S1J2X0J0aWE1eHRNeXk2Ym1uZ0ZMbVRRSFB2S3d3dDJZS1luS2N6WUlQTHMycUxFeGZwbVFjM1RKYloxb1ZvcHdnNzBTMW9veWhueUNGOEd5VlpmTzVRc1Z3LV85ZmVfbF85MEhmM1lxZFNtWU0zLUdpS19hVmFBNllF?oc=5",
+      "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklaX2JPVllxamZoeGtlaXZhd2VmQmowLTlEX09nVWwwRWNxLXF5ZzJXeS1ObnFURzNMRUYtYU5qc21tMVNST0ctcEE2d1FlVm04VTlMblZsdlRaT2wtSDc3T19JREs3NFd2a3FhTmFOeUk4d0NBdFVRd1FCc2hSR2czMmc?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Fri, 29 May 2026 21:28:53 GMT",
-      "summary": "AI Shopping Agents Automate Purchases, Ushering Zero-Click E-Commerce Era &nbsp;&nbsp; 조선일보",
+      "published": "Sat, 30 May 2026 15:25:42 GMT",
+      "summary": "You Should Remember This Warning When Using An AI Shopping Agent &nbsp;&nbsp; AOL.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1780090133.0
+      "published_ts": 1780154742.0
+    },
+    {
+      "title": "AI shopping agents automate purchases, ushering zero-click e-commerce era - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHFJMVY0RjlidkltNWF3MlhMMXBsWWZyVFk4REJLUWRuRFU2MkszTTlEYjZzRnowejRCSHZtcV9nNHVUUjRIaExfTUY1TXN5d2R0MDZvZkJYUGdWaUFHVEgzakhSMTFIVnVibTQ3TU5EQ0g2NlVhdzMwbFZMX2ZqcWNCcWdwUHRUT21pS1ZQTFEtdjlwcEwtZ3M1ZUFCeVVIbmRTdVhaaTQwUTdVSlhvdWZkRXFBUVFpa3pJdWdn?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 30 May 2026 07:33:19 GMT",
+      "summary": "AI shopping agents automate purchases, ushering zero-click e-commerce era &nbsp;&nbsp; MSN",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780126399.0
     },
     {
       "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
@@ -209,17 +220,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -341,6 +341,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjA3NlFoUDlpUWxEQzFmWHdsZnFzSm80d2tCME55ZWxxWVFFYmphTXhubHN3akdYMWhzWTRNZ0NuYm4tQVpiWkYwcF9aaWlMLW15SFF4SnZpc2FQcjNKRklKejN2dTZVZWZUYllXTHk3N2pIYXY1VElXbV9nOWtLSzR4d1A1cjFzQzY5YUFWbmxaZm4wa3pwOE9vWjY3TzVaTVFRbUkyVXpvbzdhNTk1LVd2amdJQjVxaUM3UXM2S3ZoY3NpeWd2UEdXVUtUeHM5VDdSOXAzMVdzVV9VTzdybFJlcTZ6QkVhcUp1dy1yYXQ1elZSRmh3LUtyaw?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "summary": "Klaviyo Delivers Strong Q1 2026 Results: 28% Revenue Growth, Record Operating Margin, and Raises Full Year Outlook &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1777964400.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -532,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 288,
-    "kept": 48,
+    "kept": 49,
     "opportunities": 21,
-    "threats": 27,
+    "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.0
+    "runtime_seconds": 13.3
   }
 }
