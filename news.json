@@ -1,6 +1,17 @@
 {
-  "updated": "2026-06-04T19:12:55.898175+00:00",
+  "updated": "2026-06-04T21:23:12.898440+00:00",
   "items": [
+    {
+      "title": "Identity sector moves to close trust gap in agentic commerce - Biometric Update",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTFrYzdZZUNiM0ZmOThzVWpPU3Y5QzJXaDIxWG5lbEFhYlFVV01xNDdrcFExOGUzQ1dyU0t5bUpZVjVpTi1ONXhtaWppS1I5UTlUbE5nUUktWUZqN3Vrbk9oTElEa3duaFRfUUNKZk1hTEtvVnRPcjJ3VWliN19fU3BEUWNZcU8zdFR3Nm5aZ0p6UnR2aXlUREhyc19sWFlU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 04 Jun 2026 19:36:33 GMT",
+      "summary": "Identity sector moves to close trust gap in agentic commerce &nbsp;&nbsp; Biometric Update",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780601793.0
+    },
     {
       "title": "Azoma and Digital Shelf Institute Launch “The 5 C’s of Agentic Commerce” to Rescue Brands From AI Pilot Purgatory - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOUlBdWJGY19kSGRvSF9PcnVEQU1LNHZPMjJUQ0NWUHlvOTVCRUc2M283bVlJc3ZiUXBTY2FGbTJyTzdMZ0ZMeUFtSzRTY2h2LWhyalg2NnZtQl9qaDNOaVdpTzQzWlBfcTNBX2lOX1ZwQ21mRkZTRTg0OEk5eGJDSlBJTWw1RUVLQ2FraTF1Y081V044TnJBMm02elZpVGZWcVBNT1AxcW1ZYnhneG1IME9LUFNob0pKcEk1N01OQ2ZKdmRpQjRqVkUwSDg1Tm0wMUR5NkRHaVdGQjdiSVFsYUZYbmlsLWdCa3hMM2N3eVd3X09vdGU0WGdWcw?oc=5",
@@ -55,28 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780580700.0
-    },
-    {
-      "title": "how do you deal with slow-moving inventory?",
-      "url": "https://www.reddit.com/r/ecommerce/comments/1twng7k/how_do_you_deal_with_slowmoving_inventory/",
-      "source": "r/ecommerce",
-      "published": "2026-06-04T13:18:44+00:00",
-      "summary": "I'm doing some research and noticed that many stores end up with products that sit in inventory for months without selling. I'm curious: How do you currently identify slow-moving or dead inventory? What do you do once you find it? Do you manually create discounts, bundles, or upsells? Have you found any tools that actually help clear old stock without hurting margins? I'm exploring whether there's a better way to automatically surface these products as checkout offers or post-purchase deals inst",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1780579124.0
-    },
-    {
-      "title": "The age of agentic commerce: Gopuff co-CEO Yakir Gola on Grok partnership - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMG96b2VPUml5ekxTZkMwelU5TGJORWJKbjUxWVpyUGpTMzZ6YUpNR1h2a2dVdndra05QQUtkZVR1dURZbTFhd1ZGbURUcXU3dXB2Z3Q1TGhIV2ZsQW9HZHNJYlhpQ3BpMkpVZzNnZUJrV2ZZVXI2TmZVWGFHV3MwUFVHX2paS1dCYjJsOEFfUERyS3c5VlozTVVvRDBEdFB6QWczQkZXVW10WFdwM3lDUHJYX2FDQQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 04 Jun 2026 11:50:31 GMT",
-      "summary": "The age of agentic commerce: Gopuff co-CEO Yakir Gola on Grok partnership &nbsp;&nbsp; CNBC",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780573831.0
     },
     {
       "title": "Amazon applies AI shopping tech to customer retailer agents with AWS - Digital Commerce 360",
@@ -277,26 +266,37 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
+      "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc00gHHAUFVX3lxTE9kWFpsRGR4ZFhwWS15WTR1QXNObjRybW1MaTdwcUxPb3ZDc0dNTHNKRjFIbDdqTFNPaUJhWmFiTmpuQTVPMHdzemw0YkFJSDdPSzFQNzNQSXJCSHloRnA0OGhReDFfeDZZVDBLTXV1aTYtOXV6c0RINjlwMjFNNTI1ZkQ3Unc1RGc4OHUtTk1ZdGZ3RWZUdzRfRWMxWmNvNWhkdDRoWTZwelI1anktNGdqdUdueTBwWXdfOC1XbUtBejVPTHVwRzQ?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
-      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
+      "published": "Thu, 04 Jun 2026 19:51:22 GMT",
+      "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1780563980.0
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1780602682.0
     },
     {
-      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc2dlc2libTZaOHEybF9Ib2ZRYkZ3azVBRWFBT3czM1g0VzJ6bE5yaldPa2MxdTB4TXBSX1JhYVZaeXhtbDVIVG5fOFlyMTNzcXh0bFZzcGZxMTFaTnoyOWVOMWpSdGRmVG5NVkdNdUZhRlJUbVU5MmdYMEhXcGtHbmU2aDRSMFRMb21ERnFUczRNZnFvWTVFUVByMUNtbDZhWlhSaGVXU1hWVnpRRU9aUG5iTVVrY2pTazZqeFA1NUl2UdIBxwFBVV95cUxPVU1qQjlTVmpJYVA5QzZYOENqWG9iN0MwZGtkN1lDRF8wS1luR2IxSzZOMThkelEwU2wwdVFvdVhrOXFxcGR4cHRtYkVWQnczUU9Ec1BhdlJrdlRmYm5FRGdReHBhWkxvN3g1LWJ5Qmk2aExpWmxWUXFBcFFRT0dhZGJpczJoR3c1WEU3eURyQnQxMEREYkdkcDBiVjNGUlVBNHhDQ2NkRThFaDFya3RaWnFmSERGaEV5cDVmck54T1RsYmVJTVZn?oc=5",
+      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOU5xRnZ5ZXlnZnZJLU9QRTJRYXZmYnBhaWI0TjROcnNDcEZKRmRydElYOGppWEJoSm53d2ltclZxcDZKZkVrVXlCREtJcHdHajdMYlZOMGFXNVF6Nk85OGhIQWE1WTJxdV9mMmx3aTY0Nk5UWWZrZWZ2OTMxNEM1bWNHM1hWNUc3MV9UeldnSDdRMWQwaDc2NzdXYWp5RXNCYnFmLVB6aWRLSWlFSGd5X1hmT3ZYR2h5S1hXT2o3WDdYLUpZbzNuM2tHZk52bk9Tc1FuLWctNXE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Wed, 03 Jun 2026 18:32:56 GMT",
-      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; simplywall.st",
+      "published": "Thu, 04 Jun 2026 13:54:47 GMT",
+      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; Sahm",
       "classification": "threat",
       "confidence": "high",
       "reasoning": "Klaviyo + raised, valuation",
-      "published_ts": 1780511576.0
+      "published_ts": 1780581287.0
+    },
+    {
+      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2ozN2g2ZktQbjlXb3k0YjVSVl8ybjBVdUVUeTE1RjNoVFF0bU1NaFo3TjVFRkV2X3RwSkl4ZGVocWotOVVqV2toVXZlU1lQdFJQdUtVUEloZnFFQklBa0Z4TGpVUXBad2Z3eUcyMTRlOEw2aDdSMk42V2RNdXF5TDBQdHhRN3ZxU2pfalhxamVfMmpfTGEyUjM1bVBkaTRPd1VuVG1xZGNONUJIZTZOTklRWDAteWlRZnMxZNIBxAFBVV95cUxQOGx1NzJLZThKMlB0YjQ3WjltMTZseVVQME14YU5paWlQU0lqODVFTnRuSklzS1N5blhNTlFudnlCS3ZPdWR0Si0tS1VPMHpLVE5oamlBYmtUekhNLUZCREpXSHhNNFo1WmU1aWppdHE3NWluWWlEajVEZE5ITTVyc3RVLTZ1TkRpX3ZmTUwxd1JOTUZRYW5ialVVZUZHY2pJSGFXYU5MV3pHQllPeC1nVDNYTENRakJfbjRLRWMxX3ItcXRz?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 04 Jun 2026 09:08:19 GMT",
+      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Insider Monkey",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1780564099.0
     },
     {
       "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - simplywall.st",
@@ -310,26 +310,15 @@
       "published_ts": 1780507694.0
     },
     {
-      "title": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ09GMmpGbTd0Z3pnRFYxUGVNQVZGRDJucVpJOFJBcnRYQnRyaktrbjVVM0NScW1MZFdlOXhoYXBMSktzMnJHM3hsVmlUcG12YWVtYWZ6VzJQNm14eTV4dVFteVVHcFFYemdGM0x1dXNEaVgwdS1jSEY5Rnd3alVFbjU2aWJGMjAwR2NjaTVjRkRVMFE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 02 Jun 2026 03:58:00 GMT",
-      "summary": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780372680.0
-    },
-    {
-      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 29 May 2026 09:46:33 GMT",
-      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "title": "Mailchimp launches Analytics AI and new integrations with Claude and Wix for marketers - Dynamic Business",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamFRRWhMellLUkZvUVRxeFJaWTd2bmhGWXlqeHJGV3BxN2Q4M2lQaGp3M2xpVm9HSkoyMUhfczZoR3R3Zm4yNmY3YnJ0MkpLbkhRUXl6a3JYam5QS2JhQ1ItMW1DdFlGdlFxSDlwcmN6YkFBdnZQdmo4RHNDWTJBeHM3UW1GTHpqdTZFNzJnZHlYTzdzSVhISDJTaVlPcDFsdjZvQW5FcnJKOENfN0U3TFRtV0EzWXFyR0FNdUw4NmtXTUI5THVUNEJhOA?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Mon, 01 Jun 2026 03:07:12 GMT",
+      "summary": "Mailchimp launches Analytics AI and new integrations with Claude and Wix for marketers &nbsp;&nbsp; Dynamic Business",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1780047993.0
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1780283232.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
@@ -519,6 +508,17 @@
       "published_ts": 1734681600.0
     },
     {
+      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729062000.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -555,9 +555,9 @@
   "stats": {
     "total_fetched": 288,
     "kept": 50,
-    "opportunities": 25,
-    "threats": 25,
+    "opportunities": 24,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.6
+    "runtime_seconds": 13.2
   }
 }
