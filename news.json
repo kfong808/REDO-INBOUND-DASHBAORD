@@ -1,6 +1,28 @@
 {
-  "updated": "2026-06-04T10:54:02.899109+00:00",
+  "updated": "2026-06-04T13:52:20.450501+00:00",
   "items": [
+    {
+      "title": "how do you deal with slow-moving inventory?",
+      "url": "https://www.reddit.com/r/ecommerce/comments/1twng7k/how_do_you_deal_with_slowmoving_inventory/",
+      "source": "r/ecommerce",
+      "published": "2026-06-04T13:18:44+00:00",
+      "summary": "I'm doing some research and noticed that many stores end up with products that sit in inventory for months without selling. I'm curious: How do you currently identify slow-moving or dead inventory? What do you do once you find it? Do you manually create discounts, bundles, or upsells? Have you found any tools that actually help clear old stock without hurting margins? I'm exploring whether there's a better way to automatically surface these products as checkout offers or post-purchase deals inst",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1780579124.0
+    },
+    {
+      "title": "The age of agentic commerce: Gopuff co-CEO Yakir Gola on Grok partnership - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMG96b2VPUml5ekxTZkMwelU5TGJORWJKbjUxWVpyUGpTMzZ6YUpNR1h2a2dVdndra05QQUtkZVR1dURZbTFhd1ZGbURUcXU3dXB2Z3Q1TGhIV2ZsQW9HZHNJYlhpQ3BpMkpVZzNnZUJrV2ZZVXI2TmZVWGFHV3MwUFVHX2paS1dCYjJsOEFfUERyS3c5VlozTVVvRDBEdFB6QWczQkZXVW10WFdwM3lDUHJYX2FDQQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 04 Jun 2026 11:50:31 GMT",
+      "summary": "The age of agentic commerce: Gopuff co-CEO Yakir Gola on Grok partnership &nbsp;&nbsp; CNBC",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780573831.0
+    },
     {
       "title": "Amazon applies AI shopping tech to customer retailer agents with AWS - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzlWc1dXNEdkRFdjTU03V0hXeEMtcS1iSUl0U0s4czlNZjE2Xy1FZ0Y0LXptUlRtc3dMdWhVMk1reEJ4cmJXUTkxMDg1S3VQLUp0VnlPRmNKdFF4dHk4allKTGVKUHczczY1QnJpZUNHcFBPTmpiZWJTUlhuNk1za0RwNFllaERnUjFGOE5CNkxhM3BrQmwwMXVaZ3d0RWlDcHYzekhfQ0JFb3o4YS1iXzJjaFFQZ9IBuwFBVV95cUxOckV6ZWhrVG9qTzlaazNndXN2X2xuME9vSE9KUlI4TzBxblVQQW1ZNzRFMUVLVklsV3kxb1diZlBOSk90XzZLTjd4OWctSlR6SXFJX0drU2pPRVhMNE1jZzJxQ2ZlQ1V6cWdaQllXTE1nSDM1LTFlTUV2Y1ZDdm9mSUtuVWJsWnZlNHNwQU5SdlVRQkhxM3lVdThNSDRhMk9Qd2VKc3NaSi15LWhBOUh3eVRwMTlpM2ZzSFlv?oc=5",
@@ -35,17 +57,6 @@
       "published_ts": 1780502854.0
     },
     {
-      "title": "Searching for Trust in Agentic Commerce - PaymentsJournal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V3dQUTZUMGFkUkk0eTAyQ0FfUUxDeE1yMW9jVHE4RGhFM2hZdFJzWFdReWYtLWF5MDNua29aZnVVY1liZUJCMV82T0MxMG1EbXFLbDctUXVIU21WeUg0RFlmc0h5Z1ZWWVVkMkp1elY0YlpFVllBTHpnWkzSAYIBQVVfeXFMTnNVd0lEaFZ5dlRFc0Z0ejJERThXa3FrV0ZBQ3cxM1cxVHp2X2RYYUVlcUJEVGdJajFFRU5VQTdPd2FYQ1dwcDVBSHJ3RFFkVEtGVmp4X2JheGFFcWEzTEt3aEgycklvZm02M3UxQXlLVno5aDdFTncyYy1NYWNpUnRWZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 03 Jun 2026 13:00:00 GMT",
-      "summary": "Searching for Trust in Agentic Commerce &nbsp;&nbsp; PaymentsJournal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780491600.0
-    },
-    {
       "title": "New Ecommerce Tools: June 3, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
       "source": "Practical Ecommerce",
@@ -66,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780417439.0
-    },
-    {
-      "title": "Amazon offers AI agent tech to other retailers",
-      "url": "https://www.retaildive.com/news/amazon-to-offer-ai-agents-to-other-retailers/821597/",
-      "source": "Retail Dive",
-      "published": "Tue, 02 Jun 2026 11:47:00 -0400",
-      "summary": "The online retail behemoth wants to narrow the time it takes for retailers to launch AI shopping assistants, starting with Kate Spade.",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780415220.0
     },
     {
       "title": "Europe is Building the Foundations for Trusted Agentic Commerce - Mastercard",
@@ -123,17 +123,6 @@
       "published_ts": 1780154742.0
     },
     {
-      "title": "AI shopping agents automate purchases, ushering zero-click e-commerce era - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHFJMVY0RjlidkltNWF3MlhMMXBsWWZyVFk4REJLUWRuRFU2MkszTTlEYjZzRnowejRCSHZtcV9nNHVUUjRIaExfTUY1TXN5d2R0MDZvZkJYUGdWaUFHVEgzakhSMTFIVnVibTQ3TU5EQ0g2NlVhdzMwbFZMX2ZqcWNCcWdwUHRUT21pS1ZQTFEtdjlwcEwtZ3M1ZUFCeVVIbmRTdVhaaTQwUTdVSlhvdWZkRXFBUVFpa3pJdWdn?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sat, 30 May 2026 07:33:19 GMT",
-      "summary": "AI shopping agents automate purchases, ushering zero-click e-commerce era &nbsp;&nbsp; MSN",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780126399.0
-    },
-    {
       "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
       "source": "Google News: AI shopping agent",
@@ -143,6 +132,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780065478.0
+    },
+    {
+      "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 27 May 2026 13:10:01 GMT",
+      "summary": "Amazon starts selling its AI shopping technology to other retailers &nbsp;&nbsp; CNBC",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1779887401.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -244,15 +244,15 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
+      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2ozN2g2ZktQbjlXb3k0YjVSVl8ybjBVdUVUeTE1RjNoVFF0bU1NaFo3TjVFRkV2X3RwSkl4ZGVocWotOVVqV2toVXZlU1lQdFJQdUtVUEloZnFFQklBa0Z4TGpVUXBad2Z3eUcyMTRlOEw2aDdSMk42V2RNdXF5TDBQdHhRN3ZxU2pfalhxamVfMmpfTGEyUjM1bVBkaTRPd1VuVG1xZGNONUJIZTZOTklRWDAteWlRZnMxZNIBxAFBVV95cUxQOGx1NzJLZThKMlB0YjQ3WjltMTZseVVQME14YU5paWlQU0lqODVFTnRuSklzS1N5blhNTlFudnlCS3ZPdWR0Si0tS1VPMHpLVE5oamlBYmtUekhNLUZCREpXSHhNNFo1WmU1aWppdHE3NWluWWlEajVEZE5ITTVyc3RVLTZ1TkRpX3ZmTUwxd1JOTUZRYW5ialVVZUZHY2pJSGFXYU5MV3pHQllPeC1nVDNYTENRakJfbjRLRWMxX3ItcXRz?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
-      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
+      "published": "Thu, 04 Jun 2026 09:08:19 GMT",
+      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Insider Monkey",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
-      "published_ts": 1780563980.0
+      "published_ts": 1780564099.0
     },
     {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
@@ -297,17 +297,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1780372680.0
-    },
-    {
-      "title": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajIyN1lDV1VqcGZ0ZV84UXRzY3NqczkxdUNDVUwtM2JPREEzMjFHXzNfRmJPeUFESWNXUzF1YmNrdktGMVRmNFZFZ28wN0M4X2ozOHdMYW1wR1lEaC1BRWlrTFRZMXk5ank5R3lwRjJFeGYzUnJwNldWV3l6bHJSYThaODRRZWFRaVBsQ1FYSEtsSl9pdTczU2hoUi1MUHY3aUZkZWZtY2RUX2Y0SWhYWHAzTkl1R2poLWY0QnBEcmExZ2RTd0E?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 29 May 2026 09:46:33 GMT",
-      "summary": "Huntington National Bank Acquires 89,800 Shares of Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1780047993.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
@@ -532,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 288,
-    "kept": 48,
+    "kept": 47,
     "opportunities": 22,
-    "threats": 26,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 13.5
   }
 }
