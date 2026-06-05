@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T20:44:52.065461+00:00",
+  "updated": "2026-06-05T22:08:45.014992+00:00",
   "items": [
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780666679.0
-    },
-    {
-      "title": "Adyen: Unified Commerce and Navigating the Shift to Agentic AI Shopping - Fintech Finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTjdBbUhmcml2cWxGS3pSNURxWGp1bFlRSVJIZ1lBVldHM1ZNNWVxTzhwdkN3eS1LYkZMbnhwdU0ta2ZQNHhGODlzZWd4aHdFSU5TclpWaXZOWHFWQndTRW11T1Z1X2dETG1KQzZhd1AwVWFRempHeUM3cFBuV3VaTXN3dzdwX2t4M3ZGbXlSeVg0RktuN0tRaGtXbVNDQkhyLWRtTFVhUUVJclFVUlJ5blprRmktUXVQMUdScVR6ZWdGcG03RE9VbHhCRFN0UlFDR3BWUzhmMVluRXRaZGJSZ054TENuUEVm?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 05 Jun 2026 13:06:08 GMT",
-      "summary": "Adyen: Unified Commerce and Navigating the Shift to Agentic AI Shopping &nbsp;&nbsp; Fintech Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780664768.0
     },
     {
       "title": "The 5C’s of Agentic Commerce - channelx.world",
@@ -112,6 +101,17 @@
       "published_ts": 1780502854.0
     },
     {
+      "title": "Searching for Trust in Agentic Commerce - PaymentsJournal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V3dQUTZUMGFkUkk0eTAyQ0FfUUxDeE1yMW9jVHE4RGhFM2hZdFJzWFdReWYtLWF5MDNua29aZnVVY1liZUJCMV82T0MxMG1EbXFLbDctUXVIU21WeUg0RFlmc0h5Z1ZWWVVkMkp1elY0YlpFVllBTHpnWkzSAYIBQVVfeXFMTnNVd0lEaFZ5dlRFc0Z0ejJERThXa3FrV0ZBQ3cxM1cxVHp2X2RYYUVlcUJEVGdJajFFRU5VQTdPd2FYQ1dwcDVBSHJ3RFFkVEtGVmp4X2JheGFFcWEzTEt3aEgycklvZm02M3UxQXlLVno5aDdFTncyYy1NYWNpUnRWZw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 03 Jun 2026 13:00:00 GMT",
+      "summary": "Searching for Trust in Agentic Commerce &nbsp;&nbsp; PaymentsJournal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780491600.0
+    },
+    {
       "title": "New Ecommerce Tools: June 3, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
       "source": "Practical Ecommerce",
@@ -156,15 +156,15 @@
       "published_ts": 1780232491.0
     },
     {
-      "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
+      "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "Amazon starts selling its AI shopping technology to other retailers &nbsp;&nbsp; CNBC",
+      "published": "Fri, 29 May 2026 14:37:58 GMT",
+      "summary": "Amazon opens its AI shopping tech for business with retailers &nbsp;&nbsp; Retail Brew",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1779865200.0
+      "published_ts": 1780065478.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -244,28 +244,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1767686400.0
-    },
-    {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
-    },
-    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -277,26 +255,15 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDJfUkY0bUZ4Wnp4cU43WUE3cVVHY0VnLVktN1QzMXVHRzVvaVB2QV9uUXBHakNQY1JkMDlGb1hlZmFBMkFZX05GWk44WEZoYlpkb09aNzV4MnMyUHhpeDRkand1ek9tV3ZqM3pKMDFsdzdLTXZyNGpqb1UzN09pdjR5NE1FR0s2d1VMdy1FY1hJRFlBTG0zQW5SQmtqejBnaEc5eURCZ0lMemtZc1JRbHltQ1BGM1ppcGd6XzNhYnAyd9IBxwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc0?oc=5",
+      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOU5xRnZ5ZXlnZnZJLU9QRTJRYXZmYnBhaWI0TjROcnNDcEZKRmRydElYOGppWEJoSm53d2ltclZxcDZKZkVrVXlCREtJcHdHajdMYlZOMGFXNVF6Nk85OGhIQWE1WTJxdV9mMmx3aTY0Nk5UWWZrZWZ2OTMxNEM1bWNHM1hWNUc3MV9UeldnSDdRMWQwaDc2NzdXYWp5RXNCYnFmLVB6aWRLSWlFSGd5X1hmT3ZYR2h5S1hXT2o3WDdYLUpZbzNuM2tHZk52bk9Tc1FuLWctNXE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 19:51:19 GMT",
-      "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
+      "published": "Thu, 04 Jun 2026 13:54:47 GMT",
+      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; Sahm",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780602679.0
-    },
-    {
-      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
-      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1780563980.0
+      "confidence": "high",
+      "reasoning": "Klaviyo + raised, valuation",
+      "published_ts": 1780581287.0
     },
     {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
@@ -565,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 287,
-    "kept": 51,
-    "opportunities": 25,
-    "threats": 26,
+    "kept": 48,
+    "opportunities": 23,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 12.4
   }
 }
