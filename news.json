@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T02:13:42.050519+00:00",
+  "updated": "2026-06-05T06:57:33.525529+00:00",
   "items": [
     {
       "title": "Identity sector moves to close trust gap in agentic commerce - Biometric Update",
@@ -77,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780537275.0
+    },
+    {
+      "title": "Preparing for agentic commerce: REWE’s AI transformation - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMC10NXBMUDNnaVk5alh3aTJhdFJmUFFMMDR5dmdweWtiemZONC1IZ1VVVjhaQ29wUXRoQWYtZ3VkdnZBVFhwenUzVG1veEVrUllmdk5mMXBGdHlxY041Wi1sRXpOdVFkT2V0MWdLdEFyQW9YT1lEWGpPMEFRWWNIdFBQMVljbF9yZEx3ck9BcXMwblVBbGYtY01GakZOUjRUZ1hrbWs0QVNmZ0U2NWdV?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "summary": "Preparing for agentic commerce: REWE’s AI transformation &nbsp;&nbsp; McKinsey & Company",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780531200.0
     },
     {
       "title": "Horizon Media Study Identifies The \"Trust Tax\": How AI Shopping Can Quietly Erode Brand Loyalty - PR Newswire",
@@ -354,17 +365,6 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1776927600.0
-    },
-    {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzJpM2lKczF1elFhQ3liQXRTQjFqZ1p1OU5SLWl3Q19YXzZqYjlFZ3ZoS19CajUzMFM5dnN5OUVsc280TlEwbnZEN25waTl3clY1MnczSnhDeV90SDNPS0RMeXlzVnk3TDRkLUptc0FteGJTSHlzTmNHVk11STdsT1FDRlhJWlRsTjhTbkM5d1UyX0s4NUtjczhnRVFOYmdkbWpLd2FEMldZUFFS?oc=5",
       "source": "Google News: Narvar",
@@ -453,6 +453,17 @@
       "published_ts": 1756882800.0
     },
     {
+      "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHBkSW45S0k5bFBraVMxMW80TVlVYkNfM3FCYUNvWmpBYTNmTmk5Mk5KNzA4YzVnNTBSSVBNbzdMUWxKSmhHZkx6YVhXaDhQRTU4UTFEeDlnSEFwVC1wd3BIamcyaFFXNjg0TlJqQmllQko5YWNmc3dvSlMwcVZDNVVQcnNuYUtsTzdscXZ3?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "summary": "Yotpo lays off 200 as AI hits headcount &nbsp;&nbsp; Globes - Israel Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1754377200.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -484,17 +495,6 @@
       "confidence": "medium",
       "reasoning": "Narvar + valuation",
       "published_ts": 1734681600.0
-    },
-    {
-      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1729062000.0
     },
     {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
@@ -533,9 +533,9 @@
   "stats": {
     "total_fetched": 288,
     "kept": 48,
-    "opportunities": 23,
-    "threats": 25,
+    "opportunities": 24,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.6
+    "runtime_seconds": 11.3
   }
 }
