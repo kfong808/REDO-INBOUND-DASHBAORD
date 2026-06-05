@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T10:43:47.302779+00:00",
+  "updated": "2026-06-05T13:47:24.293996+00:00",
   "items": [
     {
       "title": "Identity sector moves to close trust gap in agentic commerce - Biometric Update",
@@ -101,6 +101,17 @@
       "published_ts": 1780502854.0
     },
     {
+      "title": "Searching for Trust in Agentic Commerce - PaymentsJournal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V3dQUTZUMGFkUkk0eTAyQ0FfUUxDeE1yMW9jVHE4RGhFM2hZdFJzWFdReWYtLWF5MDNua29aZnVVY1liZUJCMV82T0MxMG1EbXFLbDctUXVIU21WeUg0RFlmc0h5Z1ZWWVVkMkp1elY0YlpFVllBTHpnWkzSAYIBQVVfeXFMTnNVd0lEaFZ5dlRFc0Z0ejJERThXa3FrV0ZBQ3cxM1cxVHp2X2RYYUVlcUJEVGdJajFFRU5VQTdPd2FYQ1dwcDVBSHJ3RFFkVEtGVmp4X2JheGFFcWEzTEt3aEgycklvZm02M3UxQXlLVno5aDdFTncyYy1NYWNpUnRWZw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 03 Jun 2026 13:00:00 GMT",
+      "summary": "Searching for Trust in Agentic Commerce &nbsp;&nbsp; PaymentsJournal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780491600.0
+    },
+    {
       "title": "New Ecommerce Tools: June 3, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
       "source": "Practical Ecommerce",
@@ -110,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780491200.0
-    },
-    {
-      "title": "How top eCommerce leaders are preparing for the agentic commerce era - Mirakl",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0ZyM200Uk45OFN5YXA3M1U4QUMtQ0dUUzRZZWpmRFhWbGlwXzFyR0dsX3ZYeGotNkhRSGwzdEVTWVlud2kzUEFud1hhcWhZUkFQRnJZN1ZLdDJjUGJWeWZ3MUNudzYyX1hWVFhHbjdNcU1BaXhwLUdSU0dJckJ6MUlsWTZBc19MVFo0bW9helhxWXJoMWpub0xTalQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "summary": "How top eCommerce leaders are preparing for the agentic commerce era &nbsp;&nbsp; Mirakl",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780470000.0
     },
     {
       "title": "Press Release: Hey Savi and PayPal Launch UK's First Agentic Commerce Platform with In-App Checkout; Debenhams Group Joins as First Retail Adopter - Jun 2, 2026 - PayPal Newsroom",
@@ -278,69 +278,58 @@
     },
     {
       "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc00gHHAUFVX3lxTE9kWFpsRGR4ZFhwWS15WTR1QXNObjRybW1MaTdwcUxPb3ZDc0dNTHNKRjFIbDdqTFNPaUJhWmFiTmpuQTVPMHdzemw0YkFJSDdPSzFQNzNQSXJCSHloRnA0OGhReDFfeDZZVDBLTXV1aTYtOXV6c0RINjlwMjFNNTI1ZkQ3Unc1RGc4OHUtTk1ZdGZ3RWZUdzRfRWMxWmNvNWhkdDRoWTZwelI1anktNGdqdUdueTBwWXdfOC1XbUtBejVPTHVwRzQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDJfUkY0bUZ4Wnp4cU43WUE3cVVHY0VnLVktN1QzMXVHRzVvaVB2QV9uUXBHakNQY1JkMDlGb1hlZmFBMkFZX05GWk44WEZoYlpkb09aNzV4MnMyUHhpeDRkand1ek9tV3ZqM3pKMDFsdzdLTXZyNGpqb1UzN09pdjR5NE1FR0s2d1VMdy1FY1hJRFlBTG0zQW5SQmtqejBnaEc5eURCZ0lMemtZc1JRbHltQ1BGM1ppcGd6XzNhYnAyd9IBxwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc0?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 19:51:22 GMT",
+      "published": "Thu, 04 Jun 2026 19:51:19 GMT",
       "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780602682.0
+      "published_ts": 1780602679.0
     },
     {
-      "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - Sahm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblJRNjI0RUR6R0ZBdjJ2eUF2RDZ1QXNyeUpNODdsWHhpd1dLanZ0dEx5THE4U0E0ZlZvNDlCbWNJQno2cmlZcG9iWVROUHY2ZlNxV0xOa3dvM0I1Tzlka2lrQWRiRGRLbjFJX1lyTEZGSGlXNFZJX0ZSWGxTMGJvWGN4dnk0SklsWWp4SUtNdW9veEtDS25IMktnQm96VWVhSUJLTUxhLWtlVnFxRjUzUVNGNEtHRlM0ZGc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 04 Jun 2026 14:24:59 GMT",
-      "summary": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts &nbsp;&nbsp; Sahm",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1780583099.0
-    },
-    {
-      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Insider Monkey",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2ozN2g2ZktQbjlXb3k0YjVSVl8ybjBVdUVUeTE1RjNoVFF0bU1NaFo3TjVFRkV2X3RwSkl4ZGVocWotOVVqV2toVXZlU1lQdFJQdUtVUEloZnFFQklBa0Z4TGpVUXBad2Z3eUcyMTRlOEw2aDdSMk42V2RNdXF5TDBQdHhRN3ZxU2pfalhxamVfMmpfTGEyUjM1bVBkaTRPd1VuVG1xZGNONUJIZTZOTklRWDAteWlRZnMxZNIBxAFBVV95cUxQOGx1NzJLZThKMlB0YjQ3WjltMTZseVVQME14YU5paWlQU0lqODVFTnRuSklzS1N5blhNTlFudnlCS3ZPdWR0Si0tS1VPMHpLVE5oamlBYmtUekhNLUZCREpXSHhNNFo1WmU1aWppdHE3NWluWWlEajVEZE5ITTVyc3RVLTZ1TkRpX3ZmTUwxd1JOTUZRYW5ialVVZUZHY2pJSGFXYU5MV3pHQllPeC1nVDNYTENRakJfbjRLRWMxX3ItcXRz?oc=5",
+      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 09:08:19 GMT",
-      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Insider Monkey",
+      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
+      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
-      "published_ts": 1780564099.0
+      "published_ts": 1780563980.0
     },
     {
-      "title": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ09GMmpGbTd0Z3pnRFYxUGVNQVZGRDJucVpJOFJBcnRYQnRyaktrbjVVM0NScW1MZFdlOXhoYXBMSktzMnJHM3hsVmlUcG12YWVtYWZ6VzJQNm14eTV4dVFteVVHcFFYemdGM0x1dXNEaVgwdS1jSEY5Rnd3alVFbjU2aWJGMjAwR2NjaTVjRkRVMFE?oc=5",
+      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc2dlc2libTZaOHEybF9Ib2ZRYkZ3azVBRWFBT3czM1g0VzJ6bE5yaldPa2MxdTB4TXBSX1JhYVZaeXhtbDVIVG5fOFlyMTNzcXh0bFZzcGZxMTFaTnoyOWVOMWpSdGRmVG5NVkdNdUZhRlJUbVU5MmdYMEhXcGtHbmU2aDRSMFRMb21ERnFUczRNZnFvWTVFUVByMUNtbDZhWlhSaGVXU1hWVnpRRU9aUG5iTVVrY2pTazZqeFA1NUl2UdIBxwFBVV95cUxPVU1qQjlTVmpJYVA5QzZYOENqWG9iN0MwZGtkN1lDRF8wS1luR2IxSzZOMThkelEwU2wwdVFvdVhrOXFxcGR4cHRtYkVWQnczUU9Ec1BhdlJrdlRmYm5FRGdReHBhWkxvN3g1LWJ5Qmk2aExpWmxWUXFBcFFRT0dhZGJpczJoR3c1WEU3eURyQnQxMEREYkdkcDBiVjNGUlVBNHhDQ2NkRThFaDFya3RaWnFmSERGaEV5cDVmck54T1RsYmVJTVZn?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 02 Jun 2026 03:58:00 GMT",
-      "summary": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO &nbsp;&nbsp; Yahoo Finance",
+      "published": "Wed, 03 Jun 2026 18:32:56 GMT",
+      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Klaviyo + raised, valuation",
+      "published_ts": 1780511576.0
+    },
+    {
+      "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0xIN0Z5c21yU1ZyVmtZbUFJT050bjVvcmZuMktBbm5tZ25GYTlFTWZ4ZExDeFhKN05OTS1MSk8zU3pUVlZ5Vlc1YTQ5bnFNdWVTaUZwVDRmcURxTkpSeFRNQ3hweTNrUHpMUll3amVGNkNDR2FpZ1lWdFhYckVCMGpyOFZLRnByamQ2VjBudEYxXzBDNEJsc1c0XzgxX0U2QjNScXRPS0JOUUVodFluMzVOb05PdXJHR1NaY2dQemdTN050SXUxN9IByAFBVV95cUxOU0xIN0Z5c21yU1ZyVmtZbUFJT050bjVvcmZuMktBbm5tZ25GYTlFTWZ4ZExDeFhKN05OTS1MSk8zU3pUVlZ5Vlc1YTQ5bnFNdWVTaUZwVDRmcURxTkpSeFRNQ3hweTNrUHpMUll3amVGNkNDR2FpZ1lWdFhYckVCMGpyOFZLRnByamQ2VjBudEYxXzBDNEJsc1c0XzgxX0U2QjNScXRPS0JOUUVodFluMzVOb05PdXJHR1NaY2dQemdTN050SXUxNw?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Wed, 03 Jun 2026 17:28:15 GMT",
+      "summary": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780372680.0
-    },
-    {
-      "title": "Mailchimp launches Analytics AI and new integrations with Claude and Wix for marketers - Dynamic Business",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamFRRWhMellLUkZvUVRxeFJaWTd2bmhGWXlqeHJGV3BxN2Q4M2lQaGp3M2xpVm9HSkoyMUhfczZoR3R3Zm4yNmY3YnJ0MkpLbkhRUXl6a3JYam5QS2JhQ1ItMW1DdFlGdlFxSDlwcmN6YkFBdnZQdmo4RHNDWTJBeHM3UW1GTHpqdTZFNzJnZHlYTzdzSVhISDJTaVlPcDFsdjZvQW5FcnJKOENfN0U3TFRtV0EzWXFyR0FNdUw4NmtXTUI5THVUNEJhOA?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Mon, 01 Jun 2026 03:07:12 GMT",
-      "summary": "Mailchimp launches Analytics AI and new integrations with Claude and Wix for marketers &nbsp;&nbsp; Dynamic Business",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1780283232.0
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1780507695.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 13:00:00 GMT",
+      "published": "Thu, 28 May 2026 13:07:18 GMT",
       "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
-      "published_ts": 1779973200.0
+      "published_ts": 1779973638.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -396,6 +385,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
+    },
+    {
+      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1770710400.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -569,6 +569,6 @@
     "opportunities": 25,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 13.4
   }
 }
