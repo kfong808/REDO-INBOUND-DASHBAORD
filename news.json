@@ -1,6 +1,17 @@
 {
-  "updated": "2026-06-06T11:15:44.298886+00:00",
+  "updated": "2026-06-06T13:08:59.543398+00:00",
   "items": [
+    {
+      "title": "To all the ecommerce online shoppers",
+      "url": "https://www.reddit.com/r/ecommerce/comments/1tyfcio/to_all_the_ecommerce_online_shoppers/",
+      "source": "r/ecommerce",
+      "published": "2026-06-06T11:58:41+00:00",
+      "summary": "Hey'all had some questions regarding ai shopping assistant. Do you do your shopping using any AI shopping assistant? If yes then which one do you find best? What do you think are the flaws in the existing agents or apps? Have they actually helped you save any money? Finally, what do you actually want an AI shopping assistant to be like? Looking forward to hearing y'all opinions. Answer to ANY question is highly welcome. Thanks for helping out. Cheers! &#32; submitted by &#32; /u/SignificantPool5",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780747121.0
+    },
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
@@ -11,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780670659.0
-    },
-    {
-      "title": "Identity sector moves to close trust gap in agentic commerce - Biometric Update",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTFrYzdZZUNiM0ZmOThzVWpPU3Y5QzJXaDIxWG5lbEFhYlFVV01xNDdrcFExOGUzQ1dyU0t5bUpZVjVpTi1ONXhtaWppS1I5UTlUbE5nUUktWUZqN3Vrbk9oTElEa3duaFRfUUNKZk1hTEtvVnRPcjJ3VWliN19fU3BEUWNZcU8zdFR3Nm5aZ0p6UnR2aXlUREhyc19sWFlU?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 04 Jun 2026 20:00:00 GMT",
-      "summary": "Identity sector moves to close trust gap in agentic commerce &nbsp;&nbsp; Biometric Update",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780603200.0
     },
     {
       "title": "Agentic commerce puts data quality at the center of retail’s next era - SiliconANGLE",
@@ -123,6 +123,17 @@
       "published_ts": 1780470000.0
     },
     {
+      "title": "Webinar | Agentic Commerce Playbook: Strategies for Implementation and Scaling - Coresight Research",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWN6UnloaFI2NEFEVE5PVTBxLWZPNFRkVE5XODk1R0NCeFJqamhwSmpwQ0trYm53bDRVdDFvVFh2RDRVZWpFX2RUN2VzNG10bUJ4b3FueGNzSlVnYlhNalVVdkFYQlloY2ljN1otRHRYN0ppeFFscU5ybXhNdTE1ZXp6Zw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 02 Jun 2026 17:29:05 GMT",
+      "summary": "Webinar | Agentic Commerce Playbook: Strategies for Implementation and Scaling &nbsp;&nbsp; Coresight Research",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780421345.0
+    },
+    {
       "title": "Press Release: Hey Savi and PayPal Launch UK's First Agentic Commerce Platform with In-App Checkout; Debenhams Group Joins as First Retail Adopter - Jun 2, 2026 - PayPal Newsroom",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNEZ1THJzV3NBR1p0dzBvX2tva2dHLTNwWUgtUzNBal9CODJWOHlrNEpnM2J1VjROb0Vzd3JyT3RpVXVwX2U1ZGhYUTFaU0FXNGJNcVVjaWRsSVV1UzJENjF3UHFUX1ZZSmJiSXBleWlGWnNnQkZwODRuVW15MUZ4TVp0VzJZVFhXaU5QdWI2dnhqVDBqVUZ0QlRrOHVXTVFaMmRUZmEwU1FobEFxZ2ZEZl90TUpUQ1IzUDZrYmJmV3g2bUJ5TTBlVGlXVjEzbVRaSUNheXJlWjhTU0xKWTNLVmE4VHFPT2FEYldKRHUwa0J4RUkxZXJQVU54Y2ljamluLUg0?oc=5",
       "source": "Google News: agentic commerce",
@@ -156,15 +167,15 @@
       "published_ts": 1780232491.0
     },
     {
-      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQU1ISnpSZWVFUWRVQnJHSzJEMFN0OHY5ZkY4Y0JSTHdNb2VDYWRYa3VJMWlzRFJvbkdTZmlMOUtzZVNxRkduNmpwbk9JNEhxd24xelhzSERsUXZYdkVTSmFpU0VydGltR1U5NmlwNmswbGVDano4c2o0SGxLRW5DdjVITTU3akxmWFdwbWo5UEJKVExCd3Z0TDJNc1R1UC1SdWt4TkpZRFhMUjkxaXd5eTVBLXY3aEdIdGVfUA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 29 May 2026 14:37:58 GMT",
+      "summary": "Amazon opens its AI shopping tech for business with retailers &nbsp;&nbsp; Retail Brew",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779778800.0
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780065478.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -233,28 +244,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1767686400.0
-    },
-    {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
-    },
-    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -277,15 +266,26 @@
       "published_ts": 1718002800.0
     },
     {
-      "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc00gHHAUFVX3lxTE9kWFpsRGR4ZFhwWS15WTR1QXNObjRybW1MaTdwcUxPb3ZDc0dNTHNKRjFIbDdqTFNPaUJhWmFiTmpuQTVPMHdzemw0YkFJSDdPSzFQNzNQSXJCSHloRnA0OGhReDFfeDZZVDBLTXV1aTYtOXV6c0RINjlwMjFNNTI1ZkQ3Unc1RGc4OHUtTk1ZdGZ3RWZUdzRfRWMxWmNvNWhkdDRoWTZwelI1anktNGdqdUdueTBwWXdfOC1XbUtBejVPTHVwRzQ?oc=5",
+      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOU5xRnZ5ZXlnZnZJLU9QRTJRYXZmYnBhaWI0TjROcnNDcEZKRmRydElYOGppWEJoSm53d2ltclZxcDZKZkVrVXlCREtJcHdHajdMYlZOMGFXNVF6Nk85OGhIQWE1WTJxdV9mMmx3aTY0Nk5UWWZrZWZ2OTMxNEM1bWNHM1hWNUc3MV9UeldnSDdRMWQwaDc2NzdXYWp5RXNCYnFmLVB6aWRLSWlFSGd5X1hmT3ZYR2h5S1hXT2o3WDdYLUpZbzNuM2tHZk52bk9Tc1FuLWctNXE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 19:51:22 GMT",
-      "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
+      "published": "Thu, 04 Jun 2026 13:54:47 GMT",
+      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; Sahm",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780602682.0
+      "confidence": "high",
+      "reasoning": "Klaviyo + raised, valuation",
+      "published_ts": 1780581287.0
+    },
+    {
+      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
+      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1780563980.0
     },
     {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
@@ -319,6 +319,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG5JMFhodnR4MlZINWh2Z0JmRHZOclBMdTRrbUJiWGFPNGhTTV9IZTdoUU92eGR1dldvTDBaYkVnQXYzU1ZpUjlCRExfdlBHcEFVMHlqeHc1VGF1RXJXQTAzUjdWWV9neXB6ZWwwODcxWnA3TXlBWTgxcDNmRVQ0YXhtX0VtQUpkeTF6TzdvbFl3akdmNFJXX25QTTNKWnpEY05VbGx3cHlYRVZlWVVRRm52a0M?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 21 May 2026 22:38:28 GMT",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1779403108.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -409,17 +420,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZjduZ2VLdGM2dGtLLUE1VE9yRzN5LUJlMFh3dUpNazBvU2lhb01OSjlHaXRTaXZTeUJMbWE0dzNXUDBvaHdVaVVEMHczS1VHRHJHZmdn?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation &nbsp;&nbsp; GetLatka",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + valuation",
-      "published_ts": 1766390400.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -440,17 +440,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1762416000.0
-    },
-    {
-      "title": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3JJby1WWjdyQXdOcExhdWhuQ3o1N2trbEx3QzBocDc4bGtTZzhIZVhBcGhoMVk3MHN3bjdwdVluZDRDS09HbnNGN0V4M25UUzk1azNJZkFyemJ1U0x5dndGclhFXzB6RG56cHFvdG9TdENJZEdwUnNJRk8tM1VaYWZZME9VWXZlTjZGdXJ2YmJMNHV6ZVVOQ09KYzgyWW5KenhHelpR?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "summary": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1756882800.0
     },
     {
       "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
@@ -497,6 +486,17 @@
       "published_ts": 1734681600.0
     },
     {
+      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729062000.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -533,9 +533,9 @@
   "stats": {
     "total_fetched": 288,
     "kept": 48,
-    "opportunities": 25,
-    "threats": 23,
+    "opportunities": 24,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 146.5
   }
 }
