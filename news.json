@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T22:55:37.389496+00:00",
+  "updated": "2026-06-06T23:57:12.361314+00:00",
   "items": [
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -13,6 +13,17 @@
       "published_ts": 1780670659.0
     },
     {
+      "title": "Identity sector moves to close trust gap in agentic commerce - Biometric Update",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTFrYzdZZUNiM0ZmOThzVWpPU3Y5QzJXaDIxWG5lbEFhYlFVV01xNDdrcFExOGUzQ1dyU0t5bUpZVjVpTi1ONXhtaWppS1I5UTlUbE5nUUktWUZqN3Vrbk9oTElEa3duaFRfUUNKZk1hTEtvVnRPcjJ3VWliN19fU3BEUWNZcU8zdFR3Nm5aZ0p6UnR2aXlUREhyc19sWFlU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 04 Jun 2026 20:00:00 GMT",
+      "summary": "Identity sector moves to close trust gap in agentic commerce &nbsp;&nbsp; Biometric Update",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780603200.0
+    },
+    {
       "title": "Agentic commerce puts data quality at the center of retail’s next era - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjhHTVo3ckVoYTg5U2dhdXZQd3Fuc09nd0NwT3lNeWpQSFctLVdWaUxkbWVFODN1Q2ZBSkJWUzlscWp3RUtPRTBLR0VlYXUzdnJTdHRaSUo4Ymo5WG54MWh2R05ZZV9tQnY4THM1ZGlTR1JFaGljYkxJVVJWY2YtNW9uUnF3cTFRb3MtNzBMZlVBOXM0VEtDaGVSRjM?oc=5",
       "source": "Google News: agentic commerce",
@@ -22,6 +33,28 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780582920.0
+    },
+    {
+      "title": "MegazoneCloud Deploys Multi-Agent AI Shopping Agent for Golfzon Commerce - TPI Media Group",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZnRZMEo5Tk9xYV9VN0g4b3Q3Sm43aGNFd0YtQjJmd1lZWGF1U1lDaVRfQXYzTFZVQlNLZDNRWXBxQnl2Y2dFcDlmYl8yNWRNM3ZacXBEUVhiOGlia3c5ZXlRRlItRXRPcEhKSjhDYTAza0hHeFVYazF0S3FkQU1UTUVjZ2JISjdqbENTSjgzcWxkSnRjbTYya1hYeWRMMkVyZGdwWWI4SkYyM0NuTy1nY0RGZFh2X1doalRUblBJdmVSaUd3ZWRrV2d3c1lWNkR0a3NrWE5mazNpdnlVeVRhM0RTNkl3WFR4WWpCeWtFaFZYVUZibFFpZzJULVc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 04 Jun 2026 13:45:00 GMT",
+      "summary": "MegazoneCloud Deploys Multi-Agent AI Shopping Agent for Golfzon Commerce &nbsp;&nbsp; TPI Media Group",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780580700.0
+    },
+    {
+      "title": "Amazon applies AI shopping tech to customer retailer agents with AWS - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzlWc1dXNEdkRFdjTU03V0hXeEMtcS1iSUl0U0s4czlNZjE2Xy1FZ0Y0LXptUlRtc3dMdWhVMk1reEJ4cmJXUTkxMDg1S3VQLUp0VnlPRmNKdFF4dHk4allKTGVKUHczczY1QnJpZUNHcFBPTmpiZWJTUlhuNk1za0RwNFllaERnUjFGOE5CNkxhM3BrQmwwMXVaZ3d0RWlDcHYzekhfQ0JFb3o4YS1iXzJjaFFQZ9IBuwFBVV95cUxOckV6ZWhrVG9qTzlaazNndXN2X2xuME9vSE9KUlI4TzBxblVQQW1ZNzRFMUVLVklsV3kxb1diZlBOSk90XzZLTjd4OWctSlR6SXFJX0drU2pPRVhMNE1jZzJxQ2ZlQ1V6cWdaQllXTE1nSDM1LTFlTUV2Y1ZDdm9mSUtuVWJsWnZlNHNwQU5SdlVRQkhxM3lVdThNSDRhMk9Qd2VKc3NaSi15LWhBOUh3eVRwMTlpM2ZzSFlv?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 04 Jun 2026 05:52:47 GMT",
+      "summary": "Amazon applies AI shopping tech to customer retailer agents with AWS &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780552367.0
     },
     {
       "title": "Preparing for agentic commerce: REWE’s AI transformation - McKinsey & Company",
@@ -90,17 +123,6 @@
       "published_ts": 1780470000.0
     },
     {
-      "title": "Webinar | Agentic Commerce Playbook: Strategies for Implementation and Scaling - Coresight Research",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWN6UnloaFI2NEFEVE5PVTBxLWZPNFRkVE5XODk1R0NCeFJqamhwSmpwQ0trYm53bDRVdDFvVFh2RDRVZWpFX2RUN2VzNG10bUJ4b3FueGNzSlVnYlhNalVVdkFYQlloY2ljN1otRHRYN0ppeFFscU5ybXhNdTE1ZXp6Zw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 02 Jun 2026 17:29:05 GMT",
-      "summary": "Webinar | Agentic Commerce Playbook: Strategies for Implementation and Scaling &nbsp;&nbsp; Coresight Research",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780421345.0
-    },
-    {
       "title": "Press Release: Hey Savi and PayPal Launch UK's First Agentic Commerce Platform with In-App Checkout; Debenhams Group Joins as First Retail Adopter - Jun 2, 2026 - PayPal Newsroom",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNEZ1THJzV3NBR1p0dzBvX2tva2dHLTNwWUgtUzNBal9CODJWOHlrNEpnM2J1VjROb0Vzd3JyT3RpVXVwX2U1ZGhYUTFaU0FXNGJNcVVjaWRsSVV1UzJENjF3UHFUX1ZZSmJiSXBleWlGWnNnQkZwODRuVW15MUZ4TVp0VzJZVFhXaU5QdWI2dnhqVDBqVUZ0QlRrOHVXTVFaMmRUZmEwU1FobEFxZ2ZEZl90TUpUQ1IzUDZrYmJmV3g2bUJ5TTBlVGlXVjEzbVRaSUNheXJlWjhTU0xKWTNLVmE4VHFPT2FEYldKRHUwa0J4RUkxZXJQVU54Y2ljamluLUg0?oc=5",
       "source": "Google News: agentic commerce",
@@ -123,17 +145,6 @@
       "published_ts": 1780410343.0
     },
     {
-      "title": "| AI shopping agents are coming for fashion's search budget - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc19yMHU4RnFuSFZZcmtPdjU0VmtpakV1aEhVQllBTEZpNFliUlVMbHVQYTZ4Y0xjaVE5RGVsOHh1Z1pxRENabU5NRkRVTFAwc1BvU1lhcUd3UWlhQ3FGQXI1MGVyWXlSUUk4TW5wU0dSS0Mwa1F2bTd1QVo1VmdDZGVMeWJVSUQyb0JCakl6OXgtbFVCV0VaX1F3UmJpQnowRjRZR2ZJdF9fX0syX3NmSm9BY0lRbkhNeXNoM0Zmcm1iY3F4MmJzaDFaWVpmd3BGdVQzQnJhak95Ti0yYkpXZXhR?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 01 Jun 2026 10:31:59 GMT",
-      "summary": "| AI shopping agents are coming for fashion's search budget &nbsp;&nbsp; Fibre2Fashion",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780309919.0
-    },
-    {
       "title": "For Brands, AI Is the New Shelf Space",
       "url": "https://www.practicalecommerce.com/for-brands-ai-is-the-new-shelf-space",
       "source": "Practical Ecommerce",
@@ -145,15 +156,26 @@
       "published_ts": 1780232491.0
     },
     {
-      "title": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVFNZ2ZkUXE0YWVpNHppTVZPUkVqTVN4OFZpMUxxa2dOdUhUbmpXb3FPV2duakdkZFFMVzliQl9KTGc0QWZzQjRCWlNvNUw3c240Q0ZBMGdiNmZGRE9zUGE3aFdqR3BleTlWb21fdVA2QVFuY09kTGRFVUVzSHkyekFnanpldm9yNGlhd1kxUXVVXzJCZUFTeVJ3XzhCS2dpcWFSbWw5aGdvbXBFR285NXJsQ19NcXJkSGFMUjk0UkpvMk1kYjRweTVBMmhaV2x5a2xSZjZ5QmZzX1FzT0l5cktfT19UQQ?oc=5",
+      "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Mon, 25 May 2026 07:00:00 GMT",
-      "summary": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most &nbsp;&nbsp; inc.com",
+      "published": "Fri, 29 May 2026 07:00:00 GMT",
+      "summary": "Amazon opens its AI shopping tech for business with retailers &nbsp;&nbsp; Retail Brew",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1779692400.0
+      "published_ts": 1780038000.0
+    },
+    {
+      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQU1ISnpSZWVFUWRVQnJHSzJEMFN0OHY5ZkY4Y0JSTHdNb2VDYWRYa3VJMWlzRFJvbkdTZmlMOUtzZVNxRkduNmpwbk9JNEhxd24xelhzSERsUXZYdkVTSmFpU0VydGltR1U5NmlwNmswbGVDano4c2o0SGxLRW5DdjVITTU3akxmWFdwbWo5UEJKVExCd3Z0TDJNc1R1UC1SdWt4TkpZRFhMUjkxaXd5eTVBLXY3aEdIdGVfUA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 26 May 2026 07:00:00 GMT",
+      "summary": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779778800.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -266,28 +288,6 @@
       "published_ts": 1780591500.0
     },
     {
-      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOU5xRnZ5ZXlnZnZJLU9QRTJRYXZmYnBhaWI0TjROcnNDcEZKRmRydElYOGppWEJoSm53d2ltclZxcDZKZkVrVXlCREtJcHdHajdMYlZOMGFXNVF6Nk85OGhIQWE1WTJxdV9mMmx3aTY0Nk5UWWZrZWZ2OTMxNEM1bWNHM1hWNUc3MV9UeldnSDdRMWQwaDc2NzdXYWp5RXNCYnFmLVB6aWRLSWlFSGd5X1hmT3ZYR2h5S1hXT2o3WDdYLUpZbzNuM2tHZk52bk9Tc1FuLWctNXE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 13:54:47 GMT",
-      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; Sahm",
-      "classification": "threat",
-      "confidence": "high",
-      "reasoning": "Klaviyo + raised, valuation",
-      "published_ts": 1780581287.0
-    },
-    {
-      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
-      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1780563980.0
-    },
-    {
       "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkxfOWk1WGdLSWJ4eHRjdjRIZmx5QUdzVXRkMEZpNFoyR3VubzhCSFczaHltNVZNVXpzOFhmMnlCNHYxVEFZTnlDdDZpblBtcEEwTUlrRVZQYkJVdGRHYXBvNV9JRGZqcXVkSVdpLVdPYlJieFZLRmZHRWUwaTVGWFdZaF9WSXI3emotdXMyMVVjdGRBTGdmVk9ES2ZnYlFrRmk5bnR1MlZTeXN5aHdzZGZLaUlGM3FvNFVVYUc3cktWYjjSAcgBQVVfeXFMTlNMSDdGeXNtclNWclZrWW1BSU9OdG41b3JmbjJLQW5ubWduRmE5RU1meGRMQ3hYSjdOTk0tTEpPM1N6VFZWeVZXNWE0OW5xTXVlU2lGcFQ0ZnFEcU5KUnhUTUN4cHkza1B6TFJZd2plRjZDQ0dhaWdZVnRYWHJFQjBqcjhWS0ZwcmpkNlYwbnRGMV8wQzRCbHNXNF84MV9FNkIzUnF0T0tCTlFFaHRZbjM1Tm9OT3VyR0dTWmNnUHpnUzdOdEl1MTc?oc=5",
       "source": "Google News: Mailchimp",
@@ -308,28 +308,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG5JMFhodnR4MlZINWh2Z0JmRHZOclBMdTRrbUJiWGFPNGhTTV9IZTdoUU92eGR1dldvTDBaYkVnQXYzU1ZpUjlCRExfdlBHcEFVMHlqeHc1VGF1RXJXQTAzUjdWWV9neXB6ZWwwODcxWnA3TXlBWTgxcDNmRVQ0YXhtX0VtQUpkeTF6TzdvbFl3akdmNFJXX25QTTNKWnpEY05VbGx3cHlYRVZlWVVRRm52a0M?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 21 May 2026 22:38:28 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1779403108.0
-    },
-    {
-      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1779260400.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -418,6 +396,28 @@
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
       "published_ts": 1768204800.0
+    },
+    {
+      "title": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZjduZ2VLdGM2dGtLLUE1VE9yRzN5LUJlMFh3dUpNazBvU2lhb01OSjlHaXRTaXZTeUJMbWE0dzNXUDBvaHdVaVVEMHczS1VHRHJHZmdn?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1766390400.0
+    },
+    {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
@@ -520,11 +520,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 289,
+    "total_fetched": 288,
     "kept": 47,
-    "opportunities": 22,
-    "threats": 25,
+    "opportunities": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 11.8
   }
 }
