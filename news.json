@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T21:55:43.812502+00:00",
+  "updated": "2026-06-06T22:55:37.389496+00:00",
   "items": [
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780582920.0
-    },
-    {
-      "title": "Amazon applies AI shopping tech to customer retailer agents with AWS - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzlWc1dXNEdkRFdjTU03V0hXeEMtcS1iSUl0U0s4czlNZjE2Xy1FZ0Y0LXptUlRtc3dMdWhVMk1reEJ4cmJXUTkxMDg1S3VQLUp0VnlPRmNKdFF4dHk4allKTGVKUHczczY1QnJpZUNHcFBPTmpiZWJTUlhuNk1za0RwNFllaERnUjFGOE5CNkxhM3BrQmwwMXVaZ3d0RWlDcHYzekhfQ0JFb3o4YS1iXzJjaFFQZ9IBuwFBVV95cUxOckV6ZWhrVG9qTzlaazNndXN2X2xuME9vSE9KUlI4TzBxblVQQW1ZNzRFMUVLVklsV3kxb1diZlBOSk90XzZLTjd4OWctSlR6SXFJX0drU2pPRVhMNE1jZzJxQ2ZlQ1V6cWdaQllXTE1nSDM1LTFlTUV2Y1ZDdm9mSUtuVWJsWnZlNHNwQU5SdlVRQkhxM3lVdThNSDRhMk9Qd2VKc3NaSi15LWhBOUh3eVRwMTlpM2ZzSFlv?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 04 Jun 2026 01:41:15 GMT",
-      "summary": "Amazon applies AI shopping tech to customer retailer agents with AWS &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780537275.0
     },
     {
       "title": "Preparing for agentic commerce: REWE’s AI transformation - McKinsey & Company",
@@ -135,14 +124,14 @@
     },
     {
       "title": "| AI shopping agents are coming for fashion's search budget - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDQ3TzBONzBDX1lxZE5BdWV2LVhIcVVkU2hfQzc2aUtxRkh1bklSN1dyR3RyTHRQTkU5ZlJJbTllUkZOYWgyWEhUMVBUb3lIZTZKcDdIWExXUmdqVDFOM0doemphYmh6b01tdzBJMko0bGRNSmNtU1FOYk1yOUVDc1IxRmxyam82OVdhdDBNdzhwV3VLTmhUTm1rYVV0N2NMdHU1UVN5X1E2RlZNVEpvMWRkbzFGNWlMYlQ5LXpBcXUzWkRwcTZPYjNvYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc19yMHU4RnFuSFZZcmtPdjU0VmtpakV1aEhVQllBTEZpNFliUlVMbHVQYTZ4Y0xjaVE5RGVsOHh1Z1pxRENabU5NRkRVTFAwc1BvU1lhcUd3UWlhQ3FGQXI1MGVyWXlSUUk4TW5wU0dSS0Mwa1F2bTd1QVo1VmdDZGVMeWJVSUQyb0JCakl6OXgtbFVCV0VaX1F3UmJpQnowRjRZR2ZJdF9fX0syX3NmSm9BY0lRbkhNeXNoM0Zmcm1iY3F4MmJzaDFaWVpmd3BGdVQzQnJhak95Ti0yYkpXZXhR?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Mon, 01 Jun 2026 10:17:57 GMT",
+      "published": "Mon, 01 Jun 2026 10:31:59 GMT",
       "summary": "| AI shopping agents are coming for fashion's search budget &nbsp;&nbsp; Fibre2Fashion",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1780309077.0
+      "published_ts": 1780309919.0
     },
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -156,26 +145,15 @@
       "published_ts": 1780232491.0
     },
     {
-      "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
+      "title": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVFNZ2ZkUXE0YWVpNHppTVZPUkVqTVN4OFZpMUxxa2dOdUhUbmpXb3FPV2duakdkZFFMVzliQl9KTGc0QWZzQjRCWlNvNUw3c240Q0ZBMGdiNmZGRE9zUGE3aFdqR3BleTlWb21fdVA2QVFuY09kTGRFVUVzSHkyekFnanpldm9yNGlhd1kxUXVVXzJCZUFTeVJ3XzhCS2dpcWFSbWw5aGdvbXBFR285NXJsQ19NcXJkSGFMUjk0UkpvMk1kYjRweTVBMmhaV2x5a2xSZjZ5QmZzX1FzT0l5cktfT19UQQ?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "Amazon opens its AI shopping tech for business with retailers &nbsp;&nbsp; Retail Brew",
+      "published": "Mon, 25 May 2026 07:00:00 GMT",
+      "summary": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most &nbsp;&nbsp; inc.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1780038000.0
-    },
-    {
-      "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "Amazon starts selling its AI shopping technology to other retailers &nbsp;&nbsp; CNBC",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1779865200.0
+      "published_ts": 1779692400.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -222,6 +200,17 @@
       "published_ts": 1778569200.0
     },
     {
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1773730800.0
+    },
+    {
       "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -255,17 +244,6 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant - PA Media",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHczTTFKYi1CZTlPNEpKWnpmQ3J0QzY2TngxcWp1R3RpS1ZLQnZEdk5PSmVoU3V3a0UybklnTUNVa3NPRWRKMHdZSWtibTEySWRsQUs4WlltWEc1N20wcFZ2ZWlocWM3aFpyOVpKRGhBZVc5QXMySnZVbkZxR21wbXdTOWgzVGFOUlVzbXAxWjVDRGp0bHBiS0ZOUVh6cDd0U1VlekZnYWZpc2hFRTJUS01uSktSenVUaWVfcmRn?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "summary": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant &nbsp;&nbsp; PA Media",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718002800.0
-    },
-    {
       "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc00gHHAUFVX3lxTE9kWFpsRGR4ZFhwWS15WTR1QXNObjRybW1MaTdwcUxPb3ZDc0dNTHNKRjFIbDdqTFNPaUJhWmFiTmpuQTVPMHdzemw0YkFJSDdPSzFQNzNQSXJCSHloRnA0OGhReDFfeDZZVDBLTXV1aTYtOXV6c0RINjlwMjFNNTI1ZkQ3Unc1RGc4OHUtTk1ZdGZ3RWZUdzRfRWMxWmNvNWhkdDRoWTZwelI1anktNGdqdUdueTBwWXdfOC1XbUtBejVPTHVwRzQ?oc=5",
       "source": "Google News: Klaviyo",
@@ -275,6 +253,17 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1780602682.0
+    },
+    {
+      "title": "WWEX Group & Auctane merge to form ShipStation Global - ecommercenews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlF5UlRKMUVwTjFQUGQ3SmMzeXl5WGJVbVlQbjhUcVVYeTFIRl8zREZ4eXNMTVctYTZVVDVOUDhOQTNxbnd5bVZxM0xOS2dRemhPR2ZCNWx4M044TFNPaloyUERSQkZIcU1tWG52NDNsY3JYcTF0ZGNIWUN3NzFTdjdSUEFXZFN4Q2d6QjVRdw?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 04 Jun 2026 16:45:00 GMT",
+      "summary": "WWEX Group & Auctane merge to form ShipStation Global &nbsp;&nbsp; ecommercenews.com.au",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780591500.0
     },
     {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
@@ -319,6 +308,28 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG5JMFhodnR4MlZINWh2Z0JmRHZOclBMdTRrbUJiWGFPNGhTTV9IZTdoUU92eGR1dldvTDBaYkVnQXYzU1ZpUjlCRExfdlBHcEFVMHlqeHc1VGF1RXJXQTAzUjdWWV9neXB6ZWwwODcxWnA3TXlBWTgxcDNmRVQ0YXhtX0VtQUpkeTF6TzdvbFl3akdmNFJXX25QTTNKWnpEY05VbGx3cHlYRVZlWVVRRm52a0M?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 21 May 2026 22:38:28 GMT",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1779403108.0
+    },
+    {
+      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1779260400.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -409,22 +420,11 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation - getlatka.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZjduZ2VLdGM2dGtLLUE1VE9yRzN5LUJlMFh3dUpNazBvU2lhb01OSjlHaXRTaXZTeUJMbWE0dzNXUDBvaHdVaVVEMHczS1VHRHJHZmdn?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation &nbsp;&nbsp; getlatka.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + valuation",
-      "published_ts": 1766390400.0
-    },
-    {
-      "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - getlatka.com",
+      "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation &nbsp;&nbsp; getlatka.com",
+      "summary": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation &nbsp;&nbsp; GetLatka",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
@@ -440,17 +440,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1762416000.0
-    },
-    {
-      "title": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3JJby1WWjdyQXdOcExhdWhuQ3o1N2trbEx3QzBocDc4bGtTZzhIZVhBcGhoMVk3MHN3bjdwdVluZDRDS09HbnNGN0V4M25UUzk1azNJZkFyemJ1U0x5dndGclhFXzB6RG56cHFvdG9TdENJZEdwUnNJRk8tM1VaYWZZME9VWXZlTjZGdXJ2YmJMNHV6ZVVOQ09KYzgyWW5KenhHelpR?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "summary": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1756882800.0
     },
     {
       "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
@@ -486,11 +475,11 @@
       "published_ts": 1736150400.0
     },
     {
-      "title": "Narvar Revenue 2022: $57M ARR, $315M Valuation - getlatka.com",
+      "title": "Narvar Revenue 2022: $57M ARR, $315M Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvMkI4WDE0bmhCRDN5bWdlRHNoejROR2NENmFkcnp4WTEyOHY2bTltMkpEZGU4Y0pvWG1oTXN1SHh4YzJEcUtZYkM0enF1QQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 20 Dec 2024 08:00:00 GMT",
-      "summary": "Narvar Revenue 2022: $57M ARR, $315M Valuation &nbsp;&nbsp; getlatka.com",
+      "summary": "Narvar Revenue 2022: $57M ARR, $315M Valuation &nbsp;&nbsp; GetLatka",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + valuation",
@@ -532,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 48,
-    "opportunities": 24,
-    "threats": 24,
+    "kept": 47,
+    "opportunities": 22,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.1
+    "runtime_seconds": 12.0
   }
 }
