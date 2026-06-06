@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T16:58:24.476325+00:00",
+  "updated": "2026-06-06T18:04:19.541134+00:00",
   "items": [
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -222,6 +222,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1767686400.0
+    },
+    {
       "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -244,6 +255,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant - PA Media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHczTTFKYi1CZTlPNEpKWnpmQ3J0QzY2TngxcWp1R3RpS1ZLQnZEdk5PSmVoU3V3a0UybklnTUNVa3NPRWRKMHdZSWtibTEySWRsQUs4WlltWEc1N20wcFZ2ZWlocWM3aFpyOVpKRGhBZVc5QXMySnZVbkZxR21wbXdTOWgzVGFOUlVzbXAxWjVDRGp0bHBiS0ZOUVh6cDd0U1VlekZnYWZpc2hFRTJUS01uSktSenVUaWVfcmRn?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "summary": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant &nbsp;&nbsp; PA Media",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718002800.0
+    },
+    {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOU5xRnZ5ZXlnZnZJLU9QRTJRYXZmYnBhaWI0TjROcnNDcEZKRmRydElYOGppWEJoSm53d2ltclZxcDZKZkVrVXlCREtJcHdHajdMYlZOMGFXNVF6Nk85OGhIQWE1WTJxdV9mMmx3aTY0Nk5UWWZrZWZ2OTMxNEM1bWNHM1hWNUc3MV9UeldnSDdRMWQwaDc2NzdXYWp5RXNCYnFmLVB6aWRLSWlFSGd5X1hmT3ZYR2h5S1hXT2o3WDdYLUpZbzNuM2tHZk52bk9Tc1FuLWctNXE?oc=5",
       "source": "Google News: Klaviyo",
@@ -253,17 +275,6 @@
       "confidence": "high",
       "reasoning": "Klaviyo + raised, valuation",
       "published_ts": 1780581287.0
-    },
-    {
-      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
-      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1780563980.0
     },
     {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
@@ -387,15 +398,15 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "title": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZjduZ2VLdGM2dGtLLUE1VE9yRzN5LUJlMFh3dUpNazBvU2lhb01OSjlHaXRTaXZTeUJMbWE0dzNXUDBvaHdVaVVEMHczS1VHRHJHZmdn?oc=5",
       "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation &nbsp;&nbsp; GetLatka",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
+      "confidence": "medium",
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1766390400.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
@@ -418,6 +429,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1762416000.0
+    },
+    {
+      "title": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3JJby1WWjdyQXdOcExhdWhuQ3o1N2trbEx3QzBocDc4bGtTZzhIZVhBcGhoMVk3MHN3bjdwdVluZDRDS09HbnNGN0V4M25UUzk1azNJZkFyemJ1U0x5dndGclhFXzB6RG56cHFvdG9TdENJZEdwUnNJRk8tM1VaYWZZME9VWXZlTjZGdXJ2YmJMNHV6ZVVOQ09KYzgyWW5KenhHelpR?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "summary": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1756882800.0
     },
     {
       "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
@@ -464,17 +486,6 @@
       "published_ts": 1734681600.0
     },
     {
-      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1729062000.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 46,
-    "opportunities": 22,
-    "threats": 24,
+    "kept": 47,
+    "opportunities": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 16.2
+    "runtime_seconds": 11.9
   }
 }
