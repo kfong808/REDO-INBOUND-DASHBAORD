@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T02:54:04.206090+00:00",
+  "updated": "2026-06-06T06:21:23.231127+00:00",
   "items": [
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -156,6 +156,17 @@
       "published_ts": 1780232491.0
     },
     {
+      "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 29 May 2026 14:37:58 GMT",
+      "summary": "Amazon opens its AI shopping tech for business with retailers &nbsp;&nbsp; Retail Brew",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780065478.0
+    },
+    {
       "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -244,15 +255,15 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant - PA Media",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHczTTFKYi1CZTlPNEpKWnpmQ3J0QzY2TngxcWp1R3RpS1ZLQnZEdk5PSmVoU3V3a0UybklnTUNVa3NPRWRKMHdZSWtibTEySWRsQUs4WlltWEc1N20wcFZ2ZWlocWM3aFpyOVpKRGhBZVc5QXMySnZVbkZxR21wbXdTOWgzVGFOUlVzbXAxWjVDRGp0bHBiS0ZOUVh6cDd0U1VlekZnYWZpc2hFRTJUS01uSktSenVUaWVfcmRn?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "summary": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant &nbsp;&nbsp; PA Media",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718002800.0
+      "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc00gHHAUFVX3lxTE9kWFpsRGR4ZFhwWS15WTR1QXNObjRybW1MaTdwcUxPb3ZDc0dNTHNKRjFIbDdqTFNPaUJhWmFiTmpuQTVPMHdzemw0YkFJSDdPSzFQNzNQSXJCSHloRnA0OGhReDFfeDZZVDBLTXV1aTYtOXV6c0RINjlwMjFNNTI1ZkQ3Unc1RGc4OHUtTk1ZdGZ3RWZUdzRfRWMxWmNvNWhkdDRoWTZwelI1anktNGdqdUdueTBwWXdfOC1XbUtBejVPTHVwRzQ?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 04 Jun 2026 19:51:22 GMT",
+      "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1780602682.0
     },
     {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
@@ -286,17 +297,6 @@
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
       "published_ts": 1780507695.0
-    },
-    {
-      "title": "Mailchimp launches Analytics AI and new integrations with Claude and Wix for marketers - Dynamic Business",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamFRRWhMellLUkZvUVRxeFJaWTd2bmhGWXlqeHJGV3BxN2Q4M2lQaGp3M2xpVm9HSkoyMUhfczZoR3R3Zm4yNmY3YnJ0MkpLbkhRUXl6a3JYam5QS2JhQ1ItMW1DdFlGdlFxSDlwcmN6YkFBdnZQdmo4RHNDWTJBeHM3UW1GTHpqdTZFNzJnZHlYTzdzSVhISDJTaVlPcDFsdjZvQW5FcnJKOENfN0U3TFRtV0EzWXFyR0FNdUw4NmtXTUI5THVUNEJhOA?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Mon, 01 Jun 2026 03:07:12 GMT",
-      "summary": "Mailchimp launches Analytics AI and new integrations with Claude and Wix for marketers &nbsp;&nbsp; Dynamic Business",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1780283232.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -396,6 +396,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
       "published_ts": 1768204800.0
+    },
+    {
+      "title": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZjduZ2VLdGM2dGtLLUE1VE9yRzN5LUJlMFh3dUpNazBvU2lhb01OSjlHaXRTaXZTeUJMbWE0dzNXUDBvaHdVaVVEMHczS1VHRHJHZmdn?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Attentive.ai Revenue 2025: $57.9M ARR, $125.1M Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1766390400.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
@@ -521,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 288,
-    "kept": 47,
+    "kept": 48,
     "opportunities": 23,
-    "threats": 24,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 13.1
   }
 }
