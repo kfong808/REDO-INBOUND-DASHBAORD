@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T07:04:58.773934+00:00",
+  "updated": "2026-06-07T10:21:16.109496+00:00",
   "items": [
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -90,15 +90,15 @@
       "published_ts": 1780491200.0
     },
     {
-      "title": "How top eCommerce leaders are preparing for the agentic commerce era - Mirakl",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0ZyM200Uk45OFN5YXA3M1U4QUMtQ0dUUzRZZWpmRFhWbGlwXzFyR0dsX3ZYeGotNkhRSGwzdEVTWVlud2kzUEFud1hhcWhZUkFQRnJZN1ZLdDJjUGJWeWZ3MUNudzYyX1hWVFhHbjdNcU1BaXhwLUdSU0dJckJ6MUlsWTZBc19MVFo0bW9helhxWXJoMWpub0xTalQ?oc=5",
+      "title": "Webinar | Agentic Commerce Playbook: Strategies for Implementation and Scaling - Coresight Research",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWN6UnloaFI2NEFEVE5PVTBxLWZPNFRkVE5XODk1R0NCeFJqamhwSmpwQ0trYm53bDRVdDFvVFh2RDRVZWpFX2RUN2VzNG10bUJ4b3FueGNzSlVnYlhNalVVdkFYQlloY2ljN1otRHRYN0ppeFFscU5ybXhNdTE1ZXp6Zw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "summary": "How top eCommerce leaders are preparing for the agentic commerce era &nbsp;&nbsp; Mirakl",
+      "published": "Tue, 02 Jun 2026 17:29:05 GMT",
+      "summary": "Webinar | Agentic Commerce Playbook: Strategies for Implementation and Scaling &nbsp;&nbsp; Coresight Research",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780470000.0
+      "published_ts": 1780421345.0
     },
     {
       "title": "Press Release: Hey Savi and PayPal Launch UK's First Agentic Commerce Platform with In-App Checkout; Debenhams Group Joins as First Retail Adopter - Jun 2, 2026 - PayPal Newsroom",
@@ -310,6 +310,17 @@
       "published_ts": 1779951600.0
     },
     {
+      "title": "IndyCar News: 2026 Indianapolis 500 Postscript - AutoRacing1.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkd2YzlRdnRaRnp4dUtGXzZmSi1QbWhvTlZyM0VRVzJ6UkpXbXZhLTF5X3lyWERXXzlFV0ZuT0RnYzRGWGNXYUI0elRIczFZdWhnc1JMdlZMWkxRMi1keDhFX1VBTG1aLU9HVTNFeFcyc3RSTEpFUWhmV1YwekVqNFVmdFdfcG1ZSlpUTw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 25 May 2026 10:57:19 GMT",
+      "summary": "IndyCar News: 2026 Indianapolis 500 Postscript &nbsp;&nbsp; AutoRacing1.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1779706639.0
+    },
+    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -517,14 +528,25 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 47,
+    "kept": 49,
     "opportunities": 23,
-    "threats": 24,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.5
+    "runtime_seconds": 11.7
   }
 }
