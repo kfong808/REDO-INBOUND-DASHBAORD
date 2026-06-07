@@ -1,17 +1,6 @@
 {
-  "updated": "2026-06-07T19:19:24.440274+00:00",
+  "updated": "2026-06-07T20:59:45.993923+00:00",
   "items": [
-    {
-      "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklaX2JPVllxamZoeGtlaXZhd2VmQmowLTlEX09nVWwwRWNxLXF5ZzJXeS1ObnFURzNMRUYtYU5qc21tMVNST0ctcEE2d1FlVm04VTlMblZsdlRaT2wtSDc3T19JREs3NFd2a3FhTmFOeUk4d0NBdFVRd1FCc2hSR2czMmc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sun, 07 Jun 2026 04:40:55 GMT",
-      "summary": "You Should Remember This Warning When Using An AI Shopping Agent &nbsp;&nbsp; AOL.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780807255.0
-    },
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
@@ -154,6 +143,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780038000.0
+    },
+    {
+      "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "summary": "Amazon starts selling its AI shopping technology to other retailers &nbsp;&nbsp; CNBC",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1779865200.0
     },
     {
       "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence - Amazon Web Services (AWS)",
@@ -343,22 +343,22 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEc4Y2JSMF9qU2ZaaXpmWjBqeHNVeFQxcDRSMzN6SG5rSWEzVDcwLThLQzFXLUNjc3E5VkV1U2J0d2hscFhnZGk5b204X3FlNmVaZFJjQVFxMjhTTWo0aUJDMHpZc3RxYS1IMl9XV29tZ2VvZ2V3UDJhNEZudkpraTdsNmt5SzdHRWp6OGR5ZWEzcjhVbVRyWHdNVnBOcHotUzVPVGgtZk02U2dkM2RVLXI2eGZScWVRS004?oc=5",
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEc4Y2JSMF9qU2ZaaXpmWjBqeHNVeFQxcDRSMzN6SG5rSWEzVDcwLThLQzFXLUNjc3E5VkV1U2J0d2hscFhnZGk5b204X3FlNmVaZFJjQVFxMjhTTWo0aUJDMHpZc3RxYS1IMl9XV29tZ2VvZ2V3UDJhNEZudkpraTdsNmt5SzdHRWp6OGR5ZWEzcjhVbVRyWHdNVnBOcHotUzVPVGgtZk02U2dkM2RVLXI2eGZScWVRS004?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -558,6 +558,6 @@
     "opportunities": 24,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 11.7
   }
 }
