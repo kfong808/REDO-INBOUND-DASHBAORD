@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T16:05:49.896399+00:00",
+  "updated": "2026-06-07T17:58:19.699934+00:00",
   "items": [
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780670659.0
-    },
-    {
-      "title": "Identity sector moves to close trust gap in agentic commerce - Biometric Update",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTFrYzdZZUNiM0ZmOThzVWpPU3Y5QzJXaDIxWG5lbEFhYlFVV01xNDdrcFExOGUzQ1dyU0t5bUpZVjVpTi1ONXhtaWppS1I5UTlUbE5nUUktWUZqN3Vrbk9oTElEa3duaFRfUUNKZk1hTEtvVnRPcjJ3VWliN19fU3BEUWNZcU8zdFR3Nm5aZ0p6UnR2aXlUREhyc19sWFlU?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 04 Jun 2026 20:00:00 GMT",
-      "summary": "Identity sector moves to close trust gap in agentic commerce &nbsp;&nbsp; Biometric Update",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780603200.0
     },
     {
       "title": "Agentic commerce puts data quality at the center of retail’s next era - SiliconANGLE",
@@ -101,6 +90,17 @@
       "published_ts": 1780491200.0
     },
     {
+      "title": "How top eCommerce leaders are preparing for the agentic commerce era - Mirakl",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0ZyM200Uk45OFN5YXA3M1U4QUMtQ0dUUzRZZWpmRFhWbGlwXzFyR0dsX3ZYeGotNkhRSGwzdEVTWVlud2kzUEFud1hhcWhZUkFQRnJZN1ZLdDJjUGJWeWZ3MUNudzYyX1hWVFhHbjdNcU1BaXhwLUdSU0dJckJ6MUlsWTZBc19MVFo0bW9helhxWXJoMWpub0xTalQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "summary": "How top eCommerce leaders are preparing for the agentic commerce era &nbsp;&nbsp; Mirakl",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780470000.0
+    },
+    {
       "title": "Press Release: Hey Savi and PayPal Launch UK's First Agentic Commerce Platform with In-App Checkout; Debenhams Group Joins as First Retail Adopter - Jun 2, 2026 - PayPal Newsroom",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNEZ1THJzV3NBR1p0dzBvX2tva2dHLTNwWUgtUzNBal9CODJWOHlrNEpnM2J1VjROb0Vzd3JyT3RpVXVwX2U1ZGhYUTFaU0FXNGJNcVVjaWRsSVV1UzJENjF3UHFUX1ZZSmJiSXBleWlGWnNnQkZwODRuVW15MUZ4TVp0VzJZVFhXaU5QdWI2dnhqVDBqVUZ0QlRrOHVXTVFaMmRUZmEwU1FobEFxZ2ZEZl90TUpUQ1IzUDZrYmJmV3g2bUJ5TTBlVGlXVjEzbVRaSUNheXJlWjhTU0xKWTNLVmE4VHFPT2FEYldKRHUwa0J4RUkxZXJQVU54Y2ljamluLUg0?oc=5",
       "source": "Google News: agentic commerce",
@@ -154,17 +154,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1779778800.0
-    },
-    {
-      "title": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVFNZ2ZkUXE0YWVpNHppTVZPUkVqTVN4OFZpMUxxa2dOdUhUbmpXb3FPV2duakdkZFFMVzliQl9KTGc0QWZzQjRCWlNvNUw3c240Q0ZBMGdiNmZGRE9zUGE3aFdqR3BleTlWb21fdVA2QVFuY09kTGRFVUVzSHkyekFnanpldm9yNGlhd1kxUXVVXzJCZUFTeVJ3XzhCS2dpcWFSbWw5aGdvbXBFR285NXJsQ19NcXJkSGFMUjk0UkpvMk1kYjRweTVBMmhaV2x5a2xSZjZ5QmZzX1FzT0l5cktfT19UQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 25 May 2026 07:00:00 GMT",
-      "summary": "Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most &nbsp;&nbsp; inc.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1779692400.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -256,14 +245,14 @@
     },
     {
       "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc00gHHAUFVX3lxTE9kWFpsRGR4ZFhwWS15WTR1QXNObjRybW1MaTdwcUxPb3ZDc0dNTHNKRjFIbDdqTFNPaUJhWmFiTmpuQTVPMHdzemw0YkFJSDdPSzFQNzNQSXJCSHloRnA0OGhReDFfeDZZVDBLTXV1aTYtOXV6c0RINjlwMjFNNTI1ZkQ3Unc1RGc4OHUtTk1ZdGZ3RWZUdzRfRWMxWmNvNWhkdDRoWTZwelI1anktNGdqdUdueTBwWXdfOC1XbUtBejVPTHVwRzQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDJfUkY0bUZ4Wnp4cU43WUE3cVVHY0VnLVktN1QzMXVHRzVvaVB2QV9uUXBHakNQY1JkMDlGb1hlZmFBMkFZX05GWk44WEZoYlpkb09aNzV4MnMyUHhpeDRkand1ek9tV3ZqM3pKMDFsdzdLTXZyNGpqb1UzN09pdjR5NE1FR0s2d1VMdy1FY1hJRFlBTG0zQW5SQmtqejBnaEc5eURCZ0lMemtZc1JRbHltQ1BGM1ppcGd6XzNhYnAyd9IBxwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc0?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 19:51:22 GMT",
+      "published": "Thu, 04 Jun 2026 19:51:19 GMT",
       "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780602682.0
+      "published_ts": 1780602679.0
     },
     {
       "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
@@ -275,17 +264,6 @@
       "confidence": "high",
       "reasoning": "Klaviyo + raised, valuation",
       "published_ts": 1780581287.0
-    },
-    {
-      "title": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1lXRGk0R0Q5N2VjZ2VObE5KcmxoN2tFT0hLRDQzaFlISkJBTGlvaUpKdHlSelU3MllHQVA4TU43dUdLM2VFcGt0eDFYeWJZV2hiSGo0NmZfclZ5SWswRUFza1RPWkZNaWJKNzJMVnJvVEZ5blNxUVlqdXZlOHhFZlVuZV95NElOVFh5YWlGLWZEYXU2dmZJQl9Hbw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 09:06:20 GMT",
-      "summary": "Klaviyo (KVYO) Reports Strong Q1 2026 Growth, Raises Full-Year Revenue Guidance &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1780563980.0
     },
     {
       "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - simplywall.st",
@@ -343,15 +321,15 @@
       "published_ts": 1778834544.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2loS3pRMUVZVkNCRWtmVEtoNEJnREd6Ni1YZ0NkOXlZYzN6c25kVnA4RVhoNkVWaG4xVVFBTWQwX1pvR1pEWnpGTENDcTl5VDBReUJDazJreVRXaTdtV1NvSE9kdTdESGVmd3otc3QzY3pNeW1ZbUV1S0NXOUZqcGZGbGhna3ZNVHNYZU5aZlhkWlpmbFJTN2ttdi1kcWRId05vY244Skg1Mm15RzBiTzhB?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1778742000.0
     },
     {
       "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
@@ -359,6 +337,17 @@
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -543,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 49,
-    "opportunities": 23,
+    "kept": 48,
+    "opportunities": 22,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.7
+    "runtime_seconds": 13.6
   }
 }
