@@ -1,6 +1,39 @@
 {
-  "updated": "2026-06-08T08:44:36.311506+00:00",
+  "updated": "2026-06-08T12:57:25.626609+00:00",
   "items": [
+    {
+      "title": "Your AI Shopping Assistant Is Selling You Out - unpublished.ca",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUE54MWsxeEtHSzBIWlUtVVBHUXBLalphTTVwVXEydEVSQzIxQWhHam1Fd0hyS3k3T29BdERPNkk4dE9ZdzhoRjEtOWp2V192R3hEc1dDYTljbURFNjZPckxhZjVsN0xjS2xyRGt6VXRNVXR3SlV3eW94NDlQSnNEOFpPblhSWXdnMTZnM0pycnNBcHk4OWt6X2Nn?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 08 Jun 2026 11:05:31 GMT",
+      "summary": "Your AI Shopping Assistant Is Selling You Out &nbsp;&nbsp; unpublished.ca",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780916731.0
+    },
+    {
+      "title": "NIQ Product Intelligence Expands with New GDSN Capability to Deliver a Single Product Record Across Supply Chain and Agentic Commerce Ecosystems - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQN29xMWFldjhlWDh0RzcxdE9IVlJ2RDNnMnZjTWp2bnVxNnctdFpsci03eFlLYWdRZUZjb3U3bkxrSjNKNXd2UUFZdVlTTnQ0NGY0a09JYlVvR3RNY0hab29JZ2lnbkxGRjZlZ1ZMMlQ1SGpRZlYyeHp5R0hWMFRZdG9OSWI4N3FqMVJoalpub1NoOUhWTFg4VUZKMmpuNy1CLUptVlp1ZmJVT1o2WkNvcU9Id3pla0pkb3ZPbGtiTGlnXzQ3QlpkX19ha2xicXFIUDZDdk1NS0VpQ1FpWml1cDVhZ1VxbWVFRkJzY0toTUxHbFpTWkVEcFZ6ZUY3cDg4UWVxMWxHSEpoOGh0akFvamdETjEwZTdvaWxQdWlSZjlNMFppTWt4RQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 08 Jun 2026 11:00:00 GMT",
+      "summary": "NIQ Product Intelligence Expands with New GDSN Capability to Deliver a Single Product Record Across Supply Chain and Agentic Commerce Ecosystems &nbsp;&nbsp; Business Wire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780916400.0
+    },
+    {
+      "title": "Agentic commerce: AI is now your shopper’s first stop. Showing up is just the beginning.",
+      "url": "https://www.retaildive.com/spons/agentic-commerce-ai-is-now-your-shoppers-first-stop-showing-up-is-just-t/821824/",
+      "source": "Retail Dive",
+      "published": "Mon, 08 Jun 2026 05:00:00 -0400",
+      "summary": "Retailers who dismiss product visibility on AI assistants as a future problem are already behind.",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780909200.0
+    },
     {
       "title": "You Should Remember This Warning When Using An AI Shopping Agent - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklaX2JPVllxamZoeGtlaXZhd2VmQmowLTlEX09nVWwwRWNxLXF5ZzJXeS1ObnFURzNMRUYtYU5qc21tMVNST0ctcEE2d1FlVm04VTlMblZsdlRaT2wtSDc3T19JREs3NFd2a3FhTmFOeUk4d0NBdFVRd1FCc2hSR2czMmc?oc=5",
@@ -22,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780670659.0
-    },
-    {
-      "title": "Identity sector moves to close trust gap in agentic commerce - Biometric Update",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTFrYzdZZUNiM0ZmOThzVWpPU3Y5QzJXaDIxWG5lbEFhYlFVV01xNDdrcFExOGUzQ1dyU0t5bUpZVjVpTi1ONXhtaWppS1I5UTlUbE5nUUktWUZqN3Vrbk9oTElEa3duaFRfUUNKZk1hTEtvVnRPcjJ3VWliN19fU3BEUWNZcU8zdFR3Nm5aZ0p6UnR2aXlUREhyc19sWFlU?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 04 Jun 2026 20:00:00 GMT",
-      "summary": "Identity sector moves to close trust gap in agentic commerce &nbsp;&nbsp; Biometric Update",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780603200.0
     },
     {
       "title": "Agentic commerce puts data quality at the center of retail’s next era - SiliconANGLE",
@@ -90,17 +112,6 @@
       "published_ts": 1780502854.0
     },
     {
-      "title": "Searching for Trust in Agentic Commerce - PaymentsJournal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V3dQUTZUMGFkUkk0eTAyQ0FfUUxDeE1yMW9jVHE4RGhFM2hZdFJzWFdReWYtLWF5MDNua29aZnVVY1liZUJCMV82T0MxMG1EbXFLbDctUXVIU21WeUg0RFlmc0h5Z1ZWWVVkMkp1elY0YlpFVllBTHpnWkzSAYIBQVVfeXFMTnNVd0lEaFZ5dlRFc0Z0ejJERThXa3FrV0ZBQ3cxM1cxVHp2X2RYYUVlcUJEVGdJajFFRU5VQTdPd2FYQ1dwcDVBSHJ3RFFkVEtGVmp4X2JheGFFcWEzTEt3aEgycklvZm02M3UxQXlLVno5aDdFTncyYy1NYWNpUnRWZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 03 Jun 2026 13:00:00 GMT",
-      "summary": "Searching for Trust in Agentic Commerce &nbsp;&nbsp; PaymentsJournal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780491600.0
-    },
-    {
       "title": "New Ecommerce Tools: June 3, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
       "source": "Practical Ecommerce",
@@ -143,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780232491.0
+    },
+    {
+      "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 29 May 2026 07:00:00 GMT",
+      "summary": "Amazon opens its AI shopping tech for business with retailers &nbsp;&nbsp; Retail Brew",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780038000.0
     },
     {
       "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
@@ -299,6 +321,17 @@
       "published_ts": 1780581287.0
     },
     {
+      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc2dlc2libTZaOHEybF9Ib2ZRYkZ3azVBRWFBT3czM1g0VzJ6bE5yaldPa2MxdTB4TXBSX1JhYVZaeXhtbDVIVG5fOFlyMTNzcXh0bFZzcGZxMTFaTnoyOWVOMWpSdGRmVG5NVkdNdUZhRlJUbVU5MmdYMEhXcGtHbmU2aDRSMFRMb21ERnFUczRNZnFvWTVFUVByMUNtbDZhWlhSaGVXU1hWVnpRRU9aUG5iTVVrY2pTazZqeFA1NUl2UdIBxwFBVV95cUxPVU1qQjlTVmpJYVA5QzZYOENqWG9iN0MwZGtkN1lDRF8wS1luR2IxSzZOMThkelEwU2wwdVFvdVhrOXFxcGR4cHRtYkVWQnczUU9Ec1BhdlJrdlRmYm5FRGdReHBhWkxvN3g1LWJ5Qmk2aExpWmxWUXFBcFFRT0dhZGJpczJoR3c1WEU3eURyQnQxMEREYkdkcDBiVjNGUlVBNHhDQ2NkRThFaDFya3RaWnFmSERGaEV5cDVmck54T1RsYmVJTVZn?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 03 Jun 2026 18:32:56 GMT",
+      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Klaviyo + raised, valuation",
+      "published_ts": 1780511576.0
+    },
+    {
       "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkxfOWk1WGdLSWJ4eHRjdjRIZmx5QUdzVXRkMEZpNFoyR3VubzhCSFczaHltNVZNVXpzOFhmMnlCNHYxVEFZTnlDdDZpblBtcEEwTUlrRVZQYkJVdGRHYXBvNV9JRGZqcXVkSVdpLVdPYlJieFZLRmZHRWUwaTVGWFdZaF9WSXI3emotdXMyMVVjdGRBTGdmVk9ES2ZnYlFrRmk5bnR1MlZTeXN5aHdzZGZLaUlGM3FvNFVVYUc3cktWYjjSAcgBQVVfeXFMTlNMSDdGeXNtclNWclZrWW1BSU9OdG41b3JmbjJLQW5ubWduRmE5RU1meGRMQ3hYSjdOTk0tTEpPM1N6VFZWeVZXNWE0OW5xTXVlU2lGcFQ0ZnFEcU5KUnhUTUN4cHkza1B6TFJZd2plRjZDQ0dhaWdZVnRYWHJFQjBqcjhWS0ZwcmpkNlYwbnRGMV8wQzRCbHNXNF84MV9FNkIzUnF0T0tCTlFFaHRZbjM1Tm9OT3VyR0dTWmNnUHpnUzdOdEl1MTc?oc=5",
       "source": "Google News: Mailchimp",
@@ -319,17 +352,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "IndyCar News: 2026 Indianapolis 500 Postscript - AutoRacing1.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkd2YzlRdnRaRnp4dUtGXzZmSi1QbWhvTlZyM0VRVzJ6UkpXbXZhLTF5X3lyWERXXzlFV0ZuT0RnYzRGWGNXYUI0elRIczFZdWhnc1JMdlZMWkxRMi1keDhFX1VBTG1aLU9HVTNFeFcyc3RSTEpFUWhmV1YwekVqNFVmdFdfcG1ZSlpUTw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 25 May 2026 10:57:19 GMT",
-      "summary": "IndyCar News: 2026 Indianapolis 500 Postscript &nbsp;&nbsp; AutoRacing1.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1779706639.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -554,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 289,
-    "kept": 50,
-    "opportunities": 24,
+    "kept": 52,
+    "opportunities": 26,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.5
+    "runtime_seconds": 11.1
   }
 }
