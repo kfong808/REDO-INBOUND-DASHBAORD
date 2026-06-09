@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T23:07:12.685677+00:00",
+  "updated": "2026-06-09T02:01:30.358514+00:00",
   "items": [
     {
       "title": "OpenAI's ChatGPT Superapp Is a Bid to Own Agentic Commerce: Apps Run on MCP, Checkout on Stripe - Tech Times",
@@ -145,6 +145,17 @@
       "published_ts": 1780417439.0
     },
     {
+      "title": "Europe is Building the Foundations for Trusted Agentic Commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalJFcjdqeFdhY0FjcUozODMtb2hUN2hMb0RTUjIxV1dXUFljQnpjTFB5a1J0OXlCSnN3Sm10cXFDdnh4ck1vbXJYWjlUVVhnREJjS0owb2swZVN4eGRyZ1VtUk5XdUk0TTJMN3gtYlpnSF9Ha09Qa0doOXNjdHExTzltQWg3SWE2SjM4XzdPUnk1Q0hyTjl2dmx4UzRsOFdzalBiNFVkQ2dPRXpkQnJQdGlRTUMxOXpfc05JRmhzd2RlTmhqQ3c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 02 Jun 2026 14:25:43 GMT",
+      "summary": "Europe is Building the Foundations for Trusted Agentic Commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780410343.0
+    },
+    {
       "title": "For Brands, AI Is the New Shelf Space",
       "url": "https://www.practicalecommerce.com/for-brands-ai-is-the-new-shelf-space",
       "source": "Practical Ecommerce",
@@ -154,28 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780232491.0
-    },
-    {
-      "title": "Amazon opens its AI shopping tech for business with retailers - Retail Brew",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2xRV1NaRUVoTEM5TGlxcHFkUXlRTUZKYmFkZ0lkQ2ZLa3VSWXBnWlZueGNlT2pMYnJtN2QyUnFuXzgyYmNNLWFzTWsxT1Y0VzJHaklSUnVOQ2RSSmM3TE1lUGI2bXU3RnJBS0dfM3ktU3dBOWhtNXF6cUVGVXRCd19zVi1wV2hvaHVIWFR0XzFTTGRPelJFUVVDc00?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "Amazon opens its AI shopping tech for business with retailers &nbsp;&nbsp; Retail Brew",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780038000.0
-    },
-    {
-      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQU1ISnpSZWVFUWRVQnJHSzJEMFN0OHY5ZkY4Y0JSTHdNb2VDYWRYa3VJMWlzRFJvbkdTZmlMOUtzZVNxRkduNmpwbk9JNEhxd24xelhzSERsUXZYdkVTSmFpU0VydGltR1U5NmlwNmswbGVDano4c2o0SGxLRW5DdjVITTU3akxmWFdwbWo5UEJKVExCd3Z0TDJNc1R1UC1SdWt4TkpZRFhMUjkxaXd5eTVBLXY3aEdIdGVfUA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Technical deep dive: AgentCore payments and innovation in agentic commerce | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779778800.0
     },
     {
       "title": "AI Shifts Product Discovery, not Loyalty",
@@ -209,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
+      "source": "Google News: Shopify Plus",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779087600.0
     },
     {
       "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
@@ -255,6 +255,28 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1767686400.0
+    },
+    {
+      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1764316800.0
+    },
+    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -264,17 +286,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
-    },
-    {
-      "title": "Capital International Investors Acquires New Holdings in Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXZXeTVnUV9LZWtoc0hFZDUxUVdKYkNzdGZDNUNkNHlIRGdaVmhaSVJNNk9LaFpfMmVZMTJPc1FzV1d3eVkxYzA1MzY3eGNJYkNPWGxvWVJlcVRybGJqWV9UZlpjUi0xWTFQa3hweTR4TG9faDZsNUdRYkc2a2ZEM3FoN3AtRFBxbHZaNC1RWWctMDNtQ25oRWxGSEMzTWMzYWRRYzRSa1pwd3RSRTdSeFdoVzd0dUlNTkY1aUhjQmRIUmRQSWk1SmVPRjBJRFE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Mon, 08 Jun 2026 07:51:59 GMT",
-      "summary": "Capital International Investors Acquires New Holdings in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1780905119.0
     },
     {
       "title": "“Be attentive to what is arising within you, and place that above everything you perceive around you.” – Rainer Maria Rilke - Good News Network",
@@ -299,26 +310,26 @@
       "published_ts": 1780602679.0
     },
     {
-      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc2dlc2libTZaOHEybF9Ib2ZRYkZ3azVBRWFBT3czM1g0VzJ6bE5yaldPa2MxdTB4TXBSX1JhYVZaeXhtbDVIVG5fOFlyMTNzcXh0bFZzcGZxMTFaTnoyOWVOMWpSdGRmVG5NVkdNdUZhRlJUbVU5MmdYMEhXcGtHbmU2aDRSMFRMb21ERnFUczRNZnFvWTVFUVByMUNtbDZhWlhSaGVXU1hWVnpRRU9aUG5iTVVrY2pTazZqeFA1NUl2UdIBxwFBVV95cUxPVU1qQjlTVmpJYVA5QzZYOENqWG9iN0MwZGtkN1lDRF8wS1luR2IxSzZOMThkelEwU2wwdVFvdVhrOXFxcGR4cHRtYkVWQnczUU9Ec1BhdlJrdlRmYm5FRGdReHBhWkxvN3g1LWJ5Qmk2aExpWmxWUXFBcFFRT0dhZGJpczJoR3c1WEU3eURyQnQxMEREYkdkcDBiVjNGUlVBNHhDQ2NkRThFaDFya3RaWnFmSERGaEV5cDVmck54T1RsYmVJTVZn?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 03 Jun 2026 18:32:56 GMT",
-      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; simplywall.st",
-      "classification": "threat",
-      "confidence": "high",
-      "reasoning": "Klaviyo + raised, valuation",
-      "published_ts": 1780511576.0
-    },
-    {
-      "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkxfOWk1WGdLSWJ4eHRjdjRIZmx5QUdzVXRkMEZpNFoyR3VubzhCSFczaHltNVZNVXpzOFhmMnlCNHYxVEFZTnlDdDZpblBtcEEwTUlrRVZQYkJVdGRHYXBvNV9JRGZqcXVkSVdpLVdPYlJieFZLRmZHRWUwaTVGWFdZaF9WSXI3emotdXMyMVVjdGRBTGdmVk9ES2ZnYlFrRmk5bnR1MlZTeXN5aHdzZGZLaUlGM3FvNFVVYUc3cktWYjjSAcgBQVVfeXFMTlNMSDdGeXNtclNWclZrWW1BSU9OdG41b3JmbjJLQW5ubWduRmE5RU1meGRMQ3hYSjdOTk0tTEpPM1N6VFZWeVZXNWE0OW5xTXVlU2lGcFQ0ZnFEcU5KUnhUTUN4cHkza1B6TFJZd2plRjZDQ0dhaWdZVnRYWHJFQjBqcjhWS0ZwcmpkNlYwbnRGMV8wQzRCbHNXNF84MV9FNkIzUnF0T0tCTlFFaHRZbjM1Tm9OT3VyR0dTWmNnUHpnUzdOdEl1MTc?oc=5",
+      "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblJRNjI0RUR6R0ZBdjJ2eUF2RDZ1QXNyeUpNODdsWHhpd1dLanZ0dEx5THE4U0E0ZlZvNDlCbWNJQno2cmlZcG9iWVROUHY2ZlNxV0xOa3dvM0I1Tzlka2lrQWRiRGRLbjFJX1lyTEZGSGlXNFZJX0ZSWGxTMGJvWGN4dnk0SklsWWp4SUtNdW9veEtDS25IMktnQm96VWVhSUJLTUxhLWtlVnFxRjUzUVNGNEtHRlM0ZGc?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Wed, 03 Jun 2026 17:28:14 GMT",
-      "summary": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts &nbsp;&nbsp; simplywall.st",
+      "published": "Thu, 04 Jun 2026 14:24:59 GMT",
+      "summary": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts &nbsp;&nbsp; Sahm",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
-      "published_ts": 1780507694.0
+      "published_ts": 1780583099.0
+    },
+    {
+      "title": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOU5xRnZ5ZXlnZnZJLU9QRTJRYXZmYnBhaWI0TjROcnNDcEZKRmRydElYOGppWEJoSm53d2ltclZxcDZKZkVrVXlCREtJcHdHajdMYlZOMGFXNVF6Nk85OGhIQWE1WTJxdV9mMmx3aTY0Nk5UWWZrZWZ2OTMxNEM1bWNHM1hWNUc3MV9UeldnSDdRMWQwaDc2NzdXYWp5RXNCYnFmLVB6aWRLSWlFSGd5X1hmT3ZYR2h5S1hXT2o3WDdYLUpZbzNuM2tHZk52bk9Tc1FuLWctNXE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 04 Jun 2026 13:54:47 GMT",
+      "summary": "Assessing Klaviyo (KVYO) Valuation After Strong Q1 Results And Raised 2026 Revenue Guidance &nbsp;&nbsp; Sahm",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Klaviyo + raised, valuation",
+      "published_ts": 1780581287.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -332,17 +343,6 @@
       "published_ts": 1779951600.0
     },
     {
-      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1779260400.0
-    },
-    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -352,17 +352,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
-    },
-    {
-      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEc4Y2JSMF9qU2ZaaXpmWjBqeHNVeFQxcDRSMzN6SG5rSWEzVDcwLThLQzFXLUNjc3E5VkV1U2J0d2hscFhnZGk5b204X3FlNmVaZFJjQVFxMjhTTWo0aUJDMHpZc3RxYS1IMl9XV29tZ2VvZ2V3UDJhNEZudkpraTdsNmt5SzdHRWp6OGR5ZWEzcjhVbVRyWHdNVnBOcHotUzVPVGgtZk02U2dkM2RVLXI2eGZScWVRS004?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -475,17 +464,6 @@
       "published_ts": 1759215600.0
     },
     {
-      "title": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3JJby1WWjdyQXdOcExhdWhuQ3o1N2trbEx3QzBocDc4bGtTZzhIZVhBcGhoMVk3MHN3bjdwdVluZDRDS09HbnNGN0V4M25UUzk1azNJZkFyemJ1U0x5dndGclhFXzB6RG56cHFvdG9TdENJZEdwUnNJRk8tM1VaYWZZME9VWXZlTjZGdXJ2YmJMNHV6ZVVOQ09KYzgyWW5KenhHelpR?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "summary": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1756882800.0
-    },
-    {
       "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHBkSW45S0k5bFBraVMxMW80TVlVYkNfM3FCYUNvWmpBYTNmTmk5Mk5KNzA4YzVnNTBSSVBNbzdMUWxKSmhHZkx6YVhXaDhQRTU4UTFEeDlnSEFwVC1wd3BIamcyaFFXNjg0TlJqQmllQko5YWNmc3dvSlMwcVZDNVVQcnNuYUtsTzdscXZ3?oc=5",
       "source": "Google News: Yotpo",
@@ -519,17 +497,6 @@
       "published_ts": 1736150400.0
     },
     {
-      "title": "Narvar Revenue 2022: $57M ARR, $315M Valuation - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvMkI4WDE0bmhCRDN5bWdlRHNoejROR2NENmFkcnp4WTEyOHY2bTltMkpEZGU4Y0pvWG1oTXN1SHh4YzJEcUtZYkM0enF1QQ?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Fri, 20 Dec 2024 08:00:00 GMT",
-      "summary": "Narvar Revenue 2022: $57M ARR, $315M Valuation &nbsp;&nbsp; GetLatka",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + valuation",
-      "published_ts": 1734681600.0
-    },
-    {
       "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
       "source": "Google News: Narvar",
@@ -552,22 +519,22 @@
       "published_ts": 1646640000.0
     },
     {
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + acquires",
+      "published_ts": 1639641600.0
+    },
+    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Thu, 09 Sep 2021 07:00:00 GMT",
       "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
-    },
-    {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -586,11 +553,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 288,
-    "kept": 53,
-    "opportunities": 24,
-    "threats": 29,
+    "total_fetched": 289,
+    "kept": 50,
+    "opportunities": 26,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 15.6
   }
 }
