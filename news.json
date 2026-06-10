@@ -1,16 +1,38 @@
 {
-  "updated": "2026-06-10T17:51:38.745290+00:00",
+  "updated": "2026-06-10T20:10:12.309588+00:00",
   "items": [
     {
-      "title": "UAE leads in adoption of AI shopping - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjhjNXd6SEx1TmtNYVBmemN3N1hkaVdLdzc5ZVNLWjE3Z2dpRDl4SWxNWUM4SGVvamtrRXM0RkVRR1p3UkxUd0d4ekxqd240bURHWFRwYnRybVpCQXlYWnZZZWlpZDdLR2NJZ3hBRk9ZRmI0bnpmUzNoM0l1QmZVRW9USEFTdU1kQy1tM25QeUlpODdqUjdmcS1lWDl2emFtRDB1aFNzWkFucjBQV3p2OGdR?oc=5",
+      "title": "Consumer Demand for AI Shopping Is Forming Fast but Trust for Agentic Commerce Is Still Catching Up - Glenbrook Partners",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemJmUTNZWG1GNm9ZbWxuMXZJOThpR3pRY05rb1NwaTVTRjFPZ1VYSWM2aDlwdF9wc1VaQkwxVjBrcWxHRTRIUTVFX3l2N0U1eWNFNTNOY0E1UEFpdkVzRUxjeldoZDVuY0E1Sk1FWTU5am4tZVA1WXFQSjdNcmlCWGY3SXN2c0FpMmlacDE0dW1pOXl5ZVVmUjZpN2RKWWZIeDZhVkFGMl9QY1E0VUhadDNVTjhZQTVzTUZHMDNfWjF3TEV1ZmF1b0JYYWpDTFpwaUE?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Wed, 10 Jun 2026 15:16:07 GMT",
-      "summary": "UAE leads in adoption of AI shopping &nbsp;&nbsp; TradingView",
+      "published": "Wed, 10 Jun 2026 20:08:05 GMT",
+      "summary": "Consumer Demand for AI Shopping Is Forming Fast but Trust for Agentic Commerce Is Still Catching Up &nbsp;&nbsp; Glenbrook Partners",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1781122085.0
+    },
+    {
+      "title": "Agentic Commerce Is Reshaping Competition Among Payment Providers - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHN3X0JGbFZPSU8xWWhKeFdHMS1RYUdCbXhDSFBpLTlXRDJvNDZPQkVUSW11c3dueVczZXpHWjBrR1RwNGw1dmptVHUxSlR1dlMzR053bGdObnBfXzM3UVpmX3BCcFZmVUI5bFpXclVsakxMVnNfVVhxSFVhZW1BWFM5djR2N3RsSVRIZnhBMUFqQlRWd2lmM1h6bGtoblhuM2VTaXM5YkY0OFI4LWpmTFhxWTRUS0F0VHc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 10 Jun 2026 19:11:27 GMT",
+      "summary": "Agentic Commerce Is Reshaping Competition Among Payment Providers &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781104567.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781118687.0
+    },
+    {
+      "title": "Visa partners with OpenAI for agentic commerce; enhances AI, stablecoin, token capabilities (V:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkVlU09DeTNFRmlIdEJ3aTJQUWN2U3B6RHo1NWJhM08tSFhyeGJIcEl2UDktem05MFRhNEVacUZNNlBleTlDUVE4WlJXcW5SNkpMbGZUVTZTTkc4QTVNOHh1MWJLYWVvM2IyOHJ0UzZGaU5hUlJzb3ZZNlIxUmp1Mm5FN09vck5pcFhXSUZJNlotcDRYbU5wYjJzVHc5LVdST3VDZW1majQzTHhxa2FMZjhfZWF2QVMxU0Vxekd0LUxyeExD?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 10 Jun 2026 18:38:15 GMT",
+      "summary": "Visa partners with OpenAI for agentic commerce; enhances AI, stablecoin, token capabilities (V:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781116695.0
     },
     {
       "title": "UAE leads global adoption of AI shopping as consumers trust AI more than family members - Economy Middle East",
@@ -33,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1781100210.0
-    },
-    {
-      "title": "NRF APAC 2026: Agentic Commerce Is Exciting. The Agentic Operating Model Is More Important - Bain & Company",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1MyUGpONzRBeWNrdmhjNDVEa1NXSWd4Z2t0d1lLSUpzaFdqRElIbkIyVV9TbnNwT2JkellEaWE4U1BHUEhHaURKemk4eEw0dkVTbkdrdDk1aG5sZExRX2FmNEVaVjdSWk5PUWxHXzhjaEhiOUp2WFNGc2poZVRMQUIwNTZtVzRhaUU2QUp5bW1hNzYyTl9OdS1ySHc3cS04ZTgtX2xGQnBaQ1NOQmRpUklQSHo5ZW1qX204?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 10 Jun 2026 13:02:15 GMT",
-      "summary": "NRF APAC 2026: Agentic Commerce Is Exciting. The Agentic Operating Model Is More Important &nbsp;&nbsp; Bain & Company",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781096535.0
     },
     {
       "title": "JPMorgan’s Lake sees longer road to agentic commerce adoption - Banking Dive",
@@ -101,17 +112,6 @@
       "published_ts": 1781015493.0
     },
     {
-      "title": "Mastercard CEO shares grave concerns over AI agentic commerce - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGlwbVdGd0xZQ0hJdTNXbnNEbXBpY3Q1R1ctZmJWWmtOOUM2QUFaOXlWbUpKSl9kRkt5dzVzX0hjYVIweFhWbnphekt3cXdVNlpJTG5QcENIQjdtMHpPYnlzaW44Q1BvX0RBLTQ4MW1BcjFfSllsWEYtOVhONU85ZUNDTld0QlpHWnA0RGR3YmF2b3NyMWc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 09 Jun 2026 14:17:00 GMT",
-      "summary": "Mastercard CEO shares grave concerns over AI agentic commerce &nbsp;&nbsp; thestreet.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781014620.0
-    },
-    {
       "title": "Rezolve Ai Appoints Microsoft and Amazon Veteran Michele Fisher as Chief Marketing Officer to Define the Agentic Commerce Era - Rezolve",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMGRrNDU1eF9NVnlURUxXTFFlTGJOSF9fNUJNdzJnWENwZEN6cjRldHk2MXZyZDFKUXhYUVRTS0dBLW9TVkktMm5lNnpnbUhNcnNMU2NoQlFBSEMzU3ZHNU1uVWY5Wi0xdUxfT29vWmFoenJnQjcyR1hWRHZYaG51dmdiS05vdjBwNnRQcUNHZURubDIycDFCWHloUDVyVzQ3SHQ4cTlfckNKSnhONmZMUThwOWdKMU9abGh6RzNLVllQNUdHYXowMjJuRXdkYVZ5WjFSaFNvd3NvSmVYa3lHZ1B1bnV6YndxSWJ2NWZERkpzTG8?oc=5",
       "source": "Google News: agentic commerce",
@@ -143,17 +143,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780670659.0
-    },
-    {
-      "title": "Amazon applies AI shopping tech to customer retailer agents with AWS - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzlWc1dXNEdkRFdjTU03V0hXeEMtcS1iSUl0U0s4czlNZjE2Xy1FZ0Y0LXptUlRtc3dMdWhVMk1reEJ4cmJXUTkxMDg1S3VQLUp0VnlPRmNKdFF4dHk4allKTGVKUHczczY1QnJpZUNHcFBPTmpiZWJTUlhuNk1za0RwNFllaERnUjFGOE5CNkxhM3BrQmwwMXVaZ3d0RWlDcHYzekhfQ0JFb3o4YS1iXzJjaFFQZ9IBuwFBVV95cUxOckV6ZWhrVG9qTzlaazNndXN2X2xuME9vSE9KUlI4TzBxblVQQW1ZNzRFMUVLVklsV3kxb1diZlBOSk90XzZLTjd4OWctSlR6SXFJX0drU2pPRVhMNE1jZzJxQ2ZlQ1V6cWdaQllXTE1nSDM1LTFlTUV2Y1ZDdm9mSUtuVWJsWnZlNHNwQU5SdlVRQkhxM3lVdThNSDRhMk9Qd2VKc3NaSi15LWhBOUh3eVRwMTlpM2ZzSFlv?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 04 Jun 2026 05:52:47 GMT",
-      "summary": "Amazon applies AI shopping tech to customer retailer agents with AWS &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780552367.0
     },
     {
       "title": "New Ecommerce Tools: June 3, 2026",
@@ -198,17 +187,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
-    },
-    {
-      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
-      "source": "Google News: Shopify Plus",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779087600.0
     },
     {
       "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
@@ -264,6 +242,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
+    },
+    {
+      "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Wed, 10 Jun 2026 19:41:15 GMT",
+      "summary": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending &nbsp;&nbsp; HomePage News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1781120475.0
     },
     {
       "title": "Capital World Investors Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
@@ -352,6 +341,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -544,9 +544,9 @@
   "stats": {
     "total_fetched": 290,
     "kept": 49,
-    "opportunities": 24,
-    "threats": 25,
+    "opportunities": 22,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.2
+    "runtime_seconds": 13.3
   }
 }
