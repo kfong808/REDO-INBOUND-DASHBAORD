@@ -1,6 +1,39 @@
 {
-  "updated": "2026-06-11T10:04:02.244980+00:00",
+  "updated": "2026-06-11T14:29:20.020390+00:00",
   "items": [
+    {
+      "title": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries - Consumer Finance Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjc1WmNRdkcwZVRpR1hnTzZ6RHBLMHkzSU1qN2xWVThSUzV5QzJlMEZKQS1QOHQyTDNCbGs1VGJSdVFhbFRaeThCYzVuc3hwUE4yRGJoOUpWMDlnTXNwVFpYNGV0RTE1Xy15TG40QkI2cXdOUG1pdnl0aEtMeEhIRVVNODVsRXBtM3J3cmJhS2Z5TGgwdzcxczJFQV9VWG5oUTRldlhsODdVMjUySmZSUEszWVg5RUZkMmlGbk53c1hLdDQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 14:03:45 GMT",
+      "summary": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries &nbsp;&nbsp; Consumer Finance Monitor",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781186625.0
+    },
+    {
+      "title": "Repeat purchase rate is really low",
+      "url": "https://www.reddit.com/r/shopify/comments/1u2y39n/repeat_purchase_rate_is_really_low/",
+      "source": "r/shopify",
+      "published": "2026-06-11T12:46:55+00:00",
+      "summary": "Been running my store for about a year. Most months I get around 400-500 orders. Checked my repeat purchase rate last week and it's sitting at about 8%. I sell consumable products so in theory people should be reordering. But almost nobody comes back. I don't have a post-purchase email sequence set up and my only retention effort so far is a discount code on the packing slip which I doubt anyone uses. What's a realistic repeat purchase rate for consumables? And what actually works to get people ",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1781182015.0
+    },
+    {
+      "title": "Trust gap slows UK take-up of AI shopping agents - InternetRetailing",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc0ltNTNpbHNoQ2ZUbVkzQ0ZsZW4xb202R1A3U1pCZ0M3YXMyUGQwQVZyWGp6NjdxQlQ1US1mNHVpNkRTR1Q0OTlwQ1BpdTBDMURlQklMdENkN2pJRE85UjhzM2pNaEg4WG9UUmZ2b2Zkc2NJQnpRRnZsVTZyYXRzUUM3WFZyQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 11:21:12 GMT",
+      "summary": "Trust gap slows UK take-up of AI shopping agents &nbsp;&nbsp; InternetRetailing",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781176872.0
+    },
     {
       "title": "AI shopping adoption outpaces trust, Checkout.com finds - IT Brief UK",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYlZPaDM4ZFJTV01KSzN5TkpoNkRfdFZPN1JkU2FucWtPdy1JT2Jsc0kyeWN0VjFudm1HY2VIc1VtMEF4NC1jUmRna0xJWWxmYkoxV0lZNHFZS20yWXNFMjFDT1RWUnJIYWJxTHVWVVVpSWZQRWQxelUxZTVOdkpZUC04aVo1OG9kNUE?oc=5",
@@ -27,23 +60,12 @@
       "title": "Visa and OpenAI form agentic commerce partnership - Finextra Research",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXRPMGcwLUlYYUY3NmVrSEx5OEJKbUtmNEw0bFBNbEN0TWk3RWFtZG95Sk1PQXQ2dmRkNVlpQTk0X0tWazZ6Mm4ySTgteGI4OUpkdUowRVFvZEx5M0dYdjdCZ1pRRXB6QU9veDVhb3M0NTdrOTZKbjJLbWdfaEhTbm5ETnl0U19zTW15NzVFLU1tY2d4ZENJ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 10 Jun 2026 20:11:12 GMT",
+      "published": "Wed, 10 Jun 2026 20:45:00 GMT",
       "summary": "Visa and OpenAI form agentic commerce partnership &nbsp;&nbsp; Finextra Research",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781122272.0
-    },
-    {
-      "title": "Consumer Demand for AI Shopping Is Forming Fast but Trust for Agentic Commerce Is Still Catching Up - Glenbrook Partners",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemJmUTNZWG1GNm9ZbWxuMXZJOThpR3pRY05rb1NwaTVTRjFPZ1VYSWM2aDlwdF9wc1VaQkwxVjBrcWxHRTRIUTVFX3l2N0U1eWNFNTNOY0E1UEFpdkVzRUxjeldoZDVuY0E1Sk1FWTU5am4tZVA1WXFQSjdNcmlCWGY3SXN2c0FpMmlacDE0dW1pOXl5ZVVmUjZpN2RKWWZIeDZhVkFGMl9QY1E0VUhadDNVTjhZQTVzTUZHMDNfWjF3TEV1ZmF1b0JYYWpDTFpwaUE?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 10 Jun 2026 20:08:05 GMT",
-      "summary": "Consumer Demand for AI Shopping Is Forming Fast but Trust for Agentic Commerce Is Still Catching Up &nbsp;&nbsp; Glenbrook Partners",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1781122085.0
+      "published_ts": 1781124300.0
     },
     {
       "title": "Visa partners with OpenAI for agentic commerce; enhances AI, stablecoin, token capabilities (V:NYSE) - Seeking Alpha",
@@ -57,6 +79,17 @@
       "published_ts": 1781116695.0
     },
     {
+      "title": "How Visa is designing smarter credit cards for AI shopping - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFdfX3oxQmNIemJsQ01VVDdaOW1FMHg1SHF2Nm1LWXZfaFk1elJHNXNaaWpfQy1HTENmQzZNX1I5MzN2Qy15LWJoamxIcjVTNDNBRDZEQ1hXNEpYemdZVlQtaVU5VnI4cjU0VE1NaDhvdk14cjZGOEVsNmFZZ3ZGeVZBWkplMmtsZXRmQmQzampLa29DVW95OVBERQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 10 Jun 2026 17:37:38 GMT",
+      "summary": "How Visa is designing smarter credit cards for AI shopping &nbsp;&nbsp; Fast Company",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781113058.0
+    },
+    {
       "title": "Mastercard moves deeper into agentic commerce with stablecoin-enabled payment system - AMBCrypto",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFJiNURVTndPU2tNTFZhV3JWSFZnNl9sM0ZhRnVSWFIwY1dMVGdndmxrUG5aZ0JaQXV6aFlkaDVZLVpFeUNHMUIxT3JMUElOVzliS200Mkp2aWN5Y3k2Qlg5NDBZMklZcE1pQko1dnFwQ0FPWUN5WF9mbUMzQi15emVJLWdWQUFzd3BMM1Rzbk0zc1BOekZLRTlwaVFZV25wTGFlX0dHUWlTeGvSAbABQVVfeXFMTW1yNzBfVFZoSmJhN2Q3UWRZNHhiOWpwWjNXQ196VzZtRlB3T29kRGQ1dTdITF9jMWZDcHZ3VWRaQ19KdkpBbmF4RDhCV0wxbVd2OHZKSDRrazJKZE5LVUNPdFRCRnpndmh4bXZIa2VzR1RCd0NNNnduMjZ2eFQ3WmFYRTZjcUJBNWJ1LU1VUXVacTVUdmJwa09WbTRpRnZ1NnJQc3QweFRWYzNVX1BKajI?oc=5",
       "source": "Google News: agentic commerce",
@@ -68,17 +101,6 @@
       "published_ts": 1781100210.0
     },
     {
-      "title": "Consumer Demand for AI Shopping is Forming Fast but Trust for Agentic Commerce is Still Catching Up - Fintech Finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNnlOTFl2SzVnaUFNd0pfYy0zZVI4Wk1pZUdSWVdGZTg0VTFXdTk5UG1od01MUHBqLWFsdE5Yc24xTHNsRWpNT0tLcWFzNUQ5LXZ4S3R0WmJzdWVEWUNYOFJqa082RVlKTDloNFQ0ejFXTzFhV1E3R2hXWC1uOWlkbDdVRGxTX2o0TFBmTW1OcnpCeV95Uy0wWE5ibW9NX1VaczZucjlDX3dyNTBQRndsRG5aN1FVaWdIY0VXUlNMZzF5SGhpNkIwVEFrSQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 09 Jun 2026 15:46:04 GMT",
-      "summary": "Consumer Demand for AI Shopping is Forming Fast but Trust for Agentic Commerce is Still Catching Up &nbsp;&nbsp; Fintech Finance",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1781019964.0
-    },
-    {
       "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -88,39 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781015493.0
-    },
-    {
-      "title": "Rezolve Ai Appoints Microsoft and Amazon Veteran Michele Fisher as Chief Marketing Officer to Define the Agentic Commerce Era - Rezolve",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMGRrNDU1eF9NVnlURUxXTFFlTGJOSF9fNUJNdzJnWENwZEN6cjRldHk2MXZyZDFKUXhYUVRTS0dBLW9TVkktMm5lNnpnbUhNcnNMU2NoQlFBSEMzU3ZHNU1uVWY5Wi0xdUxfT29vWmFoenJnQjcyR1hWRHZYaG51dmdiS05vdjBwNnRQcUNHZURubDIycDFCWHloUDVyVzQ3SHQ4cTlfckNKSnhONmZMUThwOWdKMU9abGh6RzNLVllQNUdHYXowMjJuRXdkYVZ5WjFSaFNvd3NvSmVYa3lHZ1B1bnV6YndxSWJ2NWZERkpzTG8?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 08 Jun 2026 12:07:14 GMT",
-      "summary": "Rezolve Ai Appoints Microsoft and Amazon Veteran Michele Fisher as Chief Marketing Officer to Define the Agentic Commerce Era &nbsp;&nbsp; Rezolve",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780920434.0
-    },
-    {
-      "title": "AI Shopping Agents Are Manipulating Consumers, Study Finds - The Walrus",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kMVdUcmtUdWVud0M0cUVBSm1ZY3o0RndQTW16VFlFSWdaOGtSM0NDUHA4NWxOclpTVlhvMVRyX2VVb3l0LXp3dldjVnBYVG83elRQRlVn?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 08 Jun 2026 10:30:33 GMT",
-      "summary": "AI Shopping Agents Are Manipulating Consumers, Study Finds &nbsp;&nbsp; The Walrus",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780914633.0
-    },
-    {
-      "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 05 Jun 2026 14:44:19 GMT",
-      "summary": "Survey: Some skepticism remains among AI shopping agent users &nbsp;&nbsp; Chain Store Age",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780670659.0
     },
     {
       "title": "New Ecommerce Tools: June 3, 2026",
@@ -178,17 +167,6 @@
       "published_ts": 1779087600.0
     },
     {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -209,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1770019200.0
+    },
+    {
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1768464000.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -266,6 +255,17 @@
       "published_ts": 1780905119.0
     },
     {
+      "title": "“Be attentive to what is arising within you, and place that above everything you perceive around you.” – Rainer Maria Rilke - Good News Network",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWS1veF9GTTlfUmNfUEhSMjBxY19EeW5MYjJGalQwbzdLbTBjdUFmelBORFNwRk12TkN6bkpuYk5qaTBadkxORHpHNkRqZ1Z1d0d4Vm5sZnhDaHRJWWV1dXVRb19mcU1KVEJfd1pkbU1KZDVFMmlKbnd5Z0wtU25Ld0d2Y1pOOEZiem1sd1lDQU90Zw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 08 Jun 2026 07:00:06 GMT",
+      "summary": "“Be attentive to what is arising within you, and place that above everything you perceive around you.” – Rainer Maria Rilke &nbsp;&nbsp; Good News Network",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1780902006.0
+    },
+    {
       "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDJfUkY0bUZ4Wnp4cU43WUE3cVVHY0VnLVktN1QzMXVHRzVvaVB2QV9uUXBHakNQY1JkMDlGb1hlZmFBMkFZX05GWk44WEZoYlpkb09aNzV4MnMyUHhpeDRkand1ek9tV3ZqM3pKMDFsdzdLTXZyNGpqb1UzN09pdjR5NE1FR0s2d1VMdy1FY1hJRFlBTG0zQW5SQmtqejBnaEc5eURCZ0lMemtZc1JRbHltQ1BGM1ppcGd6XzNhYnAyd9IBxwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc0?oc=5",
       "source": "Google News: Klaviyo",
@@ -297,28 +297,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "Superior of Spiritans in Ghana Urges “attentive listening” and Missionary Renewal in Pentecost 2026 Message - aciafrica.org",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdG4tZHQweFZmVzRfeURGLWZPU3Z2LUFvcGxDbHdqZlRadGtXMTl0SVhjZGU2eHZvdEdIbXJYbVZEa1h4UFhDcXp6aWpzeUNBMi1zWW9XbUtZUi1LRmlZQTZUSGplQkQ0WjNJdVVQclA2MXdyeU9BUHhudWFpNzBsel9feXpJcUlUWm1RQ09MdFdRV3U3dEF3UnVYWFRXRFcwcUtfUEhjQUc0eWs4eE1rLUxydE1GVGtqelN6Nm5uYnJtdGp6X3hSODJnOXdBVHVWUVUwaXcyVGdnUdIB3wFBVV95cUxPVEZBTDZUcWFrQmtEbXR4aF9zMEFTYzBReHdvM1RET0NPQkNOS3VlVHItbXFUUjZkSkdhdHdzX1pkSUx0VkJKbVJFTTBseml5Vmo5QWZDdXBHZXhwUkdNa2JiZzJuMExNSEd4M0ZBeURCZURlcEgtcnRWN21YcmFudk9INzVwNW1QRHFzcjVQZHk3YlJ0V1U2U2x4bGNRXzZpZUdudC01NDdpWW1NY0RvSUdBOW1TazJOUXlMb3lUU1NXUWd2UUl4NFcyRktlYlFIUy1SX2QwQTlfNmRsNnlB?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 27 May 2026 06:43:21 GMT",
-      "summary": "Superior of Spiritans in Ghana Urges “attentive listening” and Missionary Renewal in Pentecost 2026 Message &nbsp;&nbsp; aciafrica.org",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1779864201.0
-    },
-    {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG5JMFhodnR4MlZINWh2Z0JmRHZOclBMdTRrbUJiWGFPNGhTTV9IZTdoUU92eGR1dldvTDBaYkVnQXYzU1ZpUjlCRExfdlBHcEFVMHlqeHc1VGF1RXJXQTAzUjdWWV9neXB6ZWwwODcxWnA3TXlBWTgxcDNmRVQ0YXhtX0VtQUpkeTF6TzdvbFl3akdmNFJXX25QTTNKWnpEY05VbGx3cHlYRVZlWVVRRm52a0M?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 21 May 2026 22:38:28 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1779403108.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -385,6 +363,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
       "published_ts": 1768204800.0
+    },
+    {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
@@ -510,10 +499,10 @@
   ],
   "stats": {
     "total_fetched": 290,
-    "kept": 46,
-    "opportunities": 21,
+    "kept": 45,
+    "opportunities": 20,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 12.7
   }
 }
