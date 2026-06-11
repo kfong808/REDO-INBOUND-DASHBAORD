@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T21:11:30.536058+00:00",
+  "updated": "2026-06-11T23:14:23.071226+00:00",
   "items": [
     {
       "title": "Stocky is shutting down on Aug 31 — what are you switching to?",
@@ -442,6 +442,17 @@
       "published_ts": 1736150400.0
     },
     {
+      "title": "Narvar Revenue 2022: $57M ARR, $315M Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvMkI4WDE0bmhCRDN5bWdlRHNoejROR2NENmFkcnp4WTEyOHY2bTltMkpEZGU4Y0pvWG1oTXN1SHh4YzJEcUtZYkM0enF1QQ?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 20 Dec 2024 08:00:00 GMT",
+      "summary": "Narvar Revenue 2022: $57M ARR, $315M Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + valuation",
+      "published_ts": 1734681600.0
+    },
+    {
       "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
       "source": "Google News: Narvar",
@@ -484,17 +495,6 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
@@ -503,6 +503,6 @@
     "opportunities": 23,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 11.7
   }
 }
