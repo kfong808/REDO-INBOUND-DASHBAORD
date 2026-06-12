@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T11:34:26.788854+00:00",
+  "updated": "2026-06-12T14:33:08.040025+00:00",
   "items": [
     {
       "title": "Stocky is shutting down on Aug 31 — what are you switching to?",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1781182015.0
-    },
-    {
-      "title": "Permission, Not Payments, Will Shape the Agentic Commerce Revolution - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMERvMWhhc2RGMjVzQjRod0xFc1F3OGV0TXBxRDRkQXBZSXJmOS1sbzgtbVZZX0NWaVhTZHFlRlFOS3A1OEVwcHF5S25wVXdYSUhiVzRXVVlMMFpwdzdyUU5id3FQYzBCX1RrdUFUMjlZQmNFUUF5UF9MTUFYOUZzdlNRUl9RLWg5eVhRSm1GWlpqYTZmZUFldDJSWHB0d3duQXRIT2NoN1lsQy1TSVJmZ0t1Xzg3TS1YbFRjeA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 11 Jun 2026 08:03:10 GMT",
-      "summary": "Permission, Not Payments, Will Shape the Agentic Commerce Revolution &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781164990.0
     },
     {
       "title": "Visa and OpenAI form agentic commerce partnership - Finextra Research",
@@ -145,17 +134,6 @@
       "published_ts": 1780914633.0
     },
     {
-      "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 05 Jun 2026 14:44:19 GMT",
-      "summary": "Survey: Some skepticism remains among AI shopping agent users &nbsp;&nbsp; Chain Store Age",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780670659.0
-    },
-    {
       "title": "New Ecommerce Tools: June 3, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
       "source": "Practical Ecommerce",
@@ -198,6 +176,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
+      "source": "Google News: Shopify Plus",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779087600.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -255,6 +244,17 @@
       "published_ts": 1718002800.0
     },
     {
+      "title": "issues with bot email sign ups",
+      "url": "https://www.reddit.com/r/shopify/comments/1u3wud3/issues_with_bot_email_sign_ups/",
+      "source": "r/shopify",
+      "published": "2026-06-12T14:27:41+00:00",
+      "summary": "i have a regular email list of a few thousand emails. this morning i see my bill from Mailchimp and it went from $100 to $595 and i now have 18,000 contacts in mailchimp. i regularly gain 1-3 new email sign ups a week. I checked that reCaptcha was enabled on Shopify, the only place you can sign up for my email list. in mailchimp I confirmed the there was double opt in enabled. WTF? any suggestions ? i have contacted both shopify and mailchimp and checked the setting mentioned above. &#32; submit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1781274461.0
+    },
+    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -277,6 +277,17 @@
       "published_ts": 1781012700.0
     },
     {
+      "title": "“Be attentive to what is arising within you, and place that above everything you perceive around you.” – Rainer Maria Rilke - Good News Network",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWS1veF9GTTlfUmNfUEhSMjBxY19EeW5MYjJGalQwbzdLbTBjdUFmelBORFNwRk12TkN6bkpuYk5qaTBadkxORHpHNkRqZ1Z1d0d4Vm5sZnhDaHRJWWV1dXVRb19mcU1KVEJfd1pkbU1KZDVFMmlKbnd5Z0wtU25Ld0d2Y1pOOEZiem1sd1lDQU90Zw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 08 Jun 2026 07:00:06 GMT",
+      "summary": "“Be attentive to what is arising within you, and place that above everything you perceive around you.” – Rainer Maria Rilke &nbsp;&nbsp; Good News Network",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1780902006.0
+    },
+    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
       "source": "Google News: Mailchimp",
@@ -288,15 +299,15 @@
       "published_ts": 1779951600.0
     },
     {
-      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG5JMFhodnR4MlZINWh2Z0JmRHZOclBMdTRrbUJiWGFPNGhTTV9IZTdoUU92eGR1dldvTDBaYkVnQXYzU1ZpUjlCRExfdlBHcEFVMHlqeHc1VGF1RXJXQTAzUjdWWV9neXB6ZWwwODcxWnA3TXlBWTgxcDNmRVQ0YXhtX0VtQUpkeTF6TzdvbFl3akdmNFJXX25QTTNKWnpEY05VbGx3cHlYRVZlWVVRRm52a0M?oc=5",
       "source": "Google News: Attentive",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
+      "published": "Thu, 21 May 2026 22:38:28 GMT",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1779260400.0
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1779403108.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -376,17 +387,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -453,6 +453,17 @@
       "published_ts": 1736150400.0
     },
     {
+      "title": "Narvar Revenue 2022: $57M ARR, $315M Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvMkI4WDE0bmhCRDN5bWdlRHNoejROR2NENmFkcnp4WTEyOHY2bTltMkpEZGU4Y0pvWG1oTXN1SHh4YzJEcUtZYkM0enF1QQ?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 20 Dec 2024 08:00:00 GMT",
+      "summary": "Narvar Revenue 2022: $57M ARR, $315M Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + valuation",
+      "published_ts": 1734681600.0
+    },
+    {
       "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
       "source": "Google News: Narvar",
@@ -495,25 +506,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 270,
     "kept": 46,
-    "opportunities": 23,
-    "threats": 23,
+    "opportunities": 22,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 11.8
   }
 }
