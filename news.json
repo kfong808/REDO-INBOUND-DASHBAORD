@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T21:01:40.855586+00:00",
+  "updated": "2026-06-13T22:53:08.010134+00:00",
   "items": [
     {
       "title": "AI shopping agents are coming. No one is ready for them - Fortune",
@@ -200,6 +200,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant - PA Media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHczTTFKYi1CZTlPNEpKWnpmQ3J0QzY2TngxcWp1R3RpS1ZLQnZEdk5PSmVoU3V3a0UybklnTUNVa3NPRWRKMHdZSWtibTEySWRsQUs4WlltWEc1N20wcFZ2ZWlocWM3aFpyOVpKRGhBZVc5QXMySnZVbkZxR21wbXdTOWgzVGFOUlVzbXAxWjVDRGp0bHBiS0ZOUVh6cDd0U1VlekZnYWZpc2hFRTJUS01uSktSenVUaWVfcmRn?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "summary": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant &nbsp;&nbsp; PA Media",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718002800.0
+    },
+    {
       "title": "issues with bot email sign ups",
       "url": "https://www.reddit.com/r/shopify/comments/1u3wud3/issues_with_bot_email_sign_ups/",
       "source": "r/shopify",
@@ -222,6 +233,17 @@
       "published_ts": 1781120732.0
     },
     {
+      "title": "Capital World Investors Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXp1c3Rxd01BdnBkdEw2NllLNWlCdy1NLWFRUGVQc0xRUVFXeUpzZGg3WEYzTko1MkYxd2E4VW9wV0tMX0hpTURYSG93emo3aV82NmwtOFZSRFRSdVZ0blZLNi1kbHpwUW5RdmZObnMtUFpqdHRjR2wzMkZSdHBiTGp6QmZiNWszeEVra1owT0dhb0FfV3NBYzRpSVhMdlBhQXVTRUZCUnE4TG5ZaHJSc0hlSUxSWm5SZlhFOXZKdmh4eEk?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 10 Jun 2026 07:58:20 GMT",
+      "summary": "Capital World Investors Makes New Investment in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1781078300.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -242,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "Klaviyo (KVYO) Valuation Check As Expanded Anthropic Claude Integration Targets Broader AI Marketing Adoption - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGZCMHJlbXJ1djg5VHlfb0J3aWl5eDk3NXBPSGxLdFNlSUNaZ3BCZDRDNmVNY1VQZHVoNmtwekhjd2h2b0pwUDZGMmtOSjFVX2JSYXlKYk16U19STWFpZ0lpUlJYOUNtTWFRMGZwUFp1VVRjc19KYUx3ZVgzZWNfUXhSbHVNQTFWTHBOUXZvQmZIYjNXX0xSMjJxd3lRNktDN2dNNQ?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sun, 24 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo (KVYO) Valuation Check As Expanded Anthropic Claude Integration Targets Broader AI Marketing Adoption &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1779606000.0
     },
     {
       "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
@@ -477,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
-    "opportunities": 18,
+    "kept": 44,
+    "opportunities": 19,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 10.9
   }
 }
