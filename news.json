@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T09:50:13.691741+00:00",
+  "updated": "2026-06-13T11:46:26.108622+00:00",
   "items": [
     {
       "title": "AI shopping agents are coming. No one is ready for them - Fortune",
@@ -68,17 +68,6 @@
       "published_ts": 1781124300.0
     },
     {
-      "title": "Visa partners with OpenAI for agentic commerce; enhances AI, stablecoin, token capabilities (V:NYSE) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkVlU09DeTNFRmlIdEJ3aTJQUWN2U3B6RHo1NWJhM08tSFhyeGJIcEl2UDktem05MFRhNEVacUZNNlBleTlDUVE4WlJXcW5SNkpMbGZUVTZTTkc4QTVNOHh1MWJLYWVvM2IyOHJ0UzZGaU5hUlJzb3ZZNlIxUmp1Mm5FN09vck5pcFhXSUZJNlotcDRYbU5wYjJzVHc5LVdST3VDZW1majQzTHhxa2FMZjhfZWF2QVMxU0Vxekd0LUxyeExD?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 10 Jun 2026 18:38:15 GMT",
-      "summary": "Visa partners with OpenAI for agentic commerce; enhances AI, stablecoin, token capabilities (V:NYSE) &nbsp;&nbsp; Seeking Alpha",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781116695.0
-    },
-    {
       "title": "How Visa is designing smarter credit cards for AI shopping - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFdfX3oxQmNIemJsQ01VVDdaOW1FMHg1SHF2Nm1LWXZfaFk1elJHNXNaaWpfQy1HTENmQzZNX1I5MzN2Qy15LWJoamxIcjVTNDNBRDZEQ1hXNEpYemdZVlQtaVU5VnI4cjU0VE1NaDhvdk14cjZGOEVsNmFZZ3ZGeVZBWkplMmtsZXRmQmQzampLa29DVW95OVBERQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -88,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781113058.0
+    },
+    {
+      "title": "JPMorgan’s Lake sees longer road to agentic commerce adoption - Banking Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXZXelRMNzBKTm9Bb3FTVWRKRGV4U0NoeWgyVGdldTZNX3QzX0hGRWF5Q1JNbjBsbk1EWnUxRlVMN3pXRkRjN3JGOVdmRnlsRFRxOG1aQVNwVTRKNlRGcnRoU0lJaW1EcFVhUVdadUZ6WlFOalBDR2FDa1BOUmE5ODBQNG9uR1lxSm84NDJ5djBoalU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 10 Jun 2026 12:44:29 GMT",
+      "summary": "JPMorgan’s Lake sees longer road to agentic commerce adoption &nbsp;&nbsp; Banking Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781095469.0
     },
     {
       "title": "Consumer Demand for AI Shopping is Forming Fast but Trust for Agentic Commerce is Still Catching Up - Fintech Finance",
@@ -264,6 +264,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1781012700.0
+    },
+    {
+      "title": "Capital International Investors Acquires New Holdings in Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXZXeTVnUV9LZWtoc0hFZDUxUVdKYkNzdGZDNUNkNHlIRGdaVmhaSVJNNk9LaFpfMmVZMTJPc1FzV1d3eVkxYzA1MzY3eGNJYkNPWGxvWVJlcVRybGJqWV9UZlpjUi0xWTFQa3hweTR4TG9faDZsNUdRYkc2a2ZEM3FoN3AtRFBxbHZaNC1RWWctMDNtQ25oRWxGSEMzTWMzYWRRYzRSa1pwd3RSRTdSeFdoVzd0dUlNTkY1aUhjQmRIUmRQSWk1SmVPRjBJRFE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Mon, 08 Jun 2026 07:51:59 GMT",
+      "summary": "Capital International Investors Acquires New Holdings in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1780905119.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
+    "kept": 47,
     "opportunities": 21,
-    "threats": 25,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 10.2
   }
 }
