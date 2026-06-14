@@ -1,17 +1,6 @@
 {
-  "updated": "2026-06-14T15:42:00.524762+00:00",
+  "updated": "2026-06-14T17:07:59.814199+00:00",
   "items": [
-    {
-      "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN",
-      "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
-      "source": "Hacker News",
-      "published": "Sun, 14 Jun 2026 14:40:33 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: shutdown",
-      "published_ts": 1781448033.0
-    },
     {
       "title": "Visa and OpenAI join forces on agentic commerce infrastructure - Digital Watch Observatory",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oNkpjNDd6Q0tFSE1Bam5vRkhYcEhUcEVSN3hZZ0t6VTZncS1kY1gtMkh3ekM2Vk1RN043OGhuUmZnWUU2LXJjcVhCQ0VWZGlvTTQ4UWJ1OTloZ0gwcEZkcEtUR2VjclJCZHhaOEJyZXMtUllpb3o2T0FZVkc3QQ?oc=5",
@@ -44,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: price increase",
       "published_ts": 1781279580.0
-    },
-    {
-      "title": "Tips for brands to win with agentic commerce - FoodNavigator-USA.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1ZLRHFDMjBHeHFHZ1ZQV0p0ejlIbk5lRWNrQWRUdjZEZkZEWFVfZW4zS3JLWUU0VWxNRUQ5cjlTa3hqNG92b0F6ZG1OSXFxYlV1aC16OHhCT0RiQmNLemZpdHBHaXNDSmR6bXNYbHNyZTk0QVdhb1M5SGRPV0FwV3RqMTNMZUNRM2xxdUJYSGFTU0plVjl4MkpqVlFZa3otRWNyZDBpRQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 12 Jun 2026 13:21:33 GMT",
-      "summary": "Tips for brands to win with agentic commerce &nbsp;&nbsp; FoodNavigator-USA.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781270493.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -112,17 +90,6 @@
       "published_ts": 1781113058.0
     },
     {
-      "title": "Consumer Demand for AI Shopping is Forming Fast but Trust for Agentic Commerce is Still Catching Up - Fintech Finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNnlOTFl2SzVnaUFNd0pfYy0zZVI4Wk1pZUdSWVdGZTg0VTFXdTk5UG1od01MUHBqLWFsdE5Yc24xTHNsRWpNT0tLcWFzNUQ5LXZ4S3R0WmJzdWVEWUNYOFJqa082RVlKTDloNFQ0ejFXTzFhV1E3R2hXWC1uOWlkbDdVRGxTX2o0TFBmTW1OcnpCeV95Uy0wWE5ibW9NX1VaczZucjlDX3dyNTBQRndsRG5aN1FVaWdIY0VXUlNMZzF5SGhpNkIwVEFrSQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 09 Jun 2026 15:46:04 GMT",
-      "summary": "Consumer Demand for AI Shopping is Forming Fast but Trust for Agentic Commerce is Still Catching Up &nbsp;&nbsp; Fintech Finance",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1781019964.0
-    },
-    {
       "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -178,6 +145,17 @@
       "published_ts": 1779260400.0
     },
     {
+      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
+      "source": "Google News: Shopify Plus",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779087600.0
+    },
+    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -198,17 +176,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1772611200.0
-    },
-    {
-      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1770019200.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -510,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 21,
+    "kept": 43,
+    "opportunities": 18,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.2
+    "runtime_seconds": 10.9
   }
 }
