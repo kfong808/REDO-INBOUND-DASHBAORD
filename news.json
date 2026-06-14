@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T17:07:59.814199+00:00",
+  "updated": "2026-06-14T19:07:47.128439+00:00",
   "items": [
     {
       "title": "Visa and OpenAI join forces on agentic commerce infrastructure - Digital Watch Observatory",
@@ -222,17 +222,6 @@
       "published_ts": 1781120732.0
     },
     {
-      "title": "Capital World Investors Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXp1c3Rxd01BdnBkdEw2NllLNWlCdy1NLWFRUGVQc0xRUVFXeUpzZGg3WEYzTko1MkYxd2E4VW9wV0tMX0hpTURYSG93emo3aV82NmwtOFZSRFRSdVZ0blZLNi1kbHpwUW5RdmZObnMtUFpqdHRjR2wzMkZSdHBiTGp6QmZiNWszeEVra1owT0dhb0FfV3NBYzRpSVhMdlBhQXVTRUZCUnE4TG5ZaHJSc0hlSUxSWm5SZlhFOXZKdmh4eEk?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 10 Jun 2026 07:58:20 GMT",
-      "summary": "Capital World Investors Makes New Investment in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1781078300.0
-    },
-    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -244,11 +233,22 @@
       "published_ts": 1781012700.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
+      "title": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ09GMmpGbTd0Z3pnRFYxUGVNQVZGRDJucVpJOFJBcnRYQnRyaktrbjVVM0NScW1MZFdlOXhoYXBMSktzMnJHM3hsVmlUcG12YWVtYWZ6VzJQNm14eTV4dVFteVVHcFFYemdGM0x1dXNEaVgwdS1jSEY5Rnd3alVFbjU2aWJGMjAwR2NjaTVjRkRVMFE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "summary": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1780297200.0
+    },
+    {
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Business Wire",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
@@ -286,6 +286,17 @@
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
       "published_ts": 1776927600.0
+    },
+    {
+      "title": "SmarterSends Launches Enterprise 2-Way SMS Integration with Attentive, Expanding Governed Conversational Messaging for Distributed Marketing Teams - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQb1pUQVNKc29XZmFqQjN5VjVFU3d4eG03Q1hqejdpY0RVUFRoSG1FTGtMMzlDZy0zUGxqVVRaT3I4elZyNV9RYkR4WFpMYm1DMkUwZFJvTEJCTlVuT3Z6NDRxRlA5c0xHQ1BnM1dhdS1DT0RSbTgzNFhITmJXeXhfZFhWcWlDdjRuaG5SUUxxdmcyajhTYmVXNnl6S0JwZ1g2aE1rZXc2LWpnZnM0UHd4X0JXOHBYeFpOb3Z3eUFVSGNPa2w0Y1JlczU4OFJnN2F2MFBtNGNwRDducVAtZG9ZbWRoS2JoUGFwbzF0eE5HQ2loUVU2aDVNNDM4dzVOTlhIVXc4RjlXODVEekZ2a3VwVkZGcHlrZW4tWTV5M0VMNW9yNjlwVWNHaQ?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "summary": "SmarterSends Launches Enterprise 2-Way SMS Integration with Attentive, Expanding Governed Conversational Messaging for Distributed Marketing Teams &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1773126000.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -477,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
+    "kept": 44,
     "opportunities": 18,
-    "threats": 25,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 11.1
   }
 }
