@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T03:37:56.688032+00:00",
+  "updated": "2026-06-14T08:07:46.218473+00:00",
   "items": [
     {
       "title": "AI shopping agents are coming. No one is ready for them - Fortune",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: price increase",
       "published_ts": 1781279580.0
-    },
-    {
-      "title": "Tips for brands to win with agentic commerce - FoodNavigator-USA.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1ZLRHFDMjBHeHFHZ1ZQV0p0ejlIbk5lRWNrQWRUdjZEZkZEWFVfZW4zS3JLWUU0VWxNRUQ5cjlTa3hqNG92b0F6ZG1OSXFxYlV1aC16OHhCT0RiQmNLemZpdHBHaXNDSmR6bXNYbHNyZTk0QVdhb1M5SGRPV0FwV3RqMTNMZUNRM2xxdUJYSGFTU0plVjl4MkpqVlFZa3otRWNyZDBpRQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 12 Jun 2026 13:21:33 GMT",
-      "summary": "Tips for brands to win with agentic commerce &nbsp;&nbsp; FoodNavigator-USA.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781270493.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -90,6 +79,17 @@
       "published_ts": 1781113058.0
     },
     {
+      "title": "Consumer Demand for AI Shopping is Forming Fast but Trust for Agentic Commerce is Still Catching Up - Fintech Finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNnlOTFl2SzVnaUFNd0pfYy0zZVI4Wk1pZUdSWVdGZTg0VTFXdTk5UG1od01MUHBqLWFsdE5Yc24xTHNsRWpNT0tLcWFzNUQ5LXZ4S3R0WmJzdWVEWUNYOFJqa082RVlKTDloNFQ0ejFXTzFhV1E3R2hXWC1uOWlkbDdVRGxTX2o0TFBmTW1OcnpCeV95Uy0wWE5ibW9NX1VaczZucjlDX3dyNTBQRndsRG5aN1FVaWdIY0VXUlNMZzF5SGhpNkIwVEFrSQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 09 Jun 2026 15:46:04 GMT",
+      "summary": "Consumer Demand for AI Shopping is Forming Fast but Trust for Agentic Commerce is Still Catching Up &nbsp;&nbsp; Fintech Finance",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1781019964.0
+    },
+    {
       "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -143,6 +143,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
+      "source": "Google News: Shopify Plus",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779087600.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -244,17 +255,6 @@
       "published_ts": 1781012700.0
     },
     {
-      "title": "“Be attentive to what is arising within you, and place that above everything you perceive around you.” – Rainer Maria Rilke - Good News Network",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWS1veF9GTTlfUmNfUEhSMjBxY19EeW5MYjJGalQwbzdLbTBjdUFmelBORFNwRk12TkN6bkpuYk5qaTBadkxORHpHNkRqZ1Z1d0d4Vm5sZnhDaHRJWWV1dXVRb19mcU1KVEJfd1pkbU1KZDVFMmlKbnd5Z0wtU25Ld0d2Y1pOOEZiem1sd1lDQU90Zw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Mon, 08 Jun 2026 07:00:06 GMT",
-      "summary": "“Be attentive to what is arising within you, and place that above everything you perceive around you.” – Rainer Maria Rilke &nbsp;&nbsp; Good News Network",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1780902006.0
-    },
-    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
       "source": "Google News: Mailchimp",
@@ -264,6 +264,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1779260400.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -343,6 +354,17 @@
       "published_ts": 1768204800.0
     },
     {
+      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1767686400.0
+    },
+    {
       "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
       "source": "Google News: Attentive",
@@ -374,17 +396,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1762416000.0
-    },
-    {
-      "title": "ShipStation® Customers Can Now Leverage Veho's Customer-Centric Delivery Service Across 56 US Markets - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnZ6OXQ3VmJXTnVYdEE4OVNzSC1DUEVPWXVWV3RWQjU3eFd2bkoxZUtlcmlrbHdkbUNaUVdDNWtBd3ZMLU53X0RHUUZUVG9nUTcxRXBnWHJpMmUybXkwNVZiSV9YaHBaSUZIbGNDbHFlNWsxemJnYl9heWktb0QyQTFCNVBVQVU3Q0ZKczNtTU43ODEwOGw1dmpxZGhVeWFhMjY5QVlqRExoNGVtRUNLNWtEYjlfd0o1VnhfTUtWXzdtdlBaM0tfX2NFZVo3UFd6Vm1QQjFhZUFiV1gzaDZVSi1MOVA0QWJTbDQ0?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
-      "summary": "ShipStation® Customers Can Now Leverage Veho's Customer-Centric Delivery Service Across 56 US Markets &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1759215600.0
     },
     {
       "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
@@ -473,25 +484,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Postscript: Jim Harrison, 1937—2016 - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlAzOUhaa1J6dFd0LVZMbWIyS2ZtNklmUE9UZU5OdUVubGhzOF9BV2djazRDU09aTnpQVXpPaWZlcG81dGhXTXhTNDBjV19rUV9xd3lGNm9EWE9zT0laMjZzNkx0VFRDSFhFOGphN3lXVktZN0ZFUEZiSkZQbS1nSklIbw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 28 Mar 2016 07:00:00 GMT",
-      "summary": "Postscript: Jim Harrison, 1937—2016 &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1459148400.0
     }
   ],
   "stats": {
     "total_fetched": 270,
     "kept": 44,
-    "opportunities": 18,
-    "threats": 26,
+    "opportunities": 19,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 12.6
   }
 }
