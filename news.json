@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:07:47.128439+00:00",
+  "updated": "2026-06-14T20:58:49.520897+00:00",
   "items": [
     {
       "title": "Visa and OpenAI join forces on agentic commerce infrastructure - Digital Watch Observatory",
@@ -33,6 +33,17 @@
       "confidence": "medium",
       "reasoning": "Matched: price increase",
       "published_ts": 1781279580.0
+    },
+    {
+      "title": "Tips for brands to win with agentic commerce - FoodNavigator-USA.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1ZLRHFDMjBHeHFHZ1ZQV0p0ejlIbk5lRWNrQWRUdjZEZkZEWFVfZW4zS3JLWUU0VWxNRUQ5cjlTa3hqNG92b0F6ZG1OSXFxYlV1aC16OHhCT0RiQmNLemZpdHBHaXNDSmR6bXNYbHNyZTk0QVdhb1M5SGRPV0FwV3RqMTNMZUNRM2xxdUJYSGFTU0plVjl4MkpqVlFZa3otRWNyZDBpRQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 12 Jun 2026 13:21:33 GMT",
+      "summary": "Tips for brands to win with agentic commerce &nbsp;&nbsp; FoodNavigator-USA.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781270493.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -145,17 +156,6 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
-      "source": "Google News: Shopify Plus",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779087600.0
-    },
-    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -189,17 +189,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
-    },
-    {
       "title": "issues with bot email sign ups",
       "url": "https://www.reddit.com/r/shopify/comments/1u3wud3/issues_with_bot_email_sign_ups/",
       "source": "r/shopify",
@@ -222,6 +211,17 @@
       "published_ts": 1781120732.0
     },
     {
+      "title": "Capital World Investors Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXp1c3Rxd01BdnBkdEw2NllLNWlCdy1NLWFRUGVQc0xRUVFXeUpzZGg3WEYzTko1MkYxd2E4VW9wV0tMX0hpTURYSG93emo3aV82NmwtOFZSRFRSdVZ0blZLNi1kbHpwUW5RdmZObnMtUFpqdHRjR2wzMkZSdHBiTGp6QmZiNWszeEVra1owT0dhb0FfV3NBYzRpSVhMdlBhQXVTRUZCUnE4TG5ZaHJSc0hlSUxSWm5SZlhFOXZKdmh4eEk?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 10 Jun 2026 07:58:20 GMT",
+      "summary": "Capital World Investors Makes New Investment in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1781078300.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -233,22 +233,11 @@
       "published_ts": 1781012700.0
     },
     {
-      "title": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ09GMmpGbTd0Z3pnRFYxUGVNQVZGRDJucVpJOFJBcnRYQnRyaktrbjVVM0NScW1MZFdlOXhoYXBMSktzMnJHM3hsVmlUcG12YWVtYWZ6VzJQNm14eTV4dVFteVVHcFFYemdGM0x1dXNEaVgwdS1jSEY5Rnd3alVFbjU2aWJGMjAwR2NjaTVjRkRVMFE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "summary": "Klaviyo (KVYO) Climbs 15.9% on Key Updates This Week, Search for New CFO &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780297200.0
-    },
-    {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
@@ -488,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 44,
-    "opportunities": 18,
+    "kept": 43,
+    "opportunities": 17,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 10.9
   }
 }
