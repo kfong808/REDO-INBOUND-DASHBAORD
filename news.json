@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T17:59:00.486040+00:00",
+  "updated": "2026-06-15T20:44:17.650462+00:00",
   "items": [
     {
       "title": "Agentic Commerce And The New Rules Of Google Ads - Search Engine Journal",
@@ -454,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 41,
     "opportunities": 18,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 11.5
   }
 }
