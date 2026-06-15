@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T00:00:51.086525+00:00",
+  "updated": "2026-06-15T06:13:50.963242+00:00",
   "items": [
     {
       "title": "Visa and OpenAI join forces on agentic commerce infrastructure - Digital Watch Observatory",
@@ -112,6 +112,17 @@
       "published_ts": 1781015493.0
     },
     {
+      "title": "Amazon applies AI shopping tech to customer retailer agents with AWS - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzlWc1dXNEdkRFdjTU03V0hXeEMtcS1iSUl0U0s4czlNZjE2Xy1FZ0Y0LXptUlRtc3dMdWhVMk1reEJ4cmJXUTkxMDg1S3VQLUp0VnlPRmNKdFF4dHk4allKTGVKUHczczY1QnJpZUNHcFBPTmpiZWJTUlhuNk1za0RwNFllaERnUjFGOE5CNkxhM3BrQmwwMXVaZ3d0RWlDcHYzekhfQ0JFb3o4YS1iXzJjaFFQZ9IBuwFBVV95cUxOckV6ZWhrVG9qTzlaazNndXN2X2xuME9vSE9KUlI4TzBxblVQQW1ZNzRFMUVLVklsV3kxb1diZlBOSk90XzZLTjd4OWctSlR6SXFJX0drU2pPRVhMNE1jZzJxQ2ZlQ1V6cWdaQllXTE1nSDM1LTFlTUV2Y1ZDdm9mSUtuVWJsWnZlNHNwQU5SdlVRQkhxM3lVdThNSDRhMk9Qd2VKc3NaSi15LWhBOUh3eVRwMTlpM2ZzSFlv?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 04 Jun 2026 05:52:47 GMT",
+      "summary": "Amazon applies AI shopping tech to customer retailer agents with AWS &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780552367.0
+    },
+    {
       "title": "New Ecommerce Tools: June 3, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
       "source": "Practical Ecommerce",
@@ -154,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
-    },
-    {
-      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
-      "source": "Google News: Shopify Plus",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1779087600.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 250,
     "kept": 44,
     "opportunities": 19,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 11.0
   }
 }
