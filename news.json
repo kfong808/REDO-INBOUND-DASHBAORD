@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T22:47:31.599728+00:00",
+  "updated": "2026-06-17T00:08:28.699778+00:00",
   "items": [
     {
       "title": "WTF is agentic commerce? | How brands can make loyalty and promotions agent-ready - Digiday",
@@ -299,6 +299,17 @@
       "published_ts": 1769673600.0
     },
     {
+      "title": "Omnisend Ecommerce Study: U.S. Orders Jumped 147% in 2025; Top 5% of Brands Drove Majority of Growth - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2ZlV0UxWW1Id0piU1R1Y3c5cTQ1eUFYSm9OUUZPUzdvTUR0NUVMb3NOVG5rcDMxOTN4aFVpSUtzQ1BhUkhWdXlKWU1VWkFTdmF3d25nMHRIelR1ZGxLY2w4cFJoWDZPVnZ3alMwWncta1hGbHB6QzhtOVQ1T2pLeHdkYnY1OFQwNnBfRWlfZmtCWmMwM1pNUjI3ZVl5ZVlpeGRadnFGRnZBb3lqLTE0MEtxYkkyMVFuN1A2T3hNMFRtQVZONGJBblFza0FZSEZSb3RFRTJTX0kwZDd6RWdCZG44NUc?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "summary": "Omnisend Ecommerce Study: U.S. Orders Jumped 147% in 2025; Top 5% of Brands Drove Majority of Growth &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1768377600.0
+    },
+    {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
       "source": "Google News: Narvar",
@@ -432,11 +443,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 39,
+    "total_fetched": 270,
+    "kept": 40,
     "opportunities": 17,
-    "threats": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 11.6
   }
 }
