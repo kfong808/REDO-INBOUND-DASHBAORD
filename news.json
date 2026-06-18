@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-18T11:44:31.649219+00:00",
+  "updated": "2026-06-18T14:44:54.954323+00:00",
   "items": [
     {
-      "title": "Agentic commerce: how AI changes consumer decisions, brands, and retail - Kearney",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVUF4SEhwTVF3UkZYSjc4YzM5MEg1Sml5NVp3OTl6Y3BvX21vY2pKZzRmVWhrcGo3VVU4UERRVHJBbmJvLWM0UW5OX0RVbWhFbDBOSEg2c28yVF95NnB5Z01YZFl4a2FfRGxYbGZUSUFEZjlXcV9VQ0dlYnhmN01IOU9UcWwteVduNWJsVzdzNGtEWGliVmROY1hkaUZOZDR1Y1JlZFM1WkJaTEZmT3VxcS1TMVNLbmxvekxlOFFNcEdRVVlR?oc=5",
+      "title": "Universal Commerce Protocol: What Google’s New Agentic Commerce Standard Means for Advertisers - JumpFly, Inc.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHBsOVB3cVdFZnRSSFhzc3NqWmU2dHpvcFRjR1A2OTZDOHM1Z3d6Qm5JQjNzRElDQVJ6T3VTM2lhVmVHN25zb1V5V1dyWVluVzN0bURwOVh6Q0g0UWZiSjRiZF81aV9oWXNoUm9CWTMtcWkwWjd1MlhKYU5oRnJFMHpkUTRGQW1zc25PUVhOODUxaTMtRHFZZEVPS285bks2UE52Und4bDF4Wm5JSE1pNEo0d090MnZhdGlGV3lybw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 18 Jun 2026 05:22:23 GMT",
-      "summary": "Agentic commerce: how AI changes consumer decisions, brands, and retail &nbsp;&nbsp; Kearney",
+      "published": "Thu, 18 Jun 2026 05:01:00 GMT",
+      "summary": "Universal Commerce Protocol: What Google’s New Agentic Commerce Standard Means for Advertisers &nbsp;&nbsp; JumpFly, Inc.",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781760143.0
+      "published_ts": 1781758860.0
     },
     {
       "title": "In agentic commerce, the agent won’t ask—it will judge - Fast Company",
@@ -35,17 +35,6 @@
       "published_ts": 1781717220.0
     },
     {
-      "title": "Why Agentic Commerce Could Be a Game-Changer for Mastercard - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFA1NEV3TlBoR3lTWHVuODEtY1RIOFpaSUVneFZiU1VyejNTZU1Nc0h2TGFnbnk1YjhXaEFkNV9DLWNwRGl1N3RMSDZIbmFFYzNrdnQwbWpXenNnUm5CQUpxY2dweWFfUDFQQV9iMTNvRml0dGU2YjJIaGF6Wk00MExFdFB4TGdIZ2JXRFowSjY1b2c4T29mTl9Kaw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 17 Jun 2026 15:45:00 GMT",
-      "summary": "Why Agentic Commerce Could Be a Game-Changer for Mastercard &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781711100.0
-    },
-    {
       "title": "New Ecommerce Tools: June 17, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2026",
       "source": "Practical Ecommerce",
@@ -57,6 +46,17 @@
       "published_ts": 1781706968.0
     },
     {
+      "title": "WTF is agentic commerce? | How brands can make loyalty and promotions agent-ready - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMTM1WjBvTUVQVW12dTJnU2NPVHJPSEtrN0lCV1JNX1YyTkRHdGwxdGsyR05NVmxZR1FobU14QVUxVFR1NHdjYk54NGNiaFFrT3RRU2pHX1E3dXBpSl9rNlRSTnpVWk5sNThIblRIblFwc08wUWVfdUZnbWJ2UQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 16 Jun 2026 21:32:44 GMT",
+      "summary": "WTF is agentic commerce? | How brands can make loyalty and promotions agent-ready &nbsp;&nbsp; Digiday",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781645564.0
+    },
+    {
       "title": "Consumers Place Growing Trust in AI Shopping Agents - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUhCNUJKc1FBYmFNV1drQ09wOXE5ZkVKdmhNUndPcHBicUx5dmVEUWthdm04aXRFbDdBZnNuN1BDYkdZQXIybzJMUEtubVA0YktrRGF3cUExLWJFQXdUV1B5dE92UFdhLVd4ak1hX01pQWd5emh0VThnWXdXckNsVW5ZZ3I1YllLcmp0WVgyRGRoMXVYcEg3QQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -66,6 +66,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781629729.0
+    },
+    {
+      "title": "J.P. Morgan Payments’ Michael Lozanoff on why agentic commerce can’t scale without governance - Tearsheet",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVhIcE5ZUFlrcEwtcko1U19PQnh0Qm00NTFIN1l1V0cwejFWTGlvbjhkM2p6M3Y1X3Ywc0ZpZ29pcVNHMjAwMy1aREk3YVVDdTBhQmRnMG9VTEl4LUszRUdpR0Z6SU14bUNHcnZvUzlja18tWWg3ckpDb2I1c2lvbUZ5ZEpRYlBQd0xvbHJPRkdldTZZbExKR1pxVEpyQVdDVmdtWXR4UENjUzV6ZU5QTlpINHRCS1RrYWZzZWxaM0IyYTRoZlVCeWhWSkoxMHpJbkE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 16 Jun 2026 11:43:43 GMT",
+      "summary": "J.P. Morgan Payments’ Michael Lozanoff on why agentic commerce can’t scale without governance &nbsp;&nbsp; Tearsheet",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781610223.0
     },
     {
       "title": "Accenture: Consumers show growing trust in AI shopping agents - AI News",
@@ -99,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781186718.0
-    },
-    {
-      "title": "Visa and OpenAI form agentic commerce partnership - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXRPMGcwLUlYYUY3NmVrSEx5OEJKbUtmNEw0bFBNbEN0TWk3RWFtZG95Sk1PQXQ2dmRkNVlpQTk0X0tWazZ6Mm4ySTgteGI4OUpkdUowRVFvZEx5M0dYdjdCZ1pRRXB6QU9veDVhb3M0NTdrOTZKbjJLbWdfaEhTbm5ETnl0U19zTW15NzVFLU1tY2d4ZENJ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 10 Jun 2026 20:45:00 GMT",
-      "summary": "Visa and OpenAI form agentic commerce partnership &nbsp;&nbsp; Finextra Research",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781124300.0
     },
     {
       "title": "New Ecommerce Tools: June 3, 2026",
@@ -178,17 +178,6 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant - PA Media",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHczTTFKYi1CZTlPNEpKWnpmQ3J0QzY2TngxcWp1R3RpS1ZLQnZEdk5PSmVoU3V3a0UybklnTUNVa3NPRWRKMHdZSWtibTEySWRsQUs4WlltWEc1N20wcFZ2ZWlocWM3aFpyOVpKRGhBZVc5QXMySnZVbkZxR21wbXdTOWgzVGFOUlVzbXAxWjVDRGp0bHBiS0ZOUVh6cDd0U1VlekZnYWZpc2hFRTJUS01uSktSenVUaWVfcmRn?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "summary": "Rokt and ABOUT YOU Team Up to Make Post-Purchase Offers More Relevant &nbsp;&nbsp; PA Media",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718002800.0
-    },
-    {
       "title": "Email marketing - Anyone tried Spoks?",
       "url": "https://www.reddit.com/r/shopify/comments/1u926dm/email_marketing_anyone_tried_spoks/",
       "source": "r/shopify",
@@ -198,17 +187,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1781777063.0
-    },
-    {
-      "title": "Klaviyo (NYSE:KVYO) Hits New 1-Year Low - What's Next? - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlVCMmkzSTV4enRXaUNrSm9QQlJZRmRyR1BRRkJZQzBOclhvSGRLbEdnUFVURzFVRHBIVWQ1UkFkTGw5MG5hRXJacndrUVZCc1paNzM1bTJjczFiQ0ZJQllac1hOakdqNXUydlI3RVVYakROcHpnZmNWc2FHUTBaQkNod1FuMmRSN2licWlIT29EZTZIRG1Ub0pMMHlMVlpTUXV3?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 17 Jun 2026 14:46:29 GMT",
-      "summary": "Klaviyo (NYSE:KVYO) Hits New 1-Year Low - What's Next? &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1781707589.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -255,6 +233,17 @@
       "published_ts": 1779951600.0
     },
     {
+      "title": "Klaviyo (KVYO) Valuation Check As Expanded Anthropic Claude Integration Targets Broader AI Marketing Adoption - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGZCMHJlbXJ1djg5VHlfb0J3aWl5eDk3NXBPSGxLdFNlSUNaZ3BCZDRDNmVNY1VQZHVoNmtwekhjd2h2b0pwUDZGMmtOSjFVX2JSYXlKYk16U19STWFpZ0lpUlJYOUNtTWFRMGZwUFp1VVRjc19KYUx3ZVgzZWNfUXhSbHVNQTFWTHBOUXZvQmZIYjNXX0xSMjJxd3lRNktDN2dNNQ?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sun, 24 May 2026 07:00:00 GMT",
+      "summary": "Klaviyo (KVYO) Valuation Check As Expanded Anthropic Claude Integration Targets Broader AI Marketing Adoption &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + valuation",
+      "published_ts": 1779606000.0
+    },
+    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -288,17 +277,6 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1770710400.0
-    },
-    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -319,6 +297,17 @@
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
       "published_ts": 1769673600.0
+    },
+    {
+      "title": "Omnisend Ecommerce Study: U.S. Orders Jumped 147% in 2025; Top 5% of Brands Drove Majority of Growth - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2ZlV0UxWW1Id0piU1R1Y3c5cTQ1eUFYSm9OUUZPUzdvTUR0NUVMb3NOVG5rcDMxOTN4aFVpSUtzQ1BhUkhWdXlKWU1VWkFTdmF3d25nMHRIelR1ZGxLY2w4cFJoWDZPVnZ3alMwWncta1hGbHB6QzhtOVQ1T2pLeHdkYnY1OFQwNnBfRWlfZmtCWmMwM1pNUjI3ZVl5ZVlpeGRadnFGRnZBb3lqLTE0MEtxYkkyMVFuN1A2T3hNMFRtQVZONGJBblFza0FZSEZSb3RFRTJTX0kwZDd6RWdCZG44NUc?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "summary": "Omnisend Ecommerce Study: U.S. Orders Jumped 147% in 2025; Top 5% of Brands Drove Majority of Growth &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1768377600.0
     },
     {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
@@ -433,10 +422,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 39,
-    "opportunities": 17,
+    "kept": 38,
+    "opportunities": 16,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.4
+    "runtime_seconds": 12.2
   }
 }
