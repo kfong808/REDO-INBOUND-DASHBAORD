@@ -1,6 +1,28 @@
 {
-  "updated": "2026-06-19T14:41:08.994550+00:00",
+  "updated": "2026-06-19T17:10:47.766352+00:00",
   "items": [
+    {
+      "title": "Agentic Commerce Needs Open Infrastructure To Scale - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlg1RnJBaTIzOVA3dUxkc2Y3S2wyaS00dkZkREpBckE3MEpEN1JUaFJZN0hHdzE1OW5kUlNPZ1RwRTh4Wk9MU0xrcDhSRTl2eWJXSXNYR3hKOHdNTEZDTzA4TlBscE9fUTVTbGdnLUNiNGgxWXhiQVZYRFhqZVBQSEE5Sm1jdGtKeEFBOFpMWHlVbDBtR1FZOVNzandFZm1yV2dtVUlHZw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 19 Jun 2026 15:24:30 GMT",
+      "summary": "Agentic Commerce Needs Open Infrastructure To Scale &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781882670.0
+    },
+    {
+      "title": "Holderness & Bourne Tees Up eCommerce Growth with Barrett Distribution Centers - The Malaysian Reserve",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlFWSUJ1V3k3RWRLRjh2MjJMZThmWmQ3djhYUmotWmhYSmJaTi1jRk1IeWNNZWFIS0o0dTJCN1pvaUhfQ3A5YTJUd2pwRWhGWkhfUTlxRlhuMjFnNVIzYTRjTmNjWVRsWnBZQzdxWVFpRk9RcXdsdV8zMEtSOU44WjlreUdnMEZ0d0s5TUUtNlBGeGh1c2xVRGZTUFBDU0UwTWpxeDJ4dHRtS0lzaFJsak5NZ0t5TmV2ZHFTaA?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Fri, 19 Jun 2026 14:55:10 GMT",
+      "summary": "Holderness & Bourne Tees Up eCommerce Growth with Barrett Distribution Centers &nbsp;&nbsp; The Malaysian Reserve",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1781880910.0
+    },
     {
       "title": "SAP and Google Cloud deploy agentic commerce architecture - AI News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0kzMVRLcXQtYUNkS3M1MndyeHBBUTFsYUlOY2UyNS1aUV9CaE15X3ZXcnlqUDdSQWgwcGtpRUstc0tJTl9vbl9Qemt6Zk92ZEQzOUdrMGg5cVFGWmNUcVlObjlfMkFkNWFjNEgtc3FNekxVZ0xQX3E2N0tHNjFFLWNfeEtIZW9zX0hua1Jqekx6U2JvRGJTX2hZdTFNWmRLcHhzb19xS0JlaGc?oc=5",
@@ -37,7 +59,7 @@
     {
       "title": "Agentic commerce for every developer: The Spring '26 Edition - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSE11dVdJTllLdThOMWhvS1I3UXhCYlJKeHpNQUhkcXZENGlSS1otWS1iSHRadVFfZXVhZm8tbjBpYnR3SnRCY1E0b25XMndkQTlFbzJhUGpnUWZGNHlv?oc=5",
-      "source": "Google News: Shopify",
+      "source": "Google News: agentic commerce",
       "published": "Wed, 17 Jun 2026 17:12:25 GMT",
       "summary": "Agentic commerce for every developer: The Spring '26 Edition &nbsp;&nbsp; Shopify",
       "classification": "opportunity",
@@ -255,17 +277,6 @@
       "published_ts": 1778828400.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -321,6 +332,17 @@
       "published_ts": 1769673600.0
     },
     {
+      "title": "Omnisend Ecommerce Study: U.S. Orders Jumped 147% in 2025; Top 5% of Brands Drove Majority of Growth - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2ZlV0UxWW1Id0piU1R1Y3c5cTQ1eUFYSm9OUUZPUzdvTUR0NUVMb3NOVG5rcDMxOTN4aFVpSUtzQ1BhUkhWdXlKWU1VWkFTdmF3d25nMHRIelR1ZGxLY2w4cFJoWDZPVnZ3alMwWncta1hGbHB6QzhtOVQ1T2pLeHdkYnY1OFQwNnBfRWlfZmtCWmMwM1pNUjI3ZVl5ZVlpeGRadnFGRnZBb3lqLTE0MEtxYkkyMVFuN1A2T3hNMFRtQVZONGJBblFza0FZSEZSb3RFRTJTX0kwZDd6RWdCZG44NUc?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "summary": "Omnisend Ecommerce Study: U.S. Orders Jumped 147% in 2025; Top 5% of Brands Drove Majority of Growth &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1768377600.0
+    },
+    {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
       "source": "Google News: Narvar",
@@ -352,6 +374,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
       "published_ts": 1764316800.0
+    },
+    {
+      "title": "Attentive.ai Raises $30.5 Million in Series B - The SaaS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1NrUVA0TUhZaU9xZzVacUlQWFBubzZhQXgwcmlyTlRrLUhJQ1RqSmI3RGRtS292SjhjaVpKVWtubTFDOE9UR3ZTQTNTUmhzMWFqU3llVzV1TWtyNmNjdWctR2ZPMXpDM2dfeF9VS2FXSkZzczRCTDNfRngzUkNRUEVVOVA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "summary": "Attentive.ai Raises $30.5 Million in Series B &nbsp;&nbsp; The SaaS News",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Attentive + raises, series b",
+      "published_ts": 1763020800.0
     },
     {
       "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
@@ -418,23 +451,12 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 39,
-    "opportunities": 17,
+    "total_fetched": 270,
+    "kept": 41,
+    "opportunities": 19,
     "threats": 22,
     "classifier_mode": "keyword",
     "runtime_seconds": 11.5
