@@ -1,6 +1,17 @@
 {
-  "updated": "2026-06-19T00:19:34.002289+00:00",
+  "updated": "2026-06-19T06:07:45.327309+00:00",
   "items": [
+    {
+      "title": "Agentic Commerce on Shopify: How It Works (2026) - Shopify UAE - Shopify",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRXQ5MzFINm14czhEbFFoU3JpQVdDYWpMUVE5cHdvcl91WkhpblNRMllSMXo5Wm9feXVjUmpRaDRPb3IwWjJHbmwwOE1ia1htRTdtNmtpMG9VUFJCWjNrOFVoUjZuWERTcXc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 19 Jun 2026 00:14:23 GMT",
+      "summary": "Agentic Commerce on Shopify: How It Works (2026) - Shopify UAE &nbsp;&nbsp; Shopify",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781828063.0
+    },
     {
       "title": "AI Spotlight: Optimizing Data for Agentic Commerce - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNLak90Z1BmWHdNR1NxVVBDTGRMeWJLd3BsaGx5SW1VMVBtaFZtRGNjTS1ad2xJR3J1b0FwUDZUdkp5ZUtBaUZTdi1Pb3h6eUdJVkdMQ1laTmNKLUE1RmxtcjZyQ3BINFA0bGxDMGs2Q2J3MzgxWldwREpPY1FRMmp4YTluN1Y5SEgxaU1rUWd3WUVaaEc3OW1RR0g3X3hLQXQ1TUR3?oc=5",
@@ -123,11 +134,11 @@
       "published_ts": 1781309280.0
     },
     {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 11 Jun 2026 15:27:16 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -222,6 +233,28 @@
       "published_ts": 1781827186.0
     },
     {
+      "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Wed, 10 Jun 2026 19:45:32 GMT",
+      "summary": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending &nbsp;&nbsp; HomePage News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1781120732.0
+    },
+    {
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 09 Jun 2026 13:45:00 GMT",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + raises",
+      "published_ts": 1781012700.0
+    },
+    {
       "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - Sahm",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblJRNjI0RUR6R0ZBdjJ2eUF2RDZ1QXNyeUpNODdsWHhpd1dLanZ0dEx5THE4U0E0ZlZvNDlCbWNJQno2cmlZcG9iWVROUHY2ZlNxV0xOa3dvM0I1Tzlka2lrQWRiRGRLbjFJX1lyTEZGSGlXNFZJX0ZSWGxTMGJvWGN4dnk0SklsWWp4SUtNdW9veEtDS25IMktnQm96VWVhSUJLTUxhLWtlVnFxRjUzUVNGNEtHRlM0ZGc?oc=5",
       "source": "Google News: Mailchimp",
@@ -266,8 +299,19 @@
       "published_ts": 1778828400.0
     },
     {
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
+    },
+    {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzJpM2lKczF1elFhQ3liQXRTQjFqZ1p1OU5SLWl3Q19YXzZqYjlFZ3ZoS19CajUzMFM5dnN5OUVsc280TlEwbnZEN25waTl3clY1MnczSnhDeV90SDNPS0RMeXlzVnk3TDRkLUptc0FteGJTSHlzTmNHVk11STdsT1FDRlhJWlRsTjhTbkM5d1UyX0s4NUtjczhnRVFOYmdkbWpLd2FEMldZUFFS?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
       "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
@@ -286,6 +330,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1770278400.0
+    },
+    {
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1769673600.0
     },
     {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
@@ -411,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 259,
-    "kept": 37,
-    "opportunities": 19,
-    "threats": 18,
+    "kept": 42,
+    "opportunities": 20,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 10.6
   }
 }
