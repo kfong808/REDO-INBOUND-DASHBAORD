@@ -1,6 +1,17 @@
 {
-  "updated": "2026-06-20T14:59:26.970564+00:00",
+  "updated": "2026-06-20T16:19:27.365174+00:00",
   "items": [
+    {
+      "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
+      "url": "https://www.reddit.com/r/shopify/comments/1uayy27/looking_for_a_shopify_app_that_turns_customers/",
+      "source": "r/shopify",
+      "published": "2026-06-20T15:09:15+00:00",
+      "summary": "Hey all, Trying to find an app (or combo of apps) that does something pretty specific and I’m not sure of the right term for it. After someone buys, I want to prompt them to connect/authenticate their social accounts (IG, TikTok, etc.) so we can see their actual follower count/ engagement rate etc not self-reported. Based on that, they’d unlock a reward: a discount, a free gift, or an invite to become a brand partner/affiliate. The logic is that these people are already customers, so they’re way",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1781968155.0
+    },
     {
       "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
@@ -59,7 +70,7 @@
     {
       "title": "Agentic commerce for every developer: The Spring '26 Edition - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSE11dVdJTllLdThOMWhvS1I3UXhCYlJKeHpNQUhkcXZENGlSS1otWS1iSHRadVFfZXVhZm8tbjBpYnR3SnRCY1E0b25XMndkQTlFbzJhUGpnUWZGNHlv?oc=5",
-      "source": "Google News: agentic commerce",
+      "source": "Google News: Shopify",
       "published": "Wed, 17 Jun 2026 17:12:25 GMT",
       "summary": "Agentic commerce for every developer: The Spring '26 Edition &nbsp;&nbsp; Shopify",
       "classification": "opportunity",
@@ -156,6 +167,17 @@
       "published_ts": 1781309280.0
     },
     {
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 15:27:16 GMT",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781191636.0
+    },
+    {
       "title": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries - Consumer Finance Monitor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjc1WmNRdkcwZVRpR1hnTzZ6RHBLMHkzSU1qN2xWVThSUzV5QzJlMEZKQS1QOHQyTDNCbGs1VGJSdVFhbFRaeThCYzVuc3hwUE4yRGJoOUpWMDlnTXNwVFpYNGV0RTE1Xy15TG40QkI2cXdOUG1pdnl0aEtMeEhIRVVNODVsRXBtM3J3cmJhS2Z5TGgwdzcxczJFQV9VWG5oUTRldlhsODdVMjUySmZSUEszWVg5RUZkMmlGbk53c1hLdDQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -211,17 +233,6 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -264,17 +275,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
-    },
-    {
-      "title": "Very unhappy with the Loop rewards 'solution' to the EU right to withdraw process",
-      "url": "https://www.reddit.com/r/shopify/comments/1u9mk0b/very_unhappy_with_the_loop_rewards_solution_to/",
-      "source": "r/shopify",
-      "published": "2026-06-18T23:59:46+00:00",
-      "summary": "I run a medium sized Ecom business that ships globally. We use Loop returns in three of our primary markets and we pay a large premium to do so. I'm broadly happy with the performance of Loop and the functionality that it gives both us and our customers. I'm very unhappy with Loop's proposed 'solution' to the new EU right to withdraw requirements. Amongst some tweaking of their return rules they propose that we go out and purchase another app to handle the one button form submission requirement.",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Loop Returns",
-      "published_ts": 1781827186.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -453,6 +453,17 @@
       "published_ts": 1754377200.0
     },
     {
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHJLZlY0bUhSSFZYLVhGUW1xc0tHWDVZMndzTTFNS2dVSjBLWHhrSnZPLUEwbUE1WGpyRThrMjhTbmw2eDl0MU9jYklZbTJnV1VvX2EyUWFHRzdIeDBTcWhSck5zVmFIWFFtc2U3TXB5UVg4UFJqalVucFVubmU4NTFFc25xYU11akRRN1NOX0NDNXF4elZhTUlGT25mMkNlaEVOVFA4TGtFYWpWV2lPTWhTQVJyVkQ0TFVLOVBwNktja2s?oc=5",
+      "source": "Google News: Loop Returns",
+      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Loop Returns + ipo",
+      "published_ts": 1753945200.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -498,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 259,
-    "kept": 45,
-    "opportunities": 24,
+    "total_fetched": 268,
+    "kept": 46,
+    "opportunities": 25,
     "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 12.2
   }
 }
