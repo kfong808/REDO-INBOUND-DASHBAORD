@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T21:59:08.938739+00:00",
+  "updated": "2026-06-20T23:09:17.491562+00:00",
   "items": [
     {
       "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
@@ -70,7 +70,7 @@
     {
       "title": "Agentic commerce for every developer: The Spring '26 Edition - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSE11dVdJTllLdThOMWhvS1I3UXhCYlJKeHpNQUhkcXZENGlSS1otWS1iSHRadVFfZXVhZm8tbjBpYnR3SnRCY1E0b25XMndkQTlFbzJhUGpnUWZGNHlv?oc=5",
-      "source": "Google News: agentic commerce",
+      "source": "Google News: Shopify",
       "published": "Wed, 17 Jun 2026 17:12:25 GMT",
       "summary": "Agentic commerce for every developer: The Spring '26 Edition &nbsp;&nbsp; Shopify",
       "classification": "opportunity",
@@ -121,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1781645564.0
-    },
-    {
-      "title": "Consumers Place Growing Trust in AI Shopping Agents - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUhCNUJKc1FBYmFNV1drQ09wOXE5ZkVKdmhNUndPcHBicUx5dmVEUWthdm04aXRFbDdBZnNuN1BDYkdZQXIybzJMUEtubVA0YktrRGF3cUExLWJFQXdUV1B5dE92UFdhLVd4ak1hX01pQWd5emh0VThnWXdXckNsVW5ZZ3I1YllLcmp0WVgyRGRoMXVYcEg3QQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 16 Jun 2026 17:08:49 GMT",
-      "summary": "Consumers Place Growing Trust in AI Shopping Agents &nbsp;&nbsp; Let's Data Science",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781629729.0
     },
     {
       "title": "J.P. Morgan Payments’ Michael Lozanoff on why agentic commerce can’t scale without governance - Tearsheet",
@@ -211,6 +200,17 @@
       "published_ts": 1780491200.0
     },
     {
+      "title": "Europe is Building the Foundations for Trusted Agentic Commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalJFcjdqeFdhY0FjcUozODMtb2hUN2hMb0RTUjIxV1dXUFljQnpjTFB5a1J0OXlCSnN3Sm10cXFDdnh4ck1vbXJYWjlUVVhnREJjS0owb2swZVN4eGRyZ1VtUk5XdUk0TTJMN3gtYlpnSF9Ha09Qa0doOXNjdHExTzltQWg3SWE2SjM4XzdPUnk1Q0hyTjl2dmx4UzRsOFdzalBiNFVkQ2dPRXpkQnJQdGlRTUMxOXpfc05JRmhzd2RlTmhqQ3c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "Europe is Building the Foundations for Trusted Agentic Commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780383600.0
+    },
+    {
       "title": "For Brands, AI Is the New Shelf Space",
       "url": "https://www.practicalecommerce.com/for-brands-ai-is-the-new-shelf-space",
       "source": "Practical Ecommerce",
@@ -231,6 +231,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -275,17 +286,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
-    },
-    {
-      "title": "Very unhappy with the Loop rewards 'solution' to the EU right to withdraw process",
-      "url": "https://www.reddit.com/r/shopify/comments/1u9mk0b/very_unhappy_with_the_loop_rewards_solution_to/",
-      "source": "r/shopify",
-      "published": "2026-06-18T23:59:46+00:00",
-      "summary": "I run a medium sized Ecom business that ships globally. We use Loop returns in three of our primary markets and we pay a large premium to do so. I'm broadly happy with the performance of Loop and the functionality that it gives both us and our customers. I'm very unhappy with Loop's proposed 'solution' to the new EU right to withdraw requirements. Amongst some tweaking of their return rules they propose that we go out and purchase another app to handle the one button form submission requirement.",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Loop Returns",
-      "published_ts": 1781827186.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -489,9 +489,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 44,
-    "opportunities": 25,
-    "threats": 19,
+    "opportunities": 26,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 10.6
   }
 }
