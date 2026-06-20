@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T20:10:13.047821+00:00",
+  "updated": "2026-06-20T21:59:08.938739+00:00",
   "items": [
     {
       "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
@@ -277,6 +277,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "Very unhappy with the Loop rewards 'solution' to the EU right to withdraw process",
+      "url": "https://www.reddit.com/r/shopify/comments/1u9mk0b/very_unhappy_with_the_loop_rewards_solution_to/",
+      "source": "r/shopify",
+      "published": "2026-06-18T23:59:46+00:00",
+      "summary": "I run a medium sized Ecom business that ships globally. We use Loop returns in three of our primary markets and we pay a large premium to do so. I'm broadly happy with the performance of Loop and the functionality that it gives both us and our customers. I'm very unhappy with Loop's proposed 'solution' to the new EU right to withdraw requirements. Amongst some tweaking of their return rules they propose that we go out and purchase another app to handle the one button form submission requirement.",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Loop Returns",
+      "published_ts": 1781827186.0
+    },
+    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -352,17 +363,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
-    },
-    {
-      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1770710400.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -492,6 +492,6 @@
     "opportunities": 25,
     "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 10.9
   }
 }
