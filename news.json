@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T16:19:27.365174+00:00",
+  "updated": "2026-06-20T18:04:49.860154+00:00",
   "items": [
     {
       "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
@@ -70,7 +70,7 @@
     {
       "title": "Agentic commerce for every developer: The Spring '26 Edition - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSE11dVdJTllLdThOMWhvS1I3UXhCYlJKeHpNQUhkcXZENGlSS1otWS1iSHRadVFfZXVhZm8tbjBpYnR3SnRCY1E0b25XMndkQTlFbzJhUGpnUWZGNHlv?oc=5",
-      "source": "Google News: Shopify",
+      "source": "Google News: agentic commerce",
       "published": "Wed, 17 Jun 2026 17:12:25 GMT",
       "summary": "Agentic commerce for every developer: The Spring '26 Edition &nbsp;&nbsp; Shopify",
       "classification": "opportunity",
@@ -321,17 +321,6 @@
       "published_ts": 1778834544.0
     },
     {
-      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1778828400.0
-    },
-    {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
@@ -453,17 +442,6 @@
       "published_ts": 1754377200.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHJLZlY0bUhSSFZYLVhGUW1xc0tHWDVZMndzTTFNS2dVSjBLWHhrSnZPLUEwbUE1WGpyRThrMjhTbmw2eDl0MU9jYklZbTJnV1VvX2EyUWFHRzdIeDBTcWhSck5zVmFIWFFtc2U3TXB5UVg4UFJqalVucFVubmU4NTFFc25xYU11akRRN1NOX0NDNXF4elZhTUlGT25mMkNlaEVOVFA4TGtFYWpWV2lPTWhTQVJyVkQ0TFVLOVBwNktja2s?oc=5",
-      "source": "Google News: Loop Returns",
-      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Loop Returns + ipo",
-      "published_ts": 1753945200.0
-    },
-    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -509,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 46,
+    "total_fetched": 269,
+    "kept": 44,
     "opportunities": 25,
-    "threats": 21,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.2
+    "runtime_seconds": 11.0
   }
 }
