@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:18:00.379899+00:00",
+  "updated": "2026-06-21T19:13:43.154994+00:00",
   "items": [
     {
       "title": "Deep Dive: Adyen’s universal translator for agentic commerce: By Sam Boboev - Finextra Research",
@@ -81,7 +81,7 @@
     {
       "title": "In agentic commerce, the agent won’t ask—it will judge - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3ZqYTZLamJFd0VnUUFBWnFXNl9TcUdRbm1BVlIwbFBLeXRsV1hwRXhTR2RJQUt6SkMybU5yekc4dlh5c09JdUJpY0tqSFNyMmhxTUNJa2MzTGJSLTJRd1B1TDNQdTQxaUVRWERYeE51S2RUTzAyWkNIZGY5eHlNSGRGWGNTaDY4QVNYX0FxOVlkdmM?oc=5",
-      "source": "Google News: AI shopping agent",
+      "source": "Google News: agentic commerce",
       "published": "Wed, 17 Jun 2026 19:43:09 GMT",
       "summary": "In agentic commerce, the agent won’t ask—it will judge &nbsp;&nbsp; Fast Company",
       "classification": "opportunity",
@@ -143,17 +143,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781629729.0
-    },
-    {
-      "title": "J.P. Morgan Payments’ Michael Lozanoff on why agentic commerce can’t scale without governance - Tearsheet",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVhIcE5ZUFlrcEwtcko1U19PQnh0Qm00NTFIN1l1V0cwejFWTGlvbjhkM2p6M3Y1X3Ywc0ZpZ29pcVNHMjAwMy1aREk3YVVDdTBhQmRnMG9VTEl4LUszRUdpR0Z6SU14bUNHcnZvUzlja18tWWg3ckpDb2I1c2lvbUZ5ZEpRYlBQd0xvbHJPRkdldTZZbExKR1pxVEpyQVdDVmdtWXR4UENjUzV6ZU5QTlpINHRCS1RrYWZzZWxaM0IyYTRoZlVCeWhWSkoxMHpJbkE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 16 Jun 2026 11:43:43 GMT",
-      "summary": "J.P. Morgan Payments’ Michael Lozanoff on why agentic commerce can’t scale without governance &nbsp;&nbsp; Tearsheet",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781610223.0
     },
     {
       "title": "Accenture: Consumers show growing trust in AI shopping agents - AI News",
@@ -220,6 +209,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780491200.0
+    },
+    {
+      "title": "Europe is Building the Foundations for Trusted Agentic Commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalJFcjdqeFdhY0FjcUozODMtb2hUN2hMb0RTUjIxV1dXUFljQnpjTFB5a1J0OXlCSnN3Sm10cXFDdnh4ck1vbXJYWjlUVVhnREJjS0owb2swZVN4eGRyZ1VtUk5XdUk0TTJMN3gtYlpnSF9Ha09Qa0doOXNjdHExTzltQWg3SWE2SjM4XzdPUnk1Q0hyTjl2dmx4UzRsOFdzalBiNFVkQ2dPRXpkQnJQdGlRTUMxOXpfc05JRmhzd2RlTmhqQ3c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "Europe is Building the Foundations for Trusted Agentic Commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780383600.0
     },
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -420,17 +420,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -506,14 +495,25 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Postscript: Jim Harrison, 1937—2016 - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlAzOUhaa1J6dFd0LVZMbWIyS2ZtNklmUE9UZU5OdUVubGhzOF9BV2djazRDU09aTnpQVXpPaWZlcG81dGhXTXhTNDBjV19rUV9xd3lGNm9EWE9zT0laMjZzNkx0VFRDSFhFOGphN3lXVktZN0ZFUEZiSkZQbS1nSklIbw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 28 Mar 2016 07:00:00 GMT",
+      "summary": "Postscript: Jim Harrison, 1937—2016 &nbsp;&nbsp; The New Yorker",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1459148400.0
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 46,
     "opportunities": 26,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 10.9
   }
 }
