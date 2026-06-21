@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T23:09:17.491562+00:00",
+  "updated": "2026-06-21T02:38:53.412957+00:00",
   "items": [
     {
       "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
@@ -77,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1781716345.0
-    },
-    {
-      "title": "Why Agentic Commerce Could Be a Game-Changer for Mastercard - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFA1NEV3TlBoR3lTWHVuODEtY1RIOFpaSUVneFZiU1VyejNTZU1Nc0h2TGFnbnk1YjhXaEFkNV9DLWNwRGl1N3RMSDZIbmFFYzNrdnQwbWpXenNnUm5CQUpxY2dweWFfUDFQQV9iMTNvRml0dGU2YjJIaGF6Wk00MExFdFB4TGdIZ2JXRFowSjY1b2c4T29mTl9Kaw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 17 Jun 2026 15:45:00 GMT",
-      "summary": "Why Agentic Commerce Could Be a Game-Changer for Mastercard &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781711100.0
     },
     {
       "title": "New Ecommerce Tools: June 17, 2026",
@@ -242,6 +231,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1773730800.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 268,
     "kept": 44,
     "opportunities": 26,
     "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 12.1
   }
 }
