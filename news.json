@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-21T13:05:45.697894+00:00",
+  "updated": "2026-06-21T15:45:17.211161+00:00",
   "items": [
     {
       "title": "Deep Dive: Adyen’s universal translator for agentic commerce: By Sam Boboev - Finextra Research",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUZEcm5mclRXbFRSVGxOMVlIdjVVcnVZV0c1ODByN2kxbXJMUm1EcTBzOVh1SVJxZTdWMVZWOHlsVmNTMlFzY0RCSnZnZTV6ZGJ0NVFZOTJUQlhzQnNFTHU5R2RMLVRaalEwLThGQ0h1VHJFMUgwbUdjTFExbTB2aG1sTkZoUHR4NVBIWFhrZERNT0hJSmpOM2NKWUpOOHZuSG1F?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Sun, 21 Jun 2026 08:15:18 GMT",
+      "published": "Sun, 21 Jun 2026 09:07:53 GMT",
       "summary": "Deep Dive: Adyen’s universal translator for agentic commerce: By Sam Boboev &nbsp;&nbsp; Finextra Research",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782029718.0
+      "published_ts": 1782032873.0
     },
     {
       "title": "Universal Commerce Protocol Proposes Open Rails for Agentic Commerce - Let's Data Science",
@@ -81,7 +81,7 @@
     {
       "title": "In agentic commerce, the agent won’t ask—it will judge - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3ZqYTZLamJFd0VnUUFBWnFXNl9TcUdRbm1BVlIwbFBLeXRsV1hwRXhTR2RJQUt6SkMybU5yekc4dlh5c09JdUJpY0tqSFNyMmhxTUNJa2MzTGJSLTJRd1B1TDNQdTQxaUVRWERYeE51S2RUTzAyWkNIZGY5eHlNSGRGWGNTaDY4QVNYX0FxOVlkdmM?oc=5",
-      "source": "Google News: AI shopping agent",
+      "source": "Google News: agentic commerce",
       "published": "Wed, 17 Jun 2026 19:43:09 GMT",
       "summary": "In agentic commerce, the agent won’t ask—it will judge &nbsp;&nbsp; Fast Company",
       "classification": "opportunity",
@@ -92,7 +92,7 @@
     {
       "title": "Agentic commerce for every developer: The Spring '26 Edition - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSE11dVdJTllLdThOMWhvS1I3UXhCYlJKeHpNQUhkcXZENGlSS1otWS1iSHRadVFfZXVhZm8tbjBpYnR3SnRCY1E0b25XMndkQTlFbzJhUGpnUWZGNHlv?oc=5",
-      "source": "Google News: agentic commerce",
+      "source": "Google News: Shopify",
       "published": "Wed, 17 Jun 2026 17:12:25 GMT",
       "summary": "Agentic commerce for every developer: The Spring '26 Edition &nbsp;&nbsp; Shopify",
       "classification": "opportunity",
@@ -143,17 +143,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781629729.0
-    },
-    {
-      "title": "J.P. Morgan Payments’ Michael Lozanoff on why agentic commerce can’t scale without governance - Tearsheet",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVhIcE5ZUFlrcEwtcko1U19PQnh0Qm00NTFIN1l1V0cwejFWTGlvbjhkM2p6M3Y1X3Ywc0ZpZ29pcVNHMjAwMy1aREk3YVVDdTBhQmRnMG9VTEl4LUszRUdpR0Z6SU14bUNHcnZvUzlja18tWWg3ckpDb2I1c2lvbUZ5ZEpRYlBQd0xvbHJPRkdldTZZbExKR1pxVEpyQVdDVmdtWXR4UENjUzV6ZU5QTlpINHRCS1RrYWZzZWxaM0IyYTRoZlVCeWhWSkoxMHpJbkE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 16 Jun 2026 11:43:43 GMT",
-      "summary": "J.P. Morgan Payments’ Michael Lozanoff on why agentic commerce can’t scale without governance &nbsp;&nbsp; Tearsheet",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781610223.0
     },
     {
       "title": "Accenture: Consumers show growing trust in AI shopping agents - AI News",
@@ -220,6 +209,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780491200.0
+    },
+    {
+      "title": "Europe is Building the Foundations for Trusted Agentic Commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalJFcjdqeFdhY0FjcUozODMtb2hUN2hMb0RTUjIxV1dXUFljQnpjTFB5a1J0OXlCSnN3Sm10cXFDdnh4ck1vbXJYWjlUVVhnREJjS0owb2swZVN4eGRyZ1VtUk5XdUk0TTJMN3gtYlpnSF9Ha09Qa0doOXNjdHExTzltQWg3SWE2SjM4XzdPUnk1Q0hyTjl2dmx4UzRsOFdzalBiNFVkQ2dPRXpkQnJQdGlRTUMxOXpfc05JRmhzd2RlTmhqQ3c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "Europe is Building the Foundations for Trusted Agentic Commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780383600.0
     },
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -310,6 +310,17 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblJRNjI0RUR6R0ZBdjJ2eUF2RDZ1QXNyeUpNODdsWHhpd1dLanZ0dEx5THE4U0E0ZlZvNDlCbWNJQno2cmlZcG9iWVROUHY2ZlNxV0xOa3dvM0I1Tzlka2lrQWRiRGRLbjFJX1lyTEZGSGlXNFZJX0ZSWGxTMGJvWGN4dnk0SklsWWp4SUtNdW9veEtDS25IMktnQm96VWVhSUJLTUxhLWtlVnFxRjUzUVNGNEtHRlM0ZGc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 04 Jun 2026 14:24:59 GMT",
+      "summary": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts &nbsp;&nbsp; Sahm",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1780583099.0
+    },
+    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
       "source": "Google News: Mailchimp",
@@ -330,17 +341,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
-    },
-    {
-      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1778828400.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -376,17 +376,6 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1770710400.0
-    },
-    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -418,6 +407,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
       "published_ts": 1768204800.0
+    },
+    {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
@@ -498,11 +498,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 260,
+    "total_fetched": 267,
     "kept": 45,
     "opportunities": 26,
     "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 12.4
   }
 }
