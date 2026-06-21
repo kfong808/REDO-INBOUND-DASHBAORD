@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T10:59:05.329304+00:00",
+  "updated": "2026-06-21T13:05:45.697894+00:00",
   "items": [
     {
       "title": "Deep Dive: Adyen’s universal translator for agentic commerce: By Sam Boboev - Finextra Research",
@@ -310,17 +310,6 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts - Sahm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblJRNjI0RUR6R0ZBdjJ2eUF2RDZ1QXNyeUpNODdsWHhpd1dLanZ0dEx5THE4U0E0ZlZvNDlCbWNJQno2cmlZcG9iWVROUHY2ZlNxV0xOa3dvM0I1Tzlka2lrQWRiRGRLbjFJX1lyTEZGSGlXNFZJX0ZSWGxTMGJvWGN4dnk0SklsWWp4SUtNdW9veEtDS25IMktnQm96VWVhSUJLTUxhLWtlVnFxRjUzUVNGNEtHRlM0ZGc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 04 Jun 2026 14:24:59 GMT",
-      "summary": "Why Intuit (INTU) Is Up 5.8% After AI Mailchimp Launch And 17% Job Cuts &nbsp;&nbsp; Sahm",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1780583099.0
-    },
-    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
       "source": "Google News: Mailchimp",
@@ -341,6 +330,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
+    },
+    {
+      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 15 May 2026 07:00:00 GMT",
+      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + valuation",
+      "published_ts": 1778828400.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -376,6 +376,17 @@
       "published_ts": 1772179200.0
     },
     {
+      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1770710400.0
+    },
+    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -407,17 +418,6 @@
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
       "published_ts": 1768204800.0
-    },
-    {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
@@ -498,11 +498,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 260,
     "kept": 45,
     "opportunities": 26,
     "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.8
   }
 }
