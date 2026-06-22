@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T22:59:34.423287+00:00",
+  "updated": "2026-06-22T00:13:16.169343+00:00",
   "items": [
     {
       "title": "Deep Dive: Adyen’s universal translator for agentic commerce: By Sam Boboev - Finextra Research",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782032873.0
+    },
+    {
+      "title": "Universal Commerce Protocol Proposes Open Rails for Agentic Commerce - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkJjVTNYVkdWcEZ2c1QtdFFuLWprS3dsWHNySER5RzJZSVVhZVV4VEtnbnBfRWtXWjRva1p4QjNfcGdpdTFxNFdaQzJKei1WRzEzUVZUT19Nb0NfTklaOC11VmM4dm9XQ19KQVVlMnhvRW02Q25LLWszanU5NmdrRHVRSDlMeW5uUjF1VVpEWEs1MTVINnNBYkdmbXN6d1N3SDFz?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sun, 21 Jun 2026 06:13:39 GMT",
+      "summary": "Universal Commerce Protocol Proposes Open Rails for Agentic Commerce &nbsp;&nbsp; Let's Data Science",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782022419.0
     },
     {
       "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
@@ -81,7 +92,7 @@
     {
       "title": "Agentic commerce for every developer: The Spring '26 Edition - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSE11dVdJTllLdThOMWhvS1I3UXhCYlJKeHpNQUhkcXZENGlSS1otWS1iSHRadVFfZXVhZm8tbjBpYnR3SnRCY1E0b25XMndkQTlFbzJhUGpnUWZGNHlv?oc=5",
-      "source": "Google News: Shopify",
+      "source": "Google News: agentic commerce",
       "published": "Wed, 17 Jun 2026 17:12:25 GMT",
       "summary": "Agentic commerce for every developer: The Spring '26 Edition &nbsp;&nbsp; Shopify",
       "classification": "opportunity",
@@ -198,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780491200.0
-    },
-    {
-      "title": "Europe is Building the Foundations for Trusted Agentic Commerce - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalJFcjdqeFdhY0FjcUozODMtb2hUN2hMb0RTUjIxV1dXUFljQnpjTFB5a1J0OXlCSnN3Sm10cXFDdnh4ck1vbXJYWjlUVVhnREJjS0owb2swZVN4eGRyZ1VtUk5XdUk0TTJMN3gtYlpnSF9Ha09Qa0doOXNjdHExTzltQWg3SWE2SjM4XzdPUnk1Q0hyTjl2dmx4UzRsOFdzalBiNFVkQ2dPRXpkQnJQdGlRTUMxOXpfc05JRmhzd2RlTmhqQ3c?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "Europe is Building the Foundations for Trusted Agentic Commerce &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1780383600.0
     },
     {
       "title": "For Brands, AI Is the New Shelf Space",
@@ -330,17 +330,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
-    },
-    {
-      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1778828400.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -509,11 +498,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 46,
+    "total_fetched": 269,
+    "kept": 45,
     "opportunities": 26,
-    "threats": 20,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 10.8
   }
 }
