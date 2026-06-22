@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T22:41:14.364870+00:00",
+  "updated": "2026-06-22T23:59:26.732905+00:00",
   "items": [
     {
       "title": "I'm building an AI Stylist app using Shopify UCP. How do I enable checkout?",
@@ -88,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1782093695.0
-    },
-    {
-      "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
-      "url": "https://www.reddit.com/r/shopify/comments/1uayy27/looking_for_a_shopify_app_that_turns_customers/",
-      "source": "r/shopify",
-      "published": "2026-06-20T15:09:15+00:00",
-      "summary": "Hey all, Trying to find an app (or combo of apps) that does something pretty specific and I’m not sure of the right term for it. After someone buys, I want to prompt them to connect/authenticate their social accounts (IG, TikTok, etc.) so we can see their actual follower count/ engagement rate etc not self-reported. Based on that, they’d unlock a reward: a discount, a free gift, or an invite to become a brand partner/affiliate. The logic is that these people are already customers, so they’re way",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1781968155.0
     },
     {
       "title": "4 steps to get started in agentic commerce - Mirakl",
@@ -532,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 48,
-    "opportunities": 29,
+    "kept": 47,
+    "opportunities": 28,
     "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 11.2
   }
 }
