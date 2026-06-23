@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T13:35:16.137163+00:00",
+  "updated": "2026-06-23T16:19:32.067905+00:00",
   "items": [
     {
       "title": "Agentic Commerce Is Coming. Marketers Need to Start Winning at the Discovery Layer - Demand Gen Report",
@@ -11,28 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782212530.0
-    },
-    {
-      "title": "Consumer Payments Predictions 2026/27: Market Driven by Agentic Commerce, Bank-backed Wallets, & Click to Pay - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWU0Z3V0VlRaZ21pam1jYzRCOThWS2lEQ2hCUS1BaFAtSEFLZE81MUI0SllnVlR1NzZ3S1lJaTQxUF9kSXhXLWdrWWdTdXdwQmdjMmhhUElYSU9lcnhucURMVDBabDV4YnhLcHVkUHREQ1NiazRUNWV4dGRvRkt3QXN4OWlaaDNWOHJpOE4yWEtFMmFpMFlhTk5oMmZZUzB5QzR3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 23 Jun 2026 06:00:00 GMT",
-      "summary": "Consumer Payments Predictions 2026/27: Market Driven by Agentic Commerce, Bank-backed Wallets, & Click to Pay &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782194400.0
-    },
-    {
-      "title": "I'm building an AI Stylist app using Shopify UCP. How do I enable checkout?",
-      "url": "https://www.reddit.com/r/shopify/comments/1ucys9q/im_building_an_ai_stylist_app_using_shopify_ucp/",
-      "source": "r/shopify",
-      "published": "2026-06-22T22:13:50+00:00",
-      "summary": "Hi, I've built an AI Stylist app, already got 3k users organically. For now it's just a discovery app with a really cool UX. I'm using Shopify's UCP integration which only allows catalog fetch. A lot of user drop off or don't retain as there's no checkout natively on the app. Is there an easy way to enable checkout for all these UCP merchants without any direct integration? How can I actually solve this? I don't know much of agentic commerce, exploring. &#32; submitted by &#32; /u/Busy-Ad4869 [l",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782166430.0
     },
     {
       "title": "Agentic commerce and enterprise AI at Cannes - Think with Google - Google Business Profile",
@@ -55,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782119038.0
-    },
-    {
-      "title": "From invisible to recommended: How brands become visible to AI shopping agents",
-      "url": "https://www.retaildive.com/spons/from-invisible-to-recommended-how-brands-become-visible-to-ai-shopping-age/822985/",
-      "source": "Retail Dive",
-      "published": "Mon, 22 Jun 2026 05:00:00 -0400",
-      "summary": "Drive visibility, sales and loyalty across human and AI shopping journeys.",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782118800.0
     },
     {
       "title": "Why Agentic Commerce Needs Open Infrastructure To Scale - Forbes",
@@ -198,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience - WWD",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGVzTERtckV5cGVsT1NMUlJMMWhBNzNOY1o2NjFJZnpJT3NJV3JfeWFYdHcxZkc5R2YwODFKZ2J2MVF0Wmd0ZmNJdlhsb2MtR1BPUFBUT0FkeGdyaW5QR0laMHprRUh5WklGMl84ZTExcGVZRTRHaThRa2pob0RBZUNYWlJMV0ZIMmhlbzhnaWMxcGtZWWVyTk9tWmc4UTFSdDZyNVg3bmc2TDhCaGlpNWRmdEowNEpRRG5KNGlJTS1NbGFMV2dtQU02QUp6dFJUM2JiQmVTeTI?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
-      "summary": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience &nbsp;&nbsp; WWD",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1729062000.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -440,14 +396,25 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 40,
-    "opportunities": 20,
-    "threats": 20,
+    "kept": 37,
+    "opportunities": 16,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 11.6
   }
 }
