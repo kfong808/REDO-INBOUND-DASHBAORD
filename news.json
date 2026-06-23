@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T22:58:44.634252+00:00",
+  "updated": "2026-06-23T23:56:09.884678+00:00",
   "items": [
     {
       "title": "Current Consumer Protection Laws Can Fit Agentic Commerce - Law360",
@@ -211,6 +211,17 @@
       "published_ts": 1729062000.0
     },
     {
+      "title": "How do you print orders and packing slips without babysitting a laptop?",
+      "url": "https://www.reddit.com/r/ecommerce/comments/1uda5t2/how_do_you_print_orders_and_packing_slips_without/",
+      "source": "r/ecommerce",
+      "published": "2026-06-23T07:18:44+00:00",
+      "summary": "Running fulfillment, I got tired of opening each order and hitting print one at a time. Curious how others have actually automated it. The approaches I have seen: a platform app that auto-prints on new order, a shipping tool like ShipStation or Pirate Ship that batch prints, or something that watches the orders inbox and prints whatever PDF lands. What is working for you day to day, especially at higher volumes or across more than one location? Trying to land on something reliable instead of hal",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1782199124.0
+    },
+    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -255,17 +266,6 @@
       "published_ts": 1778834544.0
     },
     {
-      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1778828400.0
-    },
-    {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
@@ -297,17 +297,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
-    },
-    {
-      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1770710400.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -432,11 +421,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 39,
+    "total_fetched": 289,
+    "kept": 38,
     "opportunities": 19,
-    "threats": 20,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 11.4
   }
 }
