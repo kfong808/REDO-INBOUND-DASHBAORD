@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:27:15.525903+00:00",
+  "updated": "2026-06-24T22:07:04.217235+00:00",
   "items": [
     {
       "title": "Samsung Teams With Glance to Put Agentic Commerce On TV - PYMNTS.com",
@@ -35,11 +35,11 @@
       "published_ts": 1782305992.0
     },
     {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - news.bloombergtax.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXZOTDRaSmZvdjZRVGRNbDA4VmFLWDNJSFlwMXVMQVhYdm93eWJSejgwSWtJWWNqcmlyYmZCZGUycXlJbVktY3BoNktFTnFnQkNubzQ0cWJYb0lfZzRVbFJJVkJTempfb0Z0WkdwMHQ5YkFRWkN1MWU5eVI2MHhyelNwQnM3aXVkYVhnWXl1SWtUWHlYVWEtVFFIVGRhbVZYVmloZ25oRG56bGttaElRdDNDRDF6SXhwaFJoNA?oc=5",
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Government News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkFRNE1Wb3lrLUdtckl3SEpTVDcwVFAwSFJ5dXFjOWZ6dVRPQ2ZPZGNVSVNrSDZhSkllUlJENExTTUZ4OE4wYm1pdlJpQmpCaGtWWm8taGRIRE52S0UwYjNRTlo0Ql92NkMweWZiY0tTY1FwYnpYU2dmTFY2Z0hnVFZidmVKRUdTY1dJM2tOVkdvblplQzhTZw?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 24 Jun 2026 09:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; news.bloombergtax.com",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Government News",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -55,6 +55,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782119038.0
+    },
+    {
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 22 Jun 2026 06:29:00 GMT",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1782109740.0
     },
     {
       "title": "SAP and Google Cloud deploy agentic commerce architecture - AI News",
@@ -189,17 +200,6 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1770019200.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -220,17 +220,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -455,10 +444,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 21,
+    "kept": 40,
+    "opportunities": 20,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 10.5
   }
 }
