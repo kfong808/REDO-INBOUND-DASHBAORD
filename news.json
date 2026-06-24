@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T02:31:23.074596+00:00",
+  "updated": "2026-06-24T06:36:02.353100+00:00",
   "items": [
     {
       "title": "Current Consumer Protection Laws Can Fit Agentic Commerce - Law360",
@@ -90,17 +90,6 @@
       "published_ts": 1781706968.0
     },
     {
-      "title": "Accenture: Consumers show growing trust in AI shopping agents - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemRvOWRhaW5Ib2RtRl9YZFRaZE9RSHZxMjdMa0xmOWxpS1dDWldfRFpyUW5zanlrdWt3dWc5NjBqOWt0NG1kSnNYVnJ0Q1BEV04ydW5GVlVuR1luSmF0LXl3Nk51RmtZeE0yQ1ZPQnBvUHV2Z1JqX0ZDX0kxeFpMLUx6cUs4T0pULVVDMmtGbkdUM2tnVlJmWXNncjF5M1VFQ0E?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 15 Jun 2026 10:02:28 GMT",
-      "summary": "Accenture: Consumers show growing trust in AI shopping agents &nbsp;&nbsp; AI News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781517748.0
-    },
-    {
       "title": "AI shopping agents are coming. No one is ready for them - Fortune",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -165,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -255,6 +255,17 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdDU0VGlZb3JlZEZGTXkzM2g1aTRCZnV3UDg4QmdETXRUX3NPbWJRRHptRG55NWQwS2VjejlSUEVJSVdHUkc0eklaVm5Jb2lGcmdxR211d1BUZXk5dUZoWE5abXlsRUhrOVVvTldfN2FEQVBsaTVTQUE3UkVQQjUwdG5hVVNEMGJKTjI0THF4YUhPbUtJem5Gb3BrSUc3RnVFMUJNN0V2Vmd3c0NHV0tMakxHMmJxbEJUb1NzdTZmTlpZbmtFbWZ1cDlrbER5cFRnc0Z5WTRNb2tfekFHdm5DNExyWFAxaHdiUTZiTTAwVE5PblE0OTVoN25XeXJCSVNiRVgyeG1SWHQ3MGY3?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1779951600.0
+    },
+    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -264,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
+    },
+    {
+      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 15 May 2026 07:00:00 GMT",
+      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + valuation",
+      "published_ts": 1778828400.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -297,17 +319,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
-    },
-    {
-      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1770710400.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -433,10 +444,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 39,
+    "kept": 40,
     "opportunities": 21,
-    "threats": 18,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 11.3
   }
 }
