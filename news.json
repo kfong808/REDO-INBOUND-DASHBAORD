@@ -1,17 +1,6 @@
 {
-  "updated": "2026-06-25T02:52:31.141831+00:00",
+  "updated": "2026-06-25T06:39:54.519497+00:00",
   "items": [
-    {
-      "title": "AI is about to start checking out for customers, how are you prepping your store?",
-      "url": "https://www.reddit.com/r/shopify/comments/1uewuv9/ai_is_about_to_start_checking_out_for_customers/",
-      "source": "r/shopify",
-      "published": "2026-06-25T01:58:50+00:00",
-      "summary": "I've been deep in agentic commerce research for a few months and I'm more convinced than ever this is coming: by Q4, AI will be able to complete a purchase for a customer without the human visiting the store website at all. You just see an order from a channel you can't really watch. It sounds early, but after looking at how much of the pipeline has already been built, it's hard to see it going any other way: Stripe's Shared Payment Tokens let an agent pay with a customer's card without ever tou",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782352730.0
-    },
     {
       "title": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTZEemYyMEJjLXYzeUZyQzZSX1pVM0pwejhWcXNQVmQ5QWRTUmlYZUpadlltQkk3cWVHbUczUXY3ckR1TEU3bktvNm55OWhjUzNGbFNMWUxqalB2eHEzNzhFQWQ0TV83N3dlX0JCekQtTEt3cGJsX09zc1ljSHEtUXdJX1VHSHVZN0UyNmw4N2F0UHV2dndZREhnenVRZ0lOempON2VseW1oZGRIR1k5TzBkeU9fb2lJbkRUczVMaHcxODV0c2c?oc=5",
@@ -35,11 +24,11 @@
       "published_ts": 1782347400.0
     },
     {
-      "title": "Samsung Teams With Glance to Put Agentic Commerce On TV - PYMNTS.com",
+      "title": "Samsung Teams With Glance to Put Agentic Commerce on TV - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGJzcXRXbkdWVUdEUm9EY3Nxa3NrZmZveXZHbE1UODhBRTBVRktfelRpZVc1cFlmS1ZnX2k4aFZNbG90ZkNzOW4zTDZlWDJxRWw1VU9YX2FLbHFCWlZNX2xfLWR1MDVwRGVaRnR6M3R1M0twZG5yTWNobmJEQ2xIbmpra1NLV2xkc3JxMzIzQS1jM3lTYzFvaVA5OFR0T01SU0JhU1FQeUhpdEJFVzI4RElzTQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 24 Jun 2026 17:34:47 GMT",
-      "summary": "Samsung Teams With Glance to Put Agentic Commerce On TV &nbsp;&nbsp; PYMNTS.com",
+      "summary": "Samsung Teams With Glance to Put Agentic Commerce on TV &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -477,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
-    "opportunities": 23,
+    "kept": 42,
+    "opportunities": 22,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 10.5
   }
 }
