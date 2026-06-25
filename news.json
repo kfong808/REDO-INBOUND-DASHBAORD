@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T10:10:39.597273+00:00",
+  "updated": "2026-06-25T13:09:56.630725+00:00",
   "items": [
     {
       "title": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup - Morningstar",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782322487.0
-    },
-    {
-      "title": "Agentic commerce could crack personalization but only for data-ready brands - FoodNavigator-USA.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDZkOHAtWTRvM0NiWmF6R09ZeWtTZzBiWW9QdUZJNVBBeEIzYVBjZkd1dnBreG5URldVdHE3bW9KR0NYc3FaNUI5cE9TUncxWEo1RnpnZDZieUFpajh2Zy0tajRfSGlfaUxvbXBQRUFveGtsT1ZkU0lCa2ZjNWpvSTkxTEZ3MW90WjVFZEZUWmgxaDd0UmpVVThyVW9EVGNiOC05UVlUOA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 24 Jun 2026 13:28:30 GMT",
-      "summary": "Agentic commerce could crack personalization but only for data-ready brands &nbsp;&nbsp; FoodNavigator-USA.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782307710.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -299,6 +288,17 @@
       "published_ts": 1778834544.0
     },
     {
+      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 15 May 2026 07:00:00 GMT",
+      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + valuation",
+      "published_ts": 1778828400.0
+    },
+    {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
@@ -376,11 +376,11 @@
       "published_ts": 1765353600.0
     },
     {
-      "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
+      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation &nbsp;&nbsp; GetLatka",
+      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation &nbsp;&nbsp; GetLatka",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
@@ -456,9 +456,9 @@
   "stats": {
     "total_fetched": 270,
     "kept": 41,
-    "opportunities": 21,
-    "threats": 20,
+    "opportunities": 20,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 11.4
   }
 }
