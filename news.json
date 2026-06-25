@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T06:39:54.519497+00:00",
+  "updated": "2026-06-25T10:10:39.597273+00:00",
   "items": [
     {
       "title": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup - Morningstar",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782349424.0
-    },
-    {
-      "title": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnpxQTJsWktKVXRCbnoyb3JHUmJxM3pPdHRPcFhwNmlBWlZZSEhzSmlhVE9CTmhsZXpkTktWNWJpWndTeVU1S2NkdWk0M0FqRGltYlVZQ09KMGZmNFRXZVFSaldaakxGVTRSWmlEeFVoVlY5VHhhVmpkVjNxcjI4UUhIczNlV2ZhdW5maXNtb3gzd3dmNDVNRlhDeDJjU0dPanp4QnlJYnRNYnRHcTladnhkeHc5Q0cybVliTm1Xaw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 25 Jun 2026 00:30:00 GMT",
-      "summary": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup &nbsp;&nbsp; PR Newswire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782347400.0
     },
     {
       "title": "Samsung Teams With Glance to Put Agentic Commerce on TV - PYMNTS.com",
@@ -466,10 +455,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 42,
-    "opportunities": 22,
+    "kept": 41,
+    "opportunities": 21,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.0
   }
 }
