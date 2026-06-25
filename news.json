@@ -1,6 +1,39 @@
 {
-  "updated": "2026-06-24T23:57:48.861389+00:00",
+  "updated": "2026-06-25T02:52:31.141831+00:00",
   "items": [
+    {
+      "title": "AI is about to start checking out for customers, how are you prepping your store?",
+      "url": "https://www.reddit.com/r/shopify/comments/1uewuv9/ai_is_about_to_start_checking_out_for_customers/",
+      "source": "r/shopify",
+      "published": "2026-06-25T01:58:50+00:00",
+      "summary": "I've been deep in agentic commerce research for a few months and I'm more convinced than ever this is coming: by Q4, AI will be able to complete a purchase for a customer without the human visiting the store website at all. You just see an order from a channel you can't really watch. It sounds early, but after looking at how much of the pipeline has already been built, it's hard to see it going any other way: Stripe's Shared Payment Tokens let an agent pay with a customer's card without ever tou",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782352730.0
+    },
+    {
+      "title": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTZEemYyMEJjLXYzeUZyQzZSX1pVM0pwejhWcXNQVmQ5QWRTUmlYZUpadlltQkk3cWVHbUczUXY3ckR1TEU3bktvNm55OWhjUzNGbFNMWUxqalB2eHEzNzhFQWQ0TV83N3dlX0JCekQtTEt3cGJsX09zc1ljSHEtUXdJX1VHSHVZN0UyNmw4N2F0UHV2dndZREhnenVRZ0lOempON2VseW1oZGRIR1k5TzBkeU9fb2lJbkRUczVMaHcxODV0c2c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 25 Jun 2026 01:03:44 GMT",
+      "summary": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup &nbsp;&nbsp; Morningstar",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782349424.0
+    },
+    {
+      "title": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnpxQTJsWktKVXRCbnoyb3JHUmJxM3pPdHRPcFhwNmlBWlZZSEhzSmlhVE9CTmhsZXpkTktWNWJpWndTeVU1S2NkdWk0M0FqRGltYlVZQ09KMGZmNFRXZVFSaldaakxGVTRSWmlEeFVoVlY5VHhhVmpkVjNxcjI4UUhIczNlV2ZhdW5maXNtb3gzd3dmNDVNRlhDeDJjU0dPanp4QnlJYnRNYnRHcTladnhkeHc5Q0cybVliTm1Xaw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 25 Jun 2026 00:30:00 GMT",
+      "summary": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup &nbsp;&nbsp; PR Newswire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782347400.0
+    },
     {
       "title": "Samsung Teams With Glance to Put Agentic Commerce On TV - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGJzcXRXbkdWVUdEUm9EY3Nxa3NrZmZveXZHbE1UODhBRTBVRktfelRpZVc1cFlmS1ZnX2k4aFZNbG90ZkNzOW4zTDZlWDJxRWw1VU9YX2FLbHFCWlZNX2xfLWR1MDVwRGVaRnR6M3R1M0twZG5yTWNobmJEQ2xIbmpra1NLV2xkc3JxMzIzQS1jM3lTYzFvaVA5OFR0T01SU0JhU1FQeUhpdEJFVzI4RElzTQ?oc=5",
@@ -68,6 +101,17 @@
       "published_ts": 1782109740.0
     },
     {
+      "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 20 Jun 2026 13:45:00 GMT",
+      "summary": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781963100.0
+    },
+    {
       "title": "SAP and Google Cloud deploy agentic commerce architecture - AI News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0kzMVRLcXQtYUNkS3M1MndyeHBBUTFsYUlOY2UyNS1aUV9CaE15X3ZXcnlqUDdSQWgwcGtpRUstc0tJTl9vbl9Qemt6Zk92ZEQzOUdrMGg5cVFGWmNUcVlObjlfMkFkNWFjNEgtc3FNekxVZ0xQX3E2N0tHNjFFLWNfeEtIZW9zX0hua1Jqekx6U2JvRGJTX2hZdTFNWmRLcHhzb19xS0JlaGc?oc=5",
       "source": "Google News: agentic commerce",
@@ -112,17 +156,6 @@
       "published_ts": 1781247600.0
     },
     {
-      "title": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries - Consumer Finance Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjc1WmNRdkcwZVRpR1hnTzZ6RHBLMHkzSU1qN2xWVThSUzV5QzJlMEZKQS1QOHQyTDNCbGs1VGJSdVFhbFRaeThCYzVuc3hwUE4yRGJoOUpWMDlnTXNwVFpYNGV0RTE1Xy15TG40QkI2cXdOUG1pdnl0aEtMeEhIRVVNODVsRXBtM3J3cmJhS2Z5TGgwdzcxczJFQV9VWG5oUTRldlhsODdVMjUySmZSUEszWVg5RUZkMmlGbk53c1hLdDQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 14:05:18 GMT",
-      "summary": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries &nbsp;&nbsp; Consumer Finance Monitor",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781186718.0
-    },
-    {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -165,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -433,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 39,
-    "opportunities": 19,
+    "kept": 43,
+    "opportunities": 23,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 10.6
   }
 }
