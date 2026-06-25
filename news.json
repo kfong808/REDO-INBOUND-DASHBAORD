@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T13:09:56.630725+00:00",
+  "updated": "2026-06-25T16:14:49.311718+00:00",
   "items": [
     {
       "title": "NAVER D2SF Invests in SAZO, a Cross-Border Agentic Commerce Startup - Morningstar",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782322487.0
+    },
+    {
+      "title": "Agentic commerce could crack personalization but only for data-ready brands - FoodNavigator-USA.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDZkOHAtWTRvM0NiWmF6R09ZeWtTZzBiWW9QdUZJNVBBeEIzYVBjZkd1dnBreG5URldVdHE3bW9KR0NYc3FaNUI5cE9TUncxWEo1RnpnZDZieUFpajh2Zy0tajRfSGlfaUxvbXBQRUFveGtsT1ZkU0lCa2ZjNWpvSTkxTEZ3MW90WjVFZEZUWmgxaDd0UmpVVThyVW9EVGNiOC05UVlUOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 24 Jun 2026 13:28:30 GMT",
+      "summary": "Agentic commerce could crack personalization but only for data-ready brands &nbsp;&nbsp; FoodNavigator-USA.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782307710.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -55,28 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782119038.0
-    },
-    {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 22 Jun 2026 06:29:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1782109740.0
-    },
-    {
-      "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sat, 20 Jun 2026 13:45:00 GMT",
-      "summary": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781963100.0
     },
     {
       "title": "SAP and Google Cloud deploy agentic commerce architecture - AI News",
@@ -121,6 +110,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781247600.0
+    },
+    {
+      "title": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries - Consumer Finance Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjc1WmNRdkcwZVRpR1hnTzZ6RHBLMHkzSU1qN2xWVThSUzV5QzJlMEZKQS1QOHQyTDNCbGs1VGJSdVFhbFRaeThCYzVuc3hwUE4yRGJoOUpWMDlnTXNwVFpYNGV0RTE1Xy15TG40QkI2cXdOUG1pdnl0aEtMeEhIRVVNODVsRXBtM3J3cmJhS2Z5TGgwdzcxczJFQV9VWG5oUTRldlhsODdVMjUySmZSUEszWVg5RUZkMmlGbk53c1hLdDQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 14:05:18 GMT",
+      "summary": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries &nbsp;&nbsp; Consumer Finance Monitor",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781186718.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -200,6 +200,17 @@
       "published_ts": 1772611200.0
     },
     {
+      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1770019200.0
+    },
+    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -220,6 +231,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -376,11 +398,11 @@
       "published_ts": 1765353600.0
     },
     {
-      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
+      "title": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation &nbsp;&nbsp; GetLatka",
+      "summary": "Yotpo Revenue 2024: $213M ARR, $1.4B Valuation &nbsp;&nbsp; GetLatka",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
@@ -454,11 +476,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 20,
+    "total_fetched": 269,
+    "kept": 43,
+    "opportunities": 22,
     "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 11.1
   }
 }
