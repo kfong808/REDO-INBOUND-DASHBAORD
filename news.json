@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:21:07.421737+00:00",
+  "updated": "2026-06-25T23:06:53.273076+00:00",
   "items": [
     {
       "title": "How agentic commerce fuels Visa's 'services' push - American Banker",
@@ -123,6 +123,17 @@
       "published_ts": 1781247600.0
     },
     {
+      "title": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries - Consumer Finance Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjc1WmNRdkcwZVRpR1hnTzZ6RHBLMHkzSU1qN2xWVThSUzV5QzJlMEZKQS1QOHQyTDNCbGs1VGJSdVFhbFRaeThCYzVuc3hwUE4yRGJoOUpWMDlnTXNwVFpYNGV0RTE1Xy15TG40QkI2cXdOUG1pdnl0aEtMeEhIRVVNODVsRXBtM3J3cmJhS2Z5TGgwdzcxczJFQV9VWG5oUTRldlhsODdVMjUySmZSUEszWVg5RUZkMmlGbk53c1hLdDQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 14:05:18 GMT",
+      "summary": "Agent Provocateur: How AI Shopping Bots Are Testing Retail Legal Boundaries &nbsp;&nbsp; Consumer Finance Monitor",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781186718.0
+    },
+    {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -132,17 +143,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781161200.0
-    },
-    {
-      "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "Survey: Some skepticism remains among AI shopping agent users &nbsp;&nbsp; Chain Store Age",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780642800.0
     },
     {
       "title": "New Ecommerce Tools: June 3, 2026",
@@ -209,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -354,6 +343,17 @@
       "published_ts": 1768204800.0
     },
     {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
+    },
+    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -432,10 +432,10 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 39,
-    "opportunities": 20,
-    "threats": 19,
+    "opportunities": 19,
+    "threats": 20,
     "classifier_mode": "keyword",
     "runtime_seconds": 11.3
   }
