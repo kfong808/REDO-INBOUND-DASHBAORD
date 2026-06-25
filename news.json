@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T19:00:43.409405+00:00",
+  "updated": "2026-06-25T21:21:07.421737+00:00",
   "items": [
     {
       "title": "How agentic commerce fuels Visa's 'services' push - American Banker",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782349424.0
+    },
+    {
+      "title": "Agentic commerce could crack personalization but only for data-ready brands - FoodNavigator-USA.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDZkOHAtWTRvM0NiWmF6R09ZeWtTZzBiWW9QdUZJNVBBeEIzYVBjZkd1dnBreG5URldVdHE3bW9KR0NYc3FaNUI5cE9TUncxWEo1RnpnZDZieUFpajh2Zy0tajRfSGlfaUxvbXBQRUFveGtsT1ZkU0lCa2ZjNWpvSTkxTEZ3MW90WjVFZEZUWmgxaDd0UmpVVThyVW9EVGNiOC05UVlUOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 24 Jun 2026 13:28:30 GMT",
+      "summary": "Agentic commerce could crack personalization but only for data-ready brands &nbsp;&nbsp; FoodNavigator-USA.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782307710.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -154,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
-    },
-    {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -354,17 +354,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -444,10 +433,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 40,
+    "kept": 39,
     "opportunities": 20,
-    "threats": 20,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 11.3
   }
 }
