@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T22:01:46.758866+00:00",
+  "updated": "2026-06-26T23:53:54.763558+00:00",
   "items": [
     {
       "title": "New York's top financial regulator zeroing in on agentic commerce - American Banker",
@@ -44,6 +44,39 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782482220.0
+    },
+    {
+      "title": "Public Sapient and Salesforce Share Framework for Agentic Commerce Ecosystem - FintechNews CH",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1lJUkxfR2hnS09odzZZNHVBazFLeFIwXzl1VTJjdG12elgwWGVtbEM3Nk55bzk4Wjg3djdWcDR4WDJXcWpBZkRFTlplUE51SlRnLXFqY3owMVRQYUZVa2ZvLWstQUh2QTdyVXkzbFVqT3RvM1JGanZxb0JYOWlFRGdZbWZaa0VUV09TTllDSGNDVXhtaXpwOGI0NmRWMFZ3OHUxOGtzeXZtU0oxUWJ0VnIzbnFaZEU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 26 Jun 2026 08:40:30 GMT",
+      "summary": "Public Sapient and Salesforce Share Framework for Agentic Commerce Ecosystem &nbsp;&nbsp; FintechNews CH",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782463230.0
+    },
+    {
+      "title": "The 30% Distribution Tax: Market Power in Agentic Commerce - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3FZSmR3VndNLXdOcVdlTDRpOGJGeVFoZnkyZWIzT3RqMi05b2xVSk1BR04yVUt0cnRHdUtWQUdPQ0Y4N0NxVFZueDNDYzJ4UVVJU0hxbDRWXzh5bU9pWkhqWmJiWVgtMjdlcXJYMWthR2c4akhrMzk2UFdqM3cwQnhDTlBUMjNzTlg1eWRhbC1BVWYzSHMtaFBzZFp1cDVqT0lNV1FYYWI?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 26 Jun 2026 08:00:00 GMT",
+      "summary": "The 30% Distribution Tax: Market Power in Agentic Commerce &nbsp;&nbsp; Hospitality Net",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782460800.0
+    },
+    {
+      "title": "Agentic commerce could crack personalization but only for data-ready brands - FoodNavigator-USA.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDZkOHAtWTRvM0NiWmF6R09ZeWtTZzBiWW9QdUZJNVBBeEIzYVBjZkd1dnBreG5URldVdHE3bW9KR0NYc3FaNUI5cE9TUncxWEo1RnpnZDZieUFpajh2Zy0tajRfSGlfaUxvbXBQRUFveGtsT1ZkU0lCa2ZjNWpvSTkxTEZ3MW90WjVFZEZUWmgxaDd0UmpVVThyVW9EVGNiOC05UVlUOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 24 Jun 2026 13:28:30 GMT",
+      "summary": "Agentic commerce could crack personalization but only for data-ready brands &nbsp;&nbsp; FoodNavigator-USA.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782307710.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -99,17 +132,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781963100.0
-    },
-    {
-      "title": "SAP and Google Cloud deploy agentic commerce architecture - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0kzMVRLcXQtYUNkS3M1MndyeHBBUTFsYUlOY2UyNS1aUV9CaE15X3ZXcnlqUDdSQWgwcGtpRUstc0tJTl9vbl9Qemt6Zk92ZEQzOUdrMGg5cVFGWmNUcVlObjlfMkFkNWFjNEgtc3FNekxVZ0xQX3E2N0tHNjFFLWNfeEtIZW9zX0hua1Jqekx6U2JvRGJTX2hZdTFNWmRLcHhzb19xS0JlaGc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 19 Jun 2026 14:05:19 GMT",
-      "summary": "SAP and Google Cloud deploy agentic commerce architecture &nbsp;&nbsp; AI News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781877919.0
     },
     {
       "title": "New Ecommerce Tools: June 17, 2026",
@@ -209,6 +231,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
@@ -400,10 +433,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 36,
-    "opportunities": 19,
+    "kept": 39,
+    "opportunities": 22,
     "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.4
   }
 }
