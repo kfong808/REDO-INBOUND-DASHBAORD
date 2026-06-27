@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T09:22:12.285167+00:00",
+  "updated": "2026-06-27T11:19:33.213408+00:00",
   "items": [
     {
       "title": "New York's top financial regulator zeroing in on agentic commerce - American Banker",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782482220.0
+    },
+    {
+      "title": "The 30% Distribution Tax: Market Power in Agentic Commerce - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3FZSmR3VndNLXdOcVdlTDRpOGJGeVFoZnkyZWIzT3RqMi05b2xVSk1BR04yVUt0cnRHdUtWQUdPQ0Y4N0NxVFZueDNDYzJ4UVVJU0hxbDRWXzh5bU9pWkhqWmJiWVgtMjdlcXJYMWthR2c4akhrMzk2UFdqM3cwQnhDTlBUMjNzTlg1eWRhbC1BVWYzSHMtaFBzZFp1cDVqT0lNV1FYYWI?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 26 Jun 2026 08:00:00 GMT",
+      "summary": "The 30% Distribution Tax: Market Power in Agentic Commerce &nbsp;&nbsp; Hospitality Net",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782460800.0
     },
     {
       "title": "Samsung Teams With Glance to Put Agentic Commerce on TV - PYMNTS.com",
@@ -121,17 +132,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782109740.0
-    },
-    {
-      "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sat, 20 Jun 2026 13:45:00 GMT",
-      "summary": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781963100.0
     },
     {
       "title": "New Ecommerce Tools: June 17, 2026",
@@ -242,6 +242,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
+    },
+    {
+      "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 26 Jun 2026 08:43:12 GMT",
+      "summary": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) &nbsp;&nbsp; Fathom Journal",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1782463392.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -433,10 +444,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 39,
+    "kept": 40,
     "opportunities": 22,
-    "threats": 17,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.6
+    "runtime_seconds": 11.3
   }
 }
