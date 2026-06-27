@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T06:20:45.681382+00:00",
+  "updated": "2026-06-27T09:22:12.285167+00:00",
   "items": [
     {
       "title": "New York's top financial regulator zeroing in on agentic commerce - American Banker",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782482220.0
-    },
-    {
-      "title": "The 30% Distribution Tax: Market Power in Agentic Commerce - Hospitality Net",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3FZSmR3VndNLXdOcVdlTDRpOGJGeVFoZnkyZWIzT3RqMi05b2xVSk1BR04yVUt0cnRHdUtWQUdPQ0Y4N0NxVFZueDNDYzJ4UVVJU0hxbDRWXzh5bU9pWkhqWmJiWVgtMjdlcXJYMWthR2c4akhrMzk2UFdqM3cwQnhDTlBUMjNzTlg1eWRhbC1BVWYzSHMtaFBzZFp1cDVqT0lNV1FYYWI?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 26 Jun 2026 08:00:00 GMT",
-      "summary": "The 30% Distribution Tax: Market Power in Agentic Commerce &nbsp;&nbsp; Hospitality Net",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782460800.0
     },
     {
       "title": "Samsung Teams With Glance to Put Agentic Commerce on TV - PYMNTS.com",
@@ -189,6 +178,17 @@
       "published_ts": 1781161200.0
     },
     {
+      "title": "Agentic Commerce Is Reshaping Competition Among Payment Providers - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHN3X0JGbFZPSU8xWWhKeFdHMS1RYUdCbXhDSFBpLTlXRDJvNDZPQkVUSW11c3dueVczZXpHWjBrR1RwNGw1dmptVHUxSlR1dlMzR053bGdObnBfXzM3UVpmX3BCcFZmVUI5bFpXclVsakxMVnNfVVhxSFVhZW1BWFM5djR2N3RsSVRIZnhBMUFqQlRWd2lmM1h6bGtoblhuM2VTaXM5YkY0OFI4LWpmTFhxWTRUS0F0VHc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "summary": "Agentic Commerce Is Reshaping Competition Among Payment Providers &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1781074800.0
+    },
+    {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -242,17 +242,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
-    },
-    {
-      "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 26 Jun 2026 08:43:12 GMT",
-      "summary": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) &nbsp;&nbsp; Fathom Journal",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782463392.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -443,11 +432,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 40,
+    "total_fetched": 269,
+    "kept": 39,
     "opportunities": 22,
-    "threats": 18,
+    "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.5
+    "runtime_seconds": 9.6
   }
 }
