@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T11:19:33.213408+00:00",
+  "updated": "2026-06-27T13:07:16.409227+00:00",
   "items": [
     {
       "title": "New York's top financial regulator zeroing in on agentic commerce - American Banker",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782482692.0
-    },
-    {
-      "title": "Can Shopify's Agentic Commerce Push Unlock a New Growth Channel? - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakQzMGZkalY5MlJoY29oY2xETG9PMndYTXgxeWNqeTBadXEtNXNJR0NRWU1sXzFOQ3RRVjUtOG80OG1jREJpMjVySXVDaU1CMUt2NHAzTll3cDg3Y3lpVWpmS0xmaWw0b3R2SEFiWXFZaElPVlBoVGZGVmhiXzM1STNsck5ESl9YQ0cxQkNoTTR4QnJXVXFqbGpXMkhrSUFkLWFDcjBR?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 26 Jun 2026 14:04:05 GMT",
-      "summary": "Can Shopify's Agentic Commerce Push Unlock a New Growth Channel? &nbsp;&nbsp; Zacks Investment Research",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782482645.0
     },
     {
       "title": "Can Shopify's Agentic Commerce Push Unlock a New Growth Channel? - Yahoo Finance",
@@ -198,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780642800.0
+    },
+    {
+      "title": "Europe is Building the Foundations for Trusted Agentic Commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalJFcjdqeFdhY0FjcUozODMtb2hUN2hMb0RTUjIxV1dXUFljQnpjTFB5a1J0OXlCSnN3Sm10cXFDdnh4ck1vbXJYWjlUVVhnREJjS0owb2swZVN4eGRyZ1VtUk5XdUk0TTJMN3gtYlpnSF9Ha09Qa0doOXNjdHExTzltQWg3SWE2SjM4XzdPUnk1Q0hyTjl2dmx4UzRsOFdzalBiNFVkQ2dPRXpkQnJQdGlRTUMxOXpfc05JRmhzd2RlTmhqQ3c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "Europe is Building the Foundations for Trusted Agentic Commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -443,11 +443,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 270,
     "kept": 40,
     "opportunities": 22,
     "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 10.3
   }
 }
