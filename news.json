@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T09:52:31.061376+00:00",
+  "updated": "2026-06-28T11:40:49.288867+00:00",
   "items": [
     {
       "title": "AEO and Agentic Commerce Services Target Five B2B Verticals - The Malone Telegram",
@@ -123,6 +123,17 @@
       "published_ts": 1782109740.0
     },
     {
+      "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 20 Jun 2026 13:45:00 GMT",
+      "summary": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781963100.0
+    },
+    {
       "title": "New Ecommerce Tools: June 17, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2026",
       "source": "Practical Ecommerce",
@@ -222,6 +233,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience - WWD",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGVzTERtckV5cGVsT1NMUlJMMWhBNzNOY1o2NjFJZnpJT3NJV3JfeWFYdHcxZkc5R2YwODFKZ2J2MVF0Wmd0ZmNJdlhsb2MtR1BPUFBUT0FkeGdyaW5QR0laMHprRUh5WklGMl84ZTExcGVZRTRHaThRa2pob0RBZUNYWlJMV0ZIMmhlbzhnaWMxcGtZWWVyTk9tWmc4UTFSdDZyNVg3bmc2TDhCaGlpNWRmdEowNEpRRG5KNGlJTS1NbGFMV2dtQU02QUp6dFJUM2JiQmVTeTI?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1729062000.0
+    },
+    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -231,6 +253,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
+    },
+    {
+      "title": "Enterprise value to EBIT forward of Klaviyo, Inc. Series A – NYSE:KVYO - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVh5UnhuSklvbmNsQUU5MzFnekZRcVQ3UHRxVUJrWlh4OEVvSFRKMVFNcEdVcTJSblR4cFVOMUNYb3luc1Z0OXRUOVBSTGs3bU1mMVhySS1lNTU5M3R2cEo4blEyTW5yQW92Ql9DR0dadjZQWnAxbHpDYlZDcHZiNGF5em1vRE9nVGZoWGkza1hTMnhROXRLUFBsZnNSWGdyTjBUc2RLRzI?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sun, 28 Jun 2026 10:19:48 GMT",
+      "summary": "Enterprise value to EBIT forward of Klaviyo, Inc. Series A – NYSE:KVYO &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + series a",
+      "published_ts": 1782641988.0
     },
     {
       "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
@@ -444,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 40,
-    "opportunities": 21,
-    "threats": 19,
+    "kept": 43,
+    "opportunities": 23,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 10.6
   }
 }
