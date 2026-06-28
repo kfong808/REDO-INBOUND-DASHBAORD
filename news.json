@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T18:02:29.420310+00:00",
+  "updated": "2026-06-28T20:05:08.266047+00:00",
   "items": [
     {
       "title": "AEO and Agentic Commerce Services Target Five B2B Verticals - The Malone Telegram",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782498240.0
-    },
-    {
-      "title": "The 30% Distribution Tax: Market Power in Agentic Commerce - Hospitality Net",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3FZSmR3VndNLXdOcVdlTDRpOGJGeVFoZnkyZWIzT3RqMi05b2xVSk1BR04yVUt0cnRHdUtWQUdPQ0Y4N0NxVFZueDNDYzJ4UVVJU0hxbDRWXzh5bU9pWkhqWmJiWVgtMjdlcXJYMWthR2c4akhrMzk2UFdqM3cwQnhDTlBUMjNzTlg1eWRhbC1BVWYzSHMtaFBzZFp1cDVqT0lNV1FYYWI?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 26 Jun 2026 08:00:00 GMT",
-      "summary": "The 30% Distribution Tax: Market Power in Agentic Commerce &nbsp;&nbsp; Hospitality Net",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782460800.0
     },
     {
       "title": "Agentic commerce: The future of B2B commerce - Deloitte",
@@ -178,6 +167,17 @@
       "published_ts": 1781074800.0
     },
     {
+      "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "summary": "Will grocers rely on Instacart for AI shopping? &nbsp;&nbsp; Grocery Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780988400.0
+    },
+    {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -198,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1780383600.0
+    },
+    {
+      "title": "Agentic commerce: The rise of the delegated buyer - Bessemer Venture Partners",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkb2JYWTdoU1EwUF9VNUozTlpkVFRWMU5GZmhEcWwwc1ZBWnlWX1I5bDBJUW9nSEpUa3FqVDQxVVNFSkxZanVTYy1SMGhpZkxNZ2dxVml2a29Cd2IzZHZma2ltNUoxOGZvZ1J4eUlrWF81ZTJZRG1RbF9zdWJwVkU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "Agentic commerce: The rise of the delegated buyer &nbsp;&nbsp; Bessemer Venture Partners",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779260400.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -244,26 +255,15 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Price to earnings forward of Klaviyo, Inc. Series A – NYSE:KVYO - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHdpR0NtcnVCbXNHRTJfb1RkUm9hR3JxSVBFd0xRWXBOYkpmMFR6d0dwV0xpUU1BeGNsWDhGMFlIMkxqdjM1U1MwTWZBWWtRQUpUS0VDVFJ2UktfVUF2ZDY0bFNfZk1oc1l2Y2I4aGVLMkk5bHRzc3NoelB6dW9zQzEzMU1MNEpnYTFteTEtWDBBWjFCeEk4LUtYWVdxcGM?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sun, 28 Jun 2026 09:34:36 GMT",
-      "summary": "Price to earnings forward of Klaviyo, Inc. Series A – NYSE:KVYO &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + series a",
-      "published_ts": 1782639276.0
-    },
-    {
-      "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
+      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Fri, 26 Jun 2026 08:43:12 GMT",
-      "summary": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) &nbsp;&nbsp; Fathom Journal",
+      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
+      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782463392.0
+      "published_ts": 1782661712.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -286,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDJfUkY0bUZ4Wnp4cU43WUE3cVVHY0VnLVktN1QzMXVHRzVvaVB2QV9uUXBHakNQY1JkMDlGb1hlZmFBMkFZX05GWk44WEZoYlpkb09aNzV4MnMyUHhpeDRkand1ek9tV3ZqM3pKMDFsdzdLTXZyNGpqb1UzN09pdjR5NE1FR0s2d1VMdy1FY1hJRFlBTG0zQW5SQmtqejBnaEc5eURCZ0lMemtZc1JRbHltQ1BGM1ppcGd6XzNhYnAyd9IBxwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc0?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1780556400.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -330,6 +341,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
+    },
+    {
+      "title": "Down 40% Since Its IPO, Can Klaviyo Stock Deliver in 2026? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2Z2VHphbHE0c0RlR1JFbGpseGlKdDNtQktwQks0V3pYVnVnUHk4eE9yTXRVZERyUHJpMVlvOER3VXhpTVM0cjdyV1U1R0k1eV9BUmdXZEdvWk9qZkNsSVNrYUYzcml0d0JfZ1lWQU9fblEtTWVVem85YmoxVVBnanY1WnJtX00?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sun, 22 Feb 2026 08:00:00 GMT",
+      "summary": "Down 40% Since Its IPO, Can Klaviyo Stock Deliver in 2026? &nbsp;&nbsp; TIKR.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + ipo",
+      "published_ts": 1771747200.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -420,17 +442,6 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Loop Returns Revenue 2024: $53.3M Est. ARR, $10.5M Raised - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URzduZ0MzZFctN2hOQUVXaW9QZWxnVHRmNTBnYjk4ZV9HdEhoZUhBMTRsU2dVSnQ4X3drYzR5QVVrRnFXTGc3WDREaWo2UzRrMnRqQTFn?oc=5",
-      "source": "Google News: returns management software",
-      "published": "Thu, 19 Dec 2024 08:00:00 GMT",
-      "summary": "Loop Returns Revenue 2024: $53.3M Est. ARR, $10.5M Raised &nbsp;&nbsp; GetLatka",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Loop Returns + raised",
-      "published_ts": 1734595200.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -466,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 42,
-    "opportunities": 22,
+    "kept": 43,
+    "opportunities": 23,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 11.8
   }
 }
