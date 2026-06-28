@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T11:40:49.288867+00:00",
+  "updated": "2026-06-28T13:14:01.125365+00:00",
   "items": [
     {
       "title": "AEO and Agentic Commerce Services Target Five B2B Verticals - The Malone Telegram",
@@ -255,17 +255,6 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Enterprise value to EBIT forward of Klaviyo, Inc. Series A – NYSE:KVYO - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVh5UnhuSklvbmNsQUU5MzFnekZRcVQ3UHRxVUJrWlh4OEVvSFRKMVFNcEdVcTJSblR4cFVOMUNYb3luc1Z0OXRUOVBSTGs3bU1mMVhySS1lNTU5M3R2cEo4blEyTW5yQW92Ql9DR0dadjZQWnAxbHpDYlZDcHZiNGF5em1vRE9nVGZoWGkza1hTMnhROXRLUFBsZnNSWGdyTjBUc2RLRzI?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sun, 28 Jun 2026 10:19:48 GMT",
-      "summary": "Enterprise value to EBIT forward of Klaviyo, Inc. Series A – NYSE:KVYO &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + series a",
-      "published_ts": 1782641988.0
-    },
-    {
       "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
       "source": "Google News: Mailchimp",
@@ -477,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 43,
+    "kept": 42,
     "opportunities": 23,
-    "threats": 20,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 9.9
   }
 }
