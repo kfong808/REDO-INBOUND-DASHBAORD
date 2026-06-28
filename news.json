@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:05:08.266047+00:00",
+  "updated": "2026-06-28T21:53:27.884111+00:00",
   "items": [
     {
       "title": "AEO and Agentic Commerce Services Target Five B2B Verticals - The Malone Telegram",
@@ -33,6 +33,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782498240.0
+    },
+    {
+      "title": "The 30% Distribution Tax: Market Power in Agentic Commerce - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3FZSmR3VndNLXdOcVdlTDRpOGJGeVFoZnkyZWIzT3RqMi05b2xVSk1BR04yVUt0cnRHdUtWQUdPQ0Y4N0NxVFZueDNDYzJ4UVVJU0hxbDRWXzh5bU9pWkhqWmJiWVgtMjdlcXJYMWthR2c4akhrMzk2UFdqM3cwQnhDTlBUMjNzTlg1eWRhbC1BVWYzSHMtaFBzZFp1cDVqT0lNV1FYYWI?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 26 Jun 2026 08:00:00 GMT",
+      "summary": "The 30% Distribution Tax: Market Power in Agentic Commerce &nbsp;&nbsp; Hospitality Net",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782460800.0
     },
     {
       "title": "Agentic commerce: The future of B2B commerce - Deloitte",
@@ -77,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782291600.0
-    },
-    {
-      "title": "Agentic Commerce Is Coming. Marketers Need to Start Winning at the Discovery Layer - Demand Gen Report",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNzBVLUxKa2hwMWxoa0s1WFU5eVBxQl9Gb0w1aGwyRDRzdkEtOUVJUlZ1Z29rdzZKMTlFd19TSmxpRmY4Q2o1a1lPanBieUx3NUVIMHJqYzctcmlRYTRPNzZkNWc5YzJDNkMyNzZDanUxcFJUZDdBWDYybXp0bXprbmR1UUNLZFdhTkVPcWdWZXB2NUl2SUtrOEpaRmozdWhqbkxiWUZHTy1NczkxU0xiZ2Rfd2toSENMVUktUDg5VEVtSUEtMzBQUG9UaWhiUTY1UFE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 23 Jun 2026 11:41:13 GMT",
-      "summary": "Agentic Commerce Is Coming. Marketers Need to Start Winning at the Discovery Layer &nbsp;&nbsp; Demand Gen Report",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782214873.0
     },
     {
       "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
@@ -255,15 +255,15 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
-      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
+      "title": "Price to earnings forward of Klaviyo, Inc. Series A – NYSE:KVYO - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHdpR0NtcnVCbXNHRTJfb1RkUm9hR3JxSVBFd0xRWXBOYkpmMFR6d0dwV0xpUU1BeGNsWDhGMFlIMkxqdjM1U1MwTWZBWWtRQUpUS0VDVFJ2UktfVUF2ZDY0bFNfZk1oc1l2Y2I4aGVLMkk5bHRzc3NoelB6dW9zQzEzMU1MNEpnYTFteTEtWDBBWjFCeEk4LUtYWVdxcGM?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sun, 28 Jun 2026 09:34:36 GMT",
+      "summary": "Price to earnings forward of Klaviyo, Inc. Series A – NYSE:KVYO &nbsp;&nbsp; TradingView",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782661712.0
+      "confidence": "medium",
+      "reasoning": "Klaviyo + series a",
+      "published_ts": 1782639276.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -288,17 +288,6 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDJfUkY0bUZ4Wnp4cU43WUE3cVVHY0VnLVktN1QzMXVHRzVvaVB2QV9uUXBHakNQY1JkMDlGb1hlZmFBMkFZX05GWk44WEZoYlpkb09aNzV4MnMyUHhpeDRkand1ek9tV3ZqM3pKMDFsdzdLTXZyNGpqb1UzN09pdjR5NE1FR0s2d1VMdy1FY1hJRFlBTG0zQW5SQmtqejBnaEc5eURCZ0lMemtZc1JRbHltQ1BGM1ppcGd6XzNhYnAyd9IBxwFBVV95cUxPZFhabERkeGRYcFkteVk0dUFzTm40cm1tTGk3cHFMT292Q3NHTUxzSkYxSGw3akxTT2lCYVphYk5qbkE1TzB3c3psNGJBSUg3T0sxUDczUElyQkh5aEZwNDhoUXgxX3g2WVQwS011dWk2LTl1enNESDY5cDIxTTUyNWZEN1J3NURnODh1LU5NWXRmd0VmVHc0X0VjMVpjbzVoZHQ0aFk2cHpSNWp5LTRnanVHbnkwcFl3XzgtV21LQXo1T0x1cEc0?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Why Klaviyo (KVYO) Is Up 10.4% After Raising 2026 Guidance And Launching A $500 Million Buyback &nbsp;&nbsp; simplywall.st",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1780556400.0
-    },
-    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
@@ -321,6 +310,17 @@
       "published_ts": 1778834544.0
     },
     {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -341,17 +341,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
-    },
-    {
-      "title": "Down 40% Since Its IPO, Can Klaviyo Stock Deliver in 2026? - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2Z2VHphbHE0c0RlR1JFbGpseGlKdDNtQktwQks0V3pYVnVnUHk4eE9yTXRVZERyUHJpMVlvOER3VXhpTVM0cjdyV1U1R0k1eV9BUmdXZEdvWk9qZkNsSVNrYUYzcml0d0JfZ1lWQU9fblEtTWVVem85YmoxVVBnanY1WnJtX00?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sun, 22 Feb 2026 08:00:00 GMT",
-      "summary": "Down 40% Since Its IPO, Can Klaviyo Stock Deliver in 2026? &nbsp;&nbsp; TIKR.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + ipo",
-      "published_ts": 1771747200.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -477,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 43,
+    "kept": 42,
     "opportunities": 23,
-    "threats": 20,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.8
+    "runtime_seconds": 9.9
   }
 }
