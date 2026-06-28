@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T21:53:27.884111+00:00",
+  "updated": "2026-06-28T22:53:14.637593+00:00",
   "items": [
     {
       "title": "AEO and Agentic Commerce Services Target Five B2B Verticals - The Malone Telegram",
@@ -255,15 +255,26 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Price to earnings forward of Klaviyo, Inc. Series A – NYSE:KVYO - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHdpR0NtcnVCbXNHRTJfb1RkUm9hR3JxSVBFd0xRWXBOYkpmMFR6d0dwV0xpUU1BeGNsWDhGMFlIMkxqdjM1U1MwTWZBWWtRQUpUS0VDVFJ2UktfVUF2ZDY0bFNfZk1oc1l2Y2I4aGVLMkk5bHRzc3NoelB6dW9zQzEzMU1MNEpnYTFteTEtWDBBWjFCeEk4LUtYWVdxcGM?oc=5",
+      "title": "Enterprise value to EBITDA forward of Klaviyo, Inc. Series A – NYSE:KVYO - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmpwajk2YlZhbDRkdGR1ZWFDWWVzcU1KN29DeVlHWE1hclJycC1fUHRwa3UwUllhS2lPTmpCUVJQdDkxX3k5QkJHRWs2anRPVk5FeXY5TVljeWlqTEtnWUx0cTFuZGJ1dUFGekZiTTJSUnI2SndGSEg0UUI3QzZ0TnZlcGJfUG9CWlZyelpHR0RTWnZlQTdZdnZmMGNoZEhFbmFpc2ZQR2ZwUG8?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sun, 28 Jun 2026 09:34:36 GMT",
-      "summary": "Price to earnings forward of Klaviyo, Inc. Series A – NYSE:KVYO &nbsp;&nbsp; TradingView",
+      "published": "Sun, 28 Jun 2026 18:48:23 GMT",
+      "summary": "Enterprise value to EBITDA forward of Klaviyo, Inc. Series A – NYSE:KVYO &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + series a",
-      "published_ts": 1782639276.0
+      "published_ts": 1782672503.0
+    },
+    {
+      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
+      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1782661712.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -466,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 42,
+    "kept": 43,
     "opportunities": 23,
-    "threats": 19,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.2
   }
 }
