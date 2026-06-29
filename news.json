@@ -1,17 +1,6 @@
 {
-  "updated": "2026-06-28T23:59:37.250414+00:00",
+  "updated": "2026-06-29T04:03:00.945855+00:00",
   "items": [
-    {
-      "title": "AEO and Agentic Commerce Services Target Five B2B Verticals - The Malone Telegram",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOck5md0M0cG1GeFBkaENXQjcyY1FTZGFSYkpBYVZXbEtnS3B4TUdiRkNzYjdhc1FPMldzanZVZnM2MDJSN3lwYVFuazJLMlFKekVJVExUQXp1NXJjY2V1M2w4aElMMWFUSXRKN3QwbkNqLUJxbThTVV81UTNwV1NrMWYybnNhNnB4T01jWWNrMEpmWHlhdXVwNllET3owZEdVWnJuc0FfNFk3elFJaEw0bzV1YXV4Mk5kYWtkNGRKdWVPMmhuejA1Y1ZkUkRsTWhtSmN2OTRjdE5mQVRfSjNyUHhPVndOOGs2SmV5Vk1PM2h2YXRXT0VWVlJkRGpkaEJDQXN3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sat, 27 Jun 2026 20:00:00 GMT",
-      "summary": "AEO and Agentic Commerce Services Target Five B2B Verticals &nbsp;&nbsp; The Malone Telegram",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782590400.0
-    },
     {
       "title": "Fastly (FSLY), Skyfire Partner to Enable Secure and Monetizable Agentic Commerce - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTFZeWp0UEpxbDVvV2NVUXRPdEQ5aHEyeHlmWG1pWkRWRWhjR0pmMkdGVWNrakVFQWZBdlJDU2djaGRhSld6MFJPbGtGeVpWZEcta1FoZlFUV0FDMGNVLVlvTXQ1LUJNQkpKSGpMUHM5cFFja1puYS1XN0J2OXd6Qk95bmhOUmpnMkdSN09BWU5iODdtVHZ5d2ZqQm5lMEE?oc=5",
@@ -33,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782498240.0
+    },
+    {
+      "title": "CFPB makes changes to complaint portal, citing abuse; How agentic commerce fuels Visa's 'services' push — and more in Bankers' Hours - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG1aekZQdEZLSy1zRU5UeXpZY29UaW1IREU5OUNkT2dTY3BnU3BxSEtvR1pKcDZSeDVYc1NWTjBqck1HZEU4bFc1emF4Q3BPTThQczFjeXNjbjM4Z0JiNDdLbzBZazlKQXYybmo3Q2MzRmZEcVh1YnVqZk9zb29UeDF6bVJqQ1R1a081NlExZ253YmFjeExkMkl2Q3dCQQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 26 Jun 2026 14:04:52 GMT",
+      "summary": "CFPB makes changes to complaint portal, citing abuse; How agentic commerce fuels Visa's 'services' push — and more in Bankers' Hours &nbsp;&nbsp; LinkedIn",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782482692.0
     },
     {
       "title": "The 30% Distribution Tax: Market Power in Agentic Commerce - Hospitality Net",
@@ -299,6 +299,17 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG5JMFhodnR4MlZINWh2Z0JmRHZOclBMdTRrbUJiWGFPNGhTTV9IZTdoUU92eGR1dldvTDBaYkVnQXYzU1ZpUjlCRExfdlBHcEFVMHlqeHc1VGF1RXJXQTAzUjdWWV9neXB6ZWwwODcxWnA3TXlBWTgxcDNmRVQ0YXhtX0VtQUpkeTF6TzdvbFl3akdmNFJXX25QTTNKWnpEY05VbGx3cHlYRVZlWVVRRm52a0M?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1780642800.0
+    },
+    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
@@ -387,17 +398,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -481,6 +481,6 @@
     "opportunities": 23,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 11.4
   }
 }
