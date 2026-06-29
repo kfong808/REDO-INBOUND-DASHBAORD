@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:16:07.051524+00:00",
+  "updated": "2026-06-29T22:45:17.256819+00:00",
   "items": [
     {
       "title": "Dynamics 365 Commerce MCP Server for AI Agents and Agentic Commerce - Microsoft",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782749157.0
+    },
+    {
+      "title": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDJVUFM5NEtOWmNqV0NrV3R1c0FVRjE1U3pKY1RqQkloY0JlanMtSkNER3VrS2N1LWxZUHhnejdGbXVPaTVQck1CNkhhR2ZQTzVOXzJtRV9oUmM2MlQ4YlR2UUo2UHpsYlR6WFZjRGhwMk5HZXB1NGlXcU9pcTdhX0Rja0hQVC1qdTBKTC10ZTJjX1hka3h0ZUFfUWlYdw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 29 Jun 2026 15:54:48 GMT",
+      "summary": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782748488.0
     },
     {
       "title": "Trust Issues Could Make or Break Agentic Commerce - Tech Policy Press",
@@ -27,12 +38,12 @@
       "title": "What gen AI and agentic commerce mean for growth - The AI Journal",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2THJ0SjdfZFNWbjVOZ1dsUFE0QmRsNk4taEhvbklLVjI1RWVaRGppMFNYS3pKZWtLVFlnUGZQeG5OYVhyUDZQajBnRDR6VXl1dUtLRVlJb2NfMG9MQmpMZFdTU0w3R1AzMDhESEpsX2FpVWdWNUpkZw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Mon, 29 Jun 2026 15:12:09 GMT",
+      "published": "Mon, 29 Jun 2026 15:12:47 GMT",
       "summary": "What gen AI and agentic commerce mean for growth &nbsp;&nbsp; The AI Journal",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782745929.0
+      "published_ts": 1782745967.0
     },
     {
       "title": "A Survey Shows a Need to Bolster Trust in Agentic Commerce - Digital Transactions",
@@ -46,15 +57,15 @@
       "published_ts": 1782744835.0
     },
     {
-      "title": "Agentic commerce set to reach 1.3bn users by 2031, finds Juniper Research - Retail Systems",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT0JnZlpSWWlDUWZIQWd2TzFDNVR4Uzh6ZHY0a241NmJIWXEwZGNuV01Fb0hXbEFjSjUyUy1RRHYxNVAyTVBWME1iZjhxemRISVVyd3UwaWhLRk5jSDZLX0xNZVJ0cXU2Q0w5dXM4bmZlNzc4anduNEp4ak5Ca1gyUHdzbVVMU0tmNXVZeVFhb2gteUxMLUZaMjV3M2VZZ1VWamlVMF9PTWxNSVBFSlBr?oc=5",
+      "title": "Agentic commerce can reach 1.3B users by 2031: Juniper Research - TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOC11VFNyeXJLRjZIU01GRVNLbkNrYzM3cXlLeUowWXZsRjBPMWpSTUdMLUxjbUJHbHFiZW4yX0kybS14VVRsUGFRYXV1VVZkVzhERGFvanNROUlNTHhMTWZtMDdYVDBlS3F4cWlsZ0ZWckxPQjRxQVFnbFZpRkxaTUtNdFMyREh6bWN5RlVPRVNPc0dONTVYc3VCLU5VWXc?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Mon, 29 Jun 2026 11:45:11 GMT",
-      "summary": "Agentic commerce set to reach 1.3bn users by 2031, finds Juniper Research &nbsp;&nbsp; Retail Systems",
+      "published": "Mon, 29 Jun 2026 13:18:45 GMT",
+      "summary": "Agentic commerce can reach 1.3B users by 2031: Juniper Research &nbsp;&nbsp; TNGlobal",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782733511.0
+      "published_ts": 1782739125.0
     },
     {
       "title": "Stocky is shutting down, but that’s not the real story - Retail Dive",
@@ -101,28 +112,6 @@
       "published_ts": 1782709200.0
     },
     {
-      "title": "New York's top financial regulator zeroing in on agentic commerce - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnkyTHl1MExzd1RXNUFPU0MzdmpwYlg4ZllPeHJ2T2xtQ1JFay1MMl9aTENpSGM4SFlCUTdrZzk2TmFpdDV3bFpGVFR3WUlOd2pCem5zUnIxWkgyYjREWG9HdzV0MTUyZnIyM2toaUI1X0hzaS1TZFBPeGx2RVhhaHNTYnM0Vkl0bXpHMWl0WU9PX20wa0g3TS04aUV2Rmc2NFR0MlhiMA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 26 Jun 2026 18:24:00 GMT",
-      "summary": "New York's top financial regulator zeroing in on agentic commerce &nbsp;&nbsp; American Banker",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782498240.0
-    },
-    {
-      "title": "Agentic commerce: The future of B2B commerce - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREM5M014RE1ERW4wR2FUd1FGUHRhekhYdnhoMWV3czRVTURkdXpMbG1JOE9qVkx0SExFOGl5Z3o2WXZGOGRGcERRMHVTSjhOQVRwZGJjQ0ZfLTR6cVk1bVlldldVa19odmhfRlJnZkpIbEdKdDdzVm5oNVZoNXVUUjJEMVFBdUdibzVfNlE3dmc2WndraVpyZmRaSmp1MzhjTXFvTVRvQi05SXVTXzZQM2lZbUVUVlV3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "Agentic commerce: The future of B2B commerce &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782457200.0
-    },
-    {
       "title": "New Ecommerce Tools: June 24, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-24-2026",
       "source": "Practical Ecommerce",
@@ -165,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782109740.0
+    },
+    {
+      "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 20 Jun 2026 13:45:00 GMT",
+      "summary": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781963100.0
     },
     {
       "title": "New Ecommerce Tools: June 17, 2026",
@@ -253,17 +253,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -498,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 45,
-    "opportunities": 24,
+    "total_fetched": 269,
+    "kept": 44,
+    "opportunities": 23,
     "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 11.4
   }
 }
