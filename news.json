@@ -1,6 +1,28 @@
 {
-  "updated": "2026-06-30T02:12:29.417730+00:00",
+  "updated": "2026-06-30T06:45:23.538352+00:00",
   "items": [
+    {
+      "title": "Many consumers would bin AI shopping agents after just one mistake, ACI Worldwide research finds - Retail Technology Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQldjVnRjWVJJeHppbE1ubFZVSVptOW92c0hITmxaNFc5bWJ0UmVyUHZJeC05ZlpldkIwLXB5QVNSWVJrNWlkV2hxaW4wREtkUlN6RnFFTlBDYk1UZnhuOUFhdUQ1RE1tSkYtRzY1djZNSTVVX2NKYS0wYWY3MmViYXphQ3Y5eDVGV3hkUWw3Rmdpa1JXOU53TXZIVEw4SldITE5kamN0R1BEWnpVbzR0b3Nnd29tQy1xeEhLYjdXZ0x4ZUNoakFGc2tIRVgzUndoVkhyN3p1MlNEZm5VRC1J?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 30 Jun 2026 04:38:41 GMT",
+      "summary": "Many consumers would bin AI shopping agents after just one mistake, ACI Worldwide research finds &nbsp;&nbsp; Retail Technology Innovation Hub",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782794321.0
+    },
+    {
+      "title": "Electronics prices are starting to soar, adding to the stress consumers are facing",
+      "url": "https://www.modernretail.co/technology/electronics-prices-are-starting-to-soar-adding-to-the-stress-consumers-are-facing/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "source": "Modern Retail",
+      "published": "Tue, 30 Jun 2026 04:00:00 +0000",
+      "summary": "Major electronics companies like Apple and Microsoft announced significant price hikes this month, largely driven by the increased cost of memory chips. It will leave consumers feeling even more squeezed.",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: price hike",
+      "published_ts": 1782792000.0
+    },
     {
       "title": "Dynamics 365 Commerce MCP Server for AI Agents and Agentic Commerce - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZURZd2NvcmxCS3JFQUZPTlJlMVd1Qng4bmlmYl80aF9OQTVMTjYzcjU0UnVHVGFLVUlpeFM0YXl3UDlUWVhuSGk3RVdCWnI0TGx4YmN6bjdiT2xSNWw3N09SWGVTSWh5a1BxcDgxY2l1UmU2NmxwSlVnOGZLaXFVbWhSM09fdmd0QVRiR3pQZFZqN0Vfd2JWU29qMzNSZWFTY1lxY0NPWlhydDNsQk00aG1iMlRteVI5c2NhbWZVNDJ2ZzlVeUNabkhOVTFLWHRtc3ppMzVvLVV5SXJieWJ4YUlUTlNXN1hFQmNrY2dPWGpzRi1LT3c?oc=5",
@@ -38,12 +60,12 @@
       "title": "What gen AI and agentic commerce mean for growth - The AI Journal",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2THJ0SjdfZFNWbjVOZ1dsUFE0QmRsNk4taEhvbklLVjI1RWVaRGppMFNYS3pKZWtLVFlnUGZQeG5OYVhyUDZQajBnRDR6VXl1dUtLRVlJb2NfMG9MQmpMZFdTU0w3R1AzMDhESEpsX2FpVWdWNUpkZw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Mon, 29 Jun 2026 15:12:47 GMT",
+      "published": "Mon, 29 Jun 2026 15:26:08 GMT",
       "summary": "What gen AI and agentic commerce mean for growth &nbsp;&nbsp; The AI Journal",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782745967.0
+      "published_ts": 1782746768.0
     },
     {
       "title": "A Survey Shows a Need to Bolster Trust in Agentic Commerce - Digital Transactions",
@@ -123,6 +145,17 @@
       "published_ts": 1782498240.0
     },
     {
+      "title": "Agentic commerce: The future of B2B commerce - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREM5M014RE1ERW4wR2FUd1FGUHRhekhYdnhoMWV3czRVTURkdXpMbG1JOE9qVkx0SExFOGl5Z3o2WXZGOGRGcERRMHVTSjhOQVRwZGJjQ0ZfLTR6cVk1bVlldldVa19odmhfRlJnZkpIbEdKdDdzVm5oNVZoNXVUUjJEMVFBdUdibzVfNlE3dmc2WndraVpyZmRaSmp1MzhjTXFvTVRvQi05SXVTXzZQM2lZbUVUVlV3?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "summary": "Agentic commerce: The future of B2B commerce &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782457200.0
+    },
+    {
       "title": "New Ecommerce Tools: June 24, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-24-2026",
       "source": "Practical Ecommerce",
@@ -198,17 +231,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781161200.0
-    },
-    {
-      "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Will grocers rely on Instacart for AI shopping? &nbsp;&nbsp; Grocery Dive",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780988400.0
     },
     {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
-    "opportunities": 24,
+    "kept": 48,
+    "opportunities": 26,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 11.6
   }
 }
