@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:52:55.028590+00:00",
+  "updated": "2026-06-30T02:12:29.417730+00:00",
   "items": [
     {
       "title": "Dynamics 365 Commerce MCP Server for AI Agents and Agentic Commerce - Microsoft",
@@ -110,6 +110,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782709200.0
+    },
+    {
+      "title": "New York's top financial regulator zeroing in on agentic commerce - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnkyTHl1MExzd1RXNUFPU0MzdmpwYlg4ZllPeHJ2T2xtQ1JFay1MMl9aTENpSGM4SFlCUTdrZzk2TmFpdDV3bFpGVFR3WUlOd2pCem5zUnIxWkgyYjREWG9HdzV0MTUyZnIyM2toaUI1X0hzaS1TZFBPeGx2RVhhaHNTYnM0Vkl0bXpHMWl0WU9PX20wa0g3TS04aUV2Rmc2NFR0MlhiMA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 26 Jun 2026 18:24:00 GMT",
+      "summary": "New York's top financial regulator zeroing in on agentic commerce &nbsp;&nbsp; American Banker",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782498240.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -398,6 +409,17 @@
       "published_ts": 1768204800.0
     },
     {
+      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1767686400.0
+    },
+    {
       "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
       "source": "Google News: Attentive",
@@ -488,9 +510,9 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 23,
-    "threats": 21,
+    "kept": 46,
+    "opportunities": 24,
+    "threats": 22,
     "classifier_mode": "keyword",
     "runtime_seconds": 10.4
   }
