@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T06:45:23.538352+00:00",
+  "updated": "2026-06-30T10:23:47.990322+00:00",
   "items": [
     {
       "title": "Many consumers would bin AI shopping agents after just one mistake, ACI Worldwide research finds - Retail Technology Innovation Hub",
@@ -47,7 +47,7 @@
     },
     {
       "title": "Trust Issues Could Make or Break Agentic Commerce - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN1J3SVlyc1FXelJneGw5d1ZZMkZnbkFabmFSYUZzU0s2ekY5VHJ4cG9kYkZLRkNNMHZQX2V1TFpSRXJXdHlnZVhGX2dEaENRUlVDcHNMT2x2LWtCZ0lnYnpXdFFIa2NEbEthTVpOLTJoQXpQV1JDQjNIdFhGZWhIZlRRSkZ6QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSmlCSGZJYmZyZ21NRGJSZUFYbm5zaGZfdVBNbjY5TjlWRmJLeUhCa2p0bXl1Mmw2VEhOTUFMMXcwRmh4d25fQmJzNnFIazdzWnJlTGw1Y1Y0eHN4Z0VVUzRHalFaaS1SaHVIcnh6VzNZRVlRZUw2TXJyQlI5T0k?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 29 Jun 2026 15:46:24 GMT",
       "summary": "Trust Issues Could Make or Break Agentic Commerce &nbsp;&nbsp; Tech Policy Press",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782747984.0
-    },
-    {
-      "title": "What gen AI and agentic commerce mean for growth - The AI Journal",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2THJ0SjdfZFNWbjVOZ1dsUFE0QmRsNk4taEhvbklLVjI1RWVaRGppMFNYS3pKZWtLVFlnUGZQeG5OYVhyUDZQajBnRDR6VXl1dUtLRVlJb2NfMG9MQmpMZFdTU0w3R1AzMDhESEpsX2FpVWdWNUpkZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 29 Jun 2026 15:26:08 GMT",
-      "summary": "What gen AI and agentic commerce mean for growth &nbsp;&nbsp; The AI Journal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782746768.0
     },
     {
       "title": "A Survey Shows a Need to Bolster Trust in Agentic Commerce - Digital Transactions",
@@ -286,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
+    },
+    {
+      "title": "Klaviyo launches two AI agents for marketing and customer service - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkY2TFBGR19OQXVNMThybjh0SDE0RUJ6dkZMWXlfUngxTzNNd21QcVZHWmVCdGVjTU1fNEJOVUlWaWJXVnZ4MXk4S0F0R2xHOU5qd2dGYzduUVZ0QmRJOE8wWkFCeTVRZFJOLVNqVk5zSG9Ec01GbHBBX29FLWczaThnejctUUVKYndyd2NIbGI5dXhyeDVSc2FVaXpjZUlRcGZGMms5LXhYV1Z3dWVfaEVGbk9UVDZ0bnZPYUgtdmN2dw?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 30 Jun 2026 09:29:19 GMT",
+      "summary": "Klaviyo launches two AI agents for marketing and customer service &nbsp;&nbsp; StreetInsider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1782811759.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -533,9 +533,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 48,
-    "opportunities": 26,
-    "threats": 22,
+    "opportunities": 25,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 10.4
   }
 }
