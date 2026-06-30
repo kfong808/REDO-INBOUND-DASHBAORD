@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T22:08:02.153760+00:00",
+  "updated": "2026-06-30T23:57:20.774982+00:00",
   "items": [
     {
       "title": "New Zeta Global Research Signals the Rise of Agentic Commerce - Yahoo Finance",
@@ -167,6 +167,17 @@
       "published_ts": 1782109740.0
     },
     {
+      "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 20 Jun 2026 13:45:00 GMT",
+      "summary": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781963100.0
+    },
+    {
       "title": "New Ecommerce Tools: June 17, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2026",
       "source": "Practical Ecommerce",
@@ -310,15 +321,15 @@
       "published_ts": 1782826800.0
     },
     {
-      "title": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEh2N2s0YzZvNTQ0bFJFd2xYV0xOZGt3TnJCMXF3cUJabE5fMkRwZGZfSUVnX3gzMFdwZU1GZkRvQW1DNnkyZUVNRU90X2Z4TU9fQlJSYllEbERpeFFITHdJZUJfbGpmamxyUW9rQjF4QlZ1dmptc3pzbFZfTGd2Sm1haV9mT2JqbnFUQUNWSE9WV0NQUFVWUGRyX0JxU2xnTmFfX0J1NGVsc3JqLXhFYUktZkl6Y01YMUpuUnlseTczT0E5bWJXS3FBTHRnZXc?oc=5",
+      "title": "Lightspeed launches Klaviyo integration for retail marketing - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVVXQUVneHlRYnN3Mkt4ZlV6ZTFrdzJqY2ZnUWRCY09FZzJqaGt0QWJhcktPakU4ckpaOHprbko5bmpnU0Y2b1ZaUjZwcExYWGtHNHpiZlBiZzd6TTBnbmgzSE10YnFjRDVsMHBBYmk5UWdGOFVtMW1zRl9ZMmVmVG5HLUZPcTBQc2VqYWdVNUloME9ndFhPc0xvYTFBU1lTYnpfYUR3ZmdReDB5QWZSb3NiLTZWb1lC?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 13:03:00 GMT",
-      "summary": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands &nbsp;&nbsp; TradingView",
+      "published": "Tue, 30 Jun 2026 12:42:19 GMT",
+      "summary": "Lightspeed launches Klaviyo integration for retail marketing &nbsp;&nbsp; Investing.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
-      "published_ts": 1782824580.0
+      "published_ts": 1782823339.0
     },
     {
       "title": "Klaviyo CEO: Infrastructure companies will lead this new era - CNBC",
@@ -576,10 +587,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 52,
-    "opportunities": 24,
+    "kept": 53,
+    "opportunities": 25,
     "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 11.0
   }
 }
