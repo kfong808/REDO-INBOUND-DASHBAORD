@@ -1,6 +1,17 @@
 {
-  "updated": "2026-06-30T18:28:14.785665+00:00",
+  "updated": "2026-06-30T20:50:34.257498+00:00",
   "items": [
+    {
+      "title": "New Zeta Global Research Signals the Rise of Agentic Commerce - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTBGdzBKd3d4LTdGMVZ4ejFxOXdwVGh4Z1dGcWFDRnlNRVp0aHhScW5SN3ZsbmtXZkV0em1pTkN5MktFWDQ3cDR1TURwWFY3ZlpuUGVrbS0tbEVBNU50Y2luVjc5LUZfX29oOWxPQ2d3MGJkWWpLRDZQbHg5VGt0aXNYSm9CRnFqV1JNVENSSFE3RlRpZVQtSnE2ck5RQQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 30 Jun 2026 20:05:00 GMT",
+      "summary": "New Zeta Global Research Signals the Rise of Agentic Commerce &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782849900.0
+    },
     {
       "title": "Agentic commerce is going to require rethinking consumer payments - American Banker",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGdZbTFkTkFzYTctaE1WaWhlX0dWbjlGcXduRndGVkdQbno4ZlhsZ3IycUQ0cDc2U05IbngxcWdOUDYxSmktTThHQWZuUGRDVUZud1NjZWFnT1ZMWUlEaVlCYTNwUXBJMW1EM1phaHBncnRWeW1NQUVqajU2eksyR0cxZjlUNnh3ak51NWZSX3l3VlNPb1pTR2w4OHdZeHpaeWllSFZMcnJHeGlTLWJzNGg3NA?oc=5",
@@ -44,6 +55,17 @@
       "confidence": "medium",
       "reasoning": "Matched: price hike",
       "published_ts": 1782792000.0
+    },
+    {
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "source": "Hacker News",
+      "published": "Mon, 29 Jun 2026 18:52:25 +0000",
+      "summary": "Comments",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: shutdown",
+      "published_ts": 1782759145.0
     },
     {
       "title": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 - MediaPost",
@@ -112,17 +134,6 @@
       "published_ts": 1782709200.0
     },
     {
-      "title": "Agentic commerce: The future of B2B commerce - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREM5M014RE1ERW4wR2FUd1FGUHRhekhYdnhoMWV3czRVTURkdXpMbG1JOE9qVkx0SExFOGl5Z3o2WXZGOGRGcERRMHVTSjhOQVRwZGJjQ0ZfLTR6cVk1bVlldldVa19odmhfRlJnZkpIbEdKdDdzVm5oNVZoNXVUUjJEMVFBdUdibzVfNlE3dmc2WndraVpyZmRaSmp1MzhjTXFvTVRvQi05SXVTXzZQM2lZbUVUVlV3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "Agentic commerce: The future of B2B commerce &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782457200.0
-    },
-    {
       "title": "New Ecommerce Tools: June 24, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-24-2026",
       "source": "Practical Ecommerce",
@@ -154,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782109740.0
-    },
-    {
-      "title": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajNuWHhDcVB1cnctZkF2d21OTjdxNzBIXzBsU1h4anUzMkhCVktzbTR1cC1vdlhVLXJLMVRZeWhDdjlEdnItMFo5RUV2OWFvREt6UTlJZVlOamYtWlpqRlltMVl2OXhaSEp6ckZsQWF1djdOb1RTUVB2dVFGdnZMM2V5Q1RWMjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sat, 20 Jun 2026 13:45:00 GMT",
-      "summary": "AI shopping agents may be steering Canadians toward higher prices — here's how to protect yourself and your wallet &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781963100.0
     },
     {
       "title": "New Ecommerce Tools: June 17, 2026",
@@ -233,17 +233,6 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1770019200.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -264,17 +253,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo Launches AI Agents That Work Together to Drive Revenue for Consumer Brands - CMSWire",
@@ -321,17 +299,6 @@
       "published_ts": 1782826800.0
     },
     {
-      "title": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEh2N2s0YzZvNTQ0bFJFd2xYV0xOZGt3TnJCMXF3cUJabE5fMkRwZGZfSUVnX3gzMFdwZU1GZkRvQW1DNnkyZUVNRU90X2Z4TU9fQlJSYllEbERpeFFITHdJZUJfbGpmamxyUW9rQjF4QlZ1dmptc3pzbFZfTGd2Sm1haV9mT2JqbnFUQUNWSE9WV0NQUFVWUGRyX0JxU2xnTmFfX0J1NGVsc3JqLXhFYUktZkl6Y01YMUpuUnlseTczT0E5bWJXS3FBTHRnZXc?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 13:03:00 GMT",
-      "summary": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1782824580.0
-    },
-    {
       "title": "Lightspeed launches Klaviyo integration for retail marketing - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVVXQUVneHlRYnN3Mkt4ZlV6ZTFrdzJqY2ZnUWRCY09FZzJqaGt0QWJhcktPakU4ckpaOHprbko5bmpnU0Y2b1ZaUjZwcExYWGtHNHpiZlBiZzd6TTBnbmgzSE10YnFjRDVsMHBBYmk5UWdGOFVtMW1zRl9ZMmVmVG5HLUZPcTBQc2VqYWdVNUloME9ndFhPc0xvYTFBU1lTYnpfYUR3ZmdReDB5QWZSb3NiLTZWb1lC?oc=5",
       "source": "Google News: Klaviyo",
@@ -374,17 +341,6 @@
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1782727200.0
-    },
-    {
-      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
-      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782661712.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -594,25 +550,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 55,
-    "opportunities": 25,
-    "threats": 30,
+    "kept": 50,
+    "opportunities": 23,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 18.4
   }
 }
