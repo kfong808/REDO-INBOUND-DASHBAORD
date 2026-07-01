@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T19:39:00.067111+00:00",
+  "updated": "2026-07-01T21:16:45.463293+00:00",
   "items": [
     {
       "title": "The Data Layer That Agentic Commerce Can’t Ignore - Unite.AI",
@@ -346,12 +346,12 @@
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
-      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "published": "Wed, 10 Jun 2026 19:45:32 GMT",
       "summary": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending &nbsp;&nbsp; HomePage News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
-      "published_ts": 1781074800.0
+      "published_ts": 1781120732.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -553,11 +553,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 249,
+    "total_fetched": 269,
     "kept": 50,
     "opportunities": 23,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 11.0
   }
 }
