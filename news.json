@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:08:58.249105+00:00",
+  "updated": "2026-07-02T06:29:26.867748+00:00",
   "items": [
     {
       "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782910815.0
-    },
-    {
-      "title": "Consumer payments predictions: a market driven by agentic commerce, bank-backed wallets, & click to pay - Telemedia Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSXVxaDEtTmZkWmxVUDdqSUNtUU0xZXAzTHpGUG1UQm1TWnJ0aEFtZHQ2SVVPZUR0UjlCbWhEczIzU1VaaFZNMXluWEVudHJuN3R0R1dIY0V4cU9CRExMNHB5dE9RQ0tPQkkySXFnY2U5X0g2aG9faHJaSkZSQXB1bzNjczc2bHhucEFPSUY2NjUzQkE2MndJTVlBRmhsRG9pWUhieXVhRjJFVnFoeEp2LW5UZF9sckJ0OFVOV29zUGNLOVljQUlsTEtmSmpOVFZuY0pLRGRB0gHWAUFVX3lxTFBJdXFoMS1OZmRabFVQN2pJQ21RTTFlcDNMekZQbVRCbVNacnRoQW1kdDZJVU9lRHRSOUJtaERzMjNTVVpoVk0xeW5YRW50cm43dHRHV0hjRXhxT0JETEw0cHl0T1FDS09CSTJJcWdjZTlfSDZob19oclpKRlJBcHVvM2NzNzZseG5wQU9JRjY2NTNCQTYyd0lNWUFGaGxEb2lZSGJ5dWFGMkVWcWh4SnYtblRkX2xyQnQ4VU5Xb3NQY0s5WWNBSWxMS2ZKak5UVm5jSktEZEE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 01 Jul 2026 09:57:05 GMT",
-      "summary": "Consumer payments predictions: a market driven by agentic commerce, bank-backed wallets, & click to pay &nbsp;&nbsp; Telemedia Magazine",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782899825.0
     },
     {
       "title": "Agentic commerce is going to require rethinking consumer payments - American Banker",
@@ -264,6 +253,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUFkZTM2S3otdWhYTTRrVHpCeGhTem4wZVFncW13bVVLUnhwa0dSeURlV0tKMkd5WGdBak5lUUFXTkdXSW0waUxCMUlmWGphT2xoTVY5a3JtVGc3eHJvYVIzb3E5UGUxRFo4M25tanZWblR6Z2NQay1lWjQ5SndKUk5udVp5OE40c0Z4UE1TSndNaXdZZjR6cGJWNWbSAZwBQVVfeXFMTzVBZGUzNkt6LXVoWE00a1R6QnhoU3puMGVRZ3Ftd21VS1J4cGtHUnlEZVdLSjJHeVhnQWpOZVFBV05HV0ltMGlMQjFJZlhqYU9saE1WOWtybVRnN3hyb2FSM29xOVBlMURaODNubWp2Vm5UemdjUGstZVo0OUp3SlJObnVaeThONHNGeFBNU0p3TWl3WWY0enBiVjVm?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 01 Jul 2026 19:37:13 GMT",
+      "summary": "Klaviyo launches beta for marketing AI agents &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1782934633.0
     },
     {
       "title": "Klaviyo Launches AI Agents That Work Together to Drive Revenue for Consumer Brands - CMSWire",
@@ -566,9 +566,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 51,
-    "opportunities": 24,
-    "threats": 27,
+    "opportunities": 23,
+    "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.7
+    "runtime_seconds": 10.3
   }
 }
