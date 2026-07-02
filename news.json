@@ -1,6 +1,28 @@
 {
-  "updated": "2026-07-02T06:29:26.867748+00:00",
+  "updated": "2026-07-02T09:51:13.441039+00:00",
   "items": [
+    {
+      "title": "European awareness and trust of Agentic Commerce - channelx.world",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2VEc3llM0ZFVEs1SHN5LW9SbVhLNmkxNzRPc1o2dzY0V3Zsb1oxcGM5cDhuTDJCOFdCYWpiUG80cTBTaTdkOEs4eXlJNC1CTG9UM1lRdFhxcUI4TzRxTXBXV0NpamgyeUJlZUwtZXEzV2NwU0Zudl9jSU5IOUEwSXZ0aVBPYXc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 02 Jul 2026 09:02:33 GMT",
+      "summary": "European awareness and trust of Agentic Commerce &nbsp;&nbsp; channelx.world",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782982953.0
+    },
+    {
+      "title": "Sopra Steria Maps European Trust in Agentic Commerce - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOODdNSHd2TF9JcWtTTDUxcXF0Z0NpdTBRY3NmZDBlSXItOEc5b1A4UzhLX2xmT3pYZ19URmh6Zm5TMzJBNXZyMTNtT0ltT29YSHZSOTZNTnJpTHJlSm5TcjhSRmM3eE5UTXVOWHRXZWlTbFlDUlk3elIwb2NkYzBOUU8yWER2T1NmQWdUU2s3bElxWlo0WlF3Wmd3?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 02 Jul 2026 09:02:33 GMT",
+      "summary": "Sopra Steria Maps European Trust in Agentic Commerce &nbsp;&nbsp; Let's Data Science",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782982953.0
+    },
     {
       "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSG9CVkxaZ3RHRGZEcGNzaEZkaVRrSENCbjlUV0NqRTlqRDBtS3ZsTkR3dDFpSlZ5bmRuUWhkXy1zaXotRzNUTGpBaEhHNVRsZVk4RFVLZTFIR212?oc=5",
@@ -99,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782745200.0
-    },
-    {
-      "title": "A Survey Shows a Need to Bolster Trust in Agentic Commerce - Digital Transactions",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE9iVGtWWkk4S0haeW1RYW56SjJOb2hYNVNVRjVvUGVUNEFqTFpjQU5rbURNRUFJeVlVZGdLUk9Yb2s2MjBuc0k3bFF5WWU3cC16bkh6YnBPNEZDWFpqVkp3V29zWUtYOHZNdlRnVzRvRDJFTnp6cUlWUnZfUWxjSFFEWXo5cVFzdVZUUFp3cmNWNk1jV3IxYlh0VQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 29 Jun 2026 14:53:55 GMT",
-      "summary": "A Survey Shows a Need to Bolster Trust in Agentic Commerce &nbsp;&nbsp; Digital Transactions",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782744835.0
     },
     {
       "title": "Adyen on Agentic Commerce: The AI Was Never the Hard Part - PYMNTS.com",
@@ -565,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 51,
-    "opportunities": 23,
+    "kept": 52,
+    "opportunities": 24,
     "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 10.7
   }
 }
