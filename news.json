@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:52:48.450309+00:00",
+  "updated": "2026-07-02T21:58:21.197528+00:00",
   "items": [
     {
       "title": "Anthropic Experiment Exposes Agentic Commerce Risks - Let's Data Science",
@@ -66,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782987482.0
-    },
-    {
-      "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSG9CVkxaZ3RHRGZEcGNzaEZkaVRrSENCbjlUV0NqRTlqRDBtS3ZsTkR3dDFpSlZ5bmRuUWhkXy1zaXotRzNUTGpBaEhHNVRsZVk4RFVLZTFIR212?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Wed, 01 Jul 2026 19:04:45 GMT",
-      "summary": "Ecommerce Growth Guide: Strategies for 2026 &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1782932685.0
     },
     {
       "title": "New Ecommerce Tools: July 1, 2026",
@@ -222,17 +211,6 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -256,14 +234,14 @@
     },
     {
       "title": "Klaviyo (KVYO) Launches Composer Beta, Is The Stock Cheap Or Is Growth Priced In? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDhhOUtRYk5ybllmdko3b29td0FmZnVRMTZzX3QzRm5rLVBxbWFQN0prRWFXdkNVU3ktNWx5UEFRRVNmdThaMVY4TERWS2Q2TUp6eExkLTM1c3RCb090aFZzdEFSaHNZQnZaRUgwRXFRRUI1M3I5TzVoUWRFbVJMajRxaWFmeUtFaTlhQjNhQjZpRTd2WDF1cExiUGhUSmxkQ095NVAxRTdMbTByU2RmMEtyanNIR2hQa0JxRVN5TlJwVExfNm5Z0gHHAUFVX3lxTE1UOGE5S1FiTnJuWWZ2Sjdvb213QWZmdVExNnNfdDNGbmstUHFtYVA3SmtFYVd2Q1VTeS01bHlQQVFFU2Z1OFoxVjhMRFZLZDZNSnp4TGQtMzVzdEJvT3RoVnN0QVJoc1lCdlpFSDBFcVFFQjUzcjlPNWhRZEVtUkxqNHFpYWZ5S0VpOWFCM2FCNmlFN3ZYMXVwTGJQaFRKbGRDT3k1UDFFN0xtMHJTZGYwS3Jqc0hHaFBrQnFFU3lOUnBUTF82blk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnV6U2xrU3NmUWRhd1lpVzIwRUx5ZVkzOTRCLTBMSGRxNXJISFpJcXgtTTVQLTh3MlNKV2d1SVg5NmlNSUwwd1QzTnVyd0dyVWRnU0ZaZy05N05LNW1FZWJicUhfSFVjZU5ZNl95TmFnZUJ6d2FpdFk5TFhnaTVLU0VHd0MyR3ZIV2NZRWFPZVRwNzY0V3FCdUR6ODFLOWRaMElaRVI2eS10S2JTdGhTZDY5alAxREVVR0xUa2JvMUxWZ9IBxwFBVV95cUxNVDhhOUtRYk5ybllmdko3b29td0FmZnVRMTZzX3QzRm5rLVBxbWFQN0prRWFXdkNVU3ktNWx5UEFRRVNmdThaMVY4TERWS2Q2TUp6eExkLTM1c3RCb090aFZzdEFSaHNZQnZaRUgwRXFRRUI1M3I5TzVoUWRFbVJMajRxaWFmeUtFaTlhQjNhQjZpRTd2WDF1cExiUGhUSmxkQ095NVAxRTdMbTByU2RmMEtyanNIR2hQa0JxRVN5TlJwVExfNm5Z?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 02 Jul 2026 10:48:45 GMT",
+      "published": "Thu, 02 Jul 2026 10:48:43 GMT",
       "summary": "Klaviyo (KVYO) Launches Composer Beta, Is The Stock Cheap Or Is Growth Priced In? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
-      "published_ts": 1782989325.0
+      "published_ts": 1782989323.0
     },
     {
       "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
@@ -341,17 +319,6 @@
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1782727200.0
-    },
-    {
-      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
-      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782661712.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -453,17 +420,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1767686400.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -543,10 +499,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 22,
-    "threats": 27,
+    "kept": 45,
+    "opportunities": 20,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 10.8
   }
 }
