@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T21:58:21.197528+00:00",
+  "updated": "2026-07-02T23:03:34.555954+00:00",
   "items": [
     {
       "title": "Anthropic Experiment Exposes Agentic Commerce Risks - Let's Data Science",
@@ -266,17 +266,6 @@
       "published_ts": 1782833794.0
     },
     {
-      "title": "Klaviyo: Very Low Valuation But Shopify Dependency Still Too High (NYSE:KVYO) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUNCV2R5cmZaWUhqcGJzMmEyQzB0SnRkRHk4OVV5UmlKQnBTS2t6dW44eEotZThuM2E0OTJRREZZUnQyOGo1WXF2Zld4Z2dPY09NQXFRTE92VXpmTVRSTFJaLWlvWi0zalhaUFQ3a2NHNnB0QjdlYUltUVFSU2UzTHEtR1M1YWcxeEhkWEFjS0RZLWNIc0NHbUppTFc4MnRZRk9Cd0RJSXE?oc=5",
-      "source": "Google News: Shopify",
-      "published": "Tue, 30 Jun 2026 14:31:23 GMT",
-      "summary": "Klaviyo: Very Low Valuation But Shopify Dependency Still Too High (NYSE:KVYO) &nbsp;&nbsp; Seeking Alpha",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1782829883.0
-    },
-    {
       "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
       "source": "Google News: Attentive",
@@ -321,6 +310,17 @@
       "published_ts": 1782727200.0
     },
     {
+      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
+      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1782661712.0
+    },
+    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -343,17 +343,6 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1779951600.0
-    },
-    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -363,6 +352,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
+    },
+    {
+      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -418,6 +418,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
       "published_ts": 1768204800.0
+    },
+    {
+      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1767686400.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -498,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 45,
+    "total_fetched": 270,
+    "kept": 46,
     "opportunities": 20,
-    "threats": 25,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 12.1
   }
 }
