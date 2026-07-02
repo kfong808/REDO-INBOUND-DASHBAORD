@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-01T23:01:28.860841+00:00",
+  "updated": "2026-07-02T02:08:58.249105+00:00",
   "items": [
     {
-      "title": "The Data Layer That Agentic Commerce Can’t Ignore - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyYnhUVjJ2QUVXLUdEOHFhOVZ2U0Zua05Lb2VIRmxYaS0tS0ZPQzFkenFhb2FWb1lwWVFQWDRPNkZkVzAxSWItbkpwWXIyMkxpN2tpR1dqSkltRS13aGVQMlJ5RXB2LWV1azBoZ0t6eGxNSWJsc0E?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 01 Jul 2026 14:30:44 GMT",
-      "summary": "The Data Layer That Agentic Commerce Can’t Ignore &nbsp;&nbsp; Unite.AI",
+      "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSG9CVkxaZ3RHRGZEcGNzaEZkaVRrSENCbjlUV0NqRTlqRDBtS3ZsTkR3dDFpSlZ5bmRuUWhkXy1zaXotRzNUTGpBaEhHNVRsZVk4RFVLZTFIR212?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Wed, 01 Jul 2026 19:04:45 GMT",
+      "summary": "Ecommerce Growth Guide: Strategies for 2026 &nbsp;&nbsp; Shopify",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782916244.0
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1782932685.0
     },
     {
       "title": "Lantern Unveils Agentic Commerce Platform to Maximize Revenue in AI Shopping - Yahoo Finance",
@@ -112,6 +112,17 @@
       "published_ts": 1782745200.0
     },
     {
+      "title": "A Survey Shows a Need to Bolster Trust in Agentic Commerce - Digital Transactions",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE9iVGtWWkk4S0haeW1RYW56SjJOb2hYNVNVRjVvUGVUNEFqTFpjQU5rbURNRUFJeVlVZGdLUk9Yb2s2MjBuc0k3bFF5WWU3cC16bkh6YnBPNEZDWFpqVkp3V29zWUtYOHZNdlRnVzRvRDJFTnp6cUlWUnZfUWxjSFFEWXo5cVFzdVZUUFp3cmNWNk1jV3IxYlh0VQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 29 Jun 2026 14:53:55 GMT",
+      "summary": "A Survey Shows a Need to Bolster Trust in Agentic Commerce &nbsp;&nbsp; Digital Transactions",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782744835.0
+    },
+    {
       "title": "Adyen on Agentic Commerce: The AI Was Never the Hard Part - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVZSU2NaUHBVMWs1Z0dHUzZJTVlIMDU4M0Z1MkRvLUIzRzZYdVlCVUJ2TW5xVEdrY1lUWTRYTkR6R25FTDNOZ1kxMXZrVmY3MWd2N09qSkxuU1R3bjhEWnJibEpwV2lIbFREaGJDLTQ3S3gwdmQ5ZUZNMVptR1ptXzFFMl9OdVhVQlRDZ1J5dXhyQjVsZVEtSFBYeUJOR3pvWld4LXR3bWZMNEotTHN2cWRQdWc?oc=5",
       "source": "Google News: agentic commerce",
@@ -200,6 +211,17 @@
       "published_ts": 1781161200.0
     },
     {
+      "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "summary": "Will grocers rely on Instacart for AI shopping? &nbsp;&nbsp; Grocery Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780988400.0
+    },
+    {
       "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -233,17 +255,6 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -253,28 +264,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1767686400.0
-    },
-    {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
     },
     {
       "title": "Klaviyo Launches AI Agents That Work Together to Drive Revenue for Consumer Brands - CMSWire",
@@ -575,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 52,
-    "opportunities": 25,
+    "total_fetched": 269,
+    "kept": 51,
+    "opportunities": 24,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 11.7
   }
 }
