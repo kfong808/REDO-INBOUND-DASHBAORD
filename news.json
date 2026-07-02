@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-02T15:04:51.256123+00:00",
+  "updated": "2026-07-02T17:25:27.255561+00:00",
   "items": [
+    {
+      "title": "How do you guys deal with supplier price increases? Just eat it?",
+      "url": "https://www.reddit.com/r/shopify/comments/1ulo6jy/how_do_you_guys_deal_with_supplier_price/",
+      "source": "r/shopify",
+      "published": "2026-07-02T17:09:19+00:00",
+      "summary": "Got another “due to rising material costs we’re increasing prices by 8%” email from one of my suppliers last week. Second one this year. Honestly I never know what to do with these. Like is the 8% actually justified? No idea. I’m not gonna go research commodity prices lol. So it usually comes down to either eat the margin hit or bump my prices and hope customers don’t notice. Tried pushing back once and the supplier just sent some vague “our costs have gone up across the board” reply. Cool, than",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: price increase",
+      "published_ts": 1783012159.0
+    },
     {
       "title": "Cross River Teams With Stripe on Issuance for Agentic Commerce - Digital Transactions",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0REZDVla0RyaDliWHdqenhsMUdmTWlDa2xrWS00MzkxR2wtMGdvUkp4WDY1bWNvQ0hVVmlxS2VXeTBwNWNLd1ZJZzhrWHRrTXdUTEc0WENtOXNlcWFiMV9YeVRKNHNGUUdIY3hOUHdodlkyMnZoR3RPMEpxTnlKVEx5MUw1X0FGZm9vcWR3aXR1MXhWb1VJYTB1WEUxMEdk?oc=5",
@@ -27,12 +38,12 @@
       "title": "Lantern Launches Agentic Commerce Platform to Maximize Revenue in AI Shopping - MarTech Cube",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0o2Yl91dllacHdCdlp1ZDJ6alF0Y2EwaFl3ZDY0VDdOSFpiMkVPenZXUVdqRjZuLWFhUzA5bTV1a3RkWjBrQnRxY3MxWm9ocWdLQXg4Nm9LcDJJZS0xSGZfZkNVNHVJN1haRmxVRWlsVHZjMXpyX2NuM3Z2VDVFVEswMm5COXJTc2k0Y3Nua29DUV9VZ0x4c0xyMkl1YzFXZUdfUGphLXJQdw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 02 Jul 2026 10:40:37 GMT",
+      "published": "Thu, 02 Jul 2026 10:40:15 GMT",
       "summary": "Lantern Launches Agentic Commerce Platform to Maximize Revenue in AI Shopping &nbsp;&nbsp; MarTech Cube",
       "classification": "opportunity",
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1782988837.0
+      "published_ts": 1782988815.0
     },
     {
       "title": "Cross River Bank expands partnership with Stripe to power agentic commerce - ROI-NJ",
@@ -112,17 +123,6 @@
       "published_ts": 1782792000.0
     },
     {
-      "title": "Adyen on Agentic Commerce: The AI Was Never the Hard Part - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVZSU2NaUHBVMWs1Z0dHUzZJTVlIMDU4M0Z1MkRvLUIzRzZYdVlCVUJ2TW5xVEdrY1lUWTRYTkR6R25FTDNOZ1kxMXZrVmY3MWd2N09qSkxuU1R3bjhEWnJibEpwV2lIbFREaGJDLTQ3S3gwdmQ5ZUZNMVptR1ptXzFFMl9OdVhVQlRDZ1J5dXhyQjVsZVEtSFBYeUJOR3pvWld4LXR3bWZMNEotTHN2cWRQdWc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 29 Jun 2026 08:04:07 GMT",
-      "summary": "Adyen on Agentic Commerce: The AI Was Never the Hard Part &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782720247.0
-    },
-    {
       "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
       "source": "Google News: AI shopping agent",
@@ -200,17 +200,6 @@
       "published_ts": 1781161200.0
     },
     {
-      "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Will grocers rely on Instacart for AI shopping? &nbsp;&nbsp; Grocery Dive",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780988400.0
-    },
-    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -244,15 +233,26 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Klaviyo (KVYO) Launches Composer Beta, Is The Stock Cheap Or Is Growth Priced In? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnV6U2xrU3NmUWRhd1lpVzIwRUx5ZVkzOTRCLTBMSGRxNXJISFpJcXgtTTVQLTh3MlNKV2d1SVg5NmlNSUwwd1QzTnVyd0dyVWRnU0ZaZy05N05LNW1FZWJicUhfSFVjZU5ZNl95TmFnZUJ6d2FpdFk5TFhnaTVLU0VHd0MyR3ZIV2NZRWFPZVRwNzY0V3FCdUR6ODFLOWRaMElaRVI2eS10S2JTdGhTZDY5alAxREVVR0xUa2JvMUxWZ9IBxwFBVV95cUxNVDhhOUtRYk5ybllmdko3b29td0FmZnVRMTZzX3QzRm5rLVBxbWFQN0prRWFXdkNVU3ktNWx5UEFRRVNmdThaMVY4TERWS2Q2TUp6eExkLTM1c3RCb090aFZzdEFSaHNZQnZaRUgwRXFRRUI1M3I5TzVoUWRFbVJMajRxaWFmeUtFaTlhQjNhQjZpRTd2WDF1cExiUGhUSmxkQ095NVAxRTdMbTByU2RmMEtyanNIR2hQa0JxRVN5TlJwVExfNm5Z?oc=5",
+      "title": "Klaviyo Launches AI Agents that Work Together to Drive Revenue for Consumer Brands - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzcwbjcyMnFpYmppOVJBZnNEZ1RTV1FiY1pzUklIY09UdE1Bd2t1dE1RYVYwR09PWVA0d19sS25lQlBJSGRMN0k4elRhdm5BNHhHd1lhSzlEdVo1SldCckhiMm1XcEk2eWdXQ1FZMDAxRVZvdnZyRXNBdUlVeHJjMVdIeGZJOFVFeS1QMkdwS1QwdHF5dnAybnBieXpDMVVmNzNSRmlycXd6ZlVubDZtY2lReTliejZzZkVTWE5EZWh1MTF3clJXRGxwUUYzUm5L?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 02 Jul 2026 10:48:43 GMT",
+      "published": "Thu, 02 Jul 2026 15:37:15 GMT",
+      "summary": "Klaviyo Launches AI Agents that Work Together to Drive Revenue for Consumer Brands &nbsp;&nbsp; marketscreener.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1783006635.0
+    },
+    {
+      "title": "Klaviyo (KVYO) Launches Composer Beta, Is The Stock Cheap Or Is Growth Priced In? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDhhOUtRYk5ybllmdko3b29td0FmZnVRMTZzX3QzRm5rLVBxbWFQN0prRWFXdkNVU3ktNWx5UEFRRVNmdThaMVY4TERWS2Q2TUp6eExkLTM1c3RCb090aFZzdEFSaHNZQnZaRUgwRXFRRUI1M3I5TzVoUWRFbVJMajRxaWFmeUtFaTlhQjNhQjZpRTd2WDF1cExiUGhUSmxkQ095NVAxRTdMbTByU2RmMEtyanNIR2hQa0JxRVN5TlJwVExfNm5Z0gHHAUFVX3lxTE1UOGE5S1FiTnJuWWZ2Sjdvb213QWZmdVExNnNfdDNGbmstUHFtYVA3SmtFYVd2Q1VTeS01bHlQQVFFU2Z1OFoxVjhMRFZLZDZNSnp4TGQtMzVzdEJvT3RoVnN0QVJoc1lCdlpFSDBFcVFFQjUzcjlPNWhRZEVtUkxqNHFpYWZ5S0VpOWFCM2FCNmlFN3ZYMXVwTGJQaFRKbGRDT3k1UDFFN0xtMHJTZGYwS3Jqc0hHaFBrQnFFU3lOUnBUTF82blk?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 02 Jul 2026 10:48:45 GMT",
       "summary": "Klaviyo (KVYO) Launches Composer Beta, Is The Stock Cheap Or Is Growth Priced In? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
-      "published_ts": 1782989323.0
+      "published_ts": 1782989325.0
     },
     {
       "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
@@ -264,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
       "published_ts": 1782959165.0
-    },
-    {
-      "title": "Klaviyo Launches AI Agents That Work Together to Drive Revenue for Consumer Brands - CMSWire",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGlfeXY3Rk16NlRfN1ZEeFMtMHZkemxPdUJ3SVJyaUJTcnhtMDU4VU9BcEhPdW04N1ljX3AxREVkRnpNSmNYNHpvbTFNY2VXNTdaTWlUMzNRUmNxc3JVRUdJejBzZmwxUWJRWDBUaTAwSkt3RXo3c1lwVVo2SGNIQ1VzV3Y4Mk1wUlQ3U0g0YXpjeVZ1bG4tV2JrOXFTWFQ4ek1uZ2YxZC1OS1VqbmFLOGVRZ3NEalk?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 15:52:34 GMT",
-      "summary": "Klaviyo Launches AI Agents That Work Together to Drive Revenue for Consumer Brands &nbsp;&nbsp; CMSWire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1782834754.0
     },
     {
       "title": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands - Investing News Network",
@@ -464,17 +453,6 @@
       "published_ts": 1767686400.0
     },
     {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -541,6 +519,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -553,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 50,
-    "opportunities": 22,
+    "total_fetched": 269,
+    "kept": 49,
+    "opportunities": 21,
     "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 14.1
+    "runtime_seconds": 11.0
   }
 }
