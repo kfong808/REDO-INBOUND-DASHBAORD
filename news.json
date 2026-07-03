@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:40:17.169967+00:00",
+  "updated": "2026-07-03T15:47:38.267867+00:00",
   "items": [
     {
       "title": "Visa and banks across Europe reach the next phase of agentic commerce - Business Review",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783079128.0
+    },
+    {
+      "title": "Convenience or Control? Understanding The Rise Of Agentic Commerce - BW Marketing World",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTRlZmdyQVFEeVpQc2tpMzJmV1ZGRlNKOXZNZ1JzZ0VkZVNyX291NGp0Sm1QNERJTlJRLXR2YkFwOWpTN0NWQndoUlNmbUZBYWw3YWFqNXFmQ21PSnN5b3lSX09FU2tyR0NpdlJydzExa0tOYS1NRWhzM1pCcUFKRUhLOXFRSlkyTW1tS1hhSFAtbE81SW43b0JWZEk0eC1OVVZPai1ZcmxVcXNLNjBkNHZfdw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 03 Jul 2026 11:18:35 GMT",
+      "summary": "Convenience or Control? Understanding The Rise Of Agentic Commerce &nbsp;&nbsp; BW Marketing World",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783077515.0
     },
     {
       "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1783035646.0
-    },
-    {
-      "title": "Cross River Teams With Stripe on Issuance for Agentic Commerce - Digital Transactions",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0REZDVla0RyaDliWHdqenhsMUdmTWlDa2xrWS00MzkxR2wtMGdvUkp4WDY1bWNvQ0hVVmlxS2VXeTBwNWNLd1ZJZzhrWHRrTXdUTEc0WENtOXNlcWFiMV9YeVRKNHNGUUdIY3hOUHdodlkyMnZoR3RPMEpxTnlKVEx5MUw1X0FGZm9vcWR3aXR1MXhWb1VJYTB1WEUxMEdk?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 02 Jul 2026 14:32:01 GMT",
-      "summary": "Cross River Teams With Stripe on Issuance for Agentic Commerce &nbsp;&nbsp; Digital Transactions",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783002721.0
     },
     {
       "title": "Cross River Bank expands partnership with Stripe to power agentic commerce - ROI-NJ",
@@ -159,12 +159,12 @@
       "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 09:00:00 GMT",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1782291600.0
+      "published_ts": 1782284400.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -530,17 +530,6 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
-    },
-    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -553,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 50,
+    "total_fetched": 269,
+    "kept": 49,
     "opportunities": 23,
-    "threats": 27,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 12.9
   }
 }
