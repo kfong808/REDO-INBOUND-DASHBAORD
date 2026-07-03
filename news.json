@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-03T05:42:46.878103+00:00",
+  "updated": "2026-07-03T08:47:21.241964+00:00",
   "items": [
+    {
+      "title": "Visa’s Oliver Jenkyn on why trust will decide the future of agentic commerce - Fast Company Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlRRcUZRS1h6ck0wd3Q2alRMMDBFRHFPT1EtQ3lRSFJHdUI2bUpxMWY2VjRhZXNXMjZxUzhLSlBuWkJIYWIxRmxUZzU5MkF1b1JBT1lkdHV2SDlQUzJ6YmQ0T2QweW9zWEF0UDhDSVlYUEdIQllDd1JoNkR4TXo3bE9uZzhfamxpQWFMeFlVTFdkUkR2c0hYSXdJaElWZFcwR0tobk8ybzRxelJZV3JtelFubw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 03 Jul 2026 07:08:30 GMT",
+      "summary": "Visa’s Oliver Jenkyn on why trust will decide the future of agentic commerce &nbsp;&nbsp; Fast Company Middle East",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783062510.0
+    },
     {
       "title": "I closed my trial stores but SHOPIFY KEEPS BILLING ME",
       "url": "https://www.reddit.com/r/shopify/comments/1ulycgq/i_closed_my_trial_stores_but_shopify_keeps/",
@@ -24,28 +35,6 @@
       "published_ts": 1783002721.0
     },
     {
-      "title": "Visa Payments Forum in Paris: Agentic Commerce is Coming - FinTech Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenZzcVN3U2R5ZUhQYVMydE5oUHFpaXFlVWRWWjBtSHZieVhMeGpFd3B1NXVlNzBsbF9PTVlPVzh2SnhCeE5FZmRjcWhhcjJjZ0hJdVRoVVhlYXNFQnRNeGhXQXZfaEJSS0g4VnZLLS0xVGRXNV9CUFV0Z2NhY3VtOHVpV2FyYW1OT2ZOSC1KV2Rzdw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 02 Jul 2026 10:45:19 GMT",
-      "summary": "Visa Payments Forum in Paris: Agentic Commerce is Coming &nbsp;&nbsp; FinTech Magazine",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782989119.0
-    },
-    {
-      "title": "Lantern Launches Agentic Commerce Platform to Maximize Revenue in AI Shopping - MarTech Cube",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0o2Yl91dllacHdCdlp1ZDJ6alF0Y2EwaFl3ZDY0VDdOSFpiMkVPenZXUVdqRjZuLWFhUzA5bTV1a3RkWjBrQnRxY3MxWm9ocWdLQXg4Nm9LcDJJZS0xSGZfZkNVNHVJN1haRmxVRWlsVHZjMXpyX2NuM3Z2VDVFVEswMm5COXJTc2k0Y3Nua29DUV9VZ0x4c0xyMkl1YzFXZUdfUGphLXJQdw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 02 Jul 2026 10:40:15 GMT",
-      "summary": "Lantern Launches Agentic Commerce Platform to Maximize Revenue in AI Shopping &nbsp;&nbsp; MarTech Cube",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1782988815.0
-    },
-    {
       "title": "Cross River Bank expands partnership with Stripe to power agentic commerce - ROI-NJ",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHFYekF3ZW05Wks2WWswdUpwYUt3Z1ZFNFZERHVBZm5QNFdzR2lDM0VuTE8xYmc4RjBJY3ZkTk5FSm12SDNLVnZMOXIzc0YzZmlGbnRzQUV3OFFIUTlKLTNuckdGV1Rpajh3UWd2RFhEUUZYeHZpT3B0U2U3djNkWDZQU1pRWC1haThxd01kX0JEUDNVZjdzYTZMX0d6b2hkenFfLXc2eWpjMGdTa2dUSWhKd0JZY3NH?oc=5",
       "source": "Google News: agentic commerce",
@@ -55,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782987482.0
+    },
+    {
+      "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSG9CVkxaZ3RHRGZEcGNzaEZkaVRrSENCbjlUV0NqRTlqRDBtS3ZsTkR3dDFpSlZ5bmRuUWhkXy1zaXotRzNUTGpBaEhHNVRsZVk4RFVLZTFIR212?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Wed, 01 Jul 2026 19:04:45 GMT",
+      "summary": "Ecommerce Growth Guide: Strategies for 2026 &nbsp;&nbsp; Shopify",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1782932685.0
     },
     {
       "title": "New Ecommerce Tools: July 1, 2026",
@@ -88,6 +88,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782794321.0
+    },
+    {
+      "title": "Trust Issues Could Make or Break Agentic Commerce - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSmlCSGZJYmZyZ21NRGJSZUFYbm5zaGZfdVBNbjY5TjlWRmJLeUhCa2p0bXl1Mmw2VEhOTUFMMXcwRmh4d25fQmJzNnFIazdzWnJlTGw1Y1Y0eHN4Z0VVUzRHalFaaS1SaHVIcnh6VzNZRVlRZUw2TXJyQlI5T0k?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 29 Jun 2026 15:46:24 GMT",
+      "summary": "Trust Issues Could Make or Break Agentic Commerce &nbsp;&nbsp; Tech Policy Press",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782747984.0
     },
     {
       "title": "Dynamics 365 Commerce MCP Server for AI Agents and Agentic Commerce - Microsoft",
@@ -189,6 +200,17 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1773730800.0
+    },
+    {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -209,6 +231,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "How Narvar is using AI and data to enhance post-purchase customer experiences - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZLWGlLSG9oTDJWMlk4NUp6RzVLRVVnOUNid0kxel9hWVo0Q1hQVHlhOV9jeS1paEVzYkJOVjVHVHh2ZGZ0d0lTS1J1TmRtZGNEMUdJRkdxeVVaX1pzNTE1bFYwUk84LWxoRi02bEdNR2U1bXdQa2RwVV9zY1F4SDBtNmdqMzJoQlpza1JodkZLY1lnQ2FmQ3pwZGxXWi11X21hVnZJdzE4NWlQVnBwb2h3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 09 Jan 2025 08:00:00 GMT",
+      "summary": "How Narvar is using AI and data to enhance post-purchase customer experiences &nbsp;&nbsp; VentureBeat",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1736409600.0
     },
     {
       "title": "Klaviyo Launches AI Agents that Work Together to Drive Revenue for Consumer Brands - marketscreener.com",
@@ -376,17 +409,6 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1770278400.0
-    },
-    {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
       "source": "Google News: Omnisend",
@@ -396,28 +418,6 @@
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
       "published_ts": 1769673600.0
-    },
-    {
-      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + introduces",
-      "published_ts": 1768204800.0
-    },
-    {
-      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1767686400.0
     },
     {
       "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
@@ -442,17 +442,6 @@
       "published_ts": 1764316800.0
     },
     {
-      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEtjRVF4ZWRVbVIwWDFMZ0JVbTd2eTlPQm1tNzBSem81LW13UWF6MWYxR1ctVkxSa3RUeFpVYm9oeDNZeDdsdDJpYURvWDBYYzJqQXdkdHk0NFItaTI4N1dIUHI2aEdCdUY4TEdrdGMtck9LY3ZsRDZhWlVSNVlScjdCemhnSktsR1RGNkxwWXprdjlKTW1WX2ZEUk5xSDg0Nlo4Slhzbk1QcG5zY0kwX2lLaDVXR1ZvN0ZTbVpRZFBFdjRVRXphenVOUTF2YUdwWm16MVN4Nk5uZzA?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1762416000.0
-    },
-    {
       "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHBkSW45S0k5bFBraVMxMW80TVlVYkNfM3FCYUNvWmpBYTNmTmk5Mk5KNzA4YzVnNTBSSVBNbzdMUWxKSmhHZkx6YVhXaDhQRTU4UTFEeDlnSEFwVC1wd3BIamcyaFFXNjg0TlJqQmllQko5YWNmc3dvSlMwcVZDNVVQcnNuYUtsTzdscXZ3?oc=5",
       "source": "Google News: Yotpo",
@@ -475,6 +464,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 17 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729148400.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -486,22 +486,22 @@
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + acquires",
-      "published_ts": 1639641600.0
-    },
-    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Thu, 09 Sep 2021 07:00:00 GMT",
       "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
+      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -517,14 +517,25 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 47,
-    "opportunities": 19,
-    "threats": 28,
+    "kept": 48,
+    "opportunities": 22,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.0
   }
 }
