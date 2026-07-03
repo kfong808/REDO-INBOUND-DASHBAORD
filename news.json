@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:16:23.896532+00:00",
+  "updated": "2026-07-03T21:55:24.876413+00:00",
   "items": [
     {
       "title": "Visa and banks across Europe reach the next phase of agentic commerce - Business Review",
@@ -46,15 +46,15 @@
       "published_ts": 1783062510.0
     },
     {
-      "title": "I closed my trial stores but SHOPIFY KEEPS BILLING ME",
-      "url": "https://www.reddit.com/r/shopify/comments/1ulycgq/i_closed_my_trial_stores_but_shopify_keeps/",
-      "source": "r/shopify",
-      "published": "2026-07-02T23:40:46+00:00",
-      "summary": "I opened two stores on Shopify using the three month trial at a dollar a month. I decided it just wasn’t for me so before the three months ended, I ended the trials. On the Internet on their website my stores show as being closed and discontinued. Shopify though continue to bill me ….after three months the bills go up to $40 so I was getting bills for $40. Their customer service is awful. It takes forever to actually talk to a person. I finally got through to a human being and he verified that t",
+      "title": "Cross River Teams With Stripe on Issuance for Agentic Commerce - Digital Transactions",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0REZDVla0RyaDliWHdqenhsMUdmTWlDa2xrWS00MzkxR2wtMGdvUkp4WDY1bWNvQ0hVVmlxS2VXeTBwNWNLd1ZJZzhrWHRrTXdUTEc0WENtOXNlcWFiMV9YeVRKNHNGUUdIY3hOUHdodlkyMnZoR3RPMEpxTnlKVEx5MUw1X0FGZm9vcWR3aXR1MXhWb1VJYTB1WEUxMEdk?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 02 Jul 2026 14:32:01 GMT",
+      "summary": "Cross River Teams With Stripe on Issuance for Agentic Commerce &nbsp;&nbsp; Digital Transactions",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: discontinued",
-      "published_ts": 1783035646.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783002721.0
     },
     {
       "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
@@ -148,12 +148,12 @@
       "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "published": "Wed, 24 Jun 2026 09:00:00 GMT",
       "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
+      "published_ts": 1782291600.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -209,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1780988400.0
-    },
-    {
-      "title": "Survey: Some skepticism remains among AI shopping agent users - Chain Store Age",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHpXSnJBb1h3OW16V0Y5TUFYajQzZ0QtMHRzdWFFcURZSUctZGttdE5KOVhVQVNockpYeFVFMnNJOUxtUVpaQkFNRExOUFRQdDBjSUtaX0MyUlY5RUw0VEI5RENTN0FIUndXWTFnbHJtOHduUTdCTjBCR01GYUw4SVBzb2NNY0hESEZ5MjYyUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "Survey: Some skepticism remains among AI shopping agent users &nbsp;&nbsp; Chain Store Age",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1780642800.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -565,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 51,
-    "opportunities": 23,
+    "kept": 50,
+    "opportunities": 22,
     "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 10.5
   }
 }
