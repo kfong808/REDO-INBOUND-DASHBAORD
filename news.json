@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T15:47:38.267867+00:00",
+  "updated": "2026-07-03T17:12:18.561059+00:00",
   "items": [
     {
       "title": "Visa and banks across Europe reach the next phase of agentic commerce - Business Review",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1783035646.0
-    },
-    {
-      "title": "Cross River Bank expands partnership with Stripe to power agentic commerce - ROI-NJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHFYekF3ZW05Wks2WWswdUpwYUt3Z1ZFNFZERHVBZm5QNFdzR2lDM0VuTE8xYmc4RjBJY3ZkTk5FSm12SDNLVnZMOXIzc0YzZmlGbnRzQUV3OFFIUTlKLTNuckdGV1Rpajh3UWd2RFhEUUZYeHZpT3B0U2U3djNkWDZQU1pRWC1haThxd01kX0JEUDNVZjdzYTZMX0d6b2hkenFfLXc2eWpjMGdTa2dUSWhKd0JZY3NH?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 02 Jul 2026 10:18:02 GMT",
-      "summary": "Cross River Bank expands partnership with Stripe to power agentic commerce &nbsp;&nbsp; ROI-NJ",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782987482.0
     },
     {
       "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
@@ -530,6 +519,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -542,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 270,
     "kept": 49,
-    "opportunities": 23,
-    "threats": 26,
+    "opportunities": 22,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.9
+    "runtime_seconds": 10.4
   }
 }
