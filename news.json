@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T11:16:31.794057+00:00",
+  "updated": "2026-07-04T12:57:56.777914+00:00",
   "items": [
     {
       "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782987482.0
-    },
-    {
-      "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSG9CVkxaZ3RHRGZEcGNzaEZkaVRrSENCbjlUV0NqRTlqRDBtS3ZsTkR3dDFpSlZ5bmRuUWhkXy1zaXotRzNUTGpBaEhHNVRsZVk4RFVLZTFIR212?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Wed, 01 Jul 2026 19:04:45 GMT",
-      "summary": "Ecommerce Growth Guide: Strategies for 2026 &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1782932685.0
     },
     {
       "title": "New Ecommerce Tools: July 1, 2026",
@@ -310,17 +299,6 @@
       "published_ts": 1782833794.0
     },
     {
-      "title": "Klaviyo: Very Low Valuation But Shopify Dependency Still Too High (NYSE:KVYO) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUNCV2R5cmZaWUhqcGJzMmEyQzB0SnRkRHk4OVV5UmlKQnBTS2t6dW44eEotZThuM2E0OTJRREZZUnQyOGo1WXF2Zld4Z2dPY09NQXFRTE92VXpmTVRSTFJaLWlvWi0zalhaUFQ3a2NHNnB0QjdlYUltUVFSU2UzTHEtR1M1YWcxeEhkWEFjS0RZLWNIc0NHbUppTFc4MnRZRk9Cd0RJSXE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 14:31:23 GMT",
-      "summary": "Klaviyo: Very Low Valuation But Shopify Dependency Still Too High (NYSE:KVYO) &nbsp;&nbsp; Seeking Alpha",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1782829883.0
-    },
-    {
       "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
       "source": "Google News: Attentive",
@@ -330,6 +308,17 @@
       "confidence": "medium",
       "reasoning": "Attentive + launches",
       "published_ts": 1782826800.0
+    },
+    {
+      "title": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEh2N2s0YzZvNTQ0bFJFd2xYV0xOZGt3TnJCMXF3cUJabE5fMkRwZGZfSUVnX3gzMFdwZU1GZkRvQW1DNnkyZUVNRU90X2Z4TU9fQlJSYllEbERpeFFITHdJZUJfbGpmamxyUW9rQjF4QlZ1dmptc3pzbFZfTGd2Sm1haV9mT2JqbnFUQUNWSE9WV0NQUFVWUGRyX0JxU2xnTmFfX0J1NGVsc3JqLXhFYUktZkl6Y01YMUpuUnlseTczT0E5bWJXS3FBTHRnZXc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 30 Jun 2026 13:03:00 GMT",
+      "summary": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1782824580.0
     },
     {
       "title": "Klaviyo CEO: Infrastructure companies will lead this new era - CNBC",
@@ -576,10 +565,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 52,
-    "opportunities": 24,
+    "kept": 51,
+    "opportunities": 23,
     "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.5
   }
 }
