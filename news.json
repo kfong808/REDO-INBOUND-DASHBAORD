@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T17:55:13.888100+00:00",
+  "updated": "2026-07-04T18:54:57.589404+00:00",
   "items": [
     {
       "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782987482.0
+    },
+    {
+      "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSG9CVkxaZ3RHRGZEcGNzaEZkaVRrSENCbjlUV0NqRTlqRDBtS3ZsTkR3dDFpSlZ5bmRuUWhkXy1zaXotRzNUTGpBaEhHNVRsZVk4RFVLZTFIR212?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Wed, 01 Jul 2026 19:04:45 GMT",
+      "summary": "Ecommerce Growth Guide: Strategies for 2026 &nbsp;&nbsp; Shopify",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1782932685.0
     },
     {
       "title": "New Ecommerce Tools: July 1, 2026",
@@ -253,6 +264,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Ondo Finance, Lantern, Bluprynt And Klaviyo Launch Fintech Products - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1V1VGRQbk1XdFNpX1BMSHBfaXdYRDZyU3I1RXZBZUl3eFF6eHc0SjlYcERmczdfTFhxT2JqVkx0UVJfTzJ1NU80M25OMXpGZ29QNVdSQXJtN0c3ckQwSWZzaDJlMHlNLTNNejM5X1FYRDJjMV8wNWpxLUM3RTF4Mm1VOGt5SHltdThGZHB2VmRMdGtYelVQbUtCTFQzZkdRaVBSVlo2R01laFBKdm94MmEwa04?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 04 Jul 2026 17:56:38 GMT",
+      "summary": "Ondo Finance, Lantern, Bluprynt And Klaviyo Launch Fintech Products &nbsp;&nbsp; Crowdfund Insider",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1783187798.0
     },
     {
       "title": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Yahoo Finance",
@@ -541,6 +563,17 @@
       "published_ts": 1646640000.0
     },
     {
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + acquires",
+      "published_ts": 1639641600.0
+    },
+    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
@@ -572,25 +605,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 53,
-    "opportunities": 23,
-    "threats": 30,
+    "kept": 55,
+    "opportunities": 24,
+    "threats": 31,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 10.8
   }
 }
