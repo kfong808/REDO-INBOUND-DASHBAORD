@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:45:59.744705+00:00",
+  "updated": "2026-07-04T23:52:18.571691+00:00",
   "items": [
     {
       "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783002721.0
+    },
+    {
+      "title": "Visa Payments Forum in Paris: Agentic Commerce is Coming - FinTech Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenZzcVN3U2R5ZUhQYVMydE5oUHFpaXFlVWRWWjBtSHZieVhMeGpFd3B1NXVlNzBsbF9PTVlPVzh2SnhCeE5FZmRjcWhhcjJjZ0hJdVRoVVhlYXNFQnRNeGhXQXZfaEJSS0g4VnZLLS0xVGRXNV9CUFV0Z2NhY3VtOHVpV2FyYW1OT2ZOSC1KV2Rzdw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 02 Jul 2026 10:45:19 GMT",
+      "summary": "Visa Payments Forum in Paris: Agentic Commerce is Coming &nbsp;&nbsp; FinTech Magazine",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782989119.0
     },
     {
       "title": "Cross River Bank expands partnership with Stripe to power agentic commerce - ROI-NJ",
@@ -198,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781161200.0
-    },
-    {
-      "title": "Agentic Commerce Is Reshaping Competition Among Payment Providers - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHN3X0JGbFZPSU8xWWhKeFdHMS1RYUdCbXhDSFBpLTlXRDJvNDZPQkVUSW11c3dueVczZXpHWjBrR1RwNGw1dmptVHUxSlR1dlMzR053bGdObnBfXzM3UVpmX3BCcFZmVUI5bFpXclVsakxMVnNfVVhxSFVhZW1BWFM5djR2N3RsSVRIZnhBMUFqQlRWd2lmM1h6bGtoblhuM2VTaXM5YkY0OFI4LWpmTFhxWTRUS0F0VHc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "summary": "Agentic Commerce Is Reshaping Competition Among Payment Providers &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1781074800.0
     },
     {
       "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
@@ -552,6 +552,17 @@
       "published_ts": 1646640000.0
     },
     {
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + acquires",
+      "published_ts": 1639641600.0
+    },
+    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
@@ -583,17 +594,6 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
@@ -602,6 +602,6 @@
     "opportunities": 24,
     "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 10.4
   }
 }
