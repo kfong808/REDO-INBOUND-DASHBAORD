@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T23:56:18.800658+00:00",
+  "updated": "2026-07-04T02:06:42.090769+00:00",
   "items": [
     {
       "title": "Visa and banks across Europe reach the next phase of agentic commerce - Business Review",
@@ -46,15 +46,15 @@
       "published_ts": 1783062510.0
     },
     {
-      "title": "Cross River Teams With Stripe on Issuance for Agentic Commerce - Digital Transactions",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0REZDVla0RyaDliWHdqenhsMUdmTWlDa2xrWS00MzkxR2wtMGdvUkp4WDY1bWNvQ0hVVmlxS2VXeTBwNWNLd1ZJZzhrWHRrTXdUTEc0WENtOXNlcWFiMV9YeVRKNHNGUUdIY3hOUHdodlkyMnZoR3RPMEpxTnlKVEx5MUw1X0FGZm9vcWR3aXR1MXhWb1VJYTB1WEUxMEdk?oc=5",
+      "title": "Cross River Bank expands partnership with Stripe to power agentic commerce - ROI-NJ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHFYekF3ZW05Wks2WWswdUpwYUt3Z1ZFNFZERHVBZm5QNFdzR2lDM0VuTE8xYmc4RjBJY3ZkTk5FSm12SDNLVnZMOXIzc0YzZmlGbnRzQUV3OFFIUTlKLTNuckdGV1Rpajh3UWd2RFhEUUZYeHZpT3B0U2U3djNkWDZQU1pRWC1haThxd01kX0JEUDNVZjdzYTZMX0d6b2hkenFfLXc2eWpjMGdTa2dUSWhKd0JZY3NH?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 02 Jul 2026 14:32:01 GMT",
-      "summary": "Cross River Teams With Stripe on Issuance for Agentic Commerce &nbsp;&nbsp; Digital Transactions",
+      "published": "Thu, 02 Jul 2026 10:18:02 GMT",
+      "summary": "Cross River Bank expands partnership with Stripe to power agentic commerce &nbsp;&nbsp; ROI-NJ",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783002721.0
+      "published_ts": 1782987482.0
     },
     {
       "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
@@ -332,6 +332,17 @@
       "published_ts": 1782727200.0
     },
     {
+      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
+      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1782661712.0
+    },
+    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -374,6 +385,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
+    },
+    {
+      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -543,10 +565,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 49,
+    "kept": 51,
     "opportunities": 22,
-    "threats": 27,
+    "threats": 29,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 10.4
   }
 }
