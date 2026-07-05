@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T13:05:23.203984+00:00",
+  "updated": "2026-07-05T15:04:49.756966+00:00",
   "items": [
     {
       "title": "Is Visa (V) Quietly Recasting Its Moat Around AI-Agentic Commerce And Security Platforms? - simplywall.st",
@@ -332,6 +332,17 @@
       "published_ts": 1782826800.0
     },
     {
+      "title": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEh2N2s0YzZvNTQ0bFJFd2xYV0xOZGt3TnJCMXF3cUJabE5fMkRwZGZfSUVnX3gzMFdwZU1GZkRvQW1DNnkyZUVNRU90X2Z4TU9fQlJSYllEbERpeFFITHdJZUJfbGpmamxyUW9rQjF4QlZ1dmptc3pzbFZfTGd2Sm1haV9mT2JqbnFUQUNWSE9WV0NQUFVWUGRyX0JxU2xnTmFfX0J1NGVsc3JqLXhFYUktZkl6Y01YMUpuUnlseTczT0E5bWJXS3FBTHRnZXc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 30 Jun 2026 13:03:00 GMT",
+      "summary": "NYSE Content Update: Klaviyo Launches AI Agents to Elevate Consumer Brands &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1782824580.0
+    },
+    {
       "title": "Klaviyo CEO: Infrastructure companies will lead this new era - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTNlbDhwaFZHbWxDRTNtVkh5MFFwWGUwQ3kxbUJoVUphdjdjVjd3SExlZVRpa0ZWVjNJN0hkb1lRR19NNER0eHVYQkh2cnNTd3VFb29wTEhuWTF0N2FTNFpHS3lVMEM1UGRSTTZCTWk5VHE0bVlxS1VENDhpX1JXTEpWOVJOLVMtWFYtUUtndEVtcEo3Sl9DbHh0aWUxTU51bldxMw?oc=5",
       "source": "Google News: Klaviyo",
@@ -365,15 +376,15 @@
       "published_ts": 1782727200.0
     },
     {
-      "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
+      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Fri, 26 Jun 2026 08:43:12 GMT",
-      "summary": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) &nbsp;&nbsp; Fathom Journal",
+      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
+      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782463392.0
+      "published_ts": 1782661712.0
     },
     {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
@@ -418,6 +429,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1778834544.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
@@ -587,9 +609,9 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 53,
+    "kept": 55,
     "opportunities": 24,
-    "threats": 29,
+    "threats": 31,
     "classifier_mode": "keyword",
     "runtime_seconds": 10.8
   }
