@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T22:51:12.690936+00:00",
+  "updated": "2026-07-05T23:56:22.837200+00:00",
   "items": [
     {
       "title": "Is Visa (V) Quietly Recasting Its Moat Around AI-Agentic Commerce And Security Platforms? - simplywall.st",
@@ -13,17 +13,6 @@
       "published_ts": 1783223872.0
     },
     {
-      "title": "Visa and banks across Europe reach the next phase of agentic commerce - Business Review",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb1ppU19NLVpWNko2S3JxXzBFVTZzNVlncTVIMFhBVThWVlJteGN4N25OcWVGa1dYenVGS3M5cktibmM5bjdPSDBVYzdNT1g2OElHcDBWRnhxZl9Gemt3WmV5aVRibHpYTkxHN1Qtb3pWREg4bzdhNjlZZzFRbi1lckFVYmxTT21PeHdNN0tlVlFkaTRDMmFfQ244eVVjMUoyMTlNMklPWkgyVWZTVWZKbzNrbENURk1X?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 03 Jul 2026 11:48:13 GMT",
-      "summary": "Visa and banks across Europe reach the next phase of agentic commerce &nbsp;&nbsp; Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783079293.0
-    },
-    {
       "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjN4QkdFY0xoWDhOSmY3VHBVU0l3LUExblp1UmRaYjZjbW9YRDNqdldlQl8tc3JEb1hUeVlfNE9UbEN6dDNEZXItMlZubkJvcDdtV2xrVV9BWTFvXy1XRHFCcFVVOU95MlNNWmFzTF8xOVY2MERQcmpkdVpocUt1RUoyc3Q2SGdtdFNSemcxaFgtdjJOZHpKUk82YnpiZw?oc=5",
       "source": "Google News: agentic commerce",
@@ -33,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783071180.0
+    },
+    {
+      "title": "Visa’s Oliver Jenkyn on why trust will decide the future of agentic commerce - Fast Company Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlRRcUZRS1h6ck0wd3Q2alRMMDBFRHFPT1EtQ3lRSFJHdUI2bUpxMWY2VjRhZXNXMjZxUzhLSlBuWkJIYWIxRmxUZzU5MkF1b1JBT1lkdHV2SDlQUzJ6YmQ0T2QweW9zWEF0UDhDSVlYUEdIQllDd1JoNkR4TXo3bE9uZzhfamxpQWFMeFlVTFdkUkR2c0hYSXdJaElWZFcwR0tobk8ybzRxelJZV3JtelFubw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 03 Jul 2026 07:08:30 GMT",
+      "summary": "Visa’s Oliver Jenkyn on why trust will decide the future of agentic commerce &nbsp;&nbsp; Fast Company Middle East",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783062510.0
     },
     {
       "title": "Cross River Teams With Stripe on Issuance for Agentic Commerce - Digital Transactions",
@@ -99,6 +99,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782819000.0
+    },
+    {
+      "title": "Many consumers would bin AI shopping agents after just one mistake, ACI Worldwide research finds - Retail Technology Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQldjVnRjWVJJeHppbE1ubFZVSVptOW92c0hITmxaNFc5bWJ0UmVyUHZJeC05ZlpldkIwLXB5QVNSWVJrNWlkV2hxaW4wREtkUlN6RnFFTlBDYk1UZnhuOUFhdUQ1RE1tSkYtRzY1djZNSTVVX2NKYS0wYWY3MmViYXphQ3Y5eDVGV3hkUWw3Rmdpa1JXOU53TXZIVEw4SldITE5kamN0R1BEWnpVbzR0b3Nnd29tQy1xeEhLYjdXZ0x4ZUNoakFGc2tIRVgzUndoVkhyN3p1MlNEZm5VRC1J?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 30 Jun 2026 04:38:41 GMT",
+      "summary": "Many consumers would bin AI shopping agents after just one mistake, ACI Worldwide research finds &nbsp;&nbsp; Retail Technology Innovation Hub",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782794321.0
     },
     {
       "title": "Trust Issues Could Make or Break Agentic Commerce - Tech Policy Press",
@@ -231,28 +242,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1767686400.0
-    },
-    {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZdEtMeFo1V1JRVW5nZzhQcTRyNjRSMEtxME02eEdaS3BHUnN1V0lSR0RpWkhiWm4wN1FZaThwT0NHUV81b0VvMFoxX19pb0c4LWV6MElLMDRpdEx1S0hPZHVLMzJKakxDcEJGcmZWaFQ5SVJjZTZPUk1qYw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
     },
     {
       "title": "Klaviyo (KVYO) Stock May Be 50% Undervalued After Raised Guidance - simplywall.st",
@@ -497,6 +486,17 @@
       "published_ts": 1767686400.0
     },
     {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
+    },
+    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -610,9 +610,9 @@
   "stats": {
     "total_fetched": 270,
     "kept": 55,
-    "opportunities": 23,
-    "threats": 32,
+    "opportunities": 22,
+    "threats": 33,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.9
+    "runtime_seconds": 10.6
   }
 }
