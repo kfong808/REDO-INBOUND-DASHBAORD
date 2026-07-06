@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-06T19:39:47.327762+00:00",
+  "updated": "2026-07-06T21:19:59.912316+00:00",
   "items": [
+    {
+      "title": "Agentic Commerce Networks - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNDBjems2X04tUmFZU1c3ZFN1WnRyZHQ0dWtSNk5CY2lKQ00zWXV3YV9ET1RUd0tBTTlRbGNkb3VkMXdwcExzR3FCZVB1eldYMzdwQndFWm1nX3kzS0czdWJJNUVkQnhydHJZeGJmblVjZ9IBckFVX3lxTE5xNDBjems2X04tUmFZU1c3ZFN1WnRyZHQ0dWtSNk5CY2lKQ00zWXV3YV9ET1RUd0tBTTlRbGNkb3VkMXdwcExzR3FCZVB1eldYMzdwQndFWm1nX3kzS0czdWJJNUVkQnhydHJZeGJmblVjZw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 06 Jul 2026 18:28:07 GMT",
+      "summary": "Agentic Commerce Networks &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783362487.0
+    },
     {
       "title": "AI in retail is only as good as its data foundation",
       "url": "https://www.retaildive.com/spons/ai-in-retail-is-only-as-good-as-its-data-foundation/824409/",
@@ -187,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo (KVYO) Stock May Be 50% Undervalued After Raised Guidance - simplywall.st",
@@ -442,6 +464,17 @@
       "published_ts": 1767686400.0
     },
     {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
+    },
+    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -541,11 +574,11 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -554,9 +587,9 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 50,
-    "opportunities": 17,
-    "threats": 33,
+    "kept": 53,
+    "opportunities": 19,
+    "threats": 34,
     "classifier_mode": "keyword",
     "runtime_seconds": 10.7
   }
