@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T23:56:22.837200+00:00",
+  "updated": "2026-07-06T02:27:08.114382+00:00",
   "items": [
     {
       "title": "Is Visa (V) Quietly Recasting Its Moat Around AI-Agentic Commerce And Security Platforms? - simplywall.st",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783223872.0
+    },
+    {
+      "title": "Visa and banks across Europe reach the next phase of agentic commerce - Business Review",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb1ppU19NLVpWNko2S3JxXzBFVTZzNVlncTVIMFhBVThWVlJteGN4N25OcWVGa1dYenVGS3M5cktibmM5bjdPSDBVYzdNT1g2OElHcDBWRnhxZl9Gemt3WmV5aVRibHpYTkxHN1Qtb3pWREg4bzdhNjlZZzFRbi1lckFVYmxTT21PeHdNN0tlVlFkaTRDMmFfQ244eVVjMUoyMTlNMklPWkgyVWZTVWZKbzNrbENURk1X?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 03 Jul 2026 11:48:13 GMT",
+      "summary": "Visa and banks across Europe reach the next phase of agentic commerce &nbsp;&nbsp; Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783079293.0
     },
     {
       "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
@@ -68,17 +79,6 @@
       "published_ts": 1782987482.0
     },
     {
-      "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DLWZzRWFHcE5LSjhCNWpjSjZ4dV9NU3JaaE8xZTBmbVlYQlhFSWJDS1RUSmNtZGR6RXRTcDJKUFUtSFdna2s5bXdCTFZ5elNISUppdUtoRDk1MWot?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Wed, 01 Jul 2026 19:04:45 GMT",
-      "summary": "Ecommerce Growth Guide: Strategies for 2026 &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1782932685.0
-    },
-    {
       "title": "New Ecommerce Tools: July 1, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-1-2026",
       "source": "Practical Ecommerce",
@@ -110,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782794321.0
-    },
-    {
-      "title": "Trust Issues Could Make or Break Agentic Commerce - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSmlCSGZJYmZyZ21NRGJSZUFYbm5zaGZfdVBNbjY5TjlWRmJLeUhCa2p0bXl1Mmw2VEhOTUFMMXcwRmh4d25fQmJzNnFIazdzWnJlTGw1Y1Y0eHN4Z0VVUzRHalFaaS1SaHVIcnh6VzNZRVlRZUw2TXJyQlI5T0k?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 29 Jun 2026 15:46:24 GMT",
-      "summary": "Trust Issues Could Make or Break Agentic Commerce &nbsp;&nbsp; Tech Policy Press",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782747984.0
     },
     {
       "title": "Dynamics 365 Commerce MCP Server for AI Agents and Agentic Commerce - Microsoft",
@@ -211,6 +200,17 @@
       "published_ts": 1781161200.0
     },
     {
+      "title": "Will grocers rely on Instacart for AI shopping? - Grocery Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUZvTENhWW9ESzltSjFHRWNxV04tMmNDVUVIRWZoWTFqMUhFajZpSzU2NHZHdXpQNXRqV09XV0llRUdVSlFtT1JXOS1Bd1pvZWQ2cHFPblJDbnBxbzBNZ2I3a01RZlBPUWh4WUFGc1lUT2FNS3VGbXNibFVEM1QwX3FtSV80aW15Y2dfQldFWWtRNmJXQnkzbQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "summary": "Will grocers rely on Instacart for AI shopping? &nbsp;&nbsp; Grocery Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1780988400.0
+    },
+    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -220,17 +220,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1773730800.0
-    },
-    {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -255,15 +244,15 @@
       "published_ts": 1783233918.0
     },
     {
-      "title": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTFlcDByMDlLNmdqNXd4ZW1ORzl6SE9FTS1HWXJyazBDcXZrV2lROS04X0oySWl4aEdNN0ppdGdoaWRON21RbmFEam9wY09LdVBLcjFOTXJyU0l3V1BPWmRrUFctVGlNNjNLQlppVzVRZE5YYXUyRXJqbGV5Nk5WN3lZWFJ0bEszY2xCNlhZVHJ2ejZKODBuaTJVY1FyTzA?oc=5",
+      "title": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdEdjTHZpOGtINXotbVZnSTY2S0hoYkhFVlg0Mk9wTS16WEFUZ21NWlhoeURvNk4zNFhXLWZlV3RKX0FPWkpqNl9sMjd6SFg2N0V0N2NRbEROVFNEbVh5UU5XMlhRQzRhTWVNZmN0b0dueUI5Z0dZZVpPWS15dHNNS2ZERXNKQV84ZEV0bUo2Yk9xSExLWTl4aXhJVkZzNk0yMDN6VXNRMk9FeEsxMU1RVjJORThBdU43WGxqUi1vUnA1emtY0gHEAUFVX3lxTFB0R2NMdmk4a0g1ei1tVmdJNjZLSGhiSEVWWDQyT3BNLXpYQVRnbU1aWGh5RG82TjM0WFctZmVXdEpfQU9aSmo2X2wyN3pIWDY3RXQ3Y1FsRE5UU0RtWHlRTlcyWFFDNGFNZU1mY3RvR255QjlnR1llWk9ZLXl0c01LZkRFc0pBXzhkRXRtSjZiT3FITEtZOXhpeElWRnM2TTIwM3pVc1EyT0V4SzExTVFWMk5FOEF1TjdYbGpSLW9ScDV6a1g?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 04 Jul 2026 13:22:48 GMT",
-      "summary": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent &nbsp;&nbsp; Yahoo Finance",
+      "published": "Sat, 04 Jul 2026 13:29:39 GMT",
+      "summary": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent &nbsp;&nbsp; Insider Monkey",
       "classification": "threat",
       "confidence": "high",
       "reasoning": "Klaviyo + launches, ai marketing agent",
-      "published_ts": 1783171368.0
+      "published_ts": 1783171779.0
     },
     {
       "title": "Ondo Finance, Lantern, Bluprynt And Klaviyo Launch Fintech Products - Crowdfund Insider",
@@ -609,10 +598,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 55,
-    "opportunities": 22,
+    "kept": 54,
+    "opportunities": 21,
     "threats": 33,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.5
   }
 }
