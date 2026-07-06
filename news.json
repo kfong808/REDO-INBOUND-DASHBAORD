@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T11:53:58.500166+00:00",
+  "updated": "2026-07-06T14:56:26.171940+00:00",
   "items": [
     {
       "title": "AI in retail is only as good as its data foundation",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783223872.0
-    },
-    {
-      "title": "Visa and banks across Europe reach the next phase of agentic commerce - Business Review",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb1ppU19NLVpWNko2S3JxXzBFVTZzNVlncTVIMFhBVThWVlJteGN4N25OcWVGa1dYenVGS3M5cktibmM5bjdPSDBVYzdNT1g2OElHcDBWRnhxZl9Gemt3WmV5aVRibHpYTkxHN1Qtb3pWREg4bzdhNjlZZzFRbi1lckFVYmxTT21PeHdNN0tlVlFkaTRDMmFfQ244eVVjMUoyMTlNMklPWkgyVWZTVWZKbzNrbENURk1X?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 03 Jul 2026 11:48:13 GMT",
-      "summary": "Visa and banks across Europe reach the next phase of agentic commerce &nbsp;&nbsp; Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783079293.0
     },
     {
       "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
@@ -332,6 +321,17 @@
       "published_ts": 1782727200.0
     },
     {
+      "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 26 Jun 2026 08:43:12 GMT",
+      "summary": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) &nbsp;&nbsp; Fathom Journal",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1782463392.0
+    },
+    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -374,6 +374,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -554,10 +565,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 50,
-    "opportunities": 19,
-    "threats": 31,
+    "kept": 51,
+    "opportunities": 18,
+    "threats": 33,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 11.2
   }
 }
