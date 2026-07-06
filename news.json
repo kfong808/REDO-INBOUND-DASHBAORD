@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T14:56:26.171940+00:00",
+  "updated": "2026-07-06T17:36:18.617009+00:00",
   "items": [
     {
       "title": "AI in retail is only as good as its data foundation",
@@ -24,15 +24,15 @@
       "published_ts": 1783223872.0
     },
     {
-      "title": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjN4QkdFY0xoWDhOSmY3VHBVU0l3LUExblp1UmRaYjZjbW9YRDNqdldlQl8tc3JEb1hUeVlfNE9UbEN6dDNEZXItMlZubkJvcDdtV2xrVV9BWTFvXy1XRHFCcFVVOU95MlNNWmFzTF8xOVY2MERQcmpkdVpocUt1RUoyc3Q2SGdtdFNSemcxaFgtdjJOZHpKUk82YnpiZw?oc=5",
+      "title": "eDreams ODIGEO and Visa power agentic commerce in travel with new secure AI agent protocols - WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HczJfMmlSeHlXNkNUajRORjFMMXEyTm02ZElBeDlaN0paZUxMaXF0SlpTbGhXRFB3Q0ZEZ1Z6cm42VkJtaEVaZ3JiV0xvcVdwRTNyTTZJN21aMk1tRi1vcQ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 03 Jul 2026 09:33:00 GMT",
-      "summary": "eDreams ODIGEO and Visa Power Agentic Commerce in Travel With New Secure AI agent Protocols &nbsp;&nbsp; Yahoo Finance",
+      "published": "Fri, 03 Jul 2026 17:14:54 GMT",
+      "summary": "eDreams ODIGEO and Visa power agentic commerce in travel with new secure AI agent protocols &nbsp;&nbsp; WebWire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783071180.0
+      "published_ts": 1783098894.0
     },
     {
       "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
@@ -198,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo (KVYO) Stock May Be 50% Undervalued After Raised Guidance - simplywall.st",
@@ -565,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 51,
-    "opportunities": 18,
+    "kept": 52,
+    "opportunities": 19,
     "threats": 33,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.8
   }
 }
