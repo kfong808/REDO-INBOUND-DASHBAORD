@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T21:13:49.813439+00:00",
+  "updated": "2026-07-07T22:50:30.232888+00:00",
   "items": [
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783431530.0
-    },
-    {
-      "title": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdklBSnBUcnNLLXNKQ3FYYnlOdjJwZWhZZXVVZnpQMWlYSUtOU1pSNUNLcFFPYUJqeWc3ek5vemg4OUl5OEhSenFsdldjVmVxVHRyTmY4Wnhna2NyS3Y2YjB0OEZIVG9Jb2VYRnlyRmZicjl4R3ZnYUdTQkNLSXFZZkJ2STZMWTk3Q2xxX1lXd0UyMFVxRjNEd0F1OXB5V2M1aUp1eEwyQTFCNzNQc3N3aEFYV05SWlNrbXczWkxCa1BfRVRTWEduNmZONA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 07 Jul 2026 13:24:44 GMT",
-      "summary": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift &nbsp;&nbsp; StreetInsider",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783430684.0
     },
     {
       "title": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift - Yahoo Finance",
@@ -57,6 +46,17 @@
       "published_ts": 1783362487.0
     },
     {
+      "title": "Visa’s Oliver Jenkyn on why trust will decide the future of agentic commerce - Fast Company Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlRRcUZRS1h6ck0wd3Q2alRMMDBFRHFPT1EtQ3lRSFJHdUI2bUpxMWY2VjRhZXNXMjZxUzhLSlBuWkJIYWIxRmxUZzU5MkF1b1JBT1lkdHV2SDlQUzJ6YmQ0T2QweW9zWEF0UDhDSVlYUEdIQllDd1JoNkR4TXo3bE9uZzhfamxpQWFMeFlVTFdkUkR2c0hYSXdJaElWZFcwR0tobk8ybzRxelJZV3JtelFubw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 06 Jul 2026 17:18:11 GMT",
+      "summary": "Visa’s Oliver Jenkyn on why trust will decide the future of agentic commerce &nbsp;&nbsp; Fast Company Middle East",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783358291.0
+    },
+    {
       "title": "Cross River Teams With Stripe on Issuance for Agentic Commerce - Digital Transactions",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0REZDVla0RyaDliWHdqenhsMUdmTWlDa2xrWS00MzkxR2wtMGdvUkp4WDY1bWNvQ0hVVmlxS2VXeTBwNWNLd1ZJZzhrWHRrTXdUTEc0WENtOXNlcWFiMV9YeVRKNHNGUUdIY3hOUHdodlkyMnZoR3RPMEpxTnlKVEx5MUw1X0FGZm9vcWR3aXR1MXhWb1VJYTB1WEUxMEdk?oc=5",
       "source": "Google News: agentic commerce",
@@ -90,15 +90,15 @@
       "published_ts": 1782910815.0
     },
     {
-      "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWlTNEl0MHpabzN0OUUzTjJaS2NCQ2djblNXeHZYT1BYRTVTb2xjUlpKbDI4dmZ5aXcyWldxMFdYU1FzUW5UTVEtU0NaTUQ4NU9KWnhlVU96TzJQZVpITDIwWTltZEtaTmVIX1RNeklOS2dYWHpkV05GLWlLVWxKOFhwcFplRDZmb3JvSVhYZkR5bU0?oc=5",
+      "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Sun, 28 Jun 2026 07:00:00 GMT",
-      "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Yahoo Finance",
+      "published": "Mon, 29 Jun 2026 05:00:00 GMT",
+      "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1782630000.0
+      "published_ts": 1782709200.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -198,17 +198,6 @@
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
       "published_ts": 1771920000.0
-    },
-    {
-      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1767686400.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -420,6 +409,17 @@
       "published_ts": 1768204800.0
     },
     {
+      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1767686400.0
+    },
+    {
       "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
       "source": "Google News: Attentive",
@@ -542,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 49,
-    "opportunities": 20,
-    "threats": 29,
+    "opportunities": 19,
+    "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 10.5
   }
 }
