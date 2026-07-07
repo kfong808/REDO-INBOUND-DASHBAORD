@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:04:33.450745+00:00",
+  "updated": "2026-07-07T19:39:17.897402+00:00",
   "items": [
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783431530.0
+    },
+    {
+      "title": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdklBSnBUcnNLLXNKQ3FYYnlOdjJwZWhZZXVVZnpQMWlYSUtOU1pSNUNLcFFPYUJqeWc3ek5vemg4OUl5OEhSenFsdldjVmVxVHRyTmY4Wnhna2NyS3Y2YjB0OEZIVG9Jb2VYRnlyRmZicjl4R3ZnYUdTQkNLSXFZZkJ2STZMWTk3Q2xxX1lXd0UyMFVxRjNEd0F1OXB5V2M1aUp1eEwyQTFCNzNQc3N3aEFYV05SWlNrbXczWkxCa1BfRVRTWEduNmZONA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 07 Jul 2026 13:24:44 GMT",
+      "summary": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift &nbsp;&nbsp; StreetInsider",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783430684.0
     },
     {
       "title": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift - Yahoo Finance",
@@ -167,6 +178,17 @@
       "published_ts": 1781161200.0
     },
     {
+      "title": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJORW9JaVVKakpmU2ltZUtWYk44LVdxVGwyQ3lNNG9GLVpZR0d0WG84Y0lXd1djYzZjR1N0LU1sYnRNUExyMXBVVzU3dDBHaVBuSEJ3dG9WNk1zMk1tMDdmRENwV0lBbVRSTlFoLTZtcW9sZUE1d1MzZnJPOEZVcF93VlBHd29DQzFXTzJldmo0ZnFXbk9CSWZsQktjX1dNVS1Oc3hidkhxa2xabXBlZDJn?oc=5",
+      "source": "Google News: Shopify Plus",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "The Agentic Commerce Explosion: What Shopify Plus Brands Need to Do About It Right Now &nbsp;&nbsp; Digital Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1779087600.0
+    },
+    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -178,26 +200,15 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1768464000.0
+      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo launches social marketing product for B2C brands - Investing.com",
@@ -222,15 +233,15 @@
       "published_ts": 1783431044.0
     },
     {
-      "title": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Insider Monkey",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdEdjTHZpOGtINXotbVZnSTY2S0hoYkhFVlg0Mk9wTS16WEFUZ21NWlhoeURvNk4zNFhXLWZlV3RKX0FPWkpqNl9sMjd6SFg2N0V0N2NRbEROVFNEbVh5UU5XMlhRQzRhTWVNZmN0b0dueUI5Z0dZZVpPWS15dHNNS2ZERXNKQV84ZEV0bUo2Yk9xSExLWTl4aXhJVkZzNk0yMDN6VXNRMk9FeEsxMU1RVjJORThBdU43WGxqUi1vUnA1emtY0gHEAUFVX3lxTFB0R2NMdmk4a0g1ei1tVmdJNjZLSGhiSEVWWDQyT3BNLXpYQVRnbU1aWGh5RG82TjM0WFctZmVXdEpfQU9aSmo2X2wyN3pIWDY3RXQ3Y1FsRE5UU0RtWHlRTlcyWFFDNGFNZU1mY3RvR255QjlnR1llWk9ZLXl0c01LZkRFc0pBXzhkRXRtSjZiT3FITEtZOXhpeElWRnM2TTIwM3pVc1EyT0V4SzExTVFWMk5FOEF1TjdYbGpSLW9ScDV6a1g?oc=5",
+      "title": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTFlcDByMDlLNmdqNXd4ZW1ORzl6SE9FTS1HWXJyazBDcXZrV2lROS04X0oySWl4aEdNN0ppdGdoaWRON21RbmFEam9wY09LdVBLcjFOTXJyU0l3V1BPWmRrUFctVGlNNjNLQlppVzVRZE5YYXUyRXJqbGV5Nk5WN3lZWFJ0bEszY2xCNlhZVHJ2ejZKODBuaTJVY1FyTzA?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 04 Jul 2026 13:29:39 GMT",
-      "summary": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent &nbsp;&nbsp; Insider Monkey",
+      "published": "Sat, 04 Jul 2026 13:22:48 GMT",
+      "summary": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "high",
       "reasoning": "Klaviyo + launches, ai marketing agent",
-      "published_ts": 1783171779.0
+      "published_ts": 1783171368.0
     },
     {
       "title": "Ondo Finance, Lantern, Bluprynt And Klaviyo Launch Fintech Products - Crowdfund Insider",
@@ -253,28 +264,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
       "published_ts": 1782959165.0
-    },
-    {
-      "title": "Attentive.ai launches BIM CoPilot, bringing human-vetted BIM management to the build phase - Geo Week News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmZLTWZzVkhsS3phTkJoRFk2Ym83Rmwxa2tnSDROeElpbnZQNHdlODhlOHFfVlNEV1RrOVB2WWZRZmFCb1BfVWItaVVrSmFybUNQcjg1MXJjZFBzM3NiTzRzUnVHNTBVQmRnSlBJMlNlNGZfa0VIZ1ZjMWhiVzJCR1RFUmRRQnNSa3pNT2VGQ3ZKZ3lia05VTmFsdlZWak9vZUdLZnY2eEFtOUplcHViUDA5MDZfYzNvNl9Ndm9EdTh2MlZQOUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 01 Jul 2026 19:15:38 GMT",
-      "summary": "Attentive.ai launches BIM CoPilot, bringing human-vetted BIM management to the build phase &nbsp;&nbsp; Geo Week News",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1782933338.0
-    },
-    {
-      "title": "Klaviyo Launches AI Agents That Work Together to Drive Revenue for Consumer Brands - CMSWire",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGlfeXY3Rk16NlRfN1ZEeFMtMHZkemxPdUJ3SVJyaUJTcnhtMDU4VU9BcEhPdW04N1ljX3AxREVkRnpNSmNYNHpvbTFNY2VXNTdaTWlUMzNRUmNxc3JVRUdJejBzZmwxUWJRWDBUaTAwSkt3RXo3c1lwVVo2SGNIQ1VzV3Y4Mk1wUlQ3U0g0YXpjeVZ1bG4tV2JrOXFTWFQ4ek1uZ2YxZC1OS1VqbmFLOGVRZ3NEalk?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 15:52:34 GMT",
-      "summary": "Klaviyo Launches AI Agents That Work Together to Drive Revenue for Consumer Brands &nbsp;&nbsp; CMSWire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1782834754.0
     },
     {
       "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
@@ -553,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 50,
-    "opportunities": 18,
-    "threats": 32,
+    "total_fetched": 270,
+    "kept": 49,
+    "opportunities": 19,
+    "threats": 30,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.8
+    "runtime_seconds": 10.4
   }
 }
