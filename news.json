@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T17:18:05.856932+00:00",
+  "updated": "2026-07-08T19:05:23.420765+00:00",
   "items": [
     {
       "title": "How to Scale Trust in Agentic Commerce and Digital Money - Finextra Research",
@@ -77,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: shutting down",
       "published_ts": 1783479569.0
+    },
+    {
+      "title": "MegazoneCloud Deploys Multi-Agent AI Shopping Agent for Golfzon Commerce - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnZkY1BKRTZ5YUd2eGhENlRfU1ExOWE4RkVYVURMT1BJMk1FYnhSS19JamJhN2FiWE9rSm9NQXZiTlhKRTAtUjhkQlN1WUtWbEJtWGJNR0xnaG9WVXFoSk5oSkd0Rm1fVm9jeU02YWtVQVlKUnFzUGhueDllVk0zeXhxMlVkYTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 07 Jul 2026 17:45:06 GMT",
+      "summary": "MegazoneCloud Deploys Multi-Agent AI Shopping Agent for Golfzon Commerce &nbsp;&nbsp; AOL.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1783446306.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -222,17 +233,6 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -255,17 +255,6 @@
       "published_ts": 1729062000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
-    },
-    {
       "title": "Klaviyo adds social marketing tool to consumer CRM platform - ecommercenews.com.au",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnpsOGtTR0tCVE5TNl9veWJoMG5YbnFZMC03dWJxYWQ1em1jeWdEcG9zcG42TGFDVlVfcUhpQ3ozSEc1YmVvNmxRelBlS3hJUzhoamUtQjBoVnptRkNyVzh2LTVXRDB0a1hGRXpkei00X0pmTjlSa2tQVktfVUJKR0t0aHJwM2F1Z2M5amxxUi16bVNyNW15dXp3?oc=5",
       "source": "Google News: Klaviyo",
@@ -277,15 +266,15 @@
       "published_ts": 1783500300.0
     },
     {
-      "title": "Klaviyo launches social marketing product for B2C brands - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmEtZ2laaXlDWVZWc0xFcG9GTzB0Y0tiUWdPYzFLQnNaT2FBV3I4R2lDcVhJSm91eHd5V2xSWFJYT3Y4aWJYMWh6cHJuUTBJeUY4S21vZnREU3dyNVRLLUgteUNFN1ZLZ293LWM4c2VGYU0wcUhSakJBekRQRkI4VjNLMmJyU1dFWWR6YVFnd0NoTndfbEtDc2VFUFhWdW9HdjVwYWdHWXloN2t5VlhTWDZ0TQ?oc=5",
+      "title": "Klaviyo launches social marketing product for B2C brands By Investing.com - Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalZZYkpuZGdBbW5zYTByYXY4eEZoTHFJb3ZTaEpmRmRVX1g3NjV3S3VUamRTVlpkd1R0SnQ4cl9VM1czTmFqWmpjbmJMalR3TElwQXJpUzdWT3hzNDZtTExtc18tcFlWdjRXbU1iVEE3UlNBR0xfa2pUQWR1MnZaM19kOS1ITkVfc0wtTmI1dkJjQTRuRm1TV3IzVDdSUllaNnppQlQ5WGdoamNHZThMelpuUGVpTkh2?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 07 Jul 2026 14:01:55 GMT",
-      "summary": "Klaviyo launches social marketing product for B2C brands &nbsp;&nbsp; Investing.com",
+      "published": "Tue, 07 Jul 2026 14:18:35 GMT",
+      "summary": "Klaviyo launches social marketing product for B2C brands By Investing.com &nbsp;&nbsp; Investing.com South Africa",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
-      "published_ts": 1783432915.0
+      "published_ts": 1783433915.0
     },
     {
       "title": "Klaviyo launches social media marketing product for its CRM platform - StreetInsider",
@@ -343,17 +332,6 @@
       "published_ts": 1782727200.0
     },
     {
-      "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 26 Jun 2026 08:43:12 GMT",
-      "summary": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) &nbsp;&nbsp; Fathom Journal",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782463392.0
-    },
-    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -385,17 +363,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 01 May 2026 07:00:00 GMT",
-      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -576,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 52,
-    "opportunities": 24,
-    "threats": 28,
+    "kept": 49,
+    "opportunities": 23,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.2
+    "runtime_seconds": 11.4
   }
 }
