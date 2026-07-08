@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-08T01:30:27.055208+00:00",
+  "updated": "2026-07-08T04:58:17.453882+00:00",
   "items": [
+    {
+      "title": "What are you actually doing for inventory?",
+      "url": "https://www.reddit.com/r/shopify/comments/1uqgi2s/what_are_you_actually_doing_for_inventory/",
+      "source": "r/shopify",
+      "published": "2026-07-08T02:59:29+00:00",
+      "summary": "With Stocky shutting down in August, curious what people are actually doing for inventory management now. Are you moving to one of the paid apps (Inventory Planner, Prediko, etc), building something custom with Claude or n8n, or just using Shopify's native POs and hoping for the best? Genuinely curious what's working for smaller stores that don't need enterprise features. &#32; submitted by &#32; /u/Accomplished-Name1 [link] &#32; [comments]",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: shutting down",
+      "published_ts": 1783479569.0
+    },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-7-2026",
@@ -104,12 +115,12 @@
       "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Mon, 29 Jun 2026 05:00:00 GMT",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1782709200.0
+      "published_ts": 1782716400.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -189,15 +200,15 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
       "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1768464000.0
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
     },
     {
       "title": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience - WWD",
@@ -209,6 +220,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1729062000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo launches social marketing product for B2C brands - Investing.com",
@@ -244,15 +266,15 @@
       "published_ts": 1783171368.0
     },
     {
-      "title": "Ondo Finance, Lantern, Bluprynt And Klaviyo Launch Fintech Products - Crowdfund Insider",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1V1VGRQbk1XdFNpX1BMSHBfaXdYRDZyU3I1RXZBZUl3eFF6eHc0SjlYcERmczdfTFhxT2JqVkx0UVJfTzJ1NU80M25OMXpGZ29QNVdSQXJtN0c3ckQwSWZzaDJlMHlNLTNNejM5X1FYRDJjMV8wNWpxLUM3RTF4Mm1VOGt5SHltdThGZHB2VmRMdGtYelVQbUtCTFQzZkdRaVBSVlo2R01laFBKdm94MmEwa04?oc=5",
+      "title": "Klaviyo (KVYO) Launches Composer Beta, Is The Stock Cheap Or Is Growth Priced In? - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUVktMmdUVjdSTnBaVnAxc1h0Y1I3X1NxZ1V1YmtQV2FoVnlqdnhBMEtyX21HdUV2em5XMXN6cWx2dU01QWxSaHd1aVYyenVzOHRkN2t4SFM5UlljM2g0bmtxZzdndmt6MkNkUEYyVGpDOVBmUmdrdG1fanpabkVDalBBbWo3QmVxWGllZ3Q2TXh0T3hRejB4VGxGUzAxalNyenItTkpvaEVrYXNQM3M3akJmUU5IWUV3dk42TjRUR1A4VzFzS09JNw?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 04 Jul 2026 09:55:08 GMT",
-      "summary": "Ondo Finance, Lantern, Bluprynt And Klaviyo Launch Fintech Products &nbsp;&nbsp; Crowdfund Insider",
+      "published": "Fri, 03 Jul 2026 11:59:30 GMT",
+      "summary": "Klaviyo (KVYO) Launches Composer Beta, Is The Stock Cheap Or Is Growth Priced In? &nbsp;&nbsp; Sahm",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1783158908.0
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1783079970.0
     },
     {
       "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
@@ -299,17 +321,6 @@
       "published_ts": 1782727200.0
     },
     {
-      "title": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVpIYjNBQXN6LWFiZ3JWTTk4ZmpaQ19vMndSUU1mZzh6UVBQY1JwVHR0ck9tT2k0ZFFMUlh2QUtTXzBkRXNGbnVnR2RVR09YWjhFQ3p5Q2J1bjY2cW5fM2Fya1UtaEtVdFE?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 26 Jun 2026 08:43:12 GMT",
-      "summary": "How To Send A Canva Newsletter With Mailchimp [2025 Full Guide] Jordan Romano (mZZjJsBI7y) &nbsp;&nbsp; Fathom Journal",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782463392.0
-    },
-    {
       "title": "Omnisend: Prime Day Shoppers Plan To Match or Exceed Last Year’s Spending - HomePage News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1jT1FSRFgwbDFOTkJZOUJkcmVhSktXYTI1SkJfZFpUaC1KbkhmOHhBRnd4RFRrVXBySW1LbldmVGlaNEdzOVNNNW1fQ0JvU0NxY05NSVdoZDFqeHZCZTR1RXBHekxBRlJ0emdZWnROZm9DdF9hY2pqenFTemhfSEZERzJPNC1GWF9zeHV1VVV6SFRTalBaZkUyTjNFWXNvVWI4MGlxT1Z3S3JZTnUyam9tUV9YREhS?oc=5",
       "source": "Google News: Omnisend",
@@ -352,17 +363,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
-    },
-    {
-      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 01 May 2026 07:00:00 GMT",
-      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -533,9 +533,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 48,
-    "opportunities": 19,
-    "threats": 29,
+    "opportunities": 21,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.6
+    "runtime_seconds": 12.8
   }
 }
