@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T19:05:23.420765+00:00",
+  "updated": "2026-07-08T20:55:36.921215+00:00",
   "items": [
     {
       "title": "How to Scale Trust in Agentic Commerce and Digital Money - Finextra Research",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783530628.0
-    },
-    {
-      "title": "Shopify reinstated at Bank of America with ‘Buy’ rating on agentic commerce growth outlook - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzk5Q1I0MUVXemNHTmlMWHl6a0I5Yk1PdUdJeHNKbmhtUkxoYmVzV0FvbmdfUFJpWDdRMVVCYTgyUWRGLWdYWFdHZ0d4S0NTSm9oeHFkSHk3cnBNUzhuLXpqQ1FXdENxU2NkZ1JnTjlTc3ltcVBkRGdfQWh3cTRibjIzRFpXaE1ZQ2twM2c3OEhfQkZzV1RUTHl6Vlo3NUh0Mmc?oc=5",
-      "source": "Google News: Shopify",
-      "published": "Wed, 08 Jul 2026 16:24:00 GMT",
-      "summary": "Shopify reinstated at Bank of America with ‘Buy’ rating on agentic commerce growth outlook &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783527840.0
     },
     {
       "title": "Shopify reinstated at Bank of America with ‘Buy’ rating on agentic commerce growth outlook - Proactive financial news",
@@ -103,7 +92,7 @@
     {
       "title": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVW9jOTkxM1hnbkNtRkx0Q0xHUFYwTkFieVliR3JuYzd0cTZWdnNJbF90cmFSc1dzRXJSajNybjJ1ZDJCdzN2U0lsQW5sWng0cXNhYmZ5ak5ObjlFNzRwZXFFam02S0h6UGItbmRQaWFFS1JqeVJtYkRTY0pCMklfZGw3ZF9wZ0V2LWUxYjRCZ21MSWhjQm5xeXA4WQ?oc=5",
-      "source": "Google News: agentic commerce",
+      "source": "Google News: Shopify",
       "published": "Tue, 07 Jul 2026 13:05:16 GMT",
       "summary": "Shopify shares climb as BofA lifts rating to Buy on agentic commerce shift &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
@@ -121,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783362487.0
-    },
-    {
-      "title": "Visa Payments Forum in Paris: Agentic Commerce is Coming - FinTech Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenZzcVN3U2R5ZUhQYVMydE5oUHFpaXFlVWRWWjBtSHZieVhMeGpFd3B1NXVlNzBsbF9PTVlPVzh2SnhCeE5FZmRjcWhhcjJjZ0hJdVRoVVhlYXNFQnRNeGhXQXZfaEJSS0g4VnZLLS0xVGRXNV9CUFV0Z2NhY3VtOHVpV2FyYW1OT2ZOSC1KV2Rzdw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 02 Jul 2026 10:45:19 GMT",
-      "summary": "Visa Payments Forum in Paris: Agentic Commerce is Coming &nbsp;&nbsp; FinTech Magazine",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782989119.0
     },
     {
       "title": "New Ecommerce Tools: July 1, 2026",
@@ -542,11 +520,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 49,
-    "opportunities": 23,
+    "total_fetched": 269,
+    "kept": 47,
+    "opportunities": 21,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 10.5
   }
 }
