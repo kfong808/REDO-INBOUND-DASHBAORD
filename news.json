@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T19:20:31.283937+00:00",
+  "updated": "2026-07-09T21:11:15.573277+00:00",
   "items": [
     {
       "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - ACCESS Newswire",
@@ -200,17 +200,6 @@
       "published_ts": 1781161200.0
     },
     {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -275,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
       "published_ts": 1783431044.0
-    },
-    {
-      "title": "Klaviyo launches Social Marketing: - Home of Direct Commerce",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrNnRqcHFxeExBcmtVWkttYXkzZXp4cWVNelFfMVF4V1c5NmJTd2tUd1RPNVdUdTB2VllPb1dYbmRyMjdpbTd0VFQ0VjFtVE5GQlZIcWo1S2l5MHFYc2NQU2s1UVpTNmo3RDRtcTJkM01QRGdXaVI4TTZQR3g?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "summary": "Klaviyo launches Social Marketing: &nbsp;&nbsp; Home of Direct Commerce",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1783407600.0
     },
     {
       "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
@@ -554,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 50,
-    "opportunities": 22,
-    "threats": 28,
+    "kept": 48,
+    "opportunities": 21,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.2
   }
 }
