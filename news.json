@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T23:01:46.515806+00:00",
+  "updated": "2026-07-10T01:51:34.869611+00:00",
   "items": [
     {
       "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - ACCESS Newswire",
@@ -112,17 +112,6 @@
       "published_ts": 1783429516.0
     },
     {
-      "title": "Agentic Commerce Networks - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNDBjems2X04tUmFZU1c3ZFN1WnRyZHQ0dWtSNk5CY2lKQ00zWXV3YV9ET1RUd0tBTTlRbGNkb3VkMXdwcExzR3FCZVB1eldYMzdwQndFWm1nX3kzS0czdWJJNUVkQnhydHJZeGJmblVjZ9IBckFVX3lxTE5xNDBjems2X04tUmFZU1c3ZFN1WnRyZHQ0dWtSNk5CY2lKQ00zWXV3YV9ET1RUd0tBTTlRbGNkb3VkMXdwcExzR3FCZVB1eldYMzdwQndFWm1nX3kzS0czdWJJNUVkQnhydHJZeGJmblVjZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 06 Jul 2026 18:28:07 GMT",
-      "summary": "Agentic Commerce Networks &nbsp;&nbsp; Trend Hunter",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783362487.0
-    },
-    {
       "title": "New Ecommerce Tools: July 1, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-1-2026",
       "source": "Practical Ecommerce",
@@ -154,6 +143,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782305992.0
+    },
+    {
+      "title": "Agentic commerce could crack personalization but only for data-ready brands - FoodNavigator-USA.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDZkOHAtWTRvM0NiWmF6R09ZeWtTZzBiWW9QdUZJNVBBeEIzYVBjZkd1dnBreG5URldVdHE3bW9KR0NYc3FaNUI5cE9TUncxWEo1RnpnZDZieUFpajh2Zy0tajRfSGlfaUxvbXBQRUFveGtsT1ZkU0lCa2ZjNWpvSTkxTEZ3MW90WjVFZEZUWmgxaDd0UmpVVThyVW9EVGNiOC05UVlUOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "Agentic commerce could crack personalization but only for data-ready brands &nbsp;&nbsp; FoodNavigator-USA.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782284400.0
     },
     {
       "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
@@ -266,15 +266,15 @@
       "published_ts": 1783586071.0
     },
     {
-      "title": "Klaviyo launches social marketing product for B2C brands - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmEtZ2laaXlDWVZWc0xFcG9GTzB0Y0tiUWdPYzFLQnNaT2FBV3I4R2lDcVhJSm91eHd5V2xSWFJYT3Y4aWJYMWh6cHJuUTBJeUY4S21vZnREU3dyNVRLLUgteUNFN1ZLZ293LWM4c2VGYU0wcUhSakJBekRQRkI4VjNLMmJyU1dFWWR6YVFnd0NoTndfbEtDc2VFUFhWdW9HdjVwYWdHWXloN2t5VlhTWDZ0TQ?oc=5",
+      "title": "Klaviyo launches social marketing product for B2C brands By Investing.com - Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalZZYkpuZGdBbW5zYTByYXY4eEZoTHFJb3ZTaEpmRmRVX1g3NjV3S3VUamRTVlpkd1R0SnQ4cl9VM1czTmFqWmpjbmJMalR3TElwQXJpUzdWT3hzNDZtTExtc18tcFlWdjRXbU1iVEE3UlNBR0xfa2pUQWR1MnZaM19kOS1ITkVfc0wtTmI1dkJjQTRuRm1TV3IzVDdSUllaNnppQlQ5WGdoamNHZThMelpuUGVpTkh2?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 07 Jul 2026 14:01:55 GMT",
-      "summary": "Klaviyo launches social marketing product for B2C brands &nbsp;&nbsp; Investing.com",
+      "published": "Tue, 07 Jul 2026 14:18:35 GMT",
+      "summary": "Klaviyo launches social marketing product for B2C brands By Investing.com &nbsp;&nbsp; Investing.com South Africa",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
-      "published_ts": 1783432915.0
+      "published_ts": 1783433915.0
     },
     {
       "title": "Klaviyo launches social media marketing product for its CRM platform - StreetInsider",
@@ -374,17 +374,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -554,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 50,
+    "kept": 49,
     "opportunities": 22,
-    "threats": 28,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 10.6
   }
 }
