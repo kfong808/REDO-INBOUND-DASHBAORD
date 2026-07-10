@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T18:16:26.246278+00:00",
+  "updated": "2026-07-10T20:12:58.255191+00:00",
   "items": [
     {
       "title": "Internet Court aims to become the legal infrastructure for agentic commerce - contxto.com",
@@ -112,6 +112,17 @@
       "published_ts": 1783509427.0
     },
     {
+      "title": "Payments industry eyes growth in AI shopping - IBS Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0FQVXluSzhBUkZEeHZfMEw2T2pybDhybU5Hck5uZm1fQzJXZDN6RmlYTENmdVh1T3VlcTBRdW9xbGJocGRPd1VPaWxBUUlWTDYtZThGQlVyMHdfV2dwcU93b0ttLUltaUZwazk3Ry0tUVUxUWVXdl9EZ0poS3gteDlfeVBOQzNZRmNr?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 08 Jul 2026 10:24:46 GMT",
+      "summary": "Payments industry eyes growth in AI shopping &nbsp;&nbsp; IBS Intelligence",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1783506286.0
+    },
+    {
       "title": "Travel visibility, trust and conversion take focus amid agentic commerce shift - PhocusWire",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2h0Y0gxQWJuWVVCelZnUkxVWXlCaWsyNC1DVHFPdnBsMy1Hb0xnTnFVUjB6eVZ1ckpWMGhwalBHc0VfcF8zME8zNHpTamZhcV9LXzVTZzZROUxsRHZJWXczZlBTQk9jaE9wYjdONmRfQmtadFZVYzhLSktYSTl3d1RPNnBIRnFSWW1IQ28yR2VqQ3o5RXNiNw?oc=5",
       "source": "Google News: agentic commerce",
@@ -167,17 +178,6 @@
       "published_ts": 1782305992.0
     },
     {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
-    },
-    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -198,17 +198,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781247600.0
-    },
-    {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -264,17 +253,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1783636867.0
-    },
-    {
-      "title": "Klaviyo launches social marketing product for B2C brands - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmEtZ2laaXlDWVZWc0xFcG9GTzB0Y0tiUWdPYzFLQnNaT2FBV3I4R2lDcVhJSm91eHd5V2xSWFJYT3Y4aWJYMWh6cHJuUTBJeUY4S21vZnREU3dyNVRLLUgteUNFN1ZLZ293LWM4c2VGYU0wcUhSakJBekRQRkI4VjNLMmJyU1dFWWR6YVFnd0NoTndfbEtDc2VFUFhWdW9HdjVwYWdHWXloN2t5VlhTWDZ0TQ?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 07 Jul 2026 14:01:55 GMT",
-      "summary": "Klaviyo launches social marketing product for B2C brands &nbsp;&nbsp; Investing.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1783432915.0
     },
     {
       "title": "Klaviyo launches social media marketing product for its CRM platform - StreetInsider",
@@ -508,17 +486,6 @@
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + acquires",
-      "published_ts": 1639641600.0
-    },
-    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
@@ -541,23 +508,34 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 50,
-    "opportunities": 22,
-    "threats": 28,
+    "kept": 48,
+    "opportunities": 21,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 13.2
   }
 }
