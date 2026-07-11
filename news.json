@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T11:43:02.746110+00:00",
+  "updated": "2026-07-11T12:53:05.795215+00:00",
   "items": [
     {
       "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
@@ -24,6 +24,17 @@
       "published_ts": 1783700387.0
     },
     {
+      "title": "Switching entity advice",
+      "url": "https://www.reddit.com/r/shopify/comments/1usri4d/switching_entity_advice/",
+      "source": "r/shopify",
+      "published": "2026-07-10T15:50:00+00:00",
+      "summary": "Has anyone got experience in switching business entity on shopify. For eg switching from UK LTD to US LLC or sole trader to LTD? I’m looking to understand how long it takes the new Shopify payments to be verified and what the holds on the new accounts are like. I’m trying to do this with minimum disruption as the original Shopify payments will need to get deactivated whilst the new one is being verified. I’ve heard it can take minutes or hours. I’ve also heard it can take days. &#32; submitted b",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: switching from",
+      "published_ts": 1783698600.0
+    },
+    {
       "title": "Shopify upgraded to Buy at Stifel on growth outlook, agentic commerce opportunity (SHOP:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWU1hNTBxRUtXVnRYakFvNFVWSkV5cVRtWWw0X0JtQkVhbnp0N2pOaWtlMDZtbG5xMXdKeXdBY1pBY3N4VVdXNHliR1pmYUg3UHRfUC1ueU1rZG8xdmd1VzJPYUlPeDJna0dxZTRFVWpvMXFKaU1JT1g5WHVDRHowTndJMHlpX3ducnBYdjNzNmxaVG1LQk44NXRfV3gxWVFxTlU0MG1iRUdhMWFzRUNSLUd2Ni05SzE5MHc?oc=5",
       "source": "Google News: Shopify",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783694686.0
-    },
-    {
-      "title": "‘Prove You're Human’ Is The Wrong Security Question In Agentic Commerce - Tech Build Africa",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODlqN0FWaThMRHJObzJtMUdpV2d0ekVWSlhVN1FBZHp3ZnJOU245YnRxSUloaEdJSWNxb3I4VnJXZDd2cEZRaGJUZWhtMG8tUzdMbklOUUowbzNtUjlQaEZrY21xQ0hrVDJKNGJSZUhpYXdGNmNMOU9YTWpzUQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 10 Jul 2026 13:55:19 GMT",
-      "summary": "‘Prove You're Human’ Is The Wrong Security Question In Agentic Commerce &nbsp;&nbsp; Tech Build Africa",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783691719.0
     },
     {
       "title": "Stifel lifts Shopify to Buy, sees agentic commerce as next growth catalyst - Investing.com",
@@ -211,15 +211,15 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
+      "published_ts": 1768464000.0
     },
     {
       "title": "Klaviyo (NYSE:KVYO) Given New $24.00 Price Target at Stifel Nicolaus - MarketBeat",
@@ -509,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 248,
+    "total_fetched": 268,
     "kept": 46,
     "opportunities": 20,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.7
+    "runtime_seconds": 10.3
   }
 }
