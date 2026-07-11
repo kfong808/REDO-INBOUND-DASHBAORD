@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T10:53:44.964506+00:00",
+  "updated": "2026-07-11T11:43:02.746110+00:00",
   "items": [
     {
       "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783700387.0
-    },
-    {
-      "title": "Switching entity advice",
-      "url": "https://www.reddit.com/r/shopify/comments/1usri4d/switching_entity_advice/",
-      "source": "r/shopify",
-      "published": "2026-07-10T15:50:00+00:00",
-      "summary": "Has anyone got experience in switching business entity on shopify. For eg switching from UK LTD to US LLC or sole trader to LTD? I’m looking to understand how long it takes the new Shopify payments to be verified and what the holds on the new accounts are like. I’m trying to do this with minimum disruption as the original Shopify payments will need to get deactivated whilst the new one is being verified. I’ve heard it can take minutes or hours. I’ve also heard it can take days. &#32; submitted b",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: switching from",
-      "published_ts": 1783698600.0
     },
     {
       "title": "Shopify upgraded to Buy at Stifel on growth outlook, agentic commerce opportunity (SHOP:NASDAQ) - Seeking Alpha",
@@ -222,15 +211,15 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1768464000.0
+      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo (NYSE:KVYO) Given New $24.00 Price Target at Stifel Nicolaus - MarketBeat",
@@ -266,15 +255,15 @@
       "published_ts": 1783432915.0
     },
     {
-      "title": "Klaviyo launches social media marketing product for its CRM platform - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUd6YUpfV1R1Mk96VzIzV1JQTFZaeXhPc1ZXaEllUHVFQ0xZb0lXb3pXeWI2UUMweHBuWDd5ZUVNRTE1NWlJS1hyTDFqV09sblRxVWRIYzJ6cmNEdEtsY2Z6c3JzS3U4eTVRaEtHYVdWYnFXQ0V3Y09sYUJVZUZtN3Jmakx0YkVkLUVWMHFxcldqaE9xUUt4cVE2anFxNzEtT3dZZVpUeUNmRDlwVTZZUDRKNUo2cjE0aF8xcFhnbHdhT2N4UVE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 07 Jul 2026 13:30:44 GMT",
-      "summary": "Klaviyo launches social media marketing product for its CRM platform &nbsp;&nbsp; StreetInsider",
+      "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkZEeEd4VmZlODNhQVJKU2RlQXNqaVVieVhQOGFTbWRabDZPNnk1OVhCclJibi05aUZ3YjJYX3RfQm5vQkJkU1RrekdEMm9nMnpQUXo1eDNkMk03VG1MS1N3TWFjQWtzVFBXUEQtOU5uVHlxR0g5WmNmMkw0NWhneWJCNkcyeWk3MXZPc19vVFdsTE1XRlNyOVk0b3NwVWtZZ2JSMldTMFlFdw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Sat, 04 Jul 2026 00:37:09 GMT",
+      "summary": "Attentive - 2026 Latest Shareholding & Valuation &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1783431044.0
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1783125429.0
     },
     {
       "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
@@ -286,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
       "published_ts": 1782889200.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 13:40:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782826800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -396,17 +396,6 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
-    },
-    {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -520,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 47,
-    "opportunities": 21,
+    "total_fetched": 248,
+    "kept": 46,
+    "opportunities": 20,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 9.7
   }
 }
