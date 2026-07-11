@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T09:16:07.002256+00:00",
+  "updated": "2026-07-11T10:53:44.964506+00:00",
   "items": [
     {
       "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
@@ -231,28 +231,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDJZQjZZZk44OUFiRnpYSmJyV3Znd0thS1pjQXpUc0k3SHFmbnBtY1EwVzJDdk1yZk9qNHBKbEdYNS1halJJQ3NYUlE1OXByOGhpamNxbDQ2MWJLc3VQLWhkMkROSm8xWUJFZXljb1pYM29WWDZsUDllRkozMUt1QVJJSnQ0VHNKMEp3SXZyRlg?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1764316800.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo (NYSE:KVYO) Given New $24.00 Price Target at Stifel Nicolaus - MarketBeat",
@@ -543,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 49,
-    "opportunities": 23,
+    "kept": 47,
+    "opportunities": 21,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 10.2
   }
 }
