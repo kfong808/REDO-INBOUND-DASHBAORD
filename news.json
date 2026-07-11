@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T15:43:35.076032+00:00",
+  "updated": "2026-07-11T16:42:06.999646+00:00",
   "items": [
     {
       "title": "Highnote Collaborates with Visa on Agentic Commerce for AI-Initiated Payments - AOL.com",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783718905.0
-    },
-    {
-      "title": "Internet Court aims to become the legal infrastructure for agentic commerce - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0RKcjFkTWdwZTVON01tNWM3b0pkMkdzUTRjVlowUERsbHJ1OFU5ZkVDSGRISUR4MklSWEd4am5KcWdKYmQ1bElBOEotSnNiWjk2UUZwM3FCZ0s0NU5Ta2tnOWdCaExpczVUNnhfQ0taVk5xUVdNQkF1MkRKZ01PRjdiUHp1SWZyVUdocVk5VGg0OTg2dE9GV08xR0RfNmhmSGpQZUZMay1iWXhoV1ljZi1zU2EtYjZyREpnemxERWc2RlZCQ2c?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 10 Jul 2026 16:19:47 GMT",
-      "summary": "Internet Court aims to become the legal infrastructure for agentic commerce &nbsp;&nbsp; contxto.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783700387.0
     },
     {
       "title": "Switching entity advice",
@@ -79,15 +68,26 @@
       "published_ts": 1783624572.0
     },
     {
-      "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - newswire.com",
+      "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - Newswire.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3luc19BWnZLT2NkR01wa1FzRDN3MWZ3YkZ5NVVGem54WDZlNjE5MTQ4Z1FjYnFhNzRIeTBTN1lKN2U0bmhBbUc3SjNRU3Q0TDF1LUt6eFFUMnB5U3hKOWtneDZjbnJFSXlPUEc2dHY1UlVNMXdTZ2VidzRlMEkzenBBMGdyV1lpOHhqR3J3Um5icGZ2RmdLVnVJcWR3WHQ4ZjJGZGpXWl9XWkQy?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "summary": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping &nbsp;&nbsp; newswire.com",
+      "summary": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping &nbsp;&nbsp; Newswire.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1783602000.0
+    },
+    {
+      "title": "Agentic Commerce Users Could Reach 1.3 Billion Globally by 2031, New Research Forecasts - Hello Partner",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUk9hWXpRRVZzZWRtQmNORVR5R2dxanJPMVdJalFVYlpUSTA4blFob2dRQnc1djZDUVhmeG1VNDNJM0d5RWN4OWUySG5sVW1vblRvOVJBWGZmTUMtWXRHYnNtem1LUmUtLThIQU0ycXRQWFRGVEFFb1BvZmpNTnl6YUtMdnRzOEhUbXg0bjFYQ1RiY1F5blhmTDQxckhpUjJyczdXUUNWaTVLS2Q3ZVVBT2F3?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 09 Jul 2026 11:04:05 GMT",
+      "summary": "Agentic Commerce Users Could Reach 1.3 Billion Globally by 2031, New Research Forecasts &nbsp;&nbsp; Hello Partner",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783595045.0
     },
     {
       "title": "Preparing eCommerce for the Agentic Commerce Era - Worldline",
@@ -99,6 +99,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783558835.0
+    },
+    {
+      "title": "‘Prove you're human’ is the wrong security question in agentic commerce - ITWeb Africa",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0VMeFRCbDktYUl5V3Y3UHllYXQzSUprUllRWW1BVjRCOUJYT3VIY2dGOE5yVzhoRjdJX3F5TmpNSFRzMTcxSkFTelphbWFxTmlNWEVxZGdmOG5xa0xDY1B4dUFTY2dnWHJfcTBYaFd1QVVLLVpXbUhNSUlwU2RYOFpCWTNCQWpxZnAybFo4bnRoX2t1WjVZU0N0NVBuZnZkcGt4THZTeUNWM1gyNFNZT3AxZEE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 08 Jul 2026 11:17:07 GMT",
+      "summary": "‘Prove you're human’ is the wrong security question in agentic commerce &nbsp;&nbsp; ITWeb Africa",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783509427.0
     },
     {
       "title": "Travel visibility, trust and conversion take focus amid agentic commerce shift - PhocusWire",
@@ -531,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 48,
-    "opportunities": 21,
+    "total_fetched": 269,
+    "kept": 49,
+    "opportunities": 22,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.6
   }
 }
