@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-11T14:17:32.502002+00:00",
+  "updated": "2026-07-11T15:43:35.076032+00:00",
   "items": [
+    {
+      "title": "Highnote Collaborates with Visa on Agentic Commerce for AI-Initiated Payments - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU3hGNWd3d3BQZ20tSXJYZ0F4NGtlX0poYmxGRWUxcnZBNnVuZ2hraDRLNTNWYU5adnRhel9hZE8taVRyUi1UTS1DNG1IYlF0WGE3MWk0bmNBR2l5eFZrN3JHUXJqcU5JZDFMSkFaT3cxaExwOERZWGpEbWR5Qi1QMFVrVFVXVWJKbEZkOGk2UzY?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sat, 11 Jul 2026 10:49:20 GMT",
+      "summary": "Highnote Collaborates with Visa on Agentic Commerce for AI-Initiated Payments &nbsp;&nbsp; AOL.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783766960.0
+    },
     {
       "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWx1TmpnZ05GT1lwbnZkdF9UYXhfMlZhazZGekNVOFNqUEZmNld4QXZVdGFOajM1MDFYMnNWUFJxOFRPQUszbW5pTTdHN0tmYk5IY0paM0F2dkZCSUhTLVVGTW1mZW5pa3dDRVoyc25JdHZVRlhCWkl6UWNsTzY2RUVSQUhpOFNKSWJxZVNWSHpwQjVReGhzNUw0Z1QwNFJCWW1GMDVtM19iMVRqQzFXWEREbGFZS3JpbWNqcmdGMFpFcVgz?oc=5",
@@ -57,11 +68,22 @@
       "published_ts": 1783682647.0
     },
     {
-      "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - Newswire.com",
+      "title": "Ecommerce faces shake-up as AI shopping agents gain ground - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUGZmU3RlbGFsVzhNOE5GTUtFZC0yVVNOeEMyYUxyX0hzRkMtR2t0bDBCb3ZRSlVTbnBKWnJIa0N2X2ltTXZIa2NQNVRrbzF0WkpMQ2ZMVkhnQ2lEaXIzMFpNbTRJUXZIa1V4Z1lUeE81a1JZbmtnZ2x4b0dHamZ6RFdWZGNCTlVMaU9WeEJKWmRKd2hWang3dV9SbElaUFJXeUlfdkZwNDlzTnVJTDV1SzJOZlc3c1QzOUxPM211YjdUaFVWUS11U3FlZGE5c1d4QXIzT01sT3FCdjN1OWZSNGxFWk1EX05teFowVmFZU25LZw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 09 Jul 2026 19:16:12 GMT",
+      "summary": "Ecommerce faces shake-up as AI shopping agents gain ground &nbsp;&nbsp; MSN",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1783624572.0
+    },
+    {
+      "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - newswire.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3luc19BWnZLT2NkR01wa1FzRDN3MWZ3YkZ5NVVGem54WDZlNjE5MTQ4Z1FjYnFhNzRIeTBTN1lKN2U0bmhBbUc3SjNRU3Q0TDF1LUt6eFFUMnB5U3hKOWtneDZjbnJFSXlPUEc2dHY1UlVNMXdTZ2VidzRlMEkzenBBMGdyV1lpOHhqR3J3Um5icGZ2RmdLVnVJcWR3WHQ4ZjJGZGpXWl9XWkQy?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "summary": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping &nbsp;&nbsp; Newswire.com",
+      "summary": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping &nbsp;&nbsp; newswire.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -176,17 +198,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781247600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781161200.0
     },
     {
       "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
@@ -521,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 47,
-    "opportunities": 20,
+    "kept": 48,
+    "opportunities": 21,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.2
   }
 }
