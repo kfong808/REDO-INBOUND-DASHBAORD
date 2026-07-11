@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T04:53:16.549092+00:00",
+  "updated": "2026-07-11T07:05:02.344370+00:00",
   "items": [
     {
       "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
@@ -222,6 +222,28 @@
       "published_ts": 1773730800.0
     },
     {
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1768464000.0
+    },
+    {
+      "title": "This month in AI: The rise and risks of AI shopping agents - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDJZQjZZZk44OUFiRnpYSmJyV3Znd0thS1pjQXpUc0k3SHFmbnBtY1EwVzJDdk1yZk9qNHBKbEdYNS1halJJQ3NYUlE1OXByOGhpamNxbDQ2MWJLc3VQLWhkMkROSm8xWUJFZXljb1pYM29WWDZsUDllRkozMUt1QVJJSnQ0VHNKMEp3SXZyRlg?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "summary": "This month in AI: The rise and risks of AI shopping agents &nbsp;&nbsp; The World Economic Forum",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1764316800.0
+    },
+    {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -266,6 +288,17 @@
       "published_ts": 1783432915.0
     },
     {
+      "title": "Klaviyo launches social media marketing product for its CRM platform - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUd6YUpfV1R1Mk96VzIzV1JQTFZaeXhPc1ZXaEllUHVFQ0xZb0lXb3pXeWI2UUMweHBuWDd5ZUVNRTE1NWlJS1hyTDFqV09sblRxVWRIYzJ6cmNEdEtsY2Z6c3JzS3U4eTVRaEtHYVdWYnFXQ0V3Y09sYUJVZUZtN3Jmakx0YkVkLUVWMHFxcldqaE9xUUt4cVE2anFxNzEtT3dZZVpUeUNmRDlwVTZZUDRKNUo2cjE0aF8xcFhnbHdhT2N4UVE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 07 Jul 2026 13:30:44 GMT",
+      "summary": "Klaviyo launches social media marketing product for its CRM platform &nbsp;&nbsp; StreetInsider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1783431044.0
+    },
+    {
       "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5",
       "source": "Google News: Klaviyo",
@@ -275,17 +308,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
       "published_ts": 1782889200.0
-    },
-    {
-      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -330,6 +352,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -510,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 46,
-    "opportunities": 21,
-    "threats": 25,
+    "kept": 49,
+    "opportunities": 23,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 9.9
   }
 }
