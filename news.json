@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T20:00:19.541405+00:00",
+  "updated": "2026-07-12T21:39:15.992680+00:00",
   "items": [
     {
       "title": "Visa is finalizing an AI shopping agent. “This is the first implementation of its kind” - xyz.pl",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1783836660.0
-    },
-    {
-      "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - ACCESS Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakpDLWVfNUVtUHBlWkZRZHBhV2FmRkRCemFuRnBNazJPSkFrSVFucGc4Wjd0MXFQTE5ZTU5PNzc3VW5tU2NUd0tXMGo5Qk5qN3p1VXlyZ2ozTDZKajNZdm81V3A2OXlsZFkyUVdXU21yWVZKcG9sY3J4SGRfQWZBUTdGOWFQaVdKcEdub0ZsQ0xtbDRBeENRaWZMbWhnTmExSVVfZFdTY0ZnS0JRVzB1dTlXWU1tWGJOS1VzUXoxZF9pSG9fSC11eTZJcE9wS01NNVIwT2dlNTJOaEthMGcta1ZjWXA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sun, 12 Jul 2026 01:17:07 GMT",
-      "summary": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping &nbsp;&nbsp; ACCESS Newswire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1783819027.0
     },
     {
       "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
@@ -66,6 +55,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783694686.0
+    },
+    {
+      "title": "Stifel lifts Shopify to Buy, sees agentic commerce as next growth catalyst - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2RxLWJRblFIQV9VaklhSE0yaWV5NkVQS2txcjFhaDhib1NWdjNVdzhHelFTNjllWUZORmdVd2hZQ3ZGR2MyTEpSUUZNVGhEYVpMd0JETGZzYzF4LVdjY3QyVi1WcEk3cTVDLThsZjA1alRYaXoxV3lWWElsTl91c2pFZEt1dTlRVENXT3dWWnZudXAyeEh0ZnVFcU5laUJSLVFTb3FoUUd1RnQ0N3ZpamI0WV9ySUdKcm1qR3BPaEdnb3B1c1lYRVZn?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 10 Jul 2026 11:24:07 GMT",
+      "summary": "Stifel lifts Shopify to Buy, sees agentic commerce as next growth catalyst &nbsp;&nbsp; Investing.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783682647.0
     },
     {
       "title": "Ecommerce faces shake-up as AI shopping agents gain ground - MSN",
@@ -495,25 +495,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 46,
+    "total_fetched": 268,
+    "kept": 45,
     "opportunities": 21,
-    "threats": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 10.8
   }
 }
