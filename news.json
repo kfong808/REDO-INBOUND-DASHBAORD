@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-12T18:50:47.955550+00:00",
+  "updated": "2026-07-12T20:00:19.541405+00:00",
   "items": [
+    {
+      "title": "Visa is finalizing an AI shopping agent. “This is the first implementation of its kind” - xyz.pl",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWWdrMG1BbW1RaC1vWU9vdTFqS2FSYW44SzVxVDhRWGtYZ3RaMzRFSnZ4RXczSWI2QXJuY2YzWnpVeUdoN0VMdGRfb2RWZTJWdmZZV2JnMUVuUE1nMGUwenFwaXhtelBHeGU2Z25MYl80VUlyVjJLODN4RkdJM29zNDlqN1VscTNvWC1iUVFuVVlBUmpHZmt5S0poYkd5ZWNfeVVUZXdZWnIwaG1oc0dGZVBlWmJXVHBTQU5KcFpB?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sun, 12 Jul 2026 09:59:00 GMT",
+      "summary": "Visa is finalizing an AI shopping agent. “This is the first implementation of its kind” &nbsp;&nbsp; xyz.pl",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1783850340.0
+    },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Mk5aZlVlXzZPZG9sS0tKZkwwQ0NYSlJYR2JSOHg1MXMzN1NDdWFCMzVXR2ZSWVhKLVdTRW9BVVNuVE9VV3NZNWZvVzhYLXowaDNiVzMwTDJNNW1IU185X291ZV9BcnlKNUF0TW1ObU9ZbEwyWmpfaGZHRHI?oc=5",
@@ -143,17 +154,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782910815.0
-    },
-    {
-      "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sun, 28 Jun 2026 07:00:00 GMT",
-      "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782630000.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -514,6 +514,6 @@
     "opportunities": 21,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 146.2
+    "runtime_seconds": 11.3
   }
 }
