@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T01:45:35.896101+00:00",
+  "updated": "2026-07-13T05:25:02.203892+00:00",
   "items": [
     {
       "title": "Understanding the rise of agentic commerce - BusinessLine",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783902600.0
-    },
-    {
-      "title": "Agentic Commerce: Der nächste große Handelsumbruch – oder doch nur teures Theater? - Xpert.Digital - Konrad Wolfenstein",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ycndyQ0doeHRFdlVPd2tTUUUyb0NqOXVhbnhnTkptSkt6T1pGTm5IT2h0RXZwTGVTNmF6aV9EeTljR0NYYWlvYUJUMl9QT2RjVzZKUdIBXEFVX3lxTFByWF9KOEZNU0NTaERQUDg5YVBKS0JJNUdRSTBYTkRwRDVKUmM5bW9MVVowam5LNDhrUGJkSmpXSnNFaUVXUnpvdW9zeTZSRVpvamZ0RGRWaERlQWww?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sun, 12 Jul 2026 13:34:07 GMT",
-      "summary": "Agentic Commerce: Der nächste große Handelsumbruch – oder doch nur teures Theater? &nbsp;&nbsp; Xpert.Digital - Konrad Wolfenstein",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783863247.0
     },
     {
       "title": "Visa is finalizing an AI shopping agent. “This is the first implementation of its kind” - xyz.pl",
@@ -123,6 +112,17 @@
       "published_ts": 1783558835.0
     },
     {
+      "title": "‘Prove you're human’ is the wrong security question in agentic commerce - ITWeb Africa",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0VMeFRCbDktYUl5V3Y3UHllYXQzSUprUllRWW1BVjRCOUJYT3VIY2dGOE5yVzhoRjdJX3F5TmpNSFRzMTcxSkFTelphbWFxTmlNWEVxZGdmOG5xa0xDY1B4dUFTY2dnWHJfcTBYaFd1QVVLLVpXbUhNSUlwU2RYOFpCWTNCQWpxZnAybFo4bnRoX2t1WjVZU0N0NVBuZnZkcGt4THZTeUNWM1gyNFNZT3AxZEE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 08 Jul 2026 11:17:07 GMT",
+      "summary": "‘Prove you're human’ is the wrong security question in agentic commerce &nbsp;&nbsp; ITWeb Africa",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783509427.0
+    },
+    {
       "title": "How to win in agentic commerce as AI agents decide and transact - EY",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
       "source": "Google News: agentic commerce",
@@ -165,6 +165,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782910815.0
+    },
+    {
+      "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+      "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782630000.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -244,17 +255,6 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Aston Villa 'attentive' to Johan Manzambi situation as Newcastle deal stalls - TribalFootball",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOX1k3ZEgtT09UbWkxSi10YU1xYUF1R0UxU3VBT1JsU3hOM0RWaDI2SGFkVVNFWmlESVFJcVhfU05RelRUMkE2NkNXTllUMngwVUY1MXpDNmRTcC1wQzNLNjRseFN1UnZXRFp3Z2VpdUVvaGxoNmNuZlpaRl85RElEZm9sVVRZVHM5aW1rVnJaZTNVYWRCWllzUGZXVkNCR0R2WFNEVjB1NmJHZEdISEJZT2EwSm5Fc2c0MFRyUHNHSVpwRmRzNXNZc3BKQkViS05RZ1hORUhOSktSTGtSd3pGUUlMVjVNZkdxWXQtd0ZpQWNUWjQyT3VBX1cyVnFfWVhUNHc?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Sun, 12 Jul 2026 19:02:29 GMT",
-      "summary": "Aston Villa 'attentive' to Johan Manzambi situation as Newcastle deal stalls &nbsp;&nbsp; TribalFootball",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1783882949.0
-    },
-    {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
       "source": "Google News: Attentive",
@@ -286,17 +286,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1783636866.0
-    },
-    {
-      "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Klaviyo launches beta for marketing AI agents &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1782889200.0
     },
     {
       "title": "Postscript: Mark Singer - newyorker.com",
@@ -508,17 +497,6 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
-    },
-    {
       "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
       "source": "Google News: Narvar",
@@ -532,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 48,
-    "opportunities": 22,
-    "threats": 26,
+    "kept": 46,
+    "opportunities": 23,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 9.7
   }
 }
