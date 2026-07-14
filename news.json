@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T15:15:38.399013+00:00",
+  "updated": "2026-07-14T17:01:37.630838+00:00",
   "items": [
     {
       "title": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 - Search Engine Journal",
@@ -101,17 +101,6 @@
       "published_ts": 1783602000.0
     },
     {
-      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783494000.0
-    },
-    {
       "title": "New Ecommerce Tools: July 7, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-7-2026",
       "source": "Practical Ecommerce",
@@ -137,12 +126,12 @@
       "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "published": "Sun, 28 Jun 2026 07:00:00 GMT",
       "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1782716400.0
+      "published_ts": 1782630000.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -455,10 +444,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 19,
+    "kept": 40,
+    "opportunities": 18,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 11.1
   }
 }
