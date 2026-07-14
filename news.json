@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-14T19:00:42.137573+00:00",
+  "updated": "2026-07-14T20:48:43.508585+00:00",
   "items": [
+    {
+      "title": "Retail 2.0: Agentic commerce and the future of how customers buy - CX Network",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXA2aU9TazllR19ndnJUVndmOE8yNHMxUVcxYlZFT0laUFBoNlVUQzNpaTZ4VzhTVTdTNno2WFZHTG1wYzZrU2t1akRaRTlTVHpKQWxfNzlncXdFZXE0WGtET2ZMOElnQ0RRdkhjb2t4Q2ZQRHFoY3RhbDU1WE1SRGM0VC1BTGNR?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 14 Jul 2026 11:37:21 GMT",
+      "summary": "Retail 2.0: Agentic commerce and the future of how customers buy &nbsp;&nbsp; CX Network",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784029041.0
+    },
     {
       "title": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 - Search Engine Journal",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHFkM1NvWkZwblQtVk5aUGJhVWpDMkRvUHd1Z1RxZnNmQmNWNnhxaWF2RmJFMkhmM2RfZzJDY3BKNXVwYWlGNnJPcWtMV29xUW5ZTzl4dWhYVEw5REROSTdNQk5uTm1mOFNwSGZGWkREMUw1UFlEd3ozZHE3aDgtV2hDLXpfOGlGVFNrd2l6Z0RUSGd6RkZkYTE3U3IzaGVDNEh5aFpkOUxhamtLQ0lsdm1RUVVoSldHZFg1Z04yeTVQQVl1dFlV?oc=5",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1783836660.0
-    },
-    {
-      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWx1TmpnZ05GT1lwbnZkdF9UYXhfMlZhazZGekNVOFNqUEZmNld4QXZVdGFOajM1MDFYMnNWUFJxOFRPQUszbW5pTTdHN0tmYk5IY0paM0F2dkZCSUhTLVVGTW1mZW5pa3dDRVoyc25JdHZVRlhCWkl6UWNsTzY2RUVSQUhpOFNKSWJxZVNWSHpwQjVReGhzNUw0Z1QwNFJCWW1GMDVtM19iMVRqQzFXWEREbGFZS3JpbWNqcmdGMFpFcVgz?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 10 Jul 2026 21:28:25 GMT",
-      "summary": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" &nbsp;&nbsp; CoinDesk",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783718905.0
     },
     {
       "title": "Ecommerce faces shake-up as AI shopping agents gain ground - MSN",
@@ -126,12 +126,12 @@
       "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1782630000.0
+      "published_ts": 1782716400.0
     },
     {
       "title": "New Ecommerce Tools: June 24, 2026",
@@ -454,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 41,
     "opportunities": 18,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 11.2
   }
 }
