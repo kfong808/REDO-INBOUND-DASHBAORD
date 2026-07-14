@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T23:41:57.020497+00:00",
+  "updated": "2026-07-14T01:22:01.640935+00:00",
   "items": [
     {
       "title": "Shopify upgraded to Buy at Jefferies on agentic commerce bet - Yahoo Finance",
@@ -66,6 +66,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783718905.0
+    },
+    {
+      "title": "Stifel lifts Shopify to Buy, sees agentic commerce as next growth catalyst - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGxSLVQ1YkphZHFLWGdXTjBlcmoyVG5jVDg1UmZVQnhVd3FjNFFna0VCSWdfYmVZNjNod0xMUFlKZEdLYzYtMEd2N0xLT1V6ZG9mYlZidjAyclJHSzR2dG1LY3llTTJET3lKeEFEZ1hrTEw1ZEJQQXBLeDZIbmNxWlQ3T2hUR3lXeVJiMTlCMFV2YlZ2MldWT2FR?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 10 Jul 2026 11:51:49 GMT",
+      "summary": "Stifel lifts Shopify to Buy, sees agentic commerce as next growth catalyst &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783684309.0
     },
     {
       "title": "Ecommerce faces shake-up as AI shopping agents gain ground - MSN",
@@ -264,6 +275,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783863890.0
+    },
+    {
+      "title": "Is Klaviyo (KVYO) Undervalued After Its Social Marketing Launch? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenFXWjZjU2t2eU1hYTdDOXl3X1VyTkdPVzNwMGx0OU9ZaW9FOWw4akVzdThFNU1ENjFZY2xMSzlFMllIRko4RGlzNUhNWFFwaHlmUzFSSU1NUzdxVXM3MHhzaGdJSVE2TklmbjZRMzFQYWRFZ2x5N214WEEwY2lobDhrc2l4VUhzRllNRzFvUHRNQ01pcS1GMFRJLTVfY2RzamtnM3dnRTRvMEFPMU1vazFicVM5dXJWMHdJd0pxaVhiZ9IBxwFBVV95cUxOT2t6Ny1adHZRNkRmbUd4SnJFcjU5OVdqUmFMWGh5UjNKUUEyZ2FkdUlKOWdCbzRiTWJfWEpqRkNHT2pRSkNUUEFObHFpZmNVMEgzemExeGduMDBEUEhYYWo2bEx0aDQ2bHpkdHdCemxDZy1GSUYwY1EwdzltTE1KVXB5ZHBwUmZ5TVJLLXozTEVfeWtLOTU3RGdyVlc5U1VvVnREdUxrOE5WWTRXRmY4UHJvRnNNX05tSVB1OHNjYW9Gd1JYbWU0?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 09 Jul 2026 22:41:06 GMT",
+      "summary": "Is Klaviyo (KVYO) Undervalued After Its Social Marketing Launch? &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1783636866.0
     },
     {
       "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -487,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 21,
-    "threats": 23,
+    "total_fetched": 270,
+    "kept": 46,
+    "opportunities": 22,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.7
   }
 }
