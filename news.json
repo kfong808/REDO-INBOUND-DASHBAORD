@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T17:01:37.630838+00:00",
+  "updated": "2026-07-14T19:00:42.137573+00:00",
   "items": [
     {
       "title": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 - Search Engine Journal",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783995973.0
-    },
-    {
-      "title": "Shopify upgraded to Buy at Jefferies on agentic commerce bet - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUd1SU1jU2hTT0Z0cDNsTDRMWFI4NHpGbDh1dTZ6c0s4VFB3Z29BT0ZLV1F6ZDdrcUloRnNlMnVpODNnQlYxSkJrc1NsS1J6R085bWRrenljNzdNQ2YwOXM0Mmp0WXRIczdSYl90QzBYdHdzYUtjV3hQTXBjSF9CckR4RUJYb0YwWEZkbEx4MjdYeXJYVmZpRkY4blYwTWRjOEQ5aWFBVzlOdkRIcVcxajZZMU1tY2oyTGJwR29kOTNpdnIxeHA5YjZoMA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 13 Jul 2026 15:45:00 GMT",
-      "summary": "Shopify upgraded to Buy at Jefferies on agentic commerce bet &nbsp;&nbsp; Proactive financial news",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783957500.0
     },
     {
       "title": "Why agentic commerce will matter more than ChatGPT ads - Search Engine Land",
@@ -99,6 +88,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1783602000.0
+    },
+    {
+      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783494000.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -233,6 +233,28 @@
       "published_ts": 1783636866.0
     },
     {
+      "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "Attentive - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1783148400.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 13:40:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782826800.0
+    },
+    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -319,17 +341,6 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
-    },
-    {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -444,10 +455,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 40,
+    "kept": 41,
     "opportunities": 18,
-    "threats": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 10.8
   }
 }
