@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-14T20:48:43.508585+00:00",
+  "updated": "2026-07-14T21:46:09.946599+00:00",
   "items": [
+    {
+      "title": "Anyone using cashback or store credit to actually drive repeat orders?",
+      "url": "https://www.reddit.com/r/ecommerce/comments/1uw786n/anyone_using_cashback_or_store_credit_to_actually/",
+      "source": "r/ecommerce",
+      "published": "2026-07-14T12:26:09+00:00",
+      "summary": "I've been thinking about post-purchase cashback or store credit to pull people back, but I don't want to just train everyone to wait around for a discount. Has anyone done this in a way that actually moved repeat purchases without wrecking margin? Curious which format worked for you, credit vs cash vs points, and whether the setup was worth it. &#32; submitted by &#32; /u/HoneyedVices [link] &#32; [comments]",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1784031969.0
+    },
     {
       "title": "Retail 2.0: Agentic commerce and the future of how customers buy - CX Network",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXA2aU9TazllR19ndnJUVndmOE8yNHMxUVcxYlZFT0laUFBoNlVUQzNpaTZ4VzhTVTdTNno2WFZHTG1wYzZrU2t1akRaRTlTVHpKQWxfNzlncXdFZXE0WGtET2ZMOElnQ0RRdkhjb2t4Q2ZQRHFoY3RhbDU1WE1SRGM0VC1BTGNR?oc=5",
@@ -55,6 +66,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1783836660.0
+    },
+    {
+      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWx1TmpnZ05GT1lwbnZkdF9UYXhfMlZhazZGekNVOFNqUEZmNld4QXZVdGFOajM1MDFYMnNWUFJxOFRPQUszbW5pTTdHN0tmYk5IY0paM0F2dkZCSUhTLVVGTW1mZW5pa3dDRVoyc25JdHZVRlhCWkl6UWNsTzY2RUVSQUhpOFNKSWJxZVNWSHpwQjVReGhzNUw0Z1QwNFJCWW1GMDVtM19iMVRqQzFXWEREbGFZS3JpbWNqcmdGMFpFcVgz?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 10 Jul 2026 21:28:25 GMT",
+      "summary": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" &nbsp;&nbsp; CoinDesk",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783718905.0
     },
     {
       "title": "Ecommerce faces shake-up as AI shopping agents gain ground - MSN",
@@ -233,28 +255,6 @@
       "published_ts": 1783636866.0
     },
     {
-      "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "Attentive - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1783148400.0
-    },
-    {
-      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 30 Jun 2026 13:40:00 GMT",
-      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1782826800.0
-    },
-    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -286,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1778742000.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -341,6 +352,17 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
+    },
+    {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -454,11 +476,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 41,
-    "opportunities": 18,
+    "total_fetched": 289,
+    "kept": 43,
+    "opportunities": 20,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.9
   }
 }
