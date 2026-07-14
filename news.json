@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-14T13:05:09.391609+00:00",
+  "updated": "2026-07-14T15:15:38.399013+00:00",
   "items": [
-    {
-      "title": "Anyone using cashback or store credit to actually drive repeat orders?",
-      "url": "https://www.reddit.com/r/ecommerce/comments/1uw786n/anyone_using_cashback_or_store_credit_to_actually/",
-      "source": "r/ecommerce",
-      "published": "2026-07-14T12:26:09+00:00",
-      "summary": "I've been thinking about post-purchase cashback or store credit to pull people back, but I don't want to just train everyone to wait around for a discount. Has anyone done this in a way that actually moved repeat purchases without wrecking margin? Curious which format worked for you, credit vs cash vs points, and whether the setup was worth it. &#32; submitted by &#32; /u/HoneyedVices [link] &#32; [comments]",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1784031969.0
-    },
     {
       "title": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 - Search Engine Journal",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHFkM1NvWkZwblQtVk5aUGJhVWpDMkRvUHd1Z1RxZnNmQmNWNnhxaWF2RmJFMkhmM2RfZzJDY3BKNXVwYWlGNnJPcWtMV29xUW5ZTzl4dWhYVEw5REROSTdNQk5uTm1mOFNwSGZGWkREMUw1UFlEd3ozZHE3aDgtV2hDLXpfOGlGVFNrd2l6Z0RUSGd6RkZkYTE3U3IzaGVDNEh5aFpkOUxhamtLQ0lsdm1RUVVoSldHZFg1Z04yeTVQQVl1dFlV?oc=5",
@@ -165,17 +154,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782305992.0
-    },
-    {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
     },
     {
       "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
@@ -476,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 290,
-    "kept": 43,
-    "opportunities": 21,
+    "total_fetched": 270,
+    "kept": 41,
+    "opportunities": 19,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 10.7
   }
 }
