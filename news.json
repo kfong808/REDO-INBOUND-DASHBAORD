@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T23:41:19.406487+00:00",
+  "updated": "2026-07-15T01:18:47.846530+00:00",
   "items": [
     {
       "title": "Retail 2.0: Agentic commerce and the future of how customers buy - CX Network",
@@ -145,6 +145,17 @@
       "published_ts": 1782305992.0
     },
     {
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782284400.0
+    },
+    {
       "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0NqRkZSTV9jOEZFOEZLRzhGa2tveGtfcW1Ya2JsV1pFLXhRdFg1WTkzWmxITllmUm5mNUVZSUpTOTlYVW9RT1pnNkdOTGRKcXptekYzYzh6Q1oyQ2pITlBrV1hYWnJlSmdHVlNTakNScmhFdm9FQXQ5cVNsbnd5RHpzbHZYYy1ORWJCUmFxNnRXNTRIYVZtanBaV216aGVLSjhGSlVIRU9nLVc4ZlU3YlRWZm5udw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -165,28 +176,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
-    },
-    {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781161200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -223,14 +212,14 @@
     },
     {
       "title": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmdsbkFmNW8zX2FDQ2JmWVR2LW5kYWRVMDRFR1NQNlg0c1BRTXpaeUtwSHRiNVR1VlVIWEdkZkwySG9HellESmlQYlpuMEF1X3lsdy04Z2VNWEVOLU96dXZ3Y3FjakFjajJFZXRrUEN3NXEwdkNDOEFIN21lU1FTRUF5WkZOU2gweXJ0U0ctSnNqX0xpYUdJdVRHdG14TDdyRnZDenZuVS1DdDBfaDNJTFdVS2UtdGtVeTctTW91LVnSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnliS1JmU2JCaFVvdGNreGR5N3RoVEp5aFNZSm9uTWVuWkpUM1NXcHdIWGFHeGhlMFo2RFlpSnl4cEYzRDRwYXdjV1ZaaWg4OXN3X1h3T0dwbGViZ3hSb08zZXpDSERyQUZqcDEtaFRJVjNtR096cnpWS1F2NTVxNmpfX0EwTlVZcTFlZFJHbmJ3VUVkXzNINFE2WDZSM1AxUzhGNjZmaUNpMnU3c2FrRUptbFhzSVhfbnV2QkttS0pucDA2M2fSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 14 Jul 2026 22:35:45 GMT",
+      "published": "Tue, 14 Jul 2026 22:35:46 GMT",
       "summary": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1784068545.0
+      "published_ts": 1784068546.0
     },
     {
       "title": "Klaviyo names former CyberArk exec Smith as new CFO (KVYO:NYSE) - Seeking Alpha",
@@ -475,23 +464,23 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
       "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
+      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 20,
+    "kept": 43,
+    "opportunities": 19,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 10.3
   }
 }
