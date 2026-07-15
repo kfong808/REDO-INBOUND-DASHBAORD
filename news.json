@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T04:39:40.087086+00:00",
+  "updated": "2026-07-15T07:05:54.467461+00:00",
   "items": [
     {
       "title": "Retail 2.0: Agentic commerce and the future of how customers buy - CX Network",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783995973.0
-    },
-    {
-      "title": "Shopify upgraded to Buy at Jefferies on agentic commerce bet - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUd1SU1jU2hTT0Z0cDNsTDRMWFI4NHpGbDh1dTZ6c0s4VFB3Z29BT0ZLV1F6ZDdrcUloRnNlMnVpODNnQlYxSkJrc1NsS1J6R085bWRrenljNzdNQ2YwOXM0Mmp0WXRIczdSYl90QzBYdHdzYUtjV3hQTXBjSF9CckR4RUJYb0YwWEZkbEx4MjdYeXJYVmZpRkY4blYwTWRjOEQ5aWFBVzlOdkRIcVcxajZZMU1tY2oyTGJwR29kOTNpdnIxeHA5YjZoMA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 13 Jul 2026 15:45:00 GMT",
-      "summary": "Shopify upgraded to Buy at Jefferies on agentic commerce bet &nbsp;&nbsp; Proactive financial news",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783957500.0
     },
     {
       "title": "Why agentic commerce will matter more than ChatGPT ads - Search Engine Land",
@@ -99,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1783623600.0
-    },
-    {
-      "title": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping - Newswire.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3luc19BWnZLT2NkR01wa1FzRDN3MWZ3YkZ5NVVGem54WDZlNjE5MTQ4Z1FjYnFhNzRIeTBTN1lKN2U0bmhBbUc3SjNRU3Q0TDF1LUt6eFFUMnB5U3hKOWtneDZjbnJFSXlPUEc2dHY1UlVNMXdTZ2VidzRlMEkzenBBMGdyV1lpOHhqR3J3Um5icGZ2RmdLVnVJcWR3WHQ4ZjJGZGpXWl9XWkQy?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "summary": "Digital Commerce 360 and ReFiBuy Launch First-of-its-Kind AI Commerce Rankings for Retailer Readiness in AI Shopping &nbsp;&nbsp; Newswire.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1783602000.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -431,17 +409,6 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHBkSW45S0k5bFBraVMxMW80TVlVYkNfM3FCYUNvWmpBYTNmTmk5Mk5KNzA4YzVnNTBSSVBNbzdMUWxKSmhHZkx6YVhXaDhQRTU4UTFEeDlnSEFwVC1wd3BIamcyaFFXNjg0TlJqQmllQko5YWNmc3dvSlMwcVZDNVVQcnNuYUtsTzdscXZ3?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
-      "summary": "Yotpo lays off 200 as AI hits headcount &nbsp;&nbsp; Globes - Israel Business News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1754377200.0
-    },
-    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -462,6 +429,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1729062000.0
+    },
+    {
+      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
+      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1667199600.0
     },
     {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
@@ -508,23 +486,23 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "title": "E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xUENZcXBGelFfejYwT3RXYm83b19WTDZBQUtCMlV3YS1tbE90WUxZbTdqd1o1ZGYyN3RHYlVnREpHaGpkUzVjVEVENFEtYlZobDhCaExJcDNvRWlsNlE?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 18 Mar 2021 07:00:00 GMT",
+      "summary": "E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation &nbsp;&nbsp; TechCrunch",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
+      "confidence": "high",
+      "reasoning": "Yotpo + raises, valuation",
+      "published_ts": 1616050800.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 47,
-    "opportunities": 22,
+    "kept": 45,
+    "opportunities": 20,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.1
   }
 }
