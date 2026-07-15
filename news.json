@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-15T11:20:27.973793+00:00",
+  "updated": "2026-07-15T13:09:04.675180+00:00",
   "items": [
+    {
+      "title": "Visa and Thredd move closer to the age of agentic commerce - FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1IzOW5vWk1qQXFVMzV0X1RTeWR3VGpieG5UTUhZNzdRclBVYXJjekJ5enhfS01EcHBXTnh5M3VvUFhHMmVHeTNaLTB5ZTAtVExsY0dqbHJCNm9BQkNMcGc3eUstdGFnbmxieG5jQ3llMmxycGJUb1Y2V1M1VkpkbXp5YXJnRlN4REtDc190UVVNSkRJLXhTVw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 15 Jul 2026 12:17:33 GMT",
+      "summary": "Visa and Thredd move closer to the age of agentic commerce &nbsp;&nbsp; FinTech Global",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784117853.0
+    },
     {
       "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0NkT1hRSEVaZzJlUnVKdTJ6aW13TldwMUVjQWVzTFFhZ19fZHZpTHBQbWVLa0ppX1BCU3J4MkZaUmY0Szl6MVBqb0c5NTV5RXNEUVVObGtsb01BTmNXQndVb2NXRmtFbk5yeTl3RTVJR0hDUUVtVnc5WGtsbnFQSDFrZmpNSGhUc05HdUcyWklEQlZ2V0h2eldkZkk1am1fM3c?oc=5",
@@ -211,6 +222,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Zweig DiMenna Associates LLC Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDk2bFl1THZrc0ZhUWdCalVDaVVmWlV2bFR5U3hQQXZ5OXNLV01Ea2NSTEVMbDV1TWlxeExHeWZJR2FPTFVYdnFWZTVPUU4yVEluTlluS0lFa1UtUWFVY0lBLW9oQnR0SHFnYk1saEsybG9sYmtJdTRIbVdMcms1ZVNjRl9ub1FKRldfTTFvdzU3VW5YUDJ0LThBZDA4MDJUZ1lYdlliMm5wdEVITlVxbXFIYWZIOW5IaHhaVFhNelMyS0lLM2E3Z0hn?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 15 Jul 2026 10:55:46 GMT",
+      "summary": "Zweig DiMenna Associates LLC Makes New Investment in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1784112946.0
+    },
+    {
       "title": "Daily Research News Online no. 40069 - New CFO for Klaviyo - MrWeb",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uZzJwMFFkWldOWmNmX1RWNzNHYl9ldUo0andycGhXMFBVRFMyakFmNGQyWDJ1MFp6d295T25OampGNVBNb3dfclV3QkVMUEwwZXc?oc=5",
       "source": "Google News: Klaviyo",
@@ -321,17 +343,6 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -354,11 +365,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -431,17 +442,6 @@
       "published_ts": 1729062000.0
     },
     {
-      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
-      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1667199600.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -495,14 +495,25 @@
       "confidence": "high",
       "reasoning": "Yotpo + raises, valuation",
       "published_ts": 1616050800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 45,
-    "opportunities": 19,
+    "kept": 46,
+    "opportunities": 20,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.3
   }
 }
