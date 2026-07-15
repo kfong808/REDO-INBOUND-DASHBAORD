@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:49:18.493345+00:00",
+  "updated": "2026-07-15T11:20:27.973793+00:00",
   "items": [
     {
       "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
@@ -77,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1783836660.0
-    },
-    {
-      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWx1TmpnZ05GT1lwbnZkdF9UYXhfMlZhazZGekNVOFNqUEZmNld4QXZVdGFOajM1MDFYMnNWUFJxOFRPQUszbW5pTTdHN0tmYk5IY0paM0F2dkZCSUhTLVVGTW1mZW5pa3dDRVoyc25JdHZVRlhCWkl6UWNsTzY2RUVSQUhpOFNKSWJxZVNWSHpwQjVReGhzNUw0Z1QwNFJCWW1GMDVtM19iMVRqQzFXWEREbGFZS3JpbWNqcmdGMFpFcVgz?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 10 Jul 2026 21:28:25 GMT",
-      "summary": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" &nbsp;&nbsp; CoinDesk",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1783718905.0
     },
     {
       "title": "Ecommerce faces shake-up as AI shopping agents gain ground - MSN",
@@ -234,14 +223,14 @@
     },
     {
       "title": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmdsbkFmNW8zX2FDQ2JmWVR2LW5kYWRVMDRFR1NQNlg0c1BRTXpaeUtwSHRiNVR1VlVIWEdkZkwySG9HellESmlQYlpuMEF1X3lsdy04Z2VNWEVOLU96dXZ3Y3FjakFjajJFZXRrUEN3NXEwdkNDOEFIN21lU1FTRUF5WkZOU2gweXJ0U0ctSnNqX0xpYUdJdVRHdG14TDdyRnZDenZuVS1DdDBfaDNJTFdVS2UtdGtVeTctTW91LVnSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnliS1JmU2JCaFVvdGNreGR5N3RoVEp5aFNZSm9uTWVuWkpUM1NXcHdIWGFHeGhlMFo2RFlpSnl4cEYzRDRwYXdjV1ZaaWg4OXN3X1h3T0dwbGViZ3hSb08zZXpDSERyQUZqcDEtaFRJVjNtR096cnpWS1F2NTVxNmpfX0EwTlVZcTFlZFJHbmJ3VUVkXzNINFE2WDZSM1AxUzhGNjZmaUNpMnU3c2FrRUptbFhzSVhfbnV2QkttS0pucDA2M2fSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 14 Jul 2026 22:35:45 GMT",
+      "published": "Tue, 14 Jul 2026 22:35:46 GMT",
       "summary": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1784068545.0
+      "published_ts": 1784068546.0
     },
     {
       "title": "Klaviyo names former CyberArk exec Smith as new CFO (KVYO:NYSE) - Seeking Alpha",
@@ -442,6 +431,17 @@
       "published_ts": 1729062000.0
     },
     {
+      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
+      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1667199600.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -495,25 +495,14 @@
       "confidence": "high",
       "reasoning": "Yotpo + raises, valuation",
       "published_ts": 1616050800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 46,
-    "opportunities": 20,
+    "kept": 45,
+    "opportunities": 19,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 10.5
   }
 }
