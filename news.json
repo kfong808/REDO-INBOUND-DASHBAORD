@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T11:26:40.144344+00:00",
+  "updated": "2026-07-16T13:17:38.373387+00:00",
   "items": [
     {
       "title": "The agentic commerce gold rush risks repeating ecommerce's biggest mistakes - TechRadar",
@@ -24,6 +24,17 @@
       "published_ts": 1784192370.0
     },
     {
+      "title": "Global Digital Shopping Index: The Agentic Commerce Deep Dive - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnFvZ2oyd0RzVHA0RVpzVmdhenN6RG1PbXo1ekJHNG1xcHdmYWdBS3NRandfRWtIWXBqa3FRVnhCdHh6VGxVTi1Pckl4Y1R2VlBjYzZYQnk5MXdqRTJKdnduNnh5Sl91SS1rZE53RGMwMS1pM3BWUm5CVFZzeUdRYl9qUGhmYWZwY3JFYVdPMA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 16 Jul 2026 08:03:24 GMT",
+      "summary": "Global Digital Shopping Index: The Agentic Commerce Deep Dive &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784189004.0
+    },
+    {
       "title": "Anyone moved off Corso for shipping protection? What did you go to?",
       "url": "https://www.reddit.com/r/shopify/comments/1uxo760/anyone_moved_off_corso_for_shipping_protection/",
       "source": "r/shopify",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784146972.0
-    },
-    {
-      "title": "Visa and Thredd move closer to the age of agentic commerce - FinTech Global",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1IzOW5vWk1qQXFVMzV0X1RTeWR3VGpieG5UTUhZNzdRclBVYXJjekJ5enhfS01EcHBXTnh5M3VvUFhHMmVHeTNaLTB5ZTAtVExsY0dqbHJCNm9BQkNMcGc3eUstdGFnbmxieG5jQ3llMmxycGJUb1Y2V1M1VkpkbXp5YXJnRlN4REtDc190UVVNSkRJLXhTVw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 15 Jul 2026 12:43:56 GMT",
-      "summary": "Visa and Thredd move closer to the age of agentic commerce &nbsp;&nbsp; FinTech Global",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784119436.0
     },
     {
       "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
@@ -121,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782716400.0
-    },
-    {
-      "title": "New Ecommerce Tools: June 24, 2026",
-      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-24-2026",
-      "source": "Practical Ecommerce",
-      "published": "Wed, 24 Jun 2026 12:59:52 +0000",
-      "summary": "This week's rundown includes new services for agentic commerce, GEO, AI-powered marketing, analytics, sales agents, payments, B2B, personalization, and fulfillment. The post New Ecommerce Tools: June 24, 2026 appeared first on Practical Ecommerce .",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1782305992.0
     },
     {
       "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
@@ -365,11 +354,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -464,6 +453,17 @@
       "published_ts": 1729062000.0
     },
     {
+      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
+      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1667199600.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -473,6 +473,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
+    },
+    {
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + acquires",
+      "published_ts": 1639641600.0
     },
     {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
@@ -506,25 +517,14 @@
       "confidence": "high",
       "reasoning": "Yotpo + raises, valuation",
       "published_ts": 1616050800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 270,
     "kept": 47,
-    "opportunities": 20,
-    "threats": 27,
+    "opportunities": 19,
+    "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 11.4
   }
 }
