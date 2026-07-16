@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T20:45:26.955007+00:00",
+  "updated": "2026-07-16T21:54:55.004441+00:00",
   "items": [
     {
       "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
@@ -66,6 +66,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784146972.0
+    },
+    {
+      "title": "Visa and Thredd move closer to the age of agentic commerce - FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1IzOW5vWk1qQXFVMzV0X1RTeWR3VGpieG5UTUhZNzdRclBVYXJjekJ5enhfS01EcHBXTnh5M3VvUFhHMmVHeTNaLTB5ZTAtVExsY0dqbHJCNm9BQkNMcGc3eUstdGFnbmxieG5jQ3llMmxycGJUb1Y2V1M1VkpkbXp5YXJnRlN4REtDc190UVVNSkRJLXhTVw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 15 Jul 2026 12:43:56 GMT",
+      "summary": "Visa and Thredd move closer to the age of agentic commerce &nbsp;&nbsp; FinTech Global",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784119436.0
     },
     {
       "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
@@ -277,17 +288,6 @@
       "published_ts": 1783863890.0
     },
     {
-      "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkZEeEd4VmZlODNhQVJKU2RlQXNqaVVieVhQOGFTbWRabDZPNnk1OVhCclJibi05aUZ3YjJYX3RfQm5vQkJkU1RrekdEMm9nMnpQUXo1eDNkMk03VG1MS1N3TWFjQWtzVFBXUEQtOU5uVHlxR0g5WmNmMkw0NWhneWJCNkcyeWk3MXZPc19vVFdsTE1XRlNyOVk0b3NwVWtZZ2JSMldTMFlFdw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Sat, 04 Jul 2026 00:37:09 GMT",
-      "summary": "Attentive - 2026 Latest Shareholding & Valuation &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + valuation",
-      "published_ts": 1783125429.0
-    },
-    {
       "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
       "source": "Google News: Attentive",
@@ -409,6 +409,17 @@
       "published_ts": 1767686400.0
     },
     {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
+    },
+    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -464,15 +475,15 @@
       "published_ts": 1729062000.0
     },
     {
-      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
+      "title": "Narvar State of Returns 2024 Report Highlights Growing Impact of Returns on Retail Margins and Customer Loyalty - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd3BnQ2FZOEhQakwtaW5KQU45TVQ2VzllWlpiMndLSmR5QWh6WFk0VTRWRG83Q2lsajJGd3cxZFY0OFQ4X0NGTVplUVgwQWtVTW5DNmduWERUbVdKTDJUcFd1UGZCamlzNTNYcUxkeV9JZUFZcEpVREJ2ZUJtRHR1SjZKd1hmUWZJN3VjMzItWGNZMkxfNnNjZWxHYklNWnZqUDQybC1Ya090UXlMUlpjQ3NNbDl6VkdGZ0RCaXc0bi1KbGhYQXdONWVCYWxfQlRLUHpzcHpmeUg5dTNQeXdXa25QdlVhQV9xOVRlR1I0cmdPYkNmYVQ3ZE1YSQ?oc=5",
       "source": "Google News: Narvar",
-      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
-      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
+      "published": "Wed, 21 Aug 2024 07:00:00 GMT",
+      "summary": "Narvar State of Returns 2024 Report Highlights Growing Impact of Returns on Retail Margins and Customer Loyalty &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
-      "published_ts": 1667199600.0
+      "published_ts": 1724223600.0
     },
     {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
@@ -532,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 48,
-    "opportunities": 21,
+    "kept": 49,
+    "opportunities": 22,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.5
+    "runtime_seconds": 10.0
   }
 }
