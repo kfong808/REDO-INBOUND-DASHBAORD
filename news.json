@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-15T23:49:02.368710+00:00",
+  "updated": "2026-07-16T01:28:49.522120+00:00",
   "items": [
+    {
+      "title": "Anyone moved off Corso for shipping protection? What did you go to?",
+      "url": "https://www.reddit.com/r/shopify/comments/1uxo760/anyone_moved_off_corso_for_shipping_protection/",
+      "source": "r/shopify",
+      "published": "2026-07-16T01:01:10+00:00",
+      "summary": "We've been on Corso for package protection for a while now. It's ok, but I'm reevaluating the whole post-purchase setup and wondering what else people run. Mostly I'm tired of protection sitting in its own silo, separate from returns and tracking. If you've switched off Corso, what did you move to, and did it actually simplify anything or just trade one app for another? &#32; submitted by &#32; /u/AnyPuzzleLeaf [link] &#32; [comments]",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1784163670.0
+    },
     {
       "title": "The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys",
       "url": "https://www.modernretail.co/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -442,17 +453,6 @@
       "published_ts": 1729062000.0
     },
     {
-      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
-      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1667199600.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -506,14 +506,25 @@
       "confidence": "high",
       "reasoning": "Yotpo + raises, valuation",
       "published_ts": 1616050800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
-    "opportunities": 19,
+    "kept": 47,
+    "opportunities": 20,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 11.2
   }
 }
