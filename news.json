@@ -1,6 +1,28 @@
 {
-  "updated": "2026-07-16T19:55:35.623168+00:00",
+  "updated": "2026-07-16T20:45:26.955007+00:00",
   "items": [
+    {
+      "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1M5cjU1czhmTnpMZ3NIZ0tzNmJmLWZwWExMSmROZDVWTGlRUl90MHRaTVRKMU56TjRNMlA0WF82QzlZZGFjcVlESnJEd25QM1NfcHVjb2lrRWVkWEdQNVRRNnE5c00xQVJfb0d6SE9ZTm04dWFsMllGcUtGUG55NGJxelNHbk1sRV93UkFSX01aRVdNUnoxcndzejcxeEpYcW5ETEdkOXJiRWtJZm1mcTU1SmQ5MXVpTGxqTGZkdmFROGxhSE5PV1BPR3U4WldFT0dvdEhTdkQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 16 Jul 2026 20:37:30 GMT",
+      "summary": "Agentic Commerce Is Coming—Will the Legal System Be Ready? &nbsp;&nbsp; Consumer Finance Monitor",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784234250.0
+    },
+    {
+      "title": "UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents - The Fintech Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2ktTWtEakxqRlllbzVRY1BOYmhYNUNjWkRJTk84ZHN6dW0tZjd4M1hKNEpMN1R0VmNqQnVMM0NTWEotbGtVR0V3RkVadlhROU5KSXNnS1l6WWFaLVdIWFotQXJXLWlNWHh4YV9rdDZBQzNMejlpUUt2YV85MEkwSy1SQUVBTkdoOXlFS0tfRG5MT1E3aXhMU21EVVV2UQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 16 Jul 2026 19:57:22 GMT",
+      "summary": "UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents &nbsp;&nbsp; The Fintech Times",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1784231842.0
+    },
     {
       "title": "Inside Adyen’s Blueprint for Getting Merchants Ready for Agentic Commerce - Future Nexus",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjNVaktmTEVKNWZ4UmFLNWgtRGZKTmdIM2VjRmtPeGZUVUhucC01cmcyWVc5cU5YZ2JBZGhwZVdrM2RybG1qc180a2ZvY0VxQXhaM3YxRjdzZHlveHR2WjlWZVJBTzZEeklvUzdhQkxFWGRhY28ybFN0aTUxV2RNQmNEbmlBckFwcVdqenNBYldFZVdOUVVxWXRFWmc1SXN6YURUYVF3UDhuT2FwbFE?oc=5",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 19,
+    "kept": 48,
+    "opportunities": 21,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.5
+    "runtime_seconds": 12.5
   }
 }
