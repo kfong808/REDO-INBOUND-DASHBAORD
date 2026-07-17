@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:57:22.757954+00:00",
+  "updated": "2026-07-17T20:48:47.421596+00:00",
   "items": [
     {
       "title": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience - Security Boulevard",
@@ -165,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782910815.0
-    },
-    {
-      "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782716400.0
     },
     {
       "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
@@ -530,6 +519,17 @@
       "published_ts": 1639641600.0
     },
     {
+      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
       "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
       "source": "Google News: Yotpo",
@@ -555,8 +555,8 @@
   "stats": {
     "total_fetched": 270,
     "kept": 50,
-    "opportunities": 24,
-    "threats": 26,
+    "opportunities": 23,
+    "threats": 27,
     "classifier_mode": "keyword",
     "runtime_seconds": 11.9
   }
