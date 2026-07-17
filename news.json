@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T07:09:32.015283+00:00",
+  "updated": "2026-07-17T09:45:32.674692+00:00",
   "items": [
     {
       "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
@@ -99,6 +99,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784029041.0
+    },
+    {
+      "title": "Why agentic commerce will matter more than ChatGPT ads - Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12ZEthWXZMQk13UThFc0FwV1NPOFZfTEdTNmplMW5iamhzZzIxbG9CWTFBdTRCSUVNb3ViZHBsNUdLY0VrUzFkMzRUdFI1QzNndk8wSGNzbjVzNXkybkFqSWIzcF9fTUVCYWRTMDVyem41QQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 13 Jul 2026 12:00:00 GMT",
+      "summary": "Why agentic commerce will matter more than ChatGPT ads &nbsp;&nbsp; Search Engine Land",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1783944000.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -245,14 +256,14 @@
     },
     {
       "title": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnliS1JmU2JCaFVvdGNreGR5N3RoVEp5aFNZSm9uTWVuWkpUM1NXcHdIWGFHeGhlMFo2RFlpSnl4cEYzRDRwYXdjV1ZaaWg4OXN3X1h3T0dwbGViZ3hSb08zZXpDSERyQUZqcDEtaFRJVjNtR096cnpWS1F2NTVxNmpfX0EwTlVZcTFlZFJHbmJ3VUVkXzNINFE2WDZSM1AxUzhGNjZmaUNpMnU3c2FrRUptbFhzSVhfbnV2QkttS0pucDA2M2fSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmdsbkFmNW8zX2FDQ2JmWVR2LW5kYWRVMDRFR1NQNlg0c1BRTXpaeUtwSHRiNVR1VlVIWEdkZkwySG9HellESmlQYlpuMEF1X3lsdy04Z2VNWEVOLU96dXZ3Y3FjakFjajJFZXRrUEN3NXEwdkNDOEFIN21lU1FTRUF5WkZOU2gweXJ0U0ctSnNqX0xpYUdJdVRHdG14TDdyRnZDenZuVS1DdDBfaDNJTFdVS2UtdGtVeTctTW91LVnSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 14 Jul 2026 22:35:46 GMT",
+      "published": "Tue, 14 Jul 2026 22:35:45 GMT",
       "summary": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1784068546.0
+      "published_ts": 1784068545.0
     },
     {
       "title": "Klaviyo names former CyberArk exec Smith as new CFO (KVYO:NYSE) - Seeking Alpha",
@@ -464,15 +475,15 @@
       "published_ts": 1729062000.0
     },
     {
-      "title": "Narvar State of Returns 2024 Report Highlights Growing Impact of Returns on Retail Margins and Customer Loyalty - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd3BnQ2FZOEhQakwtaW5KQU45TVQ2VzllWlpiMndLSmR5QWh6WFk0VTRWRG83Q2lsajJGd3cxZFY0OFQ4X0NGTVplUVgwQWtVTW5DNmduWERUbVdKTDJUcFd1UGZCamlzNTNYcUxkeV9JZUFZcEpVREJ2ZUJtRHR1SjZKd1hmUWZJN3VjMzItWGNZMkxfNnNjZWxHYklNWnZqUDQybC1Ya090UXlMUlpjQ3NNbDl6VkdGZ0RCaXc0bi1KbGhYQXdONWVCYWxfQlRLUHpzcHpmeUg5dTNQeXdXa25QdlVhQV9xOVRlR1I0cmdPYkNmYVQ3ZE1YSQ?oc=5",
+      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
       "source": "Google News: Narvar",
-      "published": "Wed, 21 Aug 2024 07:00:00 GMT",
-      "summary": "Narvar State of Returns 2024 Report Highlights Growing Impact of Returns on Retail Margins and Customer Loyalty &nbsp;&nbsp; PR Newswire",
+      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
+      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
-      "published_ts": 1724223600.0
+      "published_ts": 1667199600.0
     },
     {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
@@ -495,6 +506,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + acquires",
       "published_ts": 1639641600.0
+    },
+    {
+      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
     },
     {
       "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
@@ -521,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 47,
-    "opportunities": 21,
-    "threats": 26,
+    "kept": 49,
+    "opportunities": 22,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.6
+    "runtime_seconds": 10.4
   }
 }
