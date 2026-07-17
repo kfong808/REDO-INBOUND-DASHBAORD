@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T21:41:12.368670+00:00",
+  "updated": "2026-07-17T22:38:10.481051+00:00",
   "items": [
     {
       "title": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience - Security Boulevard",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1784295026.0
-    },
-    {
-      "title": "The hidden mechanism of agentic commerce: Incentives, bias and the future of choice - kpmg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzlHM1N2bm05RXNpc2kwT01idk5NVEN0WGRGald2UVJSV05uNmFKQ2E0clk5cmRZRzlCdlhndk9sVE5CVmQxMWpNbXd0Z09TSXd0UnJrOEZOeXFMX0gyXzFnUTRWVTB1cDZQc1dYbkM1UmpxbXlDakc2a1U3RE5ISDFYTmRJV004OVVqZWl1UjBqZ25Qc2Z2enpxSHBLUzJwTzZ1NEw3Y1cybzNJOHBzell4TXdmTnJQdUptX3JiV0k?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 17 Jul 2026 12:37:59 GMT",
-      "summary": "The hidden mechanism of agentic commerce: Incentives, bias and the future of choice &nbsp;&nbsp; kpmg.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784291879.0
     },
     {
       "title": "Summer School 2026: Building the Trust Layer for Agentic Commerce with IXOPay - PYMNTS.com",
@@ -137,12 +126,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 06:11:00 GMT",
+      "published": "Sun, 12 Jul 2026 06:11:31 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783836660.0
+      "published_ts": 1783836691.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -497,17 +486,6 @@
       "published_ts": 1729062000.0
     },
     {
-      "title": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPckFkRU9ncEEyQVNzSmV2eU8xampHS1VrdUxhMzRkS19HZjVkVW85aWRpajdqbF9YaGVXb0lLaW1iWFRFamV4TmYtN0gxa2NsZl9Qd1ZUWFlKdEM0TG1EemtxS1VzTDJSc1NFR3pGNEVqOTNJN0lnUGNhdFR5SXpEcFFTZVhZVFk0MkYtMUVhR0pYNVdyVGJuMjU2VEN6NVliWWNjS3VTamlEeFJMTlROTU5jNm5oTkdhUVh0OVhzUWFrbUJhSkdtSWxwb0VQWkRRTm1xcXhlekR5V3NBOUtDSTlHNml1Qld4LThBR19n?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 31 Oct 2022 07:00:00 GMT",
-      "summary": "Narvar Research Finds Nearly 25% of Consumers Will Pay for Product Returns in Exchange for Convenience &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1667199600.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -561,14 +539,25 @@
       "confidence": "high",
       "reasoning": "Yotpo + raises, valuation",
       "published_ts": 1616050800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 51,
-    "opportunities": 24,
+    "kept": 50,
+    "opportunities": 23,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.5
   }
 }
