@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T09:45:32.674692+00:00",
+  "updated": "2026-07-17T11:13:56.544750+00:00",
   "items": [
     {
       "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
@@ -33,28 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784225477.0
-    },
-    {
-      "title": "The agentic commerce gold rush risks repeating ecommerce's biggest mistakes - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTFjbm05TEtzV3VvMHhCZ2VydVAwMUpoMlNNa2ZZU3IxMlNDNWRzNmdNV2FEVFBVNXVQVi04cVJKRngzb1J3UUMzVnhtb3RQTXBZRGxPbVh1TmxuM2JMN0JyQVFOVnczREZFZUxIZ0JNeEExQUR3YWYwOXRnQmR3eUtCUGJCZGNxZFBkTTdiQkQ3aldLTkZZQ214RGo4S0NEV01DcXFLcw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 16 Jul 2026 10:42:19 GMT",
-      "summary": "The agentic commerce gold rush risks repeating ecommerce's biggest mistakes &nbsp;&nbsp; TechRadar",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784198539.0
-    },
-    {
-      "title": "Anyone moved off Corso for shipping protection? What did you go to?",
-      "url": "https://www.reddit.com/r/shopify/comments/1uxo760/anyone_moved_off_corso_for_shipping_protection/",
-      "source": "r/shopify",
-      "published": "2026-07-16T01:01:10+00:00",
-      "summary": "We've been on Corso for package protection for a while now. It's ok, but I'm reevaluating the whole post-purchase setup and wondering what else people run. Mostly I'm tired of protection sitting in its own silo, separate from returns and tracking. If you've switched off Corso, what did you move to, and did it actually simplify anything or just trade one app for another? &#32; submitted by &#32; /u/AnyPuzzleLeaf [link] &#32; [comments]",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1784163670.0
     },
     {
       "title": "The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys",
@@ -99,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784029041.0
+    },
+    {
+      "title": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 - Search Engine Journal",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHFkM1NvWkZwblQtVk5aUGJhVWpDMkRvUHd1Z1RxZnNmQmNWNnhxaWF2RmJFMkhmM2RfZzJDY3BKNXVwYWlGNnJPcWtMV29xUW5ZTzl4dWhYVEw5REROSTdNQk5uTm1mOFNwSGZGWkREMUw1UFlEd3ozZHE3aDgtV2hDLXpfOGlGVFNrd2l6Z0RUSGd6RkZkYTE3U3IzaGVDNEh5aFpkOUxhamtLQ0lsdm1RUVVoSldHZFg1Z04yeTVQQVl1dFlV?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 14 Jul 2026 09:30:43 GMT",
+      "summary": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 &nbsp;&nbsp; Search Engine Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784021443.0
     },
     {
       "title": "Why agentic commerce will matter more than ChatGPT ads - Search Engine Land",
@@ -256,14 +245,14 @@
     },
     {
       "title": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmdsbkFmNW8zX2FDQ2JmWVR2LW5kYWRVMDRFR1NQNlg0c1BRTXpaeUtwSHRiNVR1VlVIWEdkZkwySG9HellESmlQYlpuMEF1X3lsdy04Z2VNWEVOLU96dXZ3Y3FjakFjajJFZXRrUEN3NXEwdkNDOEFIN21lU1FTRUF5WkZOU2gweXJ0U0ctSnNqX0xpYUdJdVRHdG14TDdyRnZDenZuVS1DdDBfaDNJTFdVS2UtdGtVeTctTW91LVnSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnliS1JmU2JCaFVvdGNreGR5N3RoVEp5aFNZSm9uTWVuWkpUM1NXcHdIWGFHeGhlMFo2RFlpSnl4cEYzRDRwYXdjV1ZaaWg4OXN3X1h3T0dwbGViZ3hSb08zZXpDSERyQUZqcDEtaFRJVjNtR096cnpWS1F2NTVxNmpfX0EwTlVZcTFlZFJHbmJ3VUVkXzNINFE2WDZSM1AxUzhGNjZmaUNpMnU3c2FrRUptbFhzSVhfbnV2QkttS0pucDA2M2fSAcYBQVVfeXFMTmZ5YktSZlNiQmhVb3Rja3hkeTd0aFRKeWhTWUpvbk1lblpKVDNTV3B3SFhhR3hoZTBaNkRZaUp5eHBGM0Q0cGF3Y1dWWmloODlzd19Yd09HcGxlYmd4Um9PM2V6Q0hEckFGanAxLWhUSVYzbUdPenJ6VktRdjU1cTZqX19BME5VWXExZWRSR25id1VFZF8zSDRRNlg2UjNQMVM4RjY2ZmlDaTJ1N3Nha0VKbWxYc0lYX251dkJLbUtKbnAwNjNn?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Tue, 14 Jul 2026 22:35:45 GMT",
+      "published": "Tue, 14 Jul 2026 22:35:46 GMT",
       "summary": "Did Klaviyo’s (KVYO) New CFO Hire and AI CRM Push Just Reframe Its Growth Narrative? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1784068545.0
+      "published_ts": 1784068546.0
     },
     {
       "title": "Klaviyo names former CyberArk exec Smith as new CFO (KVYO:NYSE) - Seeking Alpha",
@@ -543,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 49,
-    "opportunities": 22,
+    "kept": 48,
+    "opportunities": 21,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 11.4
   }
 }
