@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-17T01:42:45.379534+00:00",
+  "updated": "2026-07-17T04:52:59.394886+00:00",
   "items": [
     {
       "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1M5cjU1czhmTnpMZ3NIZ0tzNmJmLWZwWExMSmROZDVWTGlRUl90MHRaTVRKMU56TjRNMlA0WF82QzlZZGFjcVlESnJEd25QM1NfcHVjb2lrRWVkWEdQNVRRNnE5c00xQVJfb0d6SE9ZTm04dWFsMllGcUtGUG55NGJxelNHbk1sRV93UkFSX01aRVdNUnoxcndzejcxeEpYcW5ETEdkOXJiRWtJZm1mcTU1SmQ5MXVpTGxqTGZkdmFROGxhSE5PV1BPR3U4WldFT0dvdEhTdkQ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 16 Jul 2026 20:37:30 GMT",
+      "published": "Thu, 16 Jul 2026 20:38:27 GMT",
       "summary": "Agentic Commerce Is Coming—Will the Legal System Be Ready? &nbsp;&nbsp; Consumer Finance Monitor",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784234250.0
+      "published_ts": 1784234307.0
     },
     {
       "title": "UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents - The Fintech Times",
@@ -145,17 +145,6 @@
       "published_ts": 1782716400.0
     },
     {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
-    },
-    {
       "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0NqRkZSTV9jOEZFOEZLRzhGa2tveGtfcW1Ya2JsV1pFLXhRdFg1WTkzWmxITllmUm5mNUVZSUpTOTlYVW9RT1pnNkdOTGRKcXptekYzYzh6Q1oyQ2pITlBrV1hYWnJlSmdHVlNTakNScmhFdm9FQXQ5cVNsbnd5RHpzbHZYYy1ORWJCUmFxNnRXNTRIYVZtanBaV216aGVLSjhGSlVIRU9nLVc4ZlU3YlRWZm5udw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -187,6 +176,28 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781247600.0
+    },
+    {
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781161200.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -286,6 +297,17 @@
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1782716400.0
+    },
+    {
+      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
+      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1782661712.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 20,
-    "threats": 26,
+    "kept": 48,
+    "opportunities": 21,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 9.7
   }
 }
