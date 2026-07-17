@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T04:52:59.394886+00:00",
+  "updated": "2026-07-17T07:09:32.015283+00:00",
   "items": [
     {
       "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
@@ -280,12 +280,12 @@
       "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
       "source": "Google News: Attentive",
-      "published": "Tue, 30 Jun 2026 13:40:00 GMT",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
       "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + launches",
-      "published_ts": 1782826800.0
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -297,17 +297,6 @@
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1782716400.0
-    },
-    {
-      "title": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaFBORGR0bFRHWXotVVBnS2FoRjRsemZrTnZrd2NJVVVVZUdZcjgzdExpVGlKZmJCcjZ1bWJGM3RBbmNUQjBPZXdKU1g4ZWxXQmxrVm9MSV9ja0xSakNUZTNyZGQ3R1lhYVE?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Sun, 28 Jun 2026 15:48:32 GMT",
-      "summary": "Mailchimp Tutorial: How To Create A Newsletter In 4 Minutes! Tommy Fury (BzRGQQkZ6X) &nbsp;&nbsp; Fathom Journal",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1782661712.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -532,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 48,
+    "kept": 47,
     "opportunities": 21,
-    "threats": 27,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.7
+    "runtime_seconds": 9.6
   }
 }
