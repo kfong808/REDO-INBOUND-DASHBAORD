@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T11:43:35.720215+00:00",
+  "updated": "2026-07-18T12:49:18.976350+00:00",
   "items": [
     {
       "title": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience - Security Boulevard",
@@ -88,6 +88,17 @@
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
       "published_ts": 1784102118.0
+    },
+    {
+      "title": "Retail 2.0: Agentic commerce and the future of how customers buy - CX Network",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXA2aU9TazllR19ndnJUVndmOE8yNHMxUVcxYlZFT0laUFBoNlVUQzNpaTZ4VzhTVTdTNno2WFZHTG1wYzZrU2t1akRaRTlTVHpKQWxfNzlncXdFZXE0WGtET2ZMOElnQ0RRdkhjb2t4Q2ZQRHFoY3RhbDU1WE1SRGM0VC1BTGNR?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 14 Jul 2026 11:37:21 GMT",
+      "summary": "Retail 2.0: Agentic commerce and the future of how customers buy &nbsp;&nbsp; CX Network",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784029041.0
     },
     {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 21,
+    "kept": 47,
+    "opportunities": 22,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.5
+    "runtime_seconds": 10.0
   }
 }
