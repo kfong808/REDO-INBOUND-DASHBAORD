@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T16:42:58.870129+00:00",
+  "updated": "2026-07-18T17:45:55.224494+00:00",
   "items": [
     {
       "title": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience - Security Boulevard",
@@ -253,6 +253,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? - simplywall.st",
@@ -532,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 48,
-    "opportunities": 23,
+    "kept": 49,
+    "opportunities": 24,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.0
   }
 }
