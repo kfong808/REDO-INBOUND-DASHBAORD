@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:37:32.439969+00:00",
+  "updated": "2026-07-18T23:41:27.648377+00:00",
   "items": [
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784302080.0
+    },
+    {
+      "title": "How agentic commerce will test loyalty and returns - Chain Store Age",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQTVlZjdWNTkwSW80dkx0VDZvaWFsZEJvRFdscG42OWE5UmY1d0dNcFlUZ0paRHNHdUdPclRvRjQtVDI5RHVqOVMwR2N6eEFZaXdQSi1ZNjZ3TW9qV2dTelNjY2o4YXlIUXFET1FFcGhxOWZoX0IzWTI2Nm5fM200eHN3?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 17 Jul 2026 14:00:59 GMT",
+      "summary": "How agentic commerce will test loyalty and returns &nbsp;&nbsp; Chain Store Age",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784296859.0
     },
     {
       "title": "A One-Two Punch Drives Ecommerce Growth",
@@ -77,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784146972.0
-    },
-    {
-      "title": "Visa and Thredd move closer to the age of agentic commerce - FinTech Global",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1IzOW5vWk1qQXFVMzV0X1RTeWR3VGpieG5UTUhZNzdRclBVYXJjekJ5enhfS01EcHBXTnh5M3VvUFhHMmVHeTNaLTB5ZTAtVExsY0dqbHJCNm9BQkNMcGc3eUstdGFnbmxieG5jQ3llMmxycGJUb1Y2V1M1VkpkbXp5YXJnRlN4REtDc190UVVNSkRJLXhTVw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 15 Jul 2026 12:43:56 GMT",
-      "summary": "Visa and Thredd move closer to the age of agentic commerce &nbsp;&nbsp; FinTech Global",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784119436.0
     },
     {
       "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
@@ -547,6 +547,6 @@
     "opportunities": 24,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 9.5
   }
 }
