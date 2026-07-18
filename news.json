@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-18T18:44:37.846785+00:00",
+  "updated": "2026-07-18T19:58:20.238940+00:00",
   "items": [
-    {
-      "title": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEZNM1JMSGMyS1FDbzBCZGVRTW91SjRGQi1FMlFSYWU1ZlVoVHpIV1BjWWZ4WWZwRDNwTUpXYVFDNnhKaWI2SE03WjViMHliM1M5LXY4eDlDeDU4VjhDSHpNLV9hVXNTc3JlcXNCSFlGczNXOXRLdXR6SnoyLUp5bURtb0hSa2lOSkwxSUloMTBTam9aQlRxY25NUHhtSElSMEwwOVhDd1hRNmtick41RzFsNWV0VjE2Xzl6SVExNXI2eTNveHRLMHhvU0F1dw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 17 Jul 2026 19:32:51 GMT",
-      "summary": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience &nbsp;&nbsp; Security Boulevard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784316771.0
-    },
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlFHOWNqcUhqSXAxd2RFT1ZEWHpFMzJyT1hybTZObEhwenZDY3dCYlRZRG1RaEJrOEN6Umk0S2E3d2J4NFZYcFNHWHk5SlROLU1xZGFtRUZIdmlDQ2lnS1BVVEVLbU1pMmh5dVdMWm9QU1ZxTzVQR3NHV0QwN2FPdXFqazdsQjBobzl1d3hBeUx2MTVJazg3dE5LOVQ2S2fSAaQBQVVfeXFMTTZCTGtTWTBzaW1ST2FQNjRDb1ZhUWNfYlN5YjUxZllNVmoteXZEYUNyRGRmRnpVZlJwLS1HZm9NYVZFNjcxSEVzWEltR0JTbnR0RkRpOU5TN3NHYUNGc3ZSMjNaclVSQllJbkx1a3RvS0VVQnRqYWZtdjc5TnRHRmFWUjRwY29LOGVURkpDSW1XSzBIa2locnRRXzFCcUNIcVdlSnM?oc=5",
@@ -88,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784146972.0
+    },
+    {
+      "title": "Visa and Thredd move closer to the age of agentic commerce - FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1IzOW5vWk1qQXFVMzV0X1RTeWR3VGpieG5UTUhZNzdRclBVYXJjekJ5enhfS01EcHBXTnh5M3VvUFhHMmVHeTNaLTB5ZTAtVExsY0dqbHJCNm9BQkNMcGc3eUstdGFnbmxieG5jQ3llMmxycGJUb1Y2V1M1VkpkbXp5YXJnRlN4REtDc190UVVNSkRJLXhTVw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 15 Jul 2026 12:43:56 GMT",
+      "summary": "Visa and Thredd move closer to the age of agentic commerce &nbsp;&nbsp; FinTech Global",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784119436.0
     },
     {
       "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
@@ -464,6 +464,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729062000.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -528,17 +539,6 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
@@ -547,6 +547,6 @@
     "opportunities": 24,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 10.4
   }
 }
