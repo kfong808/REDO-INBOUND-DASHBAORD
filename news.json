@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T04:38:07.142766+00:00",
+  "updated": "2026-07-18T06:52:33.519495+00:00",
   "items": [
     {
       "title": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience - Security Boulevard",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1784295026.0
-    },
-    {
-      "title": "Summer School 2026: Building the Trust Layer for Agentic Commerce with IXOPay - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcThIT2prSFhtSTZSeXlMb1hkWjBSNUZXU0c4Z1BEeE53VE9rZ0dSQkZnRHNoTnd3WWdxZXFzQ2UtUzRJZmdrV1gyWUx5Z1F3cFZMMU9ESHlMekVuMTZfZlBRS2h0TGhCQ2x2VENfTHFfd3ZzdG5VajBkZEwzN0E5WmFjaGFUUlBGbHJJTGNuTUdTWVZoTnhKVjRucw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 17 Jul 2026 08:22:49 GMT",
-      "summary": "Summer School 2026: Building the Trust Layer for Agentic Commerce with IXOPay &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784276569.0
     },
     {
       "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
@@ -266,17 +255,6 @@
       "published_ts": 1784112946.0
     },
     {
-      "title": "Klaviyo names former CyberArk exec Smith as new CFO (KVYO:NYSE) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUxYQ2E1Y3V0VHRPdmh3ell0ZHRFbHdmTU1KNlJWRW4zUkw2NExiTkNZbjBTaDhrSV9sRzVRcGxnaFRYRW5kVVVoREpjRXVMQm9BSWJGQkg5ejRlT201Q2h6SHlqNmxEc196ZzhQWUtxQWlfWUZhQTRsLVlGN2ExdFd5ejhKUHdjRUtxUURfMjEzR0k?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Mon, 13 Jul 2026 13:13:03 GMT",
-      "summary": "Klaviyo names former CyberArk exec Smith as new CFO (KVYO:NYSE) &nbsp;&nbsp; Seeking Alpha",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1783948383.0
-    },
-    {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
       "source": "Google News: Attentive",
@@ -352,6 +330,17 @@
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
       "published_ts": 1776927600.0
+    },
+    {
+      "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHlZRFZzY0Y4dFpnc0ZFNDI4SVd2MnNSN2NfdDc3cVJlMlhRMFF1U3pDMUVyV3FFd2NUdVFwNzBKVWZIUE1uTERzaThhaVF2aFZGcWRwcXo4VUhmQ010UEEtVjlWQTV2Y1U4OFo0YVRMZUFQUjU5WlFCVG1xeE9Xc1Y1WHV4VldGVmpNRzRHVGVIZDRLa0VFU3dGMFllTFlENDlibVZIYUlvb3NZSnpJMEpOaVNhQXlvV0pmdk45YjRidms3YzY1OHkyNUxzUlZIcWJVRWw1SFBvR1kzV1lIU3QyQ3M?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1773817200.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -542,11 +531,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 22,
+    "total_fetched": 270,
+    "kept": 48,
+    "opportunities": 21,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 9.9
   }
 }
