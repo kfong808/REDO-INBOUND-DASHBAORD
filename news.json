@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-18T01:23:26.066091+00:00",
+  "updated": "2026-07-18T04:38:07.142766+00:00",
   "items": [
     {
       "title": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience - Security Boulevard",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEZNM1JMSGMyS1FDbzBCZGVRTW91SjRGQi1FMlFSYWU1ZlVoVHpIV1BjWWZ4WWZwRDNwTUpXYVFDNnhKaWI2SE03WjViMHliM1M5LXY4eDlDeDU4VjhDSHpNLV9hVXNTc3JlcXNCSFlGczNXOXRLdXR6SnoyLUp5bURtb0hSa2lOSkwxSUloMTBTam9aQlRxY25NUHhtSElSMEwwOVhDd1hRNmtick41RzFsNWV0VjE2Xzl6SVExNXI2eTNveHRLMHhvU0F1dw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 17 Jul 2026 19:30:00 GMT",
+      "published": "Fri, 17 Jul 2026 19:32:51 GMT",
       "summary": "The Signal Masking Crisis: Why Your WAF is Quietly Killing Agentic Commerce Shopping Experience &nbsp;&nbsp; Security Boulevard",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784316600.0
+      "published_ts": 1784316771.0
     },
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkJMa1NZMHNpbVJPYVA2NENvVmFRY19iU3liNTFmWU1Wai15dkRhQ3JEZGZGelVmUnAtLUdmb01hVkU2NzFIRXNYSW1HQlNudHRGRGk5TlM3c0dhQ0ZzdlIyM1pyVVJCWUluTHVrdG9LRVVCdGphZm12NzlOdEdGYVZSNHBjb0s4ZVRGSkNJbVdLMEhraWhydFFfMUJxQ0hxV2VKc9IBpAFBVV95cUxNNkJMa1NZMHNpbVJPYVA2NENvVmFRY19iU3liNTFmWU1Wai15dkRhQ3JEZGZGelVmUnAtLUdmb01hVkU2NzFIRXNYSW1HQlNudHRGRGk5TlM3c0dhQ0ZzdlIyM1pyVVJCWUluTHVrdG9LRVVCdGphZm12NzlOdEdGYVZSNHBjb0s4ZVRGSkNJbVdLMEhraWhydFFfMUJxQ0hxV2VKcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlFHOWNqcUhqSXAxd2RFT1ZEWHpFMzJyT1hybTZObEhwenZDY3dCYlRZRG1RaEJrOEN6Umk0S2E3d2J4NFZYcFNHWHk5SlROLU1xZGFtRUZIdmlDQ2lnS1BVVEVLbU1pMmh5dVdMWm9QU1ZxTzVQR3NHV0QwN2FPdXFqazdsQjBobzl1d3hBeUx2MTVJazg3dE5LOVQ2S2fSAaQBQVVfeXFMTTZCTGtTWTBzaW1ST2FQNjRDb1ZhUWNfYlN5YjUxZllNVmoteXZEYUNyRGRmRnpVZlJwLS1HZm9NYVZFNjcxSEVzWEltR0JTbnR0RkRpOU5TN3NHYUNGc3ZSMjNaclVSQllJbkx1a3RvS0VVQnRqYWZtdjc5TnRHRmFWUjRwY29LOGVURkpDSW1XSzBIa2locnRRXzFCcUNIcVdlSnM?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 17 Jul 2026 18:00:00 GMT",
       "summary": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps &nbsp;&nbsp; PaymentsJournal",
@@ -542,7 +542,7 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 49,
     "opportunities": 22,
     "threats": 27,
