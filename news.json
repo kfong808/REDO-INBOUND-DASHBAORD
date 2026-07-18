@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:58:20.238940+00:00",
+  "updated": "2026-07-18T20:42:54.553248+00:00",
   "items": [
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
@@ -464,17 +464,6 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1729062000.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -539,6 +528,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535439600.0
     }
   ],
   "stats": {
@@ -547,6 +547,6 @@
     "opportunities": 24,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 10.0
   }
 }
