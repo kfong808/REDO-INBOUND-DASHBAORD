@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T18:49:07.716171+00:00",
+  "updated": "2026-07-19T20:01:25.305874+00:00",
   "items": [
     {
       "title": "Mantle is closing. What are you all using now to track app revenue?",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784311200.0
+    },
+    {
+      "title": "Summer School 2026: Building the Trust Layer for Agentic Commerce with IXOPay - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcThIT2prSFhtSTZSeXlMb1hkWjBSNUZXU0c4Z1BEeE53VE9rZ0dSQkZnRHNoTnd3WWdxZXFzQ2UtUzRJZmdrV1gyWUx5Z1F3cFZMMU9ESHlMekVuMTZfZlBRS2h0TGhCQ2x2VENfTHFfd3ZzdG5VajBkZEwzN0E5WmFjaGFUUlBGbHJJTGNuTUdTWVZoTnhKVjRucw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 17 Jul 2026 16:52:23 GMT",
+      "summary": "Summer School 2026: Building the Trust Layer for Agentic Commerce with IXOPay &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784307143.0
     },
     {
       "title": "How agentic commerce will test loyalty and returns - Chain Store Age",
@@ -99,17 +110,6 @@
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
       "published_ts": 1784102118.0
-    },
-    {
-      "title": "Retail 2.0: Agentic commerce and the future of how customers buy - CX Network",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXA2aU9TazllR19ndnJUVndmOE8yNHMxUVcxYlZFT0laUFBoNlVUQzNpaTZ4VzhTVTdTNno2WFZHTG1wYzZrU2t1akRaRTlTVHpKQWxfNzlncXdFZXE0WGtET2ZMOElnQ0RRdkhjb2t4Q2ZQRHFoY3RhbDU1WE1SRGM0VC1BTGNR?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 14 Jul 2026 11:37:21 GMT",
-      "summary": "Retail 2.0: Agentic commerce and the future of how customers buy &nbsp;&nbsp; CX Network",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784029041.0
     },
     {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
@@ -558,6 +558,6 @@
     "opportunities": 26,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 9.9
   }
 }
