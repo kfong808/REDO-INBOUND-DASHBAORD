@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-19T14:19:37.821604+00:00",
+  "updated": "2026-07-19T15:44:53.184363+00:00",
   "items": [
     {
-      "title": "Best Shopify alternatives?",
-      "url": "https://www.reddit.com/r/shopify/comments/1v0r7jd/best_shopify_alternatives/",
+      "title": "Mantle is closing. What are you all using now to track app revenue?",
+      "url": "https://www.reddit.com/r/shopify/comments/1v0sq2w/mantle_is_closing_what_are_you_all_using_now_to/",
       "source": "r/shopify",
-      "published": "2026-07-19T13:54:25+00:00",
-      "summary": "What would you consider are the best Shopify alternatives to setup an Ecom store? Or, if you were to move out of Shopify, what alternative would you choose to go with? &#32; submitted by &#32; /u/aeum3893 [link] &#32; [comments]",
+      "published": "2026-07-19T14:57:28+00:00",
+      "summary": "Like a lot of you, I saw Mantle is winding down (shutdown Aug 14, billing accounts Sep 30). Felt a bit stuck reading it. Mantle was where I checked everything. MRR, churn, installs turning into paying users. Now I need a new home for all of it. So what are you moving to? A tool that covers the revenue and analytics side, or did you build your own on the Partner API? Would rather learn from what's working for you than guess. Thanks, hoping we can help each other land somewhere good. &#32; submitt",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: alternatives to",
-      "published_ts": 1784469265.0
+      "reasoning": "Matched: shutdown",
+      "published_ts": 1784473048.0
     },
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
@@ -256,14 +256,14 @@
     },
     {
       "title": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnpSVEJKS2h6a0tBZVNJTHB5WTRfbjdXV201eEpKYlZ2RlN3VTVud1VKVXZQakNsTk1iVk03X1hIMjVnVnhpWmRIY2ZJUXBkQzR5eVNOUUc2OTdVMXZ1b3dOQlhFcFpXN1MydkFnMVRRQ195aHhiYUp2VVhkZHZhcVBGejFUSFdjWFVSSzd1ZXdFa0QzMGFfRmUzR2RkOE9TRkllMHFUX0VzUUY3dkZoeDZ2WDJrUV9oMnBJT2doUGPSAcYBQVVfeXFMTmxqd0JBV1ZNZUUyQWROZnQwLTE3TzdMV29nYUlvSU93enQ4aDNyMnA3WktQVk9JeHpacE91dlVIMzI2Q2dxZ1dVWkNRNV94QnNrMGxiQkw3djBKcnlLVldEY01GRGdIVTVwVFFTUkZ6ZjVEQTFEWGJjc3RwWVVhNFZXbmZHQnA5c0FMNGRRV044Wl9ram1hUVIyNy16UjJZZXQ5OWN1MGh6ejdZQ3F0MW9pQXFNWl9yT181OGNsVG0xLUt5ZTRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGp3QkFXVk1lRTJBZE5mdDAtMTdPN0xXb2dhSW9JT3d6dDhoM3IycDdaS1BWT0l4elpwT3V2VUgzMjZDZ3FnV1VaQ1E1X3hCc2swbGJCTDd2MEpyeUtWV0RjTUZEZ0hVNXBUUVNSRnpmNURBMURYYmNzdHBZVWE0VlduZkdCcDlzQUw0ZFFXTjhaX2tqbWFRUjI3LXpSMllldDk5Y3UwaHp6N1lDcXQxb2lBcU1aX3JPXzU4Y2xUbTEtS3llNEHSAcYBQVVfeXFMTmxqd0JBV1ZNZUUyQWROZnQwLTE3TzdMV29nYUlvSU93enQ4aDNyMnA3WktQVk9JeHpacE91dlVIMzI2Q2dxZ1dVWkNRNV94QnNrMGxiQkw3djBKcnlLVldEY01GRGdIVTVwVFFTUkZ6ZjVEQTFEWGJjc3RwWVVhNFZXbmZHQnA5c0FMNGRRV044Wl9ram1hUVIyNy16UjJZZXQ5OWN1MGh6ejdZQ3F0MW9pQXFNWl9yT181OGNsVG0xLUt5ZTRB?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Fri, 17 Jul 2026 12:28:36 GMT",
+      "published": "Fri, 17 Jul 2026 12:28:37 GMT",
       "summary": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
-      "published_ts": 1784291316.0
+      "published_ts": 1784291317.0
     },
     {
       "title": "Zweig DiMenna Associates LLC Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
@@ -536,6 +536,6 @@
     "opportunities": 23,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.8
+    "runtime_seconds": 10.6
   }
 }
