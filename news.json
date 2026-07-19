@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-19T12:52:05.768666+00:00",
+  "updated": "2026-07-19T14:19:37.821604+00:00",
   "items": [
+    {
+      "title": "Best Shopify alternatives?",
+      "url": "https://www.reddit.com/r/shopify/comments/1v0r7jd/best_shopify_alternatives/",
+      "source": "r/shopify",
+      "published": "2026-07-19T13:54:25+00:00",
+      "summary": "What would you consider are the best Shopify alternatives to setup an Ecom store? Or, if you were to move out of Shopify, what alternative would you choose to go with? &#32; submitted by &#32; /u/aeum3893 [link] &#32; [comments]",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: alternatives to",
+      "published_ts": 1784469265.0
+    },
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlFHOWNqcUhqSXAxd2RFT1ZEWHpFMzJyT1hybTZObEhwenZDY3dCYlRZRG1RaEJrOEN6Umk0S2E3d2J4NFZYcFNHWHk5SlROLU1xZGFtRUZIdmlDQ2lnS1BVVEVLbU1pMmh5dVdMWm9QU1ZxTzVQR3NHV0QwN2FPdXFqazdsQjBobzl1d3hBeUx2MTVJazg3dE5LOVQ2S2fSAaQBQVVfeXFMTTZCTGtTWTBzaW1ST2FQNjRDb1ZhUWNfYlN5YjUxZllNVmoteXZEYUNyRGRmRnpVZlJwLS1HZm9NYVZFNjcxSEVzWEltR0JTbnR0RkRpOU5TN3NHYUNGc3ZSMjNaclVSQllJbkx1a3RvS0VVQnRqYWZtdjc5TnRHRmFWUjRwY29LOGVURkpDSW1XSzBIa2locnRRXzFCcUNIcVdlSnM?oc=5",
@@ -520,11 +531,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 47,
-    "opportunities": 22,
+    "total_fetched": 269,
+    "kept": 48,
+    "opportunities": 23,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.6
+    "runtime_seconds": 11.8
   }
 }
