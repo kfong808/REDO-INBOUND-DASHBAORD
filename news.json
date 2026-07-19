@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T20:01:25.305874+00:00",
+  "updated": "2026-07-19T21:41:39.886061+00:00",
   "items": [
     {
       "title": "Mantle is closing. What are you all using now to track app revenue?",
@@ -22,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784311200.0
-    },
-    {
-      "title": "Summer School 2026: Building the Trust Layer for Agentic Commerce with IXOPay - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcThIT2prSFhtSTZSeXlMb1hkWjBSNUZXU0c4Z1BEeE53VE9rZ0dSQkZnRHNoTnd3WWdxZXFzQ2UtUzRJZmdrV1gyWUx5Z1F3cFZMMU9ESHlMekVuMTZfZlBRS2h0TGhCQ2x2VENfTHFfd3ZzdG5VajBkZEwzN0E5WmFjaGFUUlBGbHJJTGNuTUdTWVZoTnhKVjRucw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 17 Jul 2026 16:52:23 GMT",
-      "summary": "Summer School 2026: Building the Trust Layer for Agentic Commerce with IXOPay &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784307143.0
     },
     {
       "title": "How agentic commerce will test loyalty and returns - Chain Store Age",
@@ -88,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1784215879.0
+    },
+    {
+      "title": "The agentic commerce gold rush risks repeating ecommerce's biggest mistakes - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTFjbm05TEtzV3VvMHhCZ2VydVAwMUpoMlNNa2ZZU3IxMlNDNWRzNmdNV2FEVFBVNXVQVi04cVJKRngzb1J3UUMzVnhtb3RQTXBZRGxPbVh1TmxuM2JMN0JyQVFOVnczREZFZUxIZ0JNeEExQUR3YWYwOXRnQmR3eUtCUGJCZGNxZFBkTTdiQkQ3aldLTkZZQ214RGo4S0NEV01DcXFLcw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 16 Jul 2026 10:42:19 GMT",
+      "summary": "The agentic commerce gold rush risks repeating ecommerce's biggest mistakes &nbsp;&nbsp; TechRadar",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784198539.0
     },
     {
       "title": "The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys",
@@ -558,6 +558,6 @@
     "opportunities": 26,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 12.1
   }
 }
