@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T17:47:34.143091+00:00",
+  "updated": "2026-07-19T18:49:07.716171+00:00",
   "items": [
     {
       "title": "Mantle is closing. What are you all using now to track app revenue?",
@@ -299,17 +299,6 @@
       "published_ts": 1784291317.0
     },
     {
-      "title": "Zweig DiMenna Associates LLC Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDk2bFl1THZrc0ZhUWdCalVDaVVmWlV2bFR5U3hQQXZ5OXNLV01Ea2NSTEVMbDV1TWlxeExHeWZJR2FPTFVYdnFWZTVPUU4yVEluTlluS0lFa1UtUWFVY0lBLW9oQnR0SHFnYk1saEsybG9sYmtJdTRIbVdMcms1ZVNjRl9ub1FKRldfTTFvdzU3VW5YUDJ0LThBZDA4MDJUZ1lYdlliMm5wdEVITlVxbXFIYWZIOW5IaHhaVFhNelMyS0lLM2E3Z0hn?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 15 Jul 2026 10:55:46 GMT",
-      "summary": "Zweig DiMenna Associates LLC Makes New Investment in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1784112946.0
-    },
-    {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
       "source": "Google News: Attentive",
@@ -565,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 51,
+    "kept": 50,
     "opportunities": 26,
-    "threats": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 10.3
   }
 }
