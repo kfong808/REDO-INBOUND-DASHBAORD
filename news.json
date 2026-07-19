@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T09:43:30.617054+00:00",
+  "updated": "2026-07-19T11:03:18.596075+00:00",
   "items": [
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784311200.0
-    },
-    {
-      "title": "Strivve Extends Top of Wallet to Agentic Commerce -- Making the Issuer's Card the One the AI Agent Uses - goSkagit",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWllaZVZ2alNRMnpHTnlTVjhsY200bUY5OWdYdVFBQWdibGhKcmt4Rk1ZRG9BV2swOTRtRU51SWhuYTNRa3ZINnNrVWZCdHRQNlg0bmEwZlN3aHZIVUltLXVkUUFsSFR0QVJ4VG9aV3hkV2hsaV9XSDFXMHphTzN4QkN5WXZtQVZjR0N1UWVHZXUydEtWQzdNY0ptSmRQd001dWVNc19vVzNoNXlmTkV2YkpuaHUySVVFcWtMTG9kZ1V1dGRqdklSLUV4OTlPYTJuaHpnOU13Ylo3endYOHM4a1pDV1dlQQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 17 Jul 2026 15:28:00 GMT",
-      "summary": "Strivve Extends Top of Wallet to Agentic Commerce -- Making the Issuer's Card the One the AI Agent Uses &nbsp;&nbsp; goSkagit",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784302080.0
     },
     {
       "title": "How agentic commerce will test loyalty and returns - Chain Store Age",
@@ -475,15 +464,15 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
-      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
+      "published": "Mon, 07 Mar 2022 08:00:00 GMT",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1729062000.0
+      "confidence": "medium",
+      "reasoning": "Narvar + launches",
+      "published_ts": 1646640000.0
     },
     {
       "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
@@ -554,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 50,
-    "opportunities": 25,
+    "kept": 49,
+    "opportunities": 24,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 10.5
   }
 }
