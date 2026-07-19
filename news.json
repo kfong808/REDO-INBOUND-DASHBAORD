@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T07:28:00.431663+00:00",
+  "updated": "2026-07-19T09:43:30.617054+00:00",
   "items": [
     {
       "title": "Industry-Backed x402 Foundation Is Aimed at Agentic Commerce Gaps - PaymentsJournal",
@@ -154,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1782910815.0
+    },
+    {
+      "title": "Trust Issues Could Make or Break Agentic Commerce - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSmlCSGZJYmZyZ21NRGJSZUFYbm5zaGZfdVBNbjY5TjlWRmJLeUhCa2p0bXl1Mmw2VEhOTUFMMXcwRmh4d25fQmJzNnFIazdzWnJlTGw1Y1Y0eHN4Z0VVUzRHalFaaS1SaHVIcnh6VzNZRVlRZUw2TXJyQlI5T0k?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Trust Issues Could Make or Break Agentic Commerce &nbsp;&nbsp; Tech Policy Press",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782716400.0
     },
     {
       "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
@@ -464,6 +475,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729062000.0
+    },
+    {
       "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
@@ -532,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 48,
-    "opportunities": 24,
-    "threats": 24,
+    "kept": 50,
+    "opportunities": 25,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.1
   }
 }
