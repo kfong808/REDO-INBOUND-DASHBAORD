@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:40:52.277843+00:00",
+  "updated": "2026-07-19T23:45:57.129602+00:00",
   "items": [
     {
       "title": "Mantle is closing. What are you all using now to track app revenue?",
@@ -558,6 +558,6 @@
     "opportunities": 26,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 20.9
+    "runtime_seconds": 10.3
   }
 }
