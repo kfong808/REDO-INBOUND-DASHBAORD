@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:41:39.886061+00:00",
+  "updated": "2026-07-19T22:40:52.277843+00:00",
   "items": [
     {
       "title": "Mantle is closing. What are you all using now to track app revenue?",
@@ -126,12 +126,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 06:11:00 GMT",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783836660.0
+      "published_ts": 1783753200.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -558,6 +558,6 @@
     "opportunities": 26,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.1
+    "runtime_seconds": 20.9
   }
 }
