@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T20:59:49.358199+00:00",
+  "updated": "2026-07-20T22:00:29.193900+00:00",
   "items": [
     {
       "title": "Can Etsy's Agentic Commerce Become a Growth Catalyst? - Yahoo Finance Singapore",
@@ -365,6 +365,17 @@
       "published_ts": 1779951600.0
     },
     {
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1778742000.0
+    },
+    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -418,6 +429,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
       "published_ts": 1768204800.0
+    },
+    {
+      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1767686400.0
     },
     {
       "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
@@ -542,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 260,
-    "kept": 49,
+    "total_fetched": 270,
+    "kept": 51,
     "opportunities": 28,
-    "threats": 21,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 15.1
+    "runtime_seconds": 10.3
   }
 }
