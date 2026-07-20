@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T05:30:14.789988+00:00",
+  "updated": "2026-07-20T08:38:01.306411+00:00",
   "items": [
     {
       "title": "To what are you moving from Stocky before the August shutdown?",
@@ -289,14 +289,14 @@
     },
     {
       "title": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGp3QkFXVk1lRTJBZE5mdDAtMTdPN0xXb2dhSW9JT3d6dDhoM3IycDdaS1BWT0l4elpwT3V2VUgzMjZDZ3FnV1VaQ1E1X3hCc2swbGJCTDd2MEpyeUtWV0RjTUZEZ0hVNXBUUVNSRnpmNURBMURYYmNzdHBZVWE0VlduZkdCcDlzQUw0ZFFXTjhaX2tqbWFRUjI3LXpSMllldDk5Y3UwaHp6N1lDcXQxb2lBcU1aX3JPXzU4Y2xUbTEtS3llNEHSAcYBQVVfeXFMTmxqd0JBV1ZNZUUyQWROZnQwLTE3TzdMV29nYUlvSU93enQ4aDNyMnA3WktQVk9JeHpacE91dlVIMzI2Q2dxZ1dVWkNRNV94QnNrMGxiQkw3djBKcnlLVldEY01GRGdIVTVwVFFTUkZ6ZjVEQTFEWGJjc3RwWVVhNFZXbmZHQnA5c0FMNGRRV044Wl9ram1hUVIyNy16UjJZZXQ5OWN1MGh6ejdZQ3F0MW9pQXFNWl9yT181OGNsVG0xLUt5ZTRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnpSVEJKS2h6a0tBZVNJTHB5WTRfbjdXV201eEpKYlZ2RlN3VTVud1VKVXZQakNsTk1iVk03X1hIMjVnVnhpWmRIY2ZJUXBkQzR5eVNOUUc2OTdVMXZ1b3dOQlhFcFpXN1MydkFnMVRRQ195aHhiYUp2VVhkZHZhcVBGejFUSFdjWFVSSzd1ZXdFa0QzMGFfRmUzR2RkOE9TRkllMHFUX0VzUUY3dkZoeDZ2WDJrUV9oMnBJT2doUGPSAcYBQVVfeXFMTmxqd0JBV1ZNZUUyQWROZnQwLTE3TzdMV29nYUlvSU93enQ4aDNyMnA3WktQVk9JeHpacE91dlVIMzI2Q2dxZ1dVWkNRNV94QnNrMGxiQkw3djBKcnlLVldEY01GRGdIVTVwVFFTUkZ6ZjVEQTFEWGJjc3RwWVVhNFZXbmZHQnA5c0FMNGRRV044Wl9ram1hUVIyNy16UjJZZXQ5OWN1MGh6ejdZQ3F0MW9pQXFNWl9yT181OGNsVG0xLUt5ZTRB?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Fri, 17 Jul 2026 12:28:37 GMT",
+      "published": "Fri, 17 Jul 2026 12:28:36 GMT",
       "summary": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + launches",
-      "published_ts": 1784291317.0
+      "published_ts": 1784291316.0
     },
     {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
@@ -308,6 +308,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783863890.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -553,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 50,
+    "total_fetched": 270,
+    "kept": 51,
     "opportunities": 26,
-    "threats": 24,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.1
   }
 }
