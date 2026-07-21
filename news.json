@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T21:53:54.460837+00:00",
+  "updated": "2026-07-21T22:44:15.330380+00:00",
   "items": [
     {
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
@@ -536,6 +536,6 @@
     "opportunities": 24,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.4
+    "runtime_seconds": 13.7
   }
 }
