@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T20:12:23.675487+00:00",
+  "updated": "2026-07-21T21:53:54.460837+00:00",
   "items": [
     {
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: alternatives to",
       "published_ts": 1784645585.0
+    },
+    {
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 21 Jul 2026 12:37:18 GMT",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784637438.0
     },
     {
       "title": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need - Tearsheet",
@@ -66,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784626231.0
-    },
-    {
-      "title": "Entering the agentic commerce era: What does it take to be a trailblazer? - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXg0Q3RjMEp6X0I4QmxnNF8zSjBtVWNURmlXdjRSSE9zUzg4cHVKcXFZRUZSekVuYVVXem9oaHNxSXpYdkY4UEVSX3ZQV2FjRVBZM3haTTVTYnl3RU1keDFGUm9PcTF5cnpLM2x0bWpFYjk2WE16eDNfOW5GMU5IaEdrZzNCdlJMcHhqY1E3RDdITFlseGFWYnJiakZMbVJEcDMwVFA1REd2TXFBYVVENFBYUU1kZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 20 Jul 2026 21:03:56 GMT",
-      "summary": "Entering the agentic commerce era: What does it take to be a trailblazer? &nbsp;&nbsp; Finextra Research",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784581436.0
     },
     {
       "title": "A One-Two Punch Drives Ecommerce Growth",
@@ -211,6 +211,17 @@
       "published_ts": 1779260400.0
     },
     {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
+    },
+    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -286,6 +297,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783839600.0
+    },
+    {
+      "title": "Postscript: Mark Singer - newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
-    "opportunities": 23,
-    "threats": 23,
+    "kept": 48,
+    "opportunities": 24,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 12.4
   }
 }
