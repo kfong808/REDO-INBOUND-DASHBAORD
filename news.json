@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-21T12:18:16.806698+00:00",
+  "updated": "2026-07-21T14:54:46.777465+00:00",
   "items": [
+    {
+      "title": "alternatives to fast bundle while it's unavailable?",
+      "url": "https://www.reddit.com/r/shopify/comments/1v2kq7k/alternatives_to_fast_bundle_while_its_unavailable/",
+      "source": "r/shopify",
+      "published": "2026-07-21T14:53:05+00:00",
+      "summary": "Since fast bundle is not avaible on the store, need something urgently. we run a few live bundles so i'm kind of stuck. what's everyone using these days? open to anything that actually works, just need to get bundles back up. &#32; submitted by &#32; /u/MysticLine [link] &#32; [comments]",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: alternatives to",
+      "published_ts": 1784645585.0
+    },
     {
       "title": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need - Tearsheet",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTXNEa2g1VmdrZHBKbW1Lc0k5OW8xanBrakJ0VVNiNE53N1E1d3U4bEdWQ1o3RVJvY25EdWRRMk4yb2c3MkN5SkdoMV9ZbFZ1NjFUMWY1eUlRX0pMZzFZMjZvNHRULVBXdzVONF81N3BEN3lqV3RRUTFCNlIzYk4zcDFEcWNtMWNZamNYSG5vaDhKOWJ4dTFnWWtyWFFGdlVtZlJoOXN3cmMyZnhzY0l3c0tPT1FBaVZEMkRUUG1STzR3eUVsQndNS0M3NldEdXZOQ21tRWJ6Sy00bjNhRjZYdGd4TTQ5dG5DV0FZQ1hkYmNPRkhnbjJWWWliTVVYd2FTYlpXLUdWMjA?oc=5",
@@ -44,39 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784581436.0
-    },
-    {
-      "title": "Can Etsy's Agentic Commerce Become a Growth Catalyst? - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXp5SkNra1ZiemlHaUJZNFNVeFR0and5d18ycUdPOWVKQlFLLUpNS1Uya1RwRG41NEIzV2cydGVMQWVlYzktUjdHZEowbEI2cXBHQTJYSm1IUzA1b2xSaXZIdDhTbzdCX2xTRnpUb08yLWY4NkJ2ME5yY2ZMMkVGSTBTX1ZHZlFQa2xIOGV3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 20 Jul 2026 15:44:00 GMT",
-      "summary": "Can Etsy's Agentic Commerce Become a Growth Catalyst? &nbsp;&nbsp; Yahoo Finance Singapore",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784562240.0
-    },
-    {
-      "title": "Agentic commerce is coming—and the battle to build its infrastructure is on - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWdxcm9tWUt6TEszN2dydE0wWENqbHVQVFhpYzJQdmhaS3ZTemFmN25JUWRNX3NHUl9FSmtKUUt2RmRTakpDeGVoalpqdHpGX2VxanhOVDA2Mjk5Vmt0d0FveXFkN2JCeW5OeTZUZkR1NWtKRzJRWWpSY0xzc3c4YVBOd2lRajljODQzZlpOMFFhT291SmhhZWhnYkVfSGRSaWNF?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 20 Jul 2026 08:32:00 GMT",
-      "summary": "Agentic commerce is coming—and the battle to build its infrastructure is on &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784536320.0
-    },
-    {
-      "title": "To what are you moving from Stocky before the August shutdown?",
-      "url": "https://www.reddit.com/r/shopify/comments/1v1bg8h/to_what_are_you_moving_from_stocky_before_the/",
-      "source": "r/shopify",
-      "published": "2026-07-20T04:33:39+00:00",
-      "summary": "With Stocky fully shutting down Aug 31 (and already gone from the App Store), curious what everyone here actually landed on. What are the things you're considering? &#32; submitted by &#32; /u/no_idle_cycles [link] &#32; [comments]",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: shutting down, shutdown",
-      "published_ts": 1784522019.0
     },
     {
       "title": "A One-Two Punch Drives Ecommerce Growth",
@@ -189,6 +167,17 @@
       "published_ts": 1782284400.0
     },
     {
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1782111600.0
+    },
+    {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -244,6 +233,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "‘Attentive’ – Fabrizio Romano confirms Liverpool target has rejected new contract - readliverpoolfc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFNLOEVQcUVBR2JSeXp4RG5FbWRqek1tQ2gtR2s4Tm1vbm5YMDVzU0pGZDlQS29OUDM5VWN1VHJlRUhJU2liUy1oQ1RiWW9scXlGck91UXZEdFNLdlMzeDhHeGY5NTRoT2dQaXJfVl9xSzJsSW1TbVM3MURMSnVscGZKWkZWOEJvOFJEUGdzOVNfd2oxMnFyUDVYUzNwMGR4bUtpTE9PYXFhd1Ra?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 21 Jul 2026 13:44:25 GMT",
+      "summary": "‘Attentive’ – Fabrizio Romano confirms Liverpool target has rejected new contract &nbsp;&nbsp; readliverpoolfc.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1784641465.0
+    },
+    {
       "title": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnpSVEJKS2h6a0tBZVNJTHB5WTRfbjdXV201eEpKYlZ2RlN3VTVud1VKVXZQakNsTk1iVk03X1hIMjVnVnhpWmRIY2ZJUXBkQzR5eVNOUUc2OTdVMXZ1b3dOQlhFcFpXN1MydkFnMVRRQ195aHhiYUp2VVhkZHZhcVBGejFUSFdjWFVSSzd1ZXdFa0QzMGFfRmUzR2RkOE9TRkllMHFUX0VzUUY3dkZoeDZ2WDJrUV9oMnBJT2doUGPSAcYBQVVfeXFMTmxqd0JBV1ZNZUUyQWROZnQwLTE3TzdMV29nYUlvSU93enQ4aDNyMnA3WktQVk9JeHpacE91dlVIMzI2Q2dxZ1dVWkNRNV94QnNrMGxiQkw3djBKcnlLVldEY01GRGdIVTVwVFFTUkZ6ZjVEQTFEWGJjc3RwWVVhNFZXbmZHQnA5c0FMNGRRV044Wl9ram1hUVIyNy16UjJZZXQ5OWN1MGh6ejdZQ3F0MW9pQXFNWl9yT181OGNsVG0xLUt5ZTRB?oc=5",
       "source": "Google News: Klaviyo",
@@ -266,11 +266,33 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
+      "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkZEeEd4VmZlODNhQVJKU2RlQXNqaVVieVhQOGFTbWRabDZPNnk1OVhCclJibi05aUZ3YjJYX3RfQm5vQkJkU1RrekdEMm9nMnpQUXo1eDNkMk03VG1MS1N3TWFjQWtzVFBXUEQtOU5uVHlxR0g5WmNmMkw0NWhneWJCNkcyeWk3MXZPc19vVFdsTE1XRlNyOVk0b3NwVWtZZ2JSMldTMFlFdw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Sat, 04 Jul 2026 00:37:09 GMT",
+      "summary": "Attentive - 2026 Latest Shareholding & Valuation &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1783125429.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782802800.0
+    },
+    {
+      "title": "Postscript: Mark Singer - newyorker.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -297,6 +319,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1778742000.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -363,17 +396,6 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
-    },
-    {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -487,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 44,
-    "opportunities": 22,
-    "threats": 22,
+    "total_fetched": 269,
+    "kept": 46,
+    "opportunities": 21,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 11.9
   }
 }
