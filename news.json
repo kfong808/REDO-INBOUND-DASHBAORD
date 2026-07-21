@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-20T23:46:04.119193+00:00",
+  "updated": "2026-07-21T01:29:26.055450+00:00",
   "items": [
+    {
+      "title": "Entering the agentic commerce era: What does it take to be a trailblazer? - Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXg0Q3RjMEp6X0I4QmxnNF8zSjBtVWNURmlXdjRSSE9zUzg4cHVKcXFZRUZSekVuYVVXem9oaHNxSXpYdkY4UEVSX3ZQV2FjRVBZM3haTTVTYnl3RU1keDFGUm9PcTF5cnpLM2x0bWpFYjk2WE16eDNfOW5GMU5IaEdrZzNCdlJMcHhqY1E3RDdITFlseGFWYnJiakZMbVJEcDMwVFA1REd2TXFBYVVENFBYUU1kZw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 20 Jul 2026 21:03:56 GMT",
+      "summary": "Entering the agentic commerce era: What does it take to be a trailblazer? &nbsp;&nbsp; Finextra Research",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784581436.0
+    },
     {
       "title": "Can Etsy's Agentic Commerce Become a Growth Catalyst? - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXp5SkNra1ZiemlHaUJZNFNVeFR0and5d18ycUdPOWVKQlFLLUpNS1Uya1RwRG41NEIzV2cydGVMQWVlYzktUjdHZEowbEI2cXBHQTJYSm1IUzA1b2xSaXZIdDhTbzdCX2xTRnpUb08yLWY4NkJ2ME5yY2ZMMkVGSTBTX1ZHZlFQa2xIOGV3?oc=5",
@@ -11,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784562240.0
-    },
-    {
-      "title": "Entering the agentic commerce era: What does it take to be a trailblazer? - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXg0Q3RjMEp6X0I4QmxnNF8zSjBtVWNURmlXdjRSSE9zUzg4cHVKcXFZRUZSekVuYVVXem9oaHNxSXpYdkY4UEVSX3ZQV2FjRVBZM3haTTVTYnl3RU1keDFGUm9PcTF5cnpLM2x0bWpFYjk2WE16eDNfOW5GMU5IaEdrZzNCdlJMcHhqY1E3RDdITFlseGFWYnJiakZMbVJEcDMwVFA1REd2TXFBYVVENFBYUU1kZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 20 Jul 2026 15:03:56 GMT",
-      "summary": "Entering the agentic commerce era: What does it take to be a trailblazer? &nbsp;&nbsp; Finextra Research",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784559836.0
     },
     {
       "title": "Inside the Digital Medina: How Agentic Commerce Turns Every Purchase into a Micro‑RFP - The AI Journal",
@@ -569,6 +569,6 @@
     "opportunities": 28,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 11.9
   }
 }
