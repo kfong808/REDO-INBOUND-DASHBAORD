@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T07:31:45.813951+00:00",
+  "updated": "2026-07-22T10:13:31.156777+00:00",
   "items": [
     {
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
@@ -77,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784626231.0
+    },
+    {
+      "title": "Entering the agentic commerce era: What does it take to be a trailblazer? - Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXg0Q3RjMEp6X0I4QmxnNF8zSjBtVWNURmlXdjRSSE9zUzg4cHVKcXFZRUZSekVuYVVXem9oaHNxSXpYdkY4UEVSX3ZQV2FjRVBZM3haTTVTYnl3RU1keDFGUm9PcTF5cnpLM2x0bWpFYjk2WE16eDNfOW5GMU5IaEdrZzNCdlJMcHhqY1E3RDdITFlseGFWYnJiakZMbVJEcDMwVFA1REd2TXFBYVVENFBYUU1kZw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 20 Jul 2026 21:03:56 GMT",
+      "summary": "Entering the agentic commerce era: What does it take to be a trailblazer? &nbsp;&nbsp; Finextra Research",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784581436.0
     },
     {
       "title": "Agentic commerce is coming—and the battle to build its infrastructure is on - Fortune",
@@ -497,17 +508,6 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
-    },
-    {
       "title": "E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xUENZcXBGelFfejYwT3RXYm83b19WTDZBQUtCMlV3YS1tbE90WUxZbTdqd1o1ZGYyN3RHYlVnREpHaGpkUzVjVEVENFEtYlZobDhCaExJcDNvRWlsNlE?oc=5",
       "source": "Google News: Yotpo",
@@ -542,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 49,
-    "opportunities": 26,
-    "threats": 23,
+    "opportunities": 27,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.7
+    "runtime_seconds": 10.3
   }
 }
