@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-22T16:13:17.854441+00:00",
+  "updated": "2026-07-22T18:01:01.405665+00:00",
   "items": [
+    {
+      "title": "AI shopping tools surge, retailers warned to get on board - BusinessDesk | NZ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0puNTFFLWpnWDFiYUJUMTNOd3RNRFRMWHFXU29UenloamxDT0NtSWFUVDEyb1ljM2pDSWFvN2lPSmdNV1NWTENUbncwemgwb3N4SHVYYWFqUzJRVTh4Rnk5U1dWbGhKZmpsQW5LcG42ZkFlZlcwV0dYVHdQUGhfeGcxa09YQ1pLM1ROelJMUFg0NWVzd2JJcGVZUUNUUDQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 22 Jul 2026 17:00:00 GMT",
+      "summary": "AI shopping tools surge, retailers warned to get on board &nbsp;&nbsp; BusinessDesk | NZ",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1784739600.0
+    },
     {
       "title": "VitalityIP and Schnucks Pioneer Agentic Commerce With Personalized Shopping Assistant - New Castle News",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeWZVVFB0NFd1STlNa3VnZDZEZDh5YjItUGZMT0ZIb1NMa0RWcnd6SGQ5ekZQSjlzRF9RTVZqRXZtSXBDalljSjZObE9uSDZTME5DS1Y1Y2NPTUtQbk9JYlk3T2U2Nll3VjRCN01rdE1ya0c3LXc3cU04Tm9XRVFVSDZrTl9ONzltSlF3eWhzUTBYd0pGS1hkSjhxcVFXd1JBTm13dFB3bHlSUFpZRDEzN2ZYRUR2bkxOcmJjY2NIZ1A5TjVtTjRZV2ZEcEVzXzVpeUZoVXNwMUVnLTZFbnhRbk5KX3JhZkxlWmowSGo5SWdHeC0ydk84TzVoNE1yNllxWHg1Y051SWtFZw?oc=5",
@@ -121,17 +132,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1783926000.0
-    },
-    {
-      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783753200.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -547,6 +547,6 @@
     "opportunities": 25,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.7
+    "runtime_seconds": 11.9
   }
 }
