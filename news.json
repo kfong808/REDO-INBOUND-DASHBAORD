@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T10:13:31.156777+00:00",
+  "updated": "2026-07-22T12:20:57.387654+00:00",
   "items": [
     {
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
@@ -332,6 +332,17 @@
       "published_ts": 1783839600.0
     },
     {
+      "title": "Postscript: Mark Singer - newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -464,6 +475,17 @@
       "published_ts": 1762416000.0
     },
     {
+      "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHBkSW45S0k5bFBraVMxMW80TVlVYkNfM3FCYUNvWmpBYTNmTmk5Mk5KNzA4YzVnNTBSSVBNbzdMUWxKSmhHZkx6YVhXaDhQRTU4UTFEeDlnSEFwVC1wd3BIamcyaFFXNjg0TlJqQmllQko5YWNmc3dvSlMwcVZDNVVQcnNuYUtsTzdscXZ3?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "summary": "Yotpo lays off 200 as AI hits headcount &nbsp;&nbsp; Globes - Israel Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1754377200.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -542,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 49,
+    "total_fetched": 270,
+    "kept": 51,
     "opportunities": 27,
-    "threats": 22,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 10.4
   }
 }
