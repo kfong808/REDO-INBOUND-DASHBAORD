@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T18:01:01.405665+00:00",
+  "updated": "2026-07-22T20:05:47.936628+00:00",
   "items": [
     {
       "title": "AI shopping tools surge, retailers warned to get on board - BusinessDesk | NZ",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1784739600.0
-    },
-    {
-      "title": "VitalityIP and Schnucks Pioneer Agentic Commerce With Personalized Shopping Assistant - New Castle News",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeWZVVFB0NFd1STlNa3VnZDZEZDh5YjItUGZMT0ZIb1NMa0RWcnd6SGQ5ekZQSjlzRF9RTVZqRXZtSXBDalljSjZObE9uSDZTME5DS1Y1Y2NPTUtQbk9JYlk3T2U2Nll3VjRCN01rdE1ya0c3LXc3cU04Tm9XRVFVSDZrTl9ONzltSlF3eWhzUTBYd0pGS1hkSjhxcVFXd1JBTm13dFB3bHlSUFpZRDEzN2ZYRUR2bkxOcmJjY2NIZ1A5TjVtTjRZV2ZEcEVzXzVpeUZoVXNwMUVnLTZFbnhRbk5KX3JhZkxlWmowSGo5SWdHeC0ydk84TzVoNE1yNllxWHg1Y051SWtFZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 22 Jul 2026 15:00:41 GMT",
-      "summary": "VitalityIP and Schnucks Pioneer Agentic Commerce With Personalized Shopping Assistant &nbsp;&nbsp; New Castle News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784732441.0
     },
     {
       "title": "For anyone who's already migrated off Stocky — what does your new tool still not do?",
@@ -46,17 +35,6 @@
       "published_ts": 1784732400.0
     },
     {
-      "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxTlVVbGJiUzY4MUMwWXctUzdpUlNhM1RzWXRvNGhRUEs0aFowSE80dUgzUkFaZFQ4X0xFMkJGeFFUTE1UbEY2S1kyUHZpUnRabjV6WHpxam9KOWhmQTVPc2lpaVpTY0tjdHBSajNCREdOZVM1Nl9xbFVrc2hfUQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 21 Jul 2026 16:22:20 GMT",
-      "summary": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent &nbsp;&nbsp; Salesforce",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784650940.0
-    },
-    {
       "title": "alternatives to fast bundle while it's unavailable?",
       "url": "https://www.reddit.com/r/shopify/comments/1v2kq7k/alternatives_to_fast_bundle_while_its_unavailable/",
       "source": "r/shopify",
@@ -66,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: alternatives to",
       "published_ts": 1784645585.0
+    },
+    {
+      "title": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need - Tearsheet",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTXNEa2g1VmdrZHBKbW1Lc0k5OW8xanBrakJ0VVNiNE53N1E1d3U4bEdWQ1o3RVJvY25EdWRRMk4yb2c3MkN5SkdoMV9ZbFZ1NjFUMWY1eUlRX0pMZzFZMjZvNHRULVBXdzVONF81N3BEN3lqV3RRUTFCNlIzYk4zcDFEcWNtMWNZamNYSG5vaDhKOWJ4dTFnWWtyWFFGdlVtZlJoOXN3cmMyZnhzY0l3c0tPT1FBaVZEMkRUUG1STzR3eUVsQndNS0M3NldEdXZOQ21tRWJ6Sy00bjNhRjZYdGd4TTQ5dG5DV0FZQ1hkYmNPRkhnbjJWWWliTVVYd2FTYlpXLUdWMjA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 21 Jul 2026 12:10:14 GMT",
+      "summary": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need &nbsp;&nbsp; Tearsheet",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784635814.0
     },
     {
       "title": "AI Shopping Agents Won’t Kill the Merchant: New Study Debunks Disintermediation Fears - FF News",
@@ -178,17 +167,6 @@
       "published_ts": 1782284400.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1782111600.0
-    },
-    {
       "title": "AI shopping agents are coming. No one is ready for them - Fortune",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -277,6 +255,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
+    },
+    {
       "title": "Does Klaviyo’s New CFO Hire Refocus KVYO on Financial Discipline or Market Messaging? - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVVTZ1NJdFltcjBEemdEd1gwR1FCNVZUQnpjSXJrWHJxUHpvZDFRZE5HOVRYRVBDTjFTWmlQNWVfa1BzNXpkdUFpbEhCY2pDRG0yVFdobExLcVU0ZzFER0NCUjVxcXpDaDNzMlRINWxzQy1wUEdGOVBodTlrS2hUR1Z4SkJGUW1mZ2RrWWpibTNpalpoT2JlYkNPNmxVUHM5NUdZX3F4Yy1vSHVKVjNVQW1heVMtM0lUenVrYm5kNXppbDhJOEFJ0gHHAUFVX3lxTE9hVVNnU0l0WW1yMER6Z0R3WDBHUUI1VlRCemNJcmtYcnFQem9kMVFkTkc5VFhFUENOMVNaaVA1ZV9rUHM1emR1QWlsSEJjakNEbTJUV2hsTEtxVTRnMURHQ0JSNXFxekNoM3MyVEg1bHNDLXBQR0Y5UGh1OWtLaFRHVnhKQkZRbWZnZGtZamJtM2lqWmhPYmViQ082bFVQczk1R1lfcXhjLW9IdUpWM1VBbWF5Uy0zSVR6dWtibmQ1emlsOEk4QUk?oc=5",
       "source": "Google News: Klaviyo",
@@ -288,15 +277,15 @@
       "published_ts": 1784684046.0
     },
     {
-      "title": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? - Sahm",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX09zMlMybEJtUXZQWktENXZicjlVSC1EWS1oVm96UTJOcFZKYTdkU0Rsc3Q0eUREeUd1UjA2ZGV1UzEyYVpjVmNvTThsYUNqZzFPQVVBU180V3F0eHUwVHE1bTctTkZlSWx6c2M4Mm4zMnpmcmJWTzI3Z2tPNTdUWmM2NkVWYnUtU1h6MUtFXzhiODhPSTNRTU9DUmNTUl91Ym1TWWhCdC1jSTRKUkhFN29xQlB2UGc4M0t1SDU1UDNZNzk3YUNz?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Is Klaviyo (KVYO) A Bargain As It Adds A New CFO And Launches Social Marketing? &nbsp;&nbsp; Sahm",
+      "title": "‘Attentive’ – Fabrizio Romano confirms Liverpool target has rejected new contract - readliverpoolfc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFNLOEVQcUVBR2JSeXp4RG5FbWRqek1tQ2gtR2s4Tm1vbm5YMDVzU0pGZDlQS29OUDM5VWN1VHJlRUhJU2liUy1oQ1RiWW9scXlGck91UXZEdFNLdlMzeDhHeGY5NTRoT2dQaXJfVl9xSzJsSW1TbVM3MURMSnVscGZKWkZWOEJvOFJEUGdzOVNfd2oxMnFyUDVYUzNwMGR4bUtpTE9PYXFhd1Ra?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 21 Jul 2026 13:44:25 GMT",
+      "summary": "‘Attentive’ – Fabrizio Romano confirms Liverpool target has rejected new contract &nbsp;&nbsp; readliverpoolfc.com",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1784271600.0
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1784641465.0
     },
     {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
@@ -308,6 +297,28 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783839600.0
+    },
+    {
+      "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkZEeEd4VmZlODNhQVJKU2RlQXNqaVVieVhQOGFTbWRabDZPNnk1OVhCclJibi05aUZ3YjJYX3RfQm5vQkJkU1RrekdEMm9nMnpQUXo1eDNkMk03VG1MS1N3TWFjQWtzVFBXUEQtOU5uVHlxR0g5WmNmMkw0NWhneWJCNkcyeWk3MXZPc19vVFdsTE1XRlNyOVk0b3NwVWtZZ2JSMldTMFlFdw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Sat, 04 Jul 2026 00:37:09 GMT",
+      "summary": "Attentive - 2026 Latest Shareholding & Valuation &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1783125429.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -418,17 +429,6 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
-    },
-    {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -542,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
+    "total_fetched": 269,
     "kept": 49,
-    "opportunities": 25,
-    "threats": 24,
+    "opportunities": 24,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 10.7
   }
 }
