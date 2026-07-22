@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T22:54:13.012466+00:00",
+  "updated": "2026-07-22T23:54:05.401765+00:00",
   "items": [
     {
       "title": "VitalityIP and Schnucks Pioneer Agentic Commerce With Personalized Shopping Assistant - New Castle News",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: alternatives to",
       "published_ts": 1784645585.0
-    },
-    {
-      "title": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need - Tearsheet",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTXNEa2g1VmdrZHBKbW1Lc0k5OW8xanBrakJ0VVNiNE53N1E1d3U4bEdWQ1o3RVJvY25EdWRRMk4yb2c3MkN5SkdoMV9ZbFZ1NjFUMWY1eUlRX0pMZzFZMjZvNHRULVBXdzVONF81N3BEN3lqV3RRUTFCNlIzYk4zcDFEcWNtMWNZamNYSG5vaDhKOWJ4dTFnWWtyWFFGdlVtZlJoOXN3cmMyZnhzY0l3c0tPT1FBaVZEMkRUUG1STzR3eUVsQndNS0M3NldEdXZOQ21tRWJ6Sy00bjNhRjZYdGd4TTQ5dG5DV0FZQ1hkYmNPRkhnbjJWWWliTVVYd2FTYlpXLUdWMjA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 21 Jul 2026 12:10:14 GMT",
-      "summary": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need &nbsp;&nbsp; Tearsheet",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784635814.0
     },
     {
       "title": "AI Shopping Agents Won’t Kill the Merchant: New Study Debunks Disintermediation Fears - FF News",
@@ -233,17 +222,6 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -319,6 +297,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783839600.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -543,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 49,
-    "opportunities": 27,
-    "threats": 22,
+    "kept": 48,
+    "opportunities": 25,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 11.5
   }
 }
