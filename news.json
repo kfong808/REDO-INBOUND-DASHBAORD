@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T21:56:07.764543+00:00",
+  "updated": "2026-07-22T22:54:13.012466+00:00",
   "items": [
     {
       "title": "VitalityIP and Schnucks Pioneer Agentic Commerce With Personalized Shopping Assistant - New Castle News",
@@ -55,6 +55,17 @@
       "confidence": "medium",
       "reasoning": "Matched: alternatives to",
       "published_ts": 1784645585.0
+    },
+    {
+      "title": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need - Tearsheet",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTXNEa2g1VmdrZHBKbW1Lc0k5OW8xanBrakJ0VVNiNE53N1E1d3U4bEdWQ1o3RVJvY25EdWRRMk4yb2c3MkN5SkdoMV9ZbFZ1NjFUMWY1eUlRX0pMZzFZMjZvNHRULVBXdzVONF81N3BEN3lqV3RRUTFCNlIzYk4zcDFEcWNtMWNZamNYSG5vaDhKOWJ4dTFnWWtyWFFGdlVtZlJoOXN3cmMyZnhzY0l3c0tPT1FBaVZEMkRUUG1STzR3eUVsQndNS0M3NldEdXZOQ21tRWJ6Sy00bjNhRjZYdGd4TTQ5dG5DV0FZQ1hkYmNPRkhnbjJWWWliTVVYd2FTYlpXLUdWMjA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 21 Jul 2026 12:10:14 GMT",
+      "summary": "The Quarterly Review: How J.P. Morgan Payments’ Prashant Sharma intends to build the trust infrastructure that agentic commerce will need &nbsp;&nbsp; Tearsheet",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784635814.0
     },
     {
       "title": "AI Shopping Agents Won’t Kill the Merchant: New Study Debunks Disintermediation Fears - FF News",
@@ -532,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 48,
-    "opportunities": 26,
+    "kept": 49,
+    "opportunities": 27,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 10.8
   }
 }
