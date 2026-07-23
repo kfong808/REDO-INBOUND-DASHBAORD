@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-23T18:57:44.198960+00:00",
+  "updated": "2026-07-23T20:10:02.310587+00:00",
   "items": [
+    {
+      "title": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! - Roastbrief US",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVZaG4zQkFrZnRfakRZVjJkUmNOa2lCa1cwWjc5cG9Yek1Od0F5d0NBaXprbzd3TlpnWGtFdnR2bndTelZSVEcyaE5MeUVXTWxnYm1aWUgyZGxQRFRfSFBDeHFDZVVSZEFxd0ZDUXQtekduTl9hT1laeGlSc3p0dzIyc0NPTzAydDdhTTgzaw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 23 Jul 2026 19:11:00 GMT",
+      "summary": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! &nbsp;&nbsp; Roastbrief US",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784833860.0
+    },
     {
       "title": "Most consumers have used an AI shopping agent - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TURNemc4Wm4xVzQ4LXFMcnpoMGhjWHlNSUJGWlUydVlwVlhEdEY4Q2ZCQ2VUaHlqMEJ3Vm9yU3dpTlJIdFZKQjI0RUl4WmduUDVTWWYtMzZJaGlWLXQxcG1jNkg1VUhmVEg5eUtxdnpNZkFrNkRn?oc=5",
@@ -14,14 +25,14 @@
     },
     {
       "title": "AI Shopping Agents - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tZlVmenNjanhPd0NjbnVDWjNHYzdmRm9lbE5tMElrbENoVWNLZFNvYi1tOTdxOFc1bVl3TXQwcUhUbUpNSEZ5U2Q2Vjd1ZXUwekQxSnVUQlhjd2x1cFlnWXdUZ9IBaEFVX3lxTE82R0pwQ3Y1ZW5aUXBISFVRQWkwTWJ3ZVBqV0NoRjVFX3JzQjR0TzRQLU9heFRjY0czOVdRVElibll5QWt2czRIYjdya29LZEhfT18zZkJ6aE9jZ0ZKMjJxdUg1LVJzMm1T?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82R0pwQ3Y1ZW5aUXBISFVRQWkwTWJ3ZVBqV0NoRjVFX3JzQjR0TzRQLU9heFRjY0czOVdRVElibll5QWt2czRIYjdya29LZEhfT18zZkJ6aE9jZ0ZKMjJxdUg1LVJzMm1T0gFoQVVfeXFMTzZHSnBDdjVlblpRcEhIVVFBaTBNYndlUGpXQ2hGNUVfcnNCNHRPNFAtT2F4VGNjRzM5V1FUSWJuWXlBa3ZzNEhiN3Jrb0tkSF9PXzNmQnpoT2NnRkoyMnF1SDUtUnMybVM?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Thu, 23 Jul 2026 17:12:52 GMT",
+      "published": "Thu, 23 Jul 2026 17:18:55 GMT",
       "summary": "AI Shopping Agents &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1784826772.0
+      "published_ts": 1784827135.0
     },
     {
       "title": "The Biggest Risk in Agentic Commerce Is Unauthorized Autonomous Spend - CPA Practice Advisor",
@@ -101,17 +112,6 @@
       "published_ts": 1784295026.0
     },
     {
-      "title": "AI shopping tests retailers' insurance coverage - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXhJUXhOTThBY2lOWnNDUDFyb2JjRUhEREl4NWdHQzNOT3N0c1UwNjcxMXVVZ251OWJPYzUtN0hYUW9Ea18tQndoeU9wRC1ja2J0WG82a2o2eHNRTDI5ZmlRQXhtMEdiYkxUNlNYZzJsb3JxWTVucHA0aXBTOER2a3lkNWxfeTJUUXY1X1B6aFpQQ09RVnRn?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 16 Jul 2026 15:31:19 GMT",
-      "summary": "AI shopping tests retailers' insurance coverage &nbsp;&nbsp; eMarketer",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1784215879.0
-    },
-    {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01bDJXLVRzSVgwUXNYZXJNM255c3dNV1N5Vk1GZGpaVEVxOWpyMllKY2R4cThNLV84cUd0WXJSQ216dFhmbUNnejRnR3BhRnc3dzBxT2JEMDk3NlZiYTFfRC0tSnhKeUpqcGk2aHd3?oc=5",
       "source": "Google News: AI shopping agent",
@@ -165,6 +165,28 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782716400.0
+    },
+    {
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782284400.0
+    },
+    {
+      "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0NqRkZSTV9jOEZFOEZLRzhGa2tveGtfcW1Ya2JsV1pFLXhRdFg1WTkzWmxITllmUm5mNUVZSUpTOTlYVW9RT1pnNkdOTGRKcXptekYzYzh6Q1oyQ2pITlBrV1hYWnJlSmdHVlNTakNScmhFdm9FQXQ5cVNsbnd5RHpzbHZYYy1ORWJCUmFxNnRXNTRIYVZtanBaV216aGVLSjhGSlVIRU9nLVc4ZlU3YlRWZm5udw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "From invisible to recommended: How brands become visible to AI shopping agents &nbsp;&nbsp; Retail Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782111600.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -266,15 +288,15 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
+      "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkZEeEd4VmZlODNhQVJKU2RlQXNqaVVieVhQOGFTbWRabDZPNnk1OVhCclJibi05aUZ3YjJYX3RfQm5vQkJkU1RrekdEMm9nMnpQUXo1eDNkMk03VG1MS1N3TWFjQWtzVFBXUEQtOU5uVHlxR0g5WmNmMkw0NWhneWJCNkcyeWk3MXZPc19vVFdsTE1XRlNyOVk0b3NwVWtZZ2JSMldTMFlFdw?oc=5",
       "source": "Google News: Attentive",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "Attentive - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "published": "Sat, 04 Jul 2026 00:37:09 GMT",
+      "summary": "Attentive - 2026 Latest Shareholding & Valuation &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1783148400.0
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1783125429.0
     },
     {
       "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 22,
+    "kept": 48,
+    "opportunities": 24,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 10.5
   }
 }
