@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T21:55:46.741290+00:00",
+  "updated": "2026-07-23T22:46:54.385630+00:00",
   "items": [
     {
       "title": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! - Roastbrief US",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784732400.0
+    },
+    {
+      "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxTlVVbGJiUzY4MUMwWXctUzdpUlNhM1RzWXRvNGhRUEs0aFowSE80dUgzUkFaZFQ4X0xFMkJGeFFUTE1UbEY2S1kyUHZpUnRabjV6WHpxam9KOWhmQTVPc2lpaVpTY0tjdHBSajNCREdOZVM1Nl9xbFVrc2hfUQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 21 Jul 2026 16:22:20 GMT",
+      "summary": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent &nbsp;&nbsp; Salesforce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784650940.0
     },
     {
       "title": "AI Shopping Agents Won’t Kill the Merchant: New Study Debunks Disintermediation Fears - FF News",
@@ -115,12 +126,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783753200.0
+      "published_ts": 1783839600.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -266,25 +277,14 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkZEeEd4VmZlODNhQVJKU2RlQXNqaVVieVhQOGFTbWRabDZPNnk1OVhCclJibi05aUZ3YjJYX3RfQm5vQkJkU1RrekdEMm9nMnpQUXo1eDNkMk03VG1MS1N3TWFjQWtzVFBXUEQtOU5uVHlxR0g5WmNmMkw0NWhneWJCNkcyeWk3MXZPc19vVFdsTE1XRlNyOVk0b3NwVWtZZ2JSMldTMFlFdw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Sat, 04 Jul 2026 00:37:09 GMT",
-      "summary": "Attentive - 2026 Latest Shareholding & Valuation &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + valuation",
-      "published_ts": 1783125429.0
-    },
-    {
-      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
-      "source": "Google News: Attentive",
+      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
+      "source": "Google News: Klaviyo",
       "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
       "published_ts": 1782802800.0
     },
     {
@@ -308,17 +308,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1778742000.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -396,6 +385,17 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1767686400.0
+    },
+    {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -500,8 +500,8 @@
   "stats": {
     "total_fetched": 270,
     "kept": 45,
-    "opportunities": 22,
-    "threats": 23,
+    "opportunities": 23,
+    "threats": 22,
     "classifier_mode": "keyword",
     "runtime_seconds": 11.0
   }
