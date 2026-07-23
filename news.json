@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T23:54:05.401765+00:00",
+  "updated": "2026-07-23T01:47:23.633689+00:00",
   "items": [
     {
       "title": "VitalityIP and Schnucks Pioneer Agentic Commerce With Personalized Shopping Assistant - New Castle News",
@@ -35,11 +35,11 @@
       "published_ts": 1784732400.0
     },
     {
-      "title": "US Payments Forum Publishes Primer on Agentic Commerce - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2JBS0NNckN2M3Q3MnlHMDZZbkxYcHVvRV9aeW9MY0t5cVdFLWc4cVIzVm9NNnlnMnh6Z01aM0dnMU5NZkpSYmM1V1VqdS01VGJ4aTVidmF0MDV3MUY4SFVzMG9DelFGM2VENzlLekd3aTdOY21LYllPcFJ4OXVhUzBVcXBHSDVOeXdNNUpkMlpFM3dNZ0VSR2RXZ3FQQ2M?oc=5",
+      "title": "US Payments Forum Publishes Primer on Agentic Commerce - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3dCNzdKM1VOOFFQNU9zNFFsOF9NbzAxaC01U2pYNDRPd1pOY2pybHpUWkplMkhPRmtyVnJrdDJtRFVISFB2dERBQjV4U1lrbl9BbnhOQzYwQU1PRzJiR19fb2hWNnBaRWhLV3FLbFNYT0xQME9iN0FiR09YVVFDS3dZeGpRSUJZU1VwNnlwaUtrRy0tTFEwbXRmM2NyRkFYZ0x0cWJsczJMYV9mVTl3aE9EelBodU9hUzBTZzAtSEdtMTc2ZkplQnNn?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "US Payments Forum Publishes Primer on Agentic Commerce &nbsp;&nbsp; Yahoo Finance",
+      "summary": "US Payments Forum Publishes Primer on Agentic Commerce &nbsp;&nbsp; GlobeNewswire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -299,17 +299,6 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1782802800.0
-    },
-    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -352,6 +341,17 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1778742000.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -536,6 +536,6 @@
     "opportunities": 25,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.5
+    "runtime_seconds": 10.1
   }
 }
