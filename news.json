@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-23T12:23:52.372330+00:00",
+  "updated": "2026-07-23T15:00:55.340757+00:00",
   "items": [
+    {
+      "title": "Most consumers have used an AI shopping agent - Chain Store Age",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TURNemc4Wm4xVzQ4LXFMcnpoMGhjWHlNSUJGWlUydVlwVlhEdEY4Q2ZCQ2VUaHlqMEJ3Vm9yU3dpTlJIdFZKQjI0RUl4WmduUDVTWWYtMzZJaGlWLXQxcG1jNkg1VUhmVEg5eUtxdnpNZkFrNkRn?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 23 Jul 2026 12:40:03 GMT",
+      "summary": "Most consumers have used an AI shopping agent &nbsp;&nbsp; Chain Store Age",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1784810403.0
+    },
     {
       "title": "The Biggest Risk in Agentic Commerce Is Unauthorized Autonomous Spend - CPA Practice Advisor",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkFfMzJDWW41Y0VudkJ4TWVnMzIxSkd4LXkxRkpGTDdiNzdkeW5DVzRrWXV4ODRMNG1FNXlDeXJ0czM5TDhMdjF2SzBrV0U0YXpDRU5UTnJIWlhuNHoteXcyQ3MwOW1DV2FPdzVzQ3Y2eDFNUFFkcEcycmZZazVZWDFfOHVMdU01clhMVE96OHlkSDhjSVlJQUhldnhvUlg1VUlUbnlLcUNoSV9pcG5Va1JldzhJS1hoQ2RjUjJmdng?oc=5",
@@ -77,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1784295026.0
-    },
-    {
-      "title": "Agentic Commerce Is Coming—Will the Legal System Be Ready? - Consumer Finance Monitor",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1M5cjU1czhmTnpMZ3NIZ0tzNmJmLWZwWExMSmROZDVWTGlRUl90MHRaTVRKMU56TjRNMlA0WF82QzlZZGFjcVlESnJEd25QM1NfcHVjb2lrRWVkWEdQNVRRNnE5c00xQVJfb0d6SE9ZTm04dWFsMllGcUtGUG55NGJxelNHbk1sRV93UkFSX01aRVdNUnoxcndzejcxeEpYcW5ETEdkOXJiRWtJZm1mcTU1SmQ5MXVpTGxqTGZkdmFROGxhSE5PV1BPR3U4WldFT0dvdEhTdkQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 16 Jul 2026 20:38:27 GMT",
-      "summary": "Agentic Commerce Is Coming—Will the Legal System Be Ready? &nbsp;&nbsp; Consumer Finance Monitor",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784234307.0
     },
     {
       "title": "AI shopping tests retailers' insurance coverage - eMarketer",
@@ -167,28 +167,6 @@
       "published_ts": 1782284400.0
     },
     {
-      "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0NqRkZSTV9jOEZFOEZLRzhGa2tveGtfcW1Ya2JsV1pFLXhRdFg1WTkzWmxITllmUm5mNUVZSUpTOTlYVW9RT1pnNkdOTGRKcXptekYzYzh6Q1oyQ2pITlBrV1hYWnJlSmdHVlNTakNScmhFdm9FQXQ5cVNsbnd5RHpzbHZYYy1ORWJCUmFxNnRXNTRIYVZtanBaV216aGVLSjhGSlVIRU9nLVc4ZlU3YlRWZm5udw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "From invisible to recommended: How brands become visible to AI shopping agents &nbsp;&nbsp; Retail Dive",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782111600.0
-    },
-    {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -209,17 +187,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
-    },
-    {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
     },
     {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
@@ -297,6 +264,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783839600.0
+    },
+    {
+      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -521,10 +499,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 47,
-    "opportunities": 25,
-    "threats": 22,
+    "kept": 45,
+    "opportunities": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 12.2
   }
 }
