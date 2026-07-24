@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T20:09:32.999945+00:00",
+  "updated": "2026-07-24T21:57:06.917933+00:00",
   "items": [
     {
       "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784897750.0
+    },
+    {
+      "title": "Visa and Lianlian Advance Trusted B2B Agentic Commerce Through LoopXPay's First Live B2B Agentic Transaction - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV0RBWjAwaWxxYlNCQzlfYk9BME9mTmtaQms2MGlZTUxIcWhJLUpsT1ZCYm1YT2VFaXhnWEw5Zk05ZkV4cWxuelBxNGdNVzZGSktnYzVDUHVHUWx4WWJOVUpSaEdYbEdTUVFUbFEtT0Jra1Qya2didFJnNEUzQkZ4WFU1MzZUNFFZUVhxTkZQTy03SC1lemVEYS0tQlRMa3JiUlZjSmNmaTF4UXlwNzdpYmhUZXdFVnVXRXVaUUY2RDZLSFN2WFdUejdZWmNFRDNvZDdKQ3NWd1daWUd2WjVRa3RjaVFyMHc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 24 Jul 2026 04:31:00 GMT",
+      "summary": "Visa and Lianlian Advance Trusted B2B Agentic Commerce Through LoopXPay's First Live B2B Agentic Transaction &nbsp;&nbsp; Big News Network.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784867460.0
     },
     {
       "title": "Visa and Lianlian Advance Trusted B2B Agentic Commerce Through LoopXPay's First Live B2B Agentic Transaction - Yahoo Finance Singapore",
@@ -55,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1784827135.0
-    },
-    {
-      "title": "US Payments Forum Publishes Primer on Agentic Commerce - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHM1YXo3NE0xVzRDSkoxU0JROEFja09jUTZaMmJZUWlUVEQzUm0wNDQ5WmEzbmI0N2pBZS1HLXFOM0xPZUZZMVotLVowV3JGVXNGcDVsQnNCdFJqQUtkel81QUxZdk1PLWxPRHNUdUlqUnktbzlMUmE0YVVIREVxSnhOYnZCdjBVbXpEQk45OENyWUJVb2E5V3dDUGkyTTFqai1fSE9FM0hwREhobFpBckNvbDNiZGttemlLb2ItV2t6RElY?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "US Payments Forum Publishes Primer on Agentic Commerce &nbsp;&nbsp; GlobeNewswire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784725200.0
     },
     {
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
@@ -321,17 +321,6 @@
       "published_ts": 1782802800.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
-    },
-    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -542,11 +531,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 49,
+    "total_fetched": 250,
+    "kept": 48,
     "opportunities": 24,
-    "threats": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 145.7
   }
 }
