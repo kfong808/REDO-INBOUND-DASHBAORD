@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-24T14:43:29.600536+00:00",
+  "updated": "2026-07-24T18:10:21.942401+00:00",
   "items": [
+    {
+      "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZHgwekFWdWZUcTdqc1dsNFVFNXNyZVRjM3ZJYnpaRjJBaWFMaGdaWmJmUjhiYnRVRzkxNVdyZmFscURNc243YWV1cnZXdWxaV3dfVEllNENGeE1HbXNkdFZ6WHhXZWxYMnlqVG1KblRobW8?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 24 Jul 2026 13:43:27 GMT",
+      "summary": "The Agentic Commerce Ecosystem 2026 &nbsp;&nbsp; eMarketer",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784900607.0
+    },
     {
       "title": "The real risk in agentic commerce - MarTech",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZ1NWT3lOYTdjdzFsSXRLWWJtUnZXWmwxV3dySnhjMGNzZmpyZ1hDTzItS3ZibXFsc1MwLWVxNjZJRlEwUVllN2JhVHJGR1FrQjJKNEVIZTJtVW9tR25PSTJjQzY?oc=5",
@@ -266,17 +277,6 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "Attentive - 2026 Latest Shareholding & Valuation - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkZEeEd4VmZlODNhQVJKU2RlQXNqaVVieVhQOGFTbWRabDZPNnk1OVhCclJibi05aUZ3YjJYX3RfQm5vQkJkU1RrekdEMm9nMnpQUXo1eDNkMk03VG1MS1N3TWFjQWtzVFBXUEQtOU5uVHlxR0g5WmNmMkw0NWhneWJCNkcyeWk3MXZPc19vVFdsTE1XRlNyOVk0b3NwVWtZZ2JSMldTMFlFdw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Sat, 04 Jul 2026 00:37:09 GMT",
-      "summary": "Attentive - 2026 Latest Shareholding & Valuation &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + valuation",
-      "published_ts": 1783125429.0
-    },
-    {
       "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
       "source": "Google News: Klaviyo",
@@ -286,28 +286,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1782802800.0
-    },
-    {
-      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1782802800.0
-    },
-    {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -332,6 +310,17 @@
       "published_ts": 1779951600.0
     },
     {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -341,17 +330,6 @@
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
       "published_ts": 1776927600.0
-    },
-    {
-      "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHlZRFZzY0Y4dFpnc0ZFNDI4SVd2MnNSN2NfdDc3cVJlMlhRMFF1U3pDMUVyV3FFd2NUdVFwNzBKVWZIUE1uTERzaThhaVF2aFZGcWRwcXo4VUhmQ010UEEtVjlWQTV2Y1U4OFo0YVRMZUFQUjU5WlFCVG1xeE9Xc1Y1WHV4VldGVmpNRzRHVGVIZDRLa0VFU3dGMFllTFlENDlibVZIYUlvb3NZSnpJMEpOaVNhQXlvV0pmdk45YjRidms3YzY1OHkyNUxzUlZIcWJVRWw1SFBvR1kzV1lIU3QyQ3M?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Omnisend",
-      "published_ts": 1773817200.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -409,6 +387,17 @@
       "published_ts": 1767686400.0
     },
     {
+      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1765353600.0
+    },
+    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -429,6 +418,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1762416000.0
+    },
+    {
+      "title": "Yotpo lays off 200 as AI hits headcount - Globes - Israel Business News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHBkSW45S0k5bFBraVMxMW80TVlVYkNfM3FCYUNvWmpBYTNmTmk5Mk5KNzA4YzVnNTBSSVBNbzdMUWxKSmhHZkx6YVhXaDhQRTU4UTFEeDlnSEFwVC1wd3BIamcyaFFXNjg0TlJqQmllQko5YWNmc3dvSlMwcVZDNVVQcnNuYUtsTzdscXZ3?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "summary": "Yotpo lays off 200 as AI hits headcount &nbsp;&nbsp; Globes - Israel Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1754377200.0
     },
     {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
@@ -522,9 +522,9 @@
   "stats": {
     "total_fetched": 270,
     "kept": 47,
-    "opportunities": 22,
-    "threats": 25,
+    "opportunities": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 11.7
   }
 }
