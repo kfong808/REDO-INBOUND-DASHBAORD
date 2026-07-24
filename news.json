@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:06:30.436136+00:00",
+  "updated": "2026-07-24T12:11:58.397200+00:00",
   "items": [
     {
       "title": "Visa and Lianlian Advance Trusted B2B Agentic Commerce Through LoopXPay's First Live B2B Agentic Transaction - Yahoo Finance Singapore",
@@ -321,17 +321,6 @@
       "published_ts": 1779951600.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -341,6 +330,17 @@
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
       "published_ts": 1776927600.0
+    },
+    {
+      "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHlZRFZzY0Y4dFpnc0ZFNDI4SVd2MnNSN2NfdDc3cVJlMlhRMFF1U3pDMUVyV3FFd2NUdVFwNzBKVWZIUE1uTERzaThhaVF2aFZGcWRwcXo4VUhmQ010UEEtVjlWQTV2Y1U4OFo0YVRMZUFQUjU5WlFCVG1xeE9Xc1Y1WHV4VldGVmpNRzRHVGVIZDRLa0VFU3dGMFllTFlENDlibVZIYUlvb3NZSnpJMEpOaVNhQXlvV0pmdk45YjRidms3YzY1OHkyNUxzUlZIcWJVRWw1SFBvR1kzV1lIU3QyQ3M?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1773817200.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -442,6 +442,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Yotpo | Company Overview & News - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DM1JtOUVHMHU3UTlpcXQtdDBKSVFlZ2pYZ0dLRjhsalA4d3ZKSWFyMDZiVWNxOGlXNld5YTlRQlE5Y0VHRnhycEVlclhFeG5P?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 08 Aug 2023 07:00:00 GMT",
+      "summary": "Yotpo | Company Overview & News &nbsp;&nbsp; Forbes",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1691478000.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
+    "kept": 47,
     "opportunities": 23,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.3
   }
 }
