@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T21:57:06.917933+00:00",
+  "updated": "2026-07-24T22:54:16.156605+00:00",
   "items": [
     {
       "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
@@ -253,6 +253,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1772611200.0
+    },
+    {
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -531,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 250,
-    "kept": 48,
-    "opportunities": 24,
+    "total_fetched": 270,
+    "kept": 49,
+    "opportunities": 25,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 145.7
+    "runtime_seconds": 145.5
   }
 }
