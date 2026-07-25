@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T17:49:21.910312+00:00",
+  "updated": "2026-07-25T18:51:10.739777+00:00",
   "items": [
     {
       "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
@@ -101,17 +101,6 @@
       "published_ts": 1784295026.0
     },
     {
-      "title": "AI shopping tests retailers' insurance coverage - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXhJUXhOTThBY2lOWnNDUDFyb2JjRUhEREl4NWdHQzNOT3N0c1UwNjcxMXVVZ251OWJPYzUtN0hYUW9Ea18tQndoeU9wRC1ja2J0WG82a2o2eHNRTDI5ZmlRQXhtMEdiYkxUNlNYZzJsb3JxWTVucHA0aXBTOER2a3lkNWxfeTJUUXY1X1B6aFpQQ09RVnRn?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 16 Jul 2026 15:31:19 GMT",
-      "summary": "AI shopping tests retailers' insurance coverage &nbsp;&nbsp; eMarketer",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1784215879.0
-    },
-    {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01bDJXLVRzSVgwUXNYZXJNM255c3dNV1N5Vk1GZGpaVEVxOWpyMllKY2R4cThNLV84cUd0WXJSQ216dFhmbUNnejRnR3BhRnc3dzBxT2JEMDk3NlZiYTFfRC0tSnhKeUpqcGk2aHd3?oc=5",
       "source": "Google News: AI shopping agent",
@@ -156,6 +145,28 @@
       "published_ts": 1782716400.0
     },
     {
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782284400.0
+    },
+    {
+      "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0NqRkZSTV9jOEZFOEZLRzhGa2tveGtfcW1Ya2JsV1pFLXhRdFg1WTkzWmxITllmUm5mNUVZSUpTOTlYVW9RT1pnNkdOTGRKcXptekYzYzh6Q1oyQ2pITlBrV1hYWnJlSmdHVlNTakNScmhFdm9FQXQ5cVNsbnd5RHpzbHZYYy1ORWJCUmFxNnRXNTRIYVZtanBaV216aGVLSjhGSlVIRU9nLVc4ZlU3YlRWZm5udw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "From invisible to recommended: How brands become visible to AI shopping agents &nbsp;&nbsp; Retail Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782111600.0
+    },
+    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -167,6 +178,17 @@
       "published_ts": 1782111600.0
     },
     {
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781161200.0
+    },
+    {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -176,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
     },
     {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
@@ -455,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 20,
+    "kept": 44,
+    "opportunities": 23,
     "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 11.8
   }
 }
