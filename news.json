@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T04:55:19.416363+00:00",
+  "updated": "2026-07-25T07:09:12.409366+00:00",
   "items": [
     {
       "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
@@ -244,17 +244,6 @@
       "published_ts": 1784684045.0
     },
     {
-      "title": "‘Attentive’ – Fabrizio Romano confirms Liverpool target has rejected new contract - readliverpoolfc.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFNLOEVQcUVBR2JSeXp4RG5FbWRqek1tQ2gtR2s4Tm1vbm5YMDVzU0pGZDlQS29OUDM5VWN1VHJlRUhJU2liUy1oQ1RiWW9scXlGck91UXZEdFNLdlMzeDhHeGY5NTRoT2dQaXJfVl9xSzJsSW1TbVM3MURMSnVscGZKWkZWOEJvOFJEUGdzOVNfd2oxMnFyUDVYUzNwMGR4bUtpTE9PYXFhd1Ra?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 21 Jul 2026 13:44:25 GMT",
-      "summary": "‘Attentive’ – Fabrizio Romano confirms Liverpool target has rejected new contract &nbsp;&nbsp; readliverpoolfc.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1784641465.0
-    },
-    {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
       "source": "Google News: Attentive",
@@ -297,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Attentive + launches",
       "published_ts": 1782802800.0
+    },
+    {
+      "title": "Postscript: Mark Singer - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -376,17 +376,6 @@
       "published_ts": 1769673600.0
     },
     {
-      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + introduces",
-      "published_ts": 1768204800.0
-    },
-    {
       "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
       "source": "Google News: ShipStation",
@@ -451,6 +440,17 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
+    },
+    {
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + acquires",
+      "published_ts": 1639641600.0
     },
     {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
