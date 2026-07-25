@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T07:09:12.409366+00:00",
+  "updated": "2026-07-25T09:26:32.892164+00:00",
   "items": [
     {
       "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
@@ -112,17 +112,6 @@
       "published_ts": 1784295026.0
     },
     {
-      "title": "AI shopping tests retailers' insurance coverage - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXhJUXhOTThBY2lOWnNDUDFyb2JjRUhEREl4NWdHQzNOT3N0c1UwNjcxMXVVZ251OWJPYzUtN0hYUW9Ea18tQndoeU9wRC1ja2J0WG82a2o2eHNRTDI5ZmlRQXhtMEdiYkxUNlNYZzJsb3JxWTVucHA0aXBTOER2a3lkNWxfeTJUUXY1X1B6aFpQQ09RVnRn?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 16 Jul 2026 15:31:19 GMT",
-      "summary": "AI shopping tests retailers' insurance coverage &nbsp;&nbsp; eMarketer",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1784215879.0
-    },
-    {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01bDJXLVRzSVgwUXNYZXJNM255c3dNV1N5Vk1GZGpaVEVxOWpyMllKY2R4cThNLV84cUd0WXJSQ216dFhmbUNnejRnR3BhRnc3dzBxT2JEMDk3NlZiYTFfRC0tSnhKeUpqcGk2aHd3?oc=5",
       "source": "Google News: AI shopping agent",
@@ -137,12 +126,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783839600.0
+      "published_ts": 1783753200.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -167,6 +156,17 @@
       "published_ts": 1782716400.0
     },
     {
+      "title": "From invisible to recommended: How brands become visible to AI shopping agents - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0NqRkZSTV9jOEZFOEZLRzhGa2tveGtfcW1Ya2JsV1pFLXhRdFg1WTkzWmxITllmUm5mNUVZSUpTOTlYVW9RT1pnNkdOTGRKcXptekYzYzh6Q1oyQ2pITlBrV1hYWnJlSmdHVlNTakNScmhFdm9FQXQ5cVNsbnd5RHpzbHZYYy1ORWJCUmFxNnRXNTRIYVZtanBaV216aGVLSjhGSlVIRU9nLVc4ZlU3YlRWZm5udw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "From invisible to recommended: How brands become visible to AI shopping agents &nbsp;&nbsp; Retail Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782111600.0
+    },
+    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -178,6 +178,17 @@
       "published_ts": 1782111600.0
     },
     {
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781161200.0
+    },
+    {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -187,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
     },
     {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
@@ -288,17 +310,6 @@
       "published_ts": 1782802800.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
-    },
-    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -376,15 +387,15 @@
       "published_ts": 1769673600.0
     },
     {
-      "title": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTFxZU5Pa2F6bUdxOF9pVEtnbGlkbWJZRVpyckQtVVBIdk5EUUNaTDNHZ2ZSb3VlYlZSeTUtXzZ4ZjNQbmk3U0R3ZkU4ZHRjY05YNUduQTNwdkFqb0JhU1czUFRaQ0RJZi1BWlhzYWNuQl9lUEV1MS1NN2t5Y3F3UVk1eEc1YllJRHlrZ0dIamNnc2NWV3lrN3oxdktBeW9VNjdaMEtIYjZ3SkFCMmhvLVRUUTNxR2lkMzhBcWlnOU9KOHpvcEtmVmMxaVdsMHNadnRBQl91OWltd2ZIZkhWOURB?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "OnTrac® and ShipStation® Join Forces to Offer Faster, Coast-to-Coast Delivery to More Merchants &nbsp;&nbsp; PR Newswire",
+      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1767686400.0
+      "confidence": "medium",
+      "reasoning": "Narvar + introduces",
+      "published_ts": 1768204800.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
@@ -484,25 +495,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 270,
     "kept": 45,
-    "opportunities": 21,
-    "threats": 24,
+    "opportunities": 23,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 11.5
   }
 }
