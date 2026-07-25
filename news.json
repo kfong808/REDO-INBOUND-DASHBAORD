@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T21:42:59.497302+00:00",
+  "updated": "2026-07-25T22:42:58.482193+00:00",
   "items": [
     {
       "title": "The real risk in agentic commerce - MarTech",
@@ -77,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1784633612.0
+    },
+    {
+      "title": "70% Of Top Retailers Are Invisible To Agentic Commerce – Here’s Why - Search Engine Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU09oVkNZSVZnWVhwUE0wVjRobDhpWVgtQlgzX2xQeTBvZjBXSGs3c3FLSERTWkVSaDlLbllDRzF3dTFQRjJQd3U2UHEtRGpxa05rSXhrcFlIOXd1eTFpYXpGSlhCdkMtRmhueGlUdEtGRS16ZTF2bnFMVG1sTFd4TFJuYXVjS3VqWFZQTlREOW9QOExQa2s4bzlMc1BUM0FPS3ZURTBLTjd1bFk?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 21 Jul 2026 09:30:31 GMT",
+      "summary": "70% Of Top Retailers Are Invisible To Agentic Commerce – Here’s Why &nbsp;&nbsp; Search Engine Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784626231.0
     },
     {
       "title": "Agentic commerce: why AI agents are transforming the ecommerce landscape - TechRadar",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 23,
+    "kept": 47,
+    "opportunities": 24,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 11.9
   }
 }
