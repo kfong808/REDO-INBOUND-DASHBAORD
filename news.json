@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-25T18:51:10.739777+00:00",
+  "updated": "2026-07-25T20:04:51.434742+00:00",
   "items": [
-    {
-      "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZHgwekFWdWZUcTdqc1dsNFVFNXNyZVRjM3ZJYnpaRjJBaWFMaGdaWmJmUjhiYnRVRzkxNVdyZmFscURNc243YWV1cnZXdWxaV3dfVEllNENGeE1HbXNkdFZ6WHhXZWxYMnlqVG1KblRobW8?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 24 Jul 2026 13:43:27 GMT",
-      "summary": "The Agentic Commerce Ecosystem 2026 &nbsp;&nbsp; eMarketer",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784900607.0
-    },
     {
       "title": "The real risk in agentic commerce - MarTech",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZ1NWT3lOYTdjdzFsSXRLWWJtUnZXWmwxV3dySnhjMGNzZmpyZ1hDTzItS3ZibXFsc1MwLWVxNjZJRlEwUVllN2JhVHJGR1FrQjJKNEVIZTJtVW9tR25PSTJjQzY?oc=5",
@@ -33,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784865600.0
+    },
+    {
+      "title": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! - Roastbrief US",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVZaG4zQkFrZnRfakRZVjJkUmNOa2lCa1cwWjc5cG9Yek1Od0F5d0NBaXprbzd3TlpnWGtFdnR2bndTelZSVEcyaE5MeUVXTWxnYm1aWUgyZGxQRFRfSFBDeHFDZVVSZEFxd0ZDUXQtekduTl9hT1laeGlSc3p0dzIyc0NPTzAydDdhTTgzaw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 23 Jul 2026 19:11:00 GMT",
+      "summary": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! &nbsp;&nbsp; Roastbrief US",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784833860.0
     },
     {
       "title": "Most consumers have used an AI shopping agent - Chain Store Age",
@@ -277,6 +277,17 @@
       "published_ts": 1783839600.0
     },
     {
+      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1782802800.0
+    },
+    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -308,6 +319,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -488,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 44,
+    "kept": 46,
     "opportunities": 23,
-    "threats": 21,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.8
+    "runtime_seconds": 10.7
   }
 }
