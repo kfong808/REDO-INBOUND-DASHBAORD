@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T05:20:44.510334+00:00",
+  "updated": "2026-07-26T08:06:10.357325+00:00",
   "items": [
     {
       "title": "The real risk in agentic commerce - MarTech",
@@ -90,17 +90,6 @@
       "published_ts": 1784295026.0
     },
     {
-      "title": "AI shopping tests retailers' insurance coverage - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXhJUXhOTThBY2lOWnNDUDFyb2JjRUhEREl4NWdHQzNOT3N0c1UwNjcxMXVVZ251OWJPYzUtN0hYUW9Ea18tQndoeU9wRC1ja2J0WG82a2o2eHNRTDI5ZmlRQXhtMEdiYkxUNlNYZzJsb3JxWTVucHA0aXBTOER2a3lkNWxfeTJUUXY1X1B6aFpQQ09RVnRn?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 16 Jul 2026 15:31:19 GMT",
-      "summary": "AI shopping tests retailers' insurance coverage &nbsp;&nbsp; eMarketer",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1784215879.0
-    },
-    {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01bDJXLVRzSVgwUXNYZXJNM255c3dNV1N5Vk1GZGpaVEVxOWpyMllKY2R4cThNLV84cUd0WXJSQ216dFhmbUNnejRnR3BhRnc3dzBxT2JEMDk3NlZiYTFfRC0tSnhKeUpqcGk2aHd3?oc=5",
       "source": "Google News: AI shopping agent",
@@ -115,12 +104,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783753200.0
+      "published_ts": 1783839600.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -143,6 +132,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782716400.0
+    },
+    {
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782284400.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -178,6 +178,17 @@
       "published_ts": 1779260400.0
     },
     {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
+    },
+    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -209,6 +220,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1772611200.0
+    },
+    {
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -253,6 +275,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783839600.0
+    },
+    {
+      "title": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTFlcDByMDlLNmdqNXd4ZW1ORzl6SE9FTS1HWXJyazBDcXZrV2lROS04X0oySWl4aEdNN0ppdGdoaWRON21RbmFEam9wY09LdVBLcjFOTXJyU0l3V1BPWmRrUFctVGlNNjNLQlppVzVRZE5YYXUyRXJqbGV5Nk5WN3lZWFJ0bEszY2xCNlhZVHJ2ejZKODBuaTJVY1FyTzA?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Klaviyo + launches, ai marketing agent",
+      "published_ts": 1783148400.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -465,11 +498,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 42,
-    "opportunities": 20,
-    "threats": 22,
+    "total_fetched": 290,
+    "kept": 45,
+    "opportunities": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 12.3
   }
 }
