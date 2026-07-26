@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-26T16:45:10.643195+00:00",
+  "updated": "2026-07-26T17:53:41.272707+00:00",
   "items": [
+    {
+      "title": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember - Beet.TV",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1BySnpwTGdYZTk0enFCeXp1SnRzdGJnMU9sd200aVZpdVhzVExxdVg3YUdrbUVCQnAybjY3Q05FWjNJZ0MzTWF4d0RYNlNUcHQxNzR2R19lYjdKcVkxbzVVSjlRdm9oMjRvUnhlN3h4bVNfS1JwRkdzeTIxc1ZHNE1pOUc2N3MyODhub0ptZTZITFVncWJmOGp1V21qNEpEZUNHa3RlSU9xdS13LWpWeFZ5OVNtS2gzV242UDlR?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sun, 26 Jul 2026 17:25:38 GMT",
+      "summary": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember &nbsp;&nbsp; Beet.TV",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785086738.0
+    },
     {
       "title": "The real risk in agentic commerce - MarTech",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZ1NWT3lOYTdjdzFsSXRLWWJtUnZXWmwxV3dySnhjMGNzZmpyZ1hDTzItS3ZibXFsc1MwLWVxNjZJRlEwUVllN2JhVHJGR1FrQjJKNEVIZTJtVW9tR25PSTJjQzY?oc=5",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1784827135.0
-    },
-    {
-      "title": "US Payments Forum Publishes Primer on Agentic Commerce - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHM1YXo3NE0xVzRDSkoxU0JROEFja09jUTZaMmJZUWlUVEQzUm0wNDQ5WmEzbmI0N2pBZS1HLXFOM0xPZUZZMVotLVowV3JGVXNGcDVsQnNCdFJqQUtkel81QUxZdk1PLWxPRHNUdUlqUnktbzlMUmE0YVVIREVxSnhOYnZCdjBVbXpEQk45OENyWUJVb2E5V3dDUGkyTTFqai1fSE9FM0hwREhobFpBckNvbDNiZGttemlLb2ItV2t6RElY?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "US Payments Forum Publishes Primer on Agentic Commerce &nbsp;&nbsp; GlobeNewswire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784725200.0
     },
     {
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
@@ -470,6 +470,6 @@
     "opportunities": 21,
     "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 10.7
   }
 }
