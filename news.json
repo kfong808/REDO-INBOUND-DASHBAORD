@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T22:49:18.354587+00:00",
+  "updated": "2026-07-26T23:51:44.220942+00:00",
   "items": [
     {
       "title": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember - Beet.TV",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784865600.0
-    },
-    {
-      "title": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! - Roastbrief US",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVZaG4zQkFrZnRfakRZVjJkUmNOa2lCa1cwWjc5cG9Yek1Od0F5d0NBaXprbzd3TlpnWGtFdnR2bndTelZSVEcyaE5MeUVXTWxnYm1aWUgyZGxQRFRfSFBDeHFDZVVSZEFxd0ZDUXQtekduTl9hT1laeGlSc3p0dzIyc0NPTzAydDdhTTgzaw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 23 Jul 2026 19:11:00 GMT",
-      "summary": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! &nbsp;&nbsp; Roastbrief US",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784833860.0
     },
     {
       "title": "AI Shopping Agents - Trend Hunter",
@@ -90,17 +79,6 @@
       "published_ts": 1784295026.0
     },
     {
-      "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWE5xRVp0YmNLbGVtTDZKbHdjZE5zbHJrVDRfLThCQVU1UFpLRjZLZHUwWjI3UlBDVmtrS1A2ZkVwenpfLUlFWFhNRi1FRm9Dc1BnMVhSbThPeGZndlo5enNELUZ4MXc3TGNDRXJyQVNCUFYzTkk3Rk9QcUhjLWxrcU9heGV4ZEhCbE1jNURwOWtCYjRUTmw0cy1KOGZScVBHdmNqUHZQNnFMYnlCTklvTmh2TlVmS1Jnb3dId1d4T2JsVHZfTkNRdkZaVUM3SG9hZVlCWg?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 15 Jul 2026 07:55:18 GMT",
-      "summary": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents &nbsp;&nbsp; Loyalty360",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1784102118.0
-    },
-    {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01bDJXLVRzSVgwUXNYZXJNM255c3dNV1N5Vk1GZGpaVEVxOWpyMllKY2R4cThNLV84cUd0WXJSQ216dFhmbUNnejRnR3BhRnc3dzBxT2JEMDk3NlZiYTFfRC0tSnhKeUpqcGk2aHd3?oc=5",
       "source": "Google News: AI shopping agent",
@@ -121,6 +99,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1783839600.0
+    },
+    {
+      "title": "Ecommerce faces shake-up as AI shopping agents gain ground - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUGZmU3RlbGFsVzhNOE5GTUtFZC0yVVNOeEMyYUxyX0hzRkMtR2t0bDBCb3ZRSlVTbnBKWnJIa0N2X2ltTXZIa2NQNVRrbzF0WkpMQ2ZMVkhnQ2lEaXIzMFpNbTRJUXZIa1V4Z1lUeE81a1JZbmtnZ2x4b0dHamZ6RFdWZGNCTlVMaU9WeEJKWmRKd2hWang3dV9SbElaUFJXeUlfdkZwNDlzTnVJTDV1SzJOZlc3c1QzOUxPM211YjdUaFVWUS11U3FlZGE5c1d4QXIzT01sT3FCdjN1OWZSNGxFWk1EX05teFowVmFZU25LZw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "summary": "Ecommerce faces shake-up as AI shopping agents gain ground &nbsp;&nbsp; MSN",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1783580400.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -455,10 +444,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 20,
+    "kept": 40,
+    "opportunities": 19,
     "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 10.3
   }
 }
