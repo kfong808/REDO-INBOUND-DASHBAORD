@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T08:06:10.357325+00:00",
+  "updated": "2026-07-26T10:28:12.984453+00:00",
   "items": [
     {
       "title": "The real risk in agentic commerce - MarTech",
@@ -46,6 +46,17 @@
       "published_ts": 1784827135.0
     },
     {
+      "title": "US Payments Forum Publishes Primer on Agentic Commerce - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHM1YXo3NE0xVzRDSkoxU0JROEFja09jUTZaMmJZUWlUVEQzUm0wNDQ5WmEzbmI0N2pBZS1HLXFOM0xPZUZZMVotLVowV3JGVXNGcDVsQnNCdFJqQUtkel81QUxZdk1PLWxPRHNUdUlqUnktbzlMUmE0YVVIREVxSnhOYnZCdjBVbXpEQk45OENyWUJVb2E5V3dDUGkyTTFqai1fSE9FM0hwREhobFpBckNvbDNiZGttemlLb2ItV2t6RElY?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "summary": "US Payments Forum Publishes Primer on Agentic Commerce &nbsp;&nbsp; GlobeNewswire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784725200.0
+    },
+    {
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent - Salesforce",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxTlVVbGJiUzY4MUMwWXctUzdpUlNhM1RzWXRvNGhRUEs0aFowSE80dUgzUkFaZFQ4X0xFMkJGeFFUTE1UbEY2S1kyUHZpUnRabjV6WHpxam9KOWhmQTVPc2lpaVpTY0tjdHBSajNCREdOZVM1Nl9xbFVrc2hfUQ?oc=5",
       "source": "Google News: agentic commerce",
@@ -90,6 +101,17 @@
       "published_ts": 1784295026.0
     },
     {
+      "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWE5xRVp0YmNLbGVtTDZKbHdjZE5zbHJrVDRfLThCQVU1UFpLRjZLZHUwWjI3UlBDVmtrS1A2ZkVwenpfLUlFWFhNRi1FRm9Dc1BnMVhSbThPeGZndlo5enNELUZ4MXc3TGNDRXJyQVNCUFYzTkk3Rk9QcUhjLWxrcU9heGV4ZEhCbE1jNURwOWtCYjRUTmw0cy1KOGZScVBHdmNqUHZQNnFMYnlCTklvTmh2TlVmS1Jnb3dId1d4T2JsVHZfTkNRdkZaVUM3SG9hZVlCWg?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 15 Jul 2026 07:55:18 GMT",
+      "summary": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents &nbsp;&nbsp; Loyalty360",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1784102118.0
+    },
+    {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01bDJXLVRzSVgwUXNYZXJNM255c3dNV1N5Vk1GZGpaVEVxOWpyMllKY2R4cThNLV84cUd0WXJSQ216dFhmbUNnejRnR3BhRnc3dzBxT2JEMDk3NlZiYTFfRC0tSnhKeUpqcGk2aHd3?oc=5",
       "source": "Google News: AI shopping agent",
@@ -104,12 +126,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783839600.0
+      "published_ts": 1783753200.0
     },
     {
       "title": "New Ecommerce Tools: July 7, 2026",
@@ -132,17 +154,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1782716400.0
-    },
-    {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -178,17 +189,6 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -222,17 +222,6 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -253,17 +242,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1785026189.0
-    },
-    {
-      "title": "Does Klaviyo’s New CFO Hire Refocus KVYO on Financial Discipline or Market Messaging? - Sahm",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkIzamdTcUFzSUVhSkY5X2tmN0dHUjkxVlFmR3FsTnVRQjE4NG9iT2x1X3c0UU9vMjNzemZrb2dhc2FIb3hOVEJUaWtBak42LVI5YzNFTWhIX3FUb2pSbjEzZzk3aE1SZW5ZMWwyTHpGWnhBN1c5b29oZ1VJalBJSk1mS2ZObFZFYjZaMGxhTWxRU0hCQ2tzNWJUNDhtQnJUUUlPaDdLODRTUWtJS1ZZcFVFSDVnRS1sZHNyUmJJQ0tSUHUzaWFfdmZsN241TmFr?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "Does Klaviyo’s New CFO Hire Refocus KVYO on Financial Discipline or Market Messaging? &nbsp;&nbsp; Sahm",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1784617200.0
     },
     {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
@@ -498,11 +476,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 290,
-    "kept": 45,
-    "opportunities": 22,
-    "threats": 23,
+    "total_fetched": 270,
+    "kept": 43,
+    "opportunities": 21,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.3
+    "runtime_seconds": 9.7
   }
 }
