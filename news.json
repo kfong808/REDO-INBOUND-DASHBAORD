@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T19:10:02.864547+00:00",
+  "updated": "2026-07-27T21:01:10.401712+00:00",
   "items": [
     {
       "title": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember - Beet.TV",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
+    "total_fetched": 269,
     "kept": 44,
     "opportunities": 20,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 11.5
   }
 }
