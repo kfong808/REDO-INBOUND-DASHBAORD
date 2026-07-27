@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T05:39:02.844580+00:00",
+  "updated": "2026-07-27T09:27:57.218043+00:00",
   "items": [
     {
       "title": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember - Beet.TV",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1785086738.0
+    },
+    {
+      "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZHgwekFWdWZUcTdqc1dsNFVFNXNyZVRjM3ZJYnpaRjJBaWFMaGdaWmJmUjhiYnRVRzkxNVdyZmFscURNc243YWV1cnZXdWxaV3dfVEllNENGeE1HbXNkdFZ6WHhXZWxYMnlqVG1KblRobW8?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 24 Jul 2026 13:43:27 GMT",
+      "summary": "The Agentic Commerce Ecosystem 2026 &nbsp;&nbsp; eMarketer",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784900607.0
     },
     {
       "title": "The real risk in agentic commerce - MarTech",
@@ -55,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784650940.0
-    },
-    {
-      "title": "AI Shopping Agents Won’t Kill the Merchant: New Study Debunks Disintermediation Fears - FF News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHk4Zjh6LVNsWmJDREE4d1FxS2dTZzJmTTVLZGN3LW5SakJRcGpYWDdBdlFOZHduN0haWXRZVkVSbTNQdjM4VWI4TUp3bGJLamhEbDRSZ2dmVGFfOHpIRHVZLW1wcGtvSGNsNmdjM01VUmJPY3lnLWhScFo0VTNKUjd5RjZTS1RGWXBOeHhWWVBFN3Z1YU5iSjNJZkstWFpNMk1zSDdjaXJQLWM?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 21 Jul 2026 11:33:32 GMT",
-      "summary": "AI Shopping Agents Won’t Kill the Merchant: New Study Debunks Disintermediation Fears &nbsp;&nbsp; FF News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1784633612.0
     },
     {
       "title": "A One-Two Punch Drives Ecommerce Growth",
@@ -167,17 +167,6 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -233,17 +222,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
-    },
-    {
       "title": "Is Klaviyo (KVYO) A Bargain As A New CFO Joins The Story? - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTl9WT29vSVFQdUdkMXJFb012aXl4QnM1N3k1b0M4Y1BxR2JmN1pWdks4SUIteXk2VkRRcGpoLWdxN2QyM1FGUlE1amNVQVd0NE1DSlhJUE1Jd2l1Q191QzJ5WkNRWS16alhZaUM4S2lnODkzNm5PMldiSUtoMzZ0UUNYdU1tRzYxblhZN1ZtcktHU1A4REFoX185WW50Y2J4Qnh0R0RveWgzTk1vWklBckNMNFRyamZEcUHSAb8BQVVfeXFMUFBHaTZkUDB5c25nZ005UzQyV1A0LTlGai1GUzV5N1VPWVgycVZDX0JVUVA0WTdJNkRvV0NDbHZ1RnR3YXViZTJYdUcxbWN5YjB1S3BNaUw1RVhKUkVITlRidUU4SzN2cFNNVk5sNFIxanhhZjRXRnpVdVhVb0J0czY3QTMtSG4wT1pmclF0UmExSTJvZHdrZGg3QUhmR1BWQWNINGJkanNqdVJOaFdWcWZTYUg0Q0pnXzM5LVhhZzA?oc=5",
       "source": "Google News: Klaviyo",
@@ -286,17 +264,6 @@
       "confidence": "high",
       "reasoning": "Klaviyo + launches, ai marketing agent",
       "published_ts": 1783148400.0
-    },
-    {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -488,10 +455,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 44,
-    "opportunities": 22,
-    "threats": 22,
+    "kept": 41,
+    "opportunities": 20,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 11.1
   }
 }
