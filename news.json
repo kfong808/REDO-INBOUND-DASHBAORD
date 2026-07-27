@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T22:50:21.592536+00:00",
+  "updated": "2026-07-27T23:54:08.085311+00:00",
   "items": [
     {
       "title": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember - Beet.TV",
@@ -387,15 +387,15 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
-      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "published": "Mon, 07 Mar 2022 08:00:00 GMT",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Narvar + acquires",
-      "published_ts": 1639641600.0
+      "reasoning": "Narvar + launches",
+      "published_ts": 1646640000.0
     },
     {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
@@ -448,6 +448,6 @@
     "opportunities": 16,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 11.1
   }
 }
