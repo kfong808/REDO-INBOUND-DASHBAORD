@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T17:28:50.076417+00:00",
+  "updated": "2026-07-27T19:10:02.864547+00:00",
   "items": [
     {
       "title": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember - Beet.TV",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784865600.0
-    },
-    {
-      "title": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! - Roastbrief US",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVZaG4zQkFrZnRfakRZVjJkUmNOa2lCa1cwWjc5cG9Yek1Od0F5d0NBaXprbzd3TlpnWGtFdnR2bndTelZSVEcyaE5MeUVXTWxnYm1aWUgyZGxQRFRfSFBDeHFDZVVSZEFxd0ZDUXQtekduTl9hT1laeGlSc3p0dzIyc0NPTzAydDdhTTgzaw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 23 Jul 2026 19:11:00 GMT",
-      "summary": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! &nbsp;&nbsp; Roastbrief US",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784833860.0
     },
     {
       "title": "AI Shopping Agents - Trend Hunter",
@@ -420,6 +409,17 @@
       "published_ts": 1764316800.0
     },
     {
+      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEtjRVF4ZWRVbVIwWDFMZ0JVbTd2eTlPQm1tNzBSem81LW13UWF6MWYxR1ctVkxSa3RUeFpVYm9oeDNZeDdsdDJpYURvWDBYYzJqQXdkdHk0NFItaTI4N1dIUHI2aEdCdUY4TEdrdGMtck9LY3ZsRDZhWlVSNVlScjdCemhnSktsR1RGNkxwWXprdjlKTW1WX2ZEUk5xSDg0Nlo4Slhzbk1QcG5zY0kwX2lLaDVXR1ZvN0ZTbVpRZFBFdjRVRXphenVOUTF2YUdwWm16MVN4Nk5uZzA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1762416000.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 268,
     "kept": 44,
-    "opportunities": 21,
-    "threats": 23,
+    "opportunities": 20,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 11.1
   }
 }
