@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T01:27:45.945319+00:00",
+  "updated": "2026-07-28T04:53:21.366475+00:00",
   "items": [
     {
       "title": "First Movers in Agentic Commerce may Build Lasting Advantages as LLMs Learn and Remember - Beet.TV",
@@ -35,6 +35,17 @@
       "published_ts": 1784865600.0
     },
     {
+      "title": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! - Roastbrief US",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVZaG4zQkFrZnRfakRZVjJkUmNOa2lCa1cwWjc5cG9Yek1Od0F5d0NBaXprbzd3TlpnWGtFdnR2bndTelZSVEcyaE5MeUVXTWxnYm1aWUgyZGxQRFRfSFBDeHFDZVVSZEFxd0ZDUXQtekduTl9hT1laeGlSc3p0dzIyc0NPTzAydDdhTTgzaw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 23 Jul 2026 19:11:00 GMT",
+      "summary": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! &nbsp;&nbsp; Roastbrief US",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784833860.0
+    },
+    {
       "title": "AI Shopping Agents - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tZlVmenNjanhPd0NjbnVDWjNHYzdmRm9lbE5tMElrbENoVWNLZFNvYi1tOTdxOFc1bVl3TXQwcUhUbUpNSEZ5U2Q2Vjd1ZXUwekQxSnVUQlhjd2x1cFlnWXdUZ9IBaEFVX3lxTE82R0pwQ3Y1ZW5aUXBISFVRQWkwTWJ3ZVBqV0NoRjVFX3JzQjR0TzRQLU9heFRjY0czOVdRVElibll5QWt2czRIYjdya29LZEhfT18zZkJ6aE9jZ0ZKMjJxdUg1LVJzMm1T?oc=5",
       "source": "Google News: AI shopping agent",
@@ -66,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1784295026.0
+    },
+    {
+      "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWE5xRVp0YmNLbGVtTDZKbHdjZE5zbHJrVDRfLThCQVU1UFpLRjZLZHUwWjI3UlBDVmtrS1A2ZkVwenpfLUlFWFhNRi1FRm9Dc1BnMVhSbThPeGZndlo5enNELUZ4MXc3TGNDRXJyQVNCUFYzTkk3Rk9QcUhjLWxrcU9heGV4ZEhCbE1jNURwOWtCYjRUTmw0cy1KOGZScVBHdmNqUHZQNnFMYnlCTklvTmh2TlVmS1Jnb3dId1d4T2JsVHZfTkNRdkZaVUM3SG9hZVlCWg?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 15 Jul 2026 07:55:18 GMT",
+      "summary": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents &nbsp;&nbsp; Loyalty360",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1784102118.0
     },
     {
       "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone - infoq.com",
@@ -101,28 +123,6 @@
       "published_ts": 1783431530.0
     },
     {
-      "title": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlDaGFnN21sQk5VVnd2M1VWT0ZESEdGb3ktUEpvZ1Q1Ylo1bDVmWmtiVjYzTVJTa21jc2J0cXRsWk9BWWc0R0ZEVkJyWnpUN3Q2ZkRnVk1wOURzTmF5ZXB4UDdpcU0zaW1vNjNmTWVObTMweDlyc3ZLTTJiVzVNNVNCSnFKUThzQkRxbjJlSVhhby1raUhVXy0yN2lvODZESWN0MFplZ1pWX0lGbUNsX3pvVndaclN1U2NiS0RyTXJqekpsWkVJTy1laFJrRENkbUxDVTZrV3V5RW1GX2EwQWc0Z3JLQlVI?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Six in Ten UK Consumers Would Stop Using an AI Shopping Agent After One Mistake, ACI Survey Finds &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782716400.0
-    },
-    {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
-    },
-    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -132,17 +132,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
-    },
-    {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -200,17 +189,6 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -242,6 +220,17 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1785027951.0
+    },
+    {
+      "title": "KLAVIYO INC : CITIGROUP RAISES TARGET PRICE TO $34 FROM $31 - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hZkhLclZzc1Q2SWFpWU5zenB0aE9CeEZIUzRPN0Z3TzRUQ0NQbFp3aXh0RnlWTDFkZzB5OTNBQWpCdlJPZHUtXy1FaWJaZUFQZDNCM1VnWXp5czE5M2JreUczSdIBY0FVX3lxTE1hZkhLclZzc1Q2SWFpWU5zenB0aE9CeEZIUzRPN0Z3TzRUQ0NQbFp3aXh0RnlWTDFkZzB5OTNBQWpCdlJPZHUtXy1FaWJaZUFQZDNCM1VnWXp5czE5M2JreUczSQ?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "summary": "KLAVIYO INC : CITIGROUP RAISES TARGET PRICE TO $34 FROM $31 &nbsp;&nbsp; Bitget",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1784876400.0
     },
     {
       "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -477,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 43,
-    "opportunities": 20,
-    "threats": 23,
+    "kept": 42,
+    "opportunities": 18,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 9.9
   }
 }
