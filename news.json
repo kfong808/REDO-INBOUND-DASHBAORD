@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T10:22:59.343883+00:00",
+  "updated": "2026-07-28T12:30:03.062625+00:00",
   "items": [
     {
       "title": "AI shopping race heats up as Coupang, Gmarket join competition - 매일경제",
@@ -35,6 +35,17 @@
       "published_ts": 1785086738.0
     },
     {
+      "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZHgwekFWdWZUcTdqc1dsNFVFNXNyZVRjM3ZJYnpaRjJBaWFMaGdaWmJmUjhiYnRVRzkxNVdyZmFscURNc243YWV1cnZXdWxaV3dfVEllNENGeE1HbXNkdFZ6WHhXZWxYMnlqVG1KblRobW8?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 24 Jul 2026 13:43:27 GMT",
+      "summary": "The Agentic Commerce Ecosystem 2026 &nbsp;&nbsp; eMarketer",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784900607.0
+    },
+    {
       "title": "The real risk in agentic commerce - MarTech",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZ1NWT3lOYTdjdzFsSXRLWWJtUnZXWmwxV3dySnhjMGNzZmpyZ1hDTzItS3ZibXFsc1MwLWVxNjZJRlEwUVllN2JhVHJGR1FrQjJKNEVIZTJtVW9tR25PSTJjQzY?oc=5",
       "source": "Google News: agentic commerce",
@@ -55,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1784865600.0
-    },
-    {
-      "title": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! - Roastbrief US",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVZaG4zQkFrZnRfakRZVjJkUmNOa2lCa1cwWjc5cG9Yek1Od0F5d0NBaXprbzd3TlpnWGtFdnR2bndTelZSVEcyaE5MeUVXTWxnYm1aWUgyZGxQRFRfSFBDeHFDZVVSZEFxd0ZDUXQtekduTl9hT1laeGlSc3p0dzIyc0NPTzAydDdhTTgzaw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 23 Jul 2026 19:11:00 GMT",
-      "summary": "It’s AI Commerce, Not Agentic Commerce…and the Difference Matters! &nbsp;&nbsp; Roastbrief US",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1784833860.0
     },
     {
       "title": "AI Shopping Agents - Trend Hunter",
@@ -365,17 +365,6 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 01 May 2026 07:00:00 GMT",
-      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1777618800.0
-    },
-    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -486,15 +475,15 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
-      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "published": "Mon, 07 Mar 2022 08:00:00 GMT",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Narvar + acquires",
-      "published_ts": 1639641600.0
+      "reasoning": "Narvar + launches",
+      "published_ts": 1646640000.0
     },
     {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
@@ -543,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 49,
+    "kept": 48,
     "opportunities": 22,
-    "threats": 27,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.7
+    "runtime_seconds": 10.1
   }
 }
