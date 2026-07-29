@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T23:58:52.464613+00:00",
+  "updated": "2026-07-29T02:30:59.864794+00:00",
   "items": [
     {
       "title": "Unpacked: How agentic AI is reshaping the consumer journey",
@@ -558,6 +558,6 @@
     "opportunities": 24,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 10.9
   }
 }
