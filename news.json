@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-29T13:43:25.014370+00:00",
+  "updated": "2026-07-29T15:43:51.074704+00:00",
   "items": [
+    {
+      "title": "New Book Examines How AI Shopping Agents Are Reshaping Fashion Discovery, Recommendation, and Sales - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlA4YXFqcW5ZWklKUjNuYmkyYnZ5aEtNWEQ1T25ZOExiNlVrS1V0cUM0cXY1MHZZRzk0cDFaT08tZmFWb0Y5SWc0UUJPTFpMV0xKQU5mZlo1NXpob0pvakQzc3hyVzhUZDQzV1dZQUdXTXdNbkJVckJaYlNLYnZXTlRqTzhEQXZ6RExpQ3RIZWhqQ1cxTDJPUExDU1FydWRYRW1vV0FVbkZsZzhBb0ZrZDU4UDA1RklqdUZRamRTdUMzSVRNLXhNS09EVEZ2VkczVktIbFhRdWR3NzVT?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 29 Jul 2026 15:23:00 GMT",
+      "summary": "New Book Examines How AI Shopping Agents Are Reshaping Fashion Discovery, Recommendation, and Sales &nbsp;&nbsp; EIN Presswire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785338580.0
+    },
     {
       "title": "New Ecommerce Tools: July 29, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-29-2026",
@@ -24,11 +35,11 @@
       "published_ts": 1785310131.0
     },
     {
-      "title": "The Agentic Commerce Debate: Two Expert Perspectives - J.P. Morgan",
+      "title": "The Agentic Commerce Debate: Two Expert Perspectives - jpmorgan.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0ZTbDFwaEZKU0dzbjVzNS1sTzVuTnlXMGhzNjFWRE4wQW1hNVFsc2gyS012LVhDUGtuY1VoSl9pWHNCYVJQRVFXZHBuNkcwNDN2ZVlHTGI2NDYxc2FXbTFXNGZvUzB3Tk0wQnRGeEl5ZVo3bGYzSXhQSmk2WGlPekpWekZGVmNrSW5JY0wxT2pOSkNEaDZwWFQzRQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 29 Jul 2026 05:59:11 GMT",
-      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; J.P. Morgan",
+      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; jpmorgan.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -123,15 +134,26 @@
       "published_ts": 1785086738.0
     },
     {
-      "title": "AI Shopping Agents - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tZlVmenNjanhPd0NjbnVDWjNHYzdmRm9lbE5tMElrbENoVWNLZFNvYi1tOTdxOFc1bVl3TXQwcUhUbUpNSEZ5U2Q2Vjd1ZXUwekQxSnVUQlhjd2x1cFlnWXdUZ9IBaEFVX3lxTE82R0pwQ3Y1ZW5aUXBISFVRQWkwTWJ3ZVBqV0NoRjVFX3JzQjR0TzRQLU9heFRjY0czOVdRVElibll5QWt2czRIYjdya29LZEhfT18zZkJ6aE9jZ0ZKMjJxdUg1LVJzMm1T?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 23 Jul 2026 17:12:52 GMT",
-      "summary": "AI Shopping Agents &nbsp;&nbsp; Trend Hunter",
+      "title": "The Agentic Commerce Ecosystem 2026 - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZHgwekFWdWZUcTdqc1dsNFVFNXNyZVRjM3ZJYnpaRjJBaWFMaGdaWmJmUjhiYnRVRzkxNVdyZmFscURNc243YWV1cnZXdWxaV3dfVEllNENGeE1HbXNkdFZ6WHhXZWxYMnlqVG1KblRobW8?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 24 Jul 2026 13:43:27 GMT",
+      "summary": "The Agentic Commerce Ecosystem 2026 &nbsp;&nbsp; eMarketer",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1784826772.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784900607.0
+    },
+    {
+      "title": "The real risk in agentic commerce - MarTech",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZ1NWT3lOYTdjdzFsSXRLWWJtUnZXWmwxV3dySnhjMGNzZmpyZ1hDTzItS3ZibXFsc1MwLWVxNjZJRlEwUVllN2JhVHJGR1FrQjJKNEVIZTJtVW9tR25PSTJjQzY?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 24 Jul 2026 12:55:50 GMT",
+      "summary": "The real risk in agentic commerce &nbsp;&nbsp; MarTech",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1784897750.0
     },
     {
       "title": "A One-Two Punch Drives Ecommerce Growth",
@@ -233,11 +255,11 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -264,17 +286,6 @@
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
       "published_ts": 1771920000.0
-    },
-    {
-      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1770019200.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -385,6 +396,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpKOUI2WUFPTExCcWJXa2FKTlpMbXo5dmFMSVM1V1Z2UnJmZjk4WktNZ2dHbHlzcXp5UTk3aGxxS3hsdm5Zd1YwLVJDSWExakdRNzYzM2h4cFM3b1VTdnlUbkp1MVktRk85cUw1cmhjX1JTZ0UzVWhTc25ZSG9SWS12cmhoUzlFc1U4UG1QT0cyZ3hScW5Ld18zWTFxaHV4OGFn?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Intuit MailChimp Sued Over Text Message Transaction Patents (1) &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1777618800.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -554,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 50,
-    "opportunities": 27,
-    "threats": 23,
+    "kept": 52,
+    "opportunities": 28,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.2
+    "runtime_seconds": 11.5
   }
 }
