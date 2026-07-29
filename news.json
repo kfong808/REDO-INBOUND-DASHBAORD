@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T11:13:35.645908+00:00",
+  "updated": "2026-07-29T13:43:25.014370+00:00",
   "items": [
     {
       "title": "New Ecommerce Tools: July 29, 2026",
@@ -123,6 +123,17 @@
       "published_ts": 1785086738.0
     },
     {
+      "title": "AI Shopping Agents - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tZlVmenNjanhPd0NjbnVDWjNHYzdmRm9lbE5tMElrbENoVWNLZFNvYi1tOTdxOFc1bVl3TXQwcUhUbUpNSEZ5U2Q2Vjd1ZXUwekQxSnVUQlhjd2x1cFlnWXdUZ9IBaEFVX3lxTE82R0pwQ3Y1ZW5aUXBISFVRQWkwTWJ3ZVBqV0NoRjVFX3JzQjR0TzRQLU9heFRjY0czOVdRVElibll5QWt2czRIYjdya29LZEhfT18zZkJ6aE9jZ0ZKMjJxdUg1LVJzMm1T?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 23 Jul 2026 17:12:52 GMT",
+      "summary": "AI Shopping Agents &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1784826772.0
+    },
+    {
       "title": "A One-Two Punch Drives Ecommerce Growth",
       "url": "https://www.practicalecommerce.com/a-one-two-punch-drives-ecommerce-growth",
       "source": "Practical Ecommerce",
@@ -222,17 +233,6 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -242,17 +242,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1775051648.0
-    },
-    {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -277,6 +266,17 @@
       "published_ts": 1771920000.0
     },
     {
+      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1770019200.0
+    },
+    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -286,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "Attentive Cat Bolts From Bed Seconds Before Earthquake Sends Objects Flying - News.com.au",
@@ -321,17 +332,6 @@
       "published_ts": 1785028003.0
     },
     {
-      "title": "KLAVIYO INC : CITIGROUP RAISES TARGET PRICE TO $34 FROM $31 - Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hZkhLclZzc1Q2SWFpWU5zenB0aE9CeEZIUzRPN0Z3TzRUQ0NQbFp3aXh0RnlWTDFkZzB5OTNBQWpCdlJPZHUtXy1FaWJaZUFQZDNCM1VnWXp5czE5M2JreUczSdIBY0FVX3lxTE1hZkhLclZzc1Q2SWFpWU5zenB0aE9CeEZIUzRPN0Z3TzRUQ0NQbFp3aXh0RnlWTDFkZzB5OTNBQWpCdlJPZHUtXy1FaWJaZUFQZDNCM1VnWXp5czE5M2JreUczSQ?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "KLAVIYO INC : CITIGROUP RAISES TARGET PRICE TO $34 FROM $31 &nbsp;&nbsp; Bitget",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1784876400.0
-    },
-    {
       "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
       "source": "Google News: Attentive",
@@ -341,17 +341,6 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1783839600.0
-    },
-    {
-      "title": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTFlcDByMDlLNmdqNXd4ZW1ORzl6SE9FTS1HWXJyazBDcXZrV2lROS04X0oySWl4aEdNN0ppdGdoaWRON21RbmFEam9wY09LdVBLcjFOTXJyU0l3V1BPWmRrUFctVGlNNjNLQlppVzVRZE5YYXUyRXJqbGV5Nk5WN3lZWFJ0bEszY2xCNlhZVHJ2ejZKODBuaTJVY1FyTzA?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "high",
-      "reasoning": "Klaviyo + launches, ai marketing agent",
-      "published_ts": 1783148400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -440,17 +429,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1770278400.0
-    },
-    {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Omnisend",
-      "published_ts": 1769673600.0
     },
     {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
@@ -576,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 52,
-    "opportunities": 26,
-    "threats": 26,
+    "kept": 50,
+    "opportunities": 27,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 12.2
   }
 }
