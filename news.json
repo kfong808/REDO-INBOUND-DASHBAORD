@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T21:58:47.843055+00:00",
+  "updated": "2026-07-30T23:05:06.453603+00:00",
   "items": [
     {
       "title": "Kohl’s debuts AI shopping assistant",
@@ -112,11 +112,11 @@
       "published_ts": 1785315638.0
     },
     {
-      "title": "The Agentic Commerce Debate: Two Expert Perspectives - jpmorgan.com",
+      "title": "The Agentic Commerce Debate: Two Expert Perspectives - J.P. Morgan",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0ZTbDFwaEZKU0dzbjVzNS1sTzVuTnlXMGhzNjFWRE4wQW1hNVFsc2gyS012LVhDUGtuY1VoSl9pWHNCYVJQRVFXZHBuNkcwNDN2ZVlHTGI2NDYxc2FXbTFXNGZvUzB3Tk0wQnRGeEl5ZVo3bGYzSXhQSmk2WGlPekpWekZGVmNrSW5JY0wxT2pOSkNEaDZwWFQzRQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 29 Jul 2026 05:59:11 GMT",
-      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; jpmorgan.com",
+      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; J.P. Morgan",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -286,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
+    },
+    {
+      "title": "Klaviyo's new Social Marketing product connects social engagement directly to CRM profiles - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRndFMmdOeHBTSVJCNUFJeVZWWW1rSzl3OFIxNHlXYUw1ZGFDVW5EenBhZ2o3TXZFZklTNExORkpRaGlFd2F0QTFKR2Jwenh4ZENxLUpHS2NZMHhxZUNyRlVTZkRDYXdKZjl5X2VXaHBpTmtIcGY1WU1rTFE4RHhDaEFHOVpUNlpHSl9uOFVGSWUwM2pvSDVxVkxhY0lnS0N5cXJ3VHE1d1NaT1FIanFKVmNBallqZlhkVVVNZHkzM3Q3ekdwOXlDX2x5c3ROR2tBeHkyUENiV2c0T2M?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 30 Jul 2026 19:37:58 GMT",
+      "summary": "Klaviyo's new Social Marketing product connects social engagement directly to CRM profiles &nbsp;&nbsp; MarketScale",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1785440278.0
     },
     {
       "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
@@ -497,17 +508,6 @@
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + acquires",
-      "published_ts": 1639641600.0
-    },
-    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
@@ -519,11 +519,11 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation - TechCrunch",
+      "title": "E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation - techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xUENZcXBGelFfejYwT3RXYm83b19WTDZBQUtCMlV3YS1tbE90WUxZbTdqd1o1ZGYyN3RHYlVnREpHaGpkUzVjVEVENFEtYlZobDhCaExJcDNvRWlsNlE?oc=5",
       "source": "Google News: Yotpo",
       "published": "Thu, 18 Mar 2021 07:00:00 GMT",
-      "summary": "E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation &nbsp;&nbsp; TechCrunch",
+      "summary": "E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation &nbsp;&nbsp; techcrunch.com",
       "classification": "threat",
       "confidence": "high",
       "reasoning": "Yotpo + raises, valuation",
@@ -550,14 +550,25 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 50,
+    "kept": 51,
     "opportunities": 26,
-    "threats": 24,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 10.2
   }
 }
