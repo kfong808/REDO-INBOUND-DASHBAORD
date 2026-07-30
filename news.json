@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T20:54:50.699570+00:00",
+  "updated": "2026-07-30T21:58:47.843055+00:00",
   "items": [
     {
       "title": "Kohl’s debuts AI shopping assistant",
@@ -112,11 +112,11 @@
       "published_ts": 1785315638.0
     },
     {
-      "title": "The Agentic Commerce Debate: Two Expert Perspectives - J.P. Morgan",
+      "title": "The Agentic Commerce Debate: Two Expert Perspectives - jpmorgan.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0ZTbDFwaEZKU0dzbjVzNS1sTzVuTnlXMGhzNjFWRE4wQW1hNVFsc2gyS012LVhDUGtuY1VoSl9pWHNCYVJQRVFXZHBuNkcwNDN2ZVlHTGI2NDYxc2FXbTFXNGZvUzB3Tk0wQnRGeEl5ZVo3bGYzSXhQSmk2WGlPekpWekZGVmNrSW5JY0wxT2pOSkNEaDZwWFQzRQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 29 Jul 2026 05:59:11 GMT",
-      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; J.P. Morgan",
+      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; jpmorgan.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -310,11 +310,22 @@
       "published_ts": 1785139200.0
     },
     {
-      "title": "Opinion: Safe communities require attentive neighbors - mercurynews.com",
+      "title": "Is Klaviyo (KVYO) A Bargain As A New CFO Joins The Story? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTl9WT29vSVFQdUdkMXJFb012aXl4QnM1N3k1b0M4Y1BxR2JmN1pWdks4SUIteXk2VkRRcGpoLWdxN2QyM1FGUlE1amNVQVd0NE1DSlhJUE1Jd2l1Q191QzJ5WkNRWS16alhZaUM4S2lnODkzNm5PMldiSUtoMzZ0UUNYdU1tRzYxblhZN1ZtcktHU1A4REFoX185WW50Y2J4Qnh0R0RveWgzTk1vWklBckNMNFRyamZEcUHSAb8BQVVfeXFMUFBHaTZkUDB5c25nZ005UzQyV1A0LTlGai1GUzV5N1VPWVgycVZDX0JVUVA0WTdJNkRvV0NDbHZ1RnR3YXViZTJYdUcxbWN5YjB1S3BNaUw1RVhKUkVITlRidUU4SzN2cFNNVk5sNFIxanhhZjRXRnpVdVhVb0J0czY3QTMtSG4wT1pmclF0UmExSTJvZHdrZGg3QUhmR1BWQWNINGJkanNqdVJOaFdWcWZTYUg0Q0pnXzM5LVhhZzA?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sun, 26 Jul 2026 01:06:43 GMT",
+      "summary": "Is Klaviyo (KVYO) A Bargain As A New CFO Joins The Story? &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1785028003.0
+    },
+    {
+      "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
       "source": "Google News: Attentive",
       "published": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "Opinion: Safe communities require attentive neighbors &nbsp;&nbsp; mercurynews.com",
+      "summary": "Opinion: Safe communities require attentive neighbors &nbsp;&nbsp; The Mercury News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
@@ -330,6 +341,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -532,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 48,
+    "kept": 50,
     "opportunities": 26,
-    "threats": 22,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.7
+    "runtime_seconds": 11.6
   }
 }
