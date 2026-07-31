@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T21:56:07.329639+00:00",
+  "updated": "2026-07-31T22:52:43.020867+00:00",
   "items": [
     {
       "title": "Mastercard Q2 Earnings Call Highlights Agentic Commerce Push - Yahoo Finance",
@@ -255,11 +255,11 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -547,6 +547,6 @@
     "opportunities": 24,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 10.5
   }
 }
