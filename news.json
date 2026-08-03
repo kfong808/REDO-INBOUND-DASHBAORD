@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-03T17:40:59.339406+00:00",
+  "updated": "2026-08-03T19:17:39.752465+00:00",
   "items": [
+    {
+      "title": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce - Digital Transactions",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1lzZFVBVnJBQ3Rsb1lGMXpOdWdwSExOVFVtVmhVdl9tRXRSUGJLamFEc0lidmJCcGpNdk5NNjBqeWU4dzNtVXlheUF4TkJ5Wk56VlBXcktyNDJYNGVGWlBwYnF6TEY4SWtGVG1pZzU4ZzFkTzZOSU5MMG9jeEQyakhGUmZnSVR4YXlMTzY1TG0zQjV5azRXSEVzU3hQT3RxSVBvckEwVXk?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 03 Aug 2026 15:03:17 GMT",
+      "summary": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce &nbsp;&nbsp; Digital Transactions",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785769397.0
+    },
     {
       "title": "Best Shopify Post-Purchase App",
       "url": "https://www.reddit.com/r/shopify/comments/1vefsyo/best_shopify_postpurchase_app/",
@@ -11,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1785769069.0
+    },
+    {
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 03 Aug 2026 14:53:11 GMT",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785768791.0
     },
     {
       "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - HackerNoon",
@@ -55,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1785732981.0
-    },
-    {
-      "title": "How Mastercard plans to compete in agentic commerce - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXYydXdYRmhiVDNUWUYxNU9jRW5mTzg5d1FRelR5UFV5cnl5Y1B1QXNKSnMwWlNzNDFuS0hKOGV3T1pPdTAwQi1ZbFd2SXJxdi1UWWc0Q0dZODMtU1pIWFNxNDNNVXItMlRFWDBsWTF4SlNjZFNqbHVUNF9WbXlzUDJEVWFqZVR3X0cyY2pHWjEzVWg5bkxpWnFkVnVzZlV3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 30 Jul 2026 17:21:00 GMT",
-      "summary": "How Mastercard plans to compete in agentic commerce &nbsp;&nbsp; American Banker",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785432060.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Financial IT",
@@ -134,11 +145,11 @@
       "published_ts": 1785304751.0
     },
     {
-      "title": "Agentic Commerce: A New Chapter for Instant Payments - citigroup.com",
+      "title": "Agentic Commerce: A New Chapter for Instant Payments - Citigroup",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjJmV3A1X25GaFlLdVFWY1plYlBqOTFISy0ySDl3aXhnakVKVDJWdmVFbm9tang3QzdxYUFpV2QtOEVHd3F1dnlLV3VWRzhZMlN0N0tSZVRYMmRsU1U3TVNjeEktN2w2STRFZzNiUE1EbWpXckVMdVZKYURWNjlzRmZ2cTNlWXVxd1FxYmkzM1hnZEtReEJzVw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 28 Jul 2026 17:40:49 GMT",
-      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; citigroup.com",
+      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; Citigroup",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -178,17 +189,6 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -200,11 +200,11 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -244,6 +244,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Attentive Study: Early Holiday Shopping Raises Stakes for Brands - MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWQ1a2RrYzRfUTlTQUlhSGprTmZkOVNYZ0F5anJrV0RpWlBtWHM0d0V4c3Q4VHN2VnlBMmJHc3VGYjEtMDVOUE5neWUtemN1eGtZOFB0TEJCd01qcjFVVzI4TDZzNlE2N0IzRUFhUWFtS1Buc3ZULXotQWZNMWZvWjJValFtZ2NwQy05SEJURUxMZ2xLUC1F?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 03 Aug 2026 14:55:12 GMT",
+      "summary": "Attentive Study: Early Holiday Shopping Raises Stakes for Brands &nbsp;&nbsp; MarTech Cube",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + raises",
+      "published_ts": 1785768912.0
+    },
+    {
       "title": "In depth: LSB's Mazur postscript prompts new bout of mudslinging - The Law Society Gazette",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTNuUVYtT3pJV2hqdm50WlRzV0JuR01WTms2UlQ4WEl2aVAwY0ttbDVjMHl4NE5rM1dXWjZZeGJVRmJUSDBjOHFRZTMwdjNvVUIxN0lPekNEOUhwbkdHOFoyS2J5UUNlc1ZJaEd2aHZHM1l2ZEc4U0dYU1QxSENCdFhJcHNrM0lWdUotU1pNVjJjdDJSd1ZnZjJxMmZLTm1HRVBBSFdnR2JhVldNMV8ybGdfQ0M0X1RxLUE?oc=5",
       "source": "Google News: Postscript",
@@ -275,17 +286,6 @@
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
       "published_ts": 1785456000.0
-    },
-    {
-      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 30 Jul 2026 13:00:00 GMT",
-      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1785416400.0
     },
     {
       "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -442,26 +442,15 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
       "published_ts": 1744095600.0
-    },
-    {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1708070400.0
     },
     {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
@@ -497,6 +486,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -514,6 +514,6 @@
     "opportunities": 22,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.7
+    "runtime_seconds": 11.3
   }
 }
