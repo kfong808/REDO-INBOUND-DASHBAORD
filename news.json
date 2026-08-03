@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-03T12:48:16.962563+00:00",
+  "updated": "2026-08-03T15:36:29.957343+00:00",
   "items": [
+    {
+      "title": "Best Shopify Post-Purchase App",
+      "url": "https://www.reddit.com/r/shopify/comments/1vefsyo/best_shopify_postpurchase_app/",
+      "source": "r/shopify",
+      "published": "2026-08-03T14:57:49+00:00",
+      "summary": "What’s your Post-Purchase Upsell Strategie? Any advice or best practices.. &#32; submitted by &#32; /u/SigX66 [link] &#32; [comments]",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1785769069.0
+    },
     {
       "title": "Mastercard Signals Report Explores Trust Frameworks for the Future of Agentic Commerce - TechAfrica News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2hpSlduQTJxdl9VNGhxLWxYWGxad3BIQzc2NHBVNV9UMFpucEJFVjJvMlhGaE5TSW10akFBU2tvOVJobEVRX1BKYWVkLWEzRFhBVnBIbEdRUXFJcDA5S2pNTUNIYm1mLW9KYzRtS28xdDZfRkl1MUJuZkttNUJRVkFZUHM4Y0lVTWhMc0ZNdjJJZTRpSkI0ZU10YnlIcmVlQVlkWTdlVW52Tzk0blpOZnpfUS12S3RfWFZVWFluOHlhSlU?oc=5",
@@ -11,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1785756167.0
+    },
+    {
+      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 03 Aug 2026 10:59:41 GMT",
+      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785754781.0
     },
     {
       "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - HackerNoon",
@@ -33,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1785732981.0
-    },
-    {
-      "title": "Mastercard Q2 Earnings Call Highlights Agentic Commerce Push - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYThEdVBRRVh6a3NlZGFsVlJNU2p4cExiVzUtTy13SmdxU2J3NjJSa0RlQks1RDduU04wQzBsdzdmcV95bkxnZmpyRGZ1YlBsZU1NeVlreFU1eUpKelN5V1NjYlhhNWFrWmV0NGN0X2g4X0lGYkZTaURjQmlLQVN4SHp4WUNmSzdEMS1fYjZoUHhSajhuS2pMQVk0ZVZJZXRDd1RsOFVB?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 31 Jul 2026 13:33:00 GMT",
-      "summary": "Mastercard Q2 Earnings Call Highlights Agentic Commerce Push &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785504780.0
     },
     {
       "title": "Kohl’s debuts AI shopping assistant",
@@ -77,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785426756.0
-    },
-    {
-      "title": "WEBINAR: Agentic Commerce - Rethinking Innovation for the Age of the AI Buyer - Ipsos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSVJaYmtqdEFYZ05Od0JSR2ZiaHpfTTd2cHduMzQ2TnFOaTQ5a2FFUTZ6Nk10VXhDQ0Q4VUV3b0dCQjQweDl6Y0lKWXd4SEFjYVg0S0pQamM2WVFYQ0JHNU1rd2xLVDlVR3BYdk10YnVlamZGOU9VaXFGQ2hfbDRSNWZGSi11TExiczRzRkU3ZUY?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 30 Jul 2026 10:59:03 GMT",
-      "summary": "WEBINAR: Agentic Commerce - Rethinking Innovation for the Age of the AI Buyer &nbsp;&nbsp; Ipsos",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785409143.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - New Castle News",
@@ -145,11 +145,11 @@
       "published_ts": 1785304751.0
     },
     {
-      "title": "Agentic Commerce: A New Chapter for Instant Payments - Citigroup",
+      "title": "Agentic Commerce: A New Chapter for Instant Payments - citigroup.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjJmV3A1X25GaFlLdVFWY1plYlBqOTFISy0ySDl3aXhnakVKVDJWdmVFbm9tang3QzdxYUFpV2QtOEVHd3F1dnlLV3VWRzhZMlN0N0tSZVRYMmRsU1U3TVNjeEktN2w2STRFZzNiUE1EbWpXckVMdVZKYURWNjlzRmZ2cTNlWXVxd1FxYmkzM1hnZEtReEJzVw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 28 Jul 2026 17:40:49 GMT",
-      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; Citigroup",
+      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; citigroup.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -189,11 +189,11 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "AI shopping agents are coming. No one is ready for them - fortune.com",
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; fortune.com",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -233,11 +233,11 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - trendhunter.com",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -269,12 +269,12 @@
       "title": "In depth: LSB's Mazur postscript prompts new bout of mudslinging - The Law Society Gazette",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTNuUVYtT3pJV2hqdm50WlRzV0JuR01WTms2UlQ4WEl2aVAwY0ttbDVjMHl4NE5rM1dXWjZZeGJVRmJUSDBjOHFRZTMwdjNvVUIxN0lPekNEOUhwbkdHOFoyS2J5UUNlc1ZJaEd2aHZHM1l2ZEc4U0dYU1QxSENCdFhJcHNrM0lWdUotU1pNVjJjdDJSd1ZnZjJxMmZLTm1HRVBBSFdnR2JhVldNMV8ybGdfQ0M0X1RxLUE?oc=5",
       "source": "Google News: Postscript",
-      "published": "Mon, 03 Aug 2026 08:16:23 GMT",
+      "published": "Mon, 03 Aug 2026 08:16:51 GMT",
       "summary": "In depth: LSB's Mazur postscript prompts new bout of mudslinging &nbsp;&nbsp; The Law Society Gazette",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
-      "published_ts": 1785744983.0
+      "published_ts": 1785745011.0
     },
     {
       "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
@@ -310,6 +310,17 @@
       "published_ts": 1785416400.0
     },
     {
+      "title": "Opinion: Safe communities require attentive neighbors - mercurynews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "summary": "Opinion: Safe communities require attentive neighbors &nbsp;&nbsp; mercurynews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1783839600.0
+    },
+    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -321,11 +332,11 @@
       "published_ts": 1782716400.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
@@ -365,11 +376,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -387,11 +398,11 @@
       "published_ts": 1773817200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -464,6 +475,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 16 Feb 2024 08:00:00 GMT",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1708070400.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -497,17 +519,6 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
-    },
-    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -521,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 47,
+    "kept": 48,
     "opportunities": 24,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 10.5
   }
 }
