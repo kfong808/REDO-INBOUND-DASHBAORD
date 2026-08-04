@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T22:02:31.404902+00:00",
+  "updated": "2026-08-04T23:53:56.098030+00:00",
   "items": [
     {
       "title": "I'm giving away free access to my all-in-one eCommerce growth platform in exchange for honest feedback (5 beta tester).",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1785880504.0
+    },
+    {
+      "title": "Amazon loses US bid to block Perplexity AI shopping agent - MLex",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUx1U01KamFkNXlYdHNVbVFfTXZWRmcxbVF6LU05OTg5ZEtzNUs0Q0lxc1dya3lRT0R3VW1tLU93aktmNDhfWDlHUzBsb0RtRGtQMEk2T25GM1NmWmFadzk3c1VvdmtBdW5NVmpnMWI4Sk1GVVhZclEtR3ZTc1ZHNFJNcno1czJTcW9KU1cxZ1VGakE2X1ZqeWN2Z2s4cGlLTHRWTUVYSGxhM0lmTGVJWGJMUURYZG1tbnZnV2pZQTZFQdIBWkFVX3lxTFBuMmF1blZpYWFnV0gtLUhvOHVZd0NqVmtEdG5HMjhOaGowMnJLUnlmd1Y5dEtvZkhvOTFoVzB3LXl3Q0xha19ocUJydFpkNEF1X09aalIwZFRaQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 04 Aug 2026 20:25:00 GMT",
+      "summary": "Amazon loses US bid to block Perplexity AI shopping agent &nbsp;&nbsp; MLex",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785875100.0
     },
     {
       "title": "Kroger’s AI shopping assistant has ads at launch",
@@ -27,12 +38,12 @@
       "title": "Tech Tuesday: Trust in the Age of Agentic Commerce - WWD",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGxOUVBCdWFwdXc2U1VnS253c2FaUDgyRjJlY0ZQbHh2OXlDWjVlR0I2eDJvMENBUTM1Mjh5b1p1RTJ2UktyRklKaXA0b3RwNEd0Uk1PYUtGN2N2UzNaYWZIM3hTemRZTzhKVjZhLTdoYlJEeWd3YlRXbXhqSVR0aUIzbGprU0ROemdId01FVEgxejE2VGRSVldCcw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 04 Aug 2026 16:38:54 GMT",
+      "published": "Tue, 04 Aug 2026 17:03:18 GMT",
       "summary": "Tech Tuesday: Trust in the Age of Agentic Commerce &nbsp;&nbsp; WWD",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785861534.0
+      "published_ts": 1785862998.0
     },
     {
       "title": "Havas Market’s Molly Hop: In Agentic Commerce, Only One Product Wins. Retailers Aren’t Ready - Beet.TV",
@@ -66,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785769397.0
-    },
-    {
-      "title": "Best Shopify Post-Purchase App",
-      "url": "https://www.reddit.com/r/shopify/comments/1vefsyo/best_shopify_postpurchase_app/",
-      "source": "r/shopify",
-      "published": "2026-08-03T14:57:49+00:00",
-      "summary": "What’s your Post-Purchase Upsell Strategie? Any advice or best practices.. &#32; submitted by &#32; /u/SigX66 [link] &#32; [comments]",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1785769069.0
     },
     {
       "title": "How to win in agentic commerce as AI agents decide and transact - EY",
@@ -145,6 +145,17 @@
       "published_ts": 1785315638.0
     },
     {
+      "title": "The Agentic Commerce Debate: Two Expert Perspectives - J.P. Morgan",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0ZTbDFwaEZKU0dzbjVzNS1sTzVuTnlXMGhzNjFWRE4wQW1hNVFsc2gyS012LVhDUGtuY1VoSl9pWHNCYVJQRVFXZHBuNkcwNDN2ZVlHTGI2NDYxc2FXbTFXNGZvUzB3Tk0wQnRGeEl5ZVo3bGYzSXhQSmk2WGlPekpWekZGVmNrSW5JY0wxT2pOSkNEaDZwWFQzRQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 29 Jul 2026 05:59:11 GMT",
+      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; J.P. Morgan",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785304751.0
+    },
+    {
       "title": "A One-Two Punch Drives Ecommerce Growth",
       "url": "https://www.practicalecommerce.com/a-one-two-punch-drives-ecommerce-growth",
       "source": "Practical Ecommerce",
@@ -167,11 +178,11 @@
       "published_ts": 1783753200.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -255,26 +266,15 @@
       "published_ts": 1785768912.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
       "published_ts": 1785456000.0
-    },
-    {
-      "title": "Video - Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDd4TDRoYzk3aEJPMWM2a1V6UjFsY1JTX09hU2c0Z1hIVHdmVkZ4SUl2ZXVZSEJnb1A4M1JTUVlybWRRVGFGN1EzRFZXMEtRR1lmRlNMMnY2MG8tRTZoLXI3QVNXcW9DQXJ6cHE4ZGpVVFdTSlhWb1ZFME5TT3ZaUURzZExabGp0V3YzRVFTb0VvdmVxS3dXLXRBeUtyN2c3dWlPQjdPYw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Thu, 30 Jul 2026 15:41:53 GMT",
-      "summary": "Video - Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1785426113.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -286,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -352,17 +363,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
-    },
-    {
-      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1770278400.0
     },
     {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
@@ -475,23 +475,34 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 22,
+    "kept": 45,
+    "opportunities": 23,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.8
+    "runtime_seconds": 12.0
   }
 }
