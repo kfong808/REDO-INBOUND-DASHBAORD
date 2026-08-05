@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-05T10:23:38.594093+00:00",
+  "updated": "2026-08-05T12:46:28.457097+00:00",
   "items": [
+    {
+      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXBIT1UzMjBBdGhyUnVTMG1Pam1iQy1Fc1lQSFBORWkxWHBxM3JUbnc2UXBkTXFNLVVUUlk1QXc2XzVacmR5VDFFX3VYUnBRVGZOcDd3dTNuTUY3Rl95NGF2NkFfYzlYMU9nX3NTSUFvOHZKVkFCTlRvTkVrSEVLNUdhTGtCcGFPeTloNkVzWUxPbzBvRmZKQw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 05 Aug 2026 10:35:33 GMT",
+      "summary": "US appeals court allows Perplexity's AI shopping agent back on Amazon &nbsp;&nbsp; the-decoder.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785926133.0
+    },
     {
       "title": "Amazon loses US bid to block Perplexity AI shopping agent - MLex",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUx1U01KamFkNXlYdHNVbVFfTXZWRmcxbVF6LU05OTg5ZEtzNUs0Q0lxc1dya3lRT0R3VW1tLU93aktmNDhfWDlHUzBsb0RtRGtQMEk2T25GM1NmWmFadzk3c1VvdmtBdW5NVmpnMWI4Sk1GVVhZclEtR3ZTc1ZHNFJNcno1czJTcW9KU1cxZ1VGakE2X1ZqeWN2Z2s4cGlLTHRWTUVYSGxhM0lmTGVJWGJMUURYZG1tbnZnV2pZQTZFQdIBWkFVX3lxTFBuMmF1blZpYWFnV0gtLUhvOHVZd0NqVmtEdG5HMjhOaGowMnJLUnlmd1Y5dEtvZkhvOTFoVzB3LXl3Q0xha19ocUJydFpkNEF1X09aalIwZFRaQQ?oc=5",
@@ -35,11 +46,11 @@
       "published_ts": 1785873514.0
     },
     {
-      "title": "Tech Tuesday: Trust in the Age of Agentic Commerce - WWD",
+      "title": "Tech Tuesday: Trust in the Age of Agentic Commerce - wwd.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGxOUVBCdWFwdXc2U1VnS253c2FaUDgyRjJlY0ZQbHh2OXlDWjVlR0I2eDJvMENBUTM1Mjh5b1p1RTJ2UktyRklKaXA0b3RwNEd0Uk1PYUtGN2N2UzNaYWZIM3hTemRZTzhKVjZhLTdoYlJEeWd3YlRXbXhqSVR0aUIzbGprU0ROemdId01FVEgxejE2VGRSVldCcw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 04 Aug 2026 17:03:18 GMT",
-      "summary": "Tech Tuesday: Trust in the Age of Agentic Commerce &nbsp;&nbsp; WWD",
+      "summary": "Tech Tuesday: Trust in the Age of Agentic Commerce &nbsp;&nbsp; wwd.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -255,17 +266,6 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780383600.0
-    },
-    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
@@ -275,17 +275,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZpYXBMenVsLWVYS0M2MkloQjktNl9BWFBtZjU4cXV0dWI0N2lCaDVNWW5FUzFyRXdHaktsalQ0SU82TDRGRlZnVk1tMzBmSWNpZ0lpN195QXI4U2tSQ252ZmZZMzRvc3FmS2xFT1VPak9rUDNDclU4QWtWNlNDRHdSUGVfUGppMzRNWDdibmlKdF90T0FTU3FFelRhM2dyVFdr?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Klaviyo Claude Integration Brings AI Marketing To Desktops And Valuation Debate &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + valuation",
-      "published_ts": 1778828400.0
     },
     {
       "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
@@ -465,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 42,
-    "opportunities": 18,
-    "threats": 24,
+    "total_fetched": 270,
+    "kept": 41,
+    "opportunities": 19,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.7
   }
 }
