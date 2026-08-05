@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-05T01:28:36.927428+00:00",
+  "updated": "2026-08-05T04:54:06.172646+00:00",
   "items": [
+    {
+      "title": "Amazon loses US court ban on Perplexity’s AI shopping tools - KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlRzYUJxSHVoWThOc01MMFlLaDQtRGoySHN0bXlSUFRIYkpOTDFvTDlqNFVvVHd6LWJLVDdvNElhOVJDWnRZb1plUEFhY1JTUE9jZlNRRngyXzlNZk5iWDhKYVF1eVZtb3FKRUdWQllxdWZRTF9PajFKY2lmUXpRS2FoNFk1Qk9kM0NBSjRScks?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 05 Aug 2026 00:45:58 GMT",
+      "summary": "Amazon loses US court ban on Perplexity’s AI shopping tools &nbsp;&nbsp; KELO-AM",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785890758.0
+    },
     {
       "title": "Flowise Is Shutting Down",
       "url": "https://flowiseai.com/sunset",
@@ -57,11 +68,11 @@
       "published_ts": 1785849691.0
     },
     {
-      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - HackerNoon",
+      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - hackernoon.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2hQdnZsLU43VXVPUUxtbXIxcWhRaktMQmtzQU1kQ00yWkt1UWFEcGFnbkd0ZlVLZ0F0QXlBamQ2QmxPaUJpbzI1TmlGaTk0ZG5pQUthNXZqeWlzWHhKWll2WmFCZTJ0bjRxdnVsVTNkTXhPTU9SNlhGLWhsNmE5RGQ1azhFNnNoLXdVazlXdnJWd1o3bFBYTE1NRVJuZUwxUDFod0VUYm5WVjR6U1N2RDJ0MF9GVHFmTnZfYWJR?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Mon, 03 Aug 2026 16:50:16 GMT",
-      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; HackerNoon",
+      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; hackernoon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -79,11 +90,11 @@
       "published_ts": 1785769397.0
     },
     {
-      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
+      "title": "How to win in agentic commerce as AI agents decide and transact - ey.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 03 Aug 2026 10:59:41 GMT",
-      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
+      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; ey.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -134,17 +145,6 @@
       "published_ts": 1785315638.0
     },
     {
-      "title": "The Agentic Commerce Debate: Two Expert Perspectives - J.P. Morgan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0ZTbDFwaEZKU0dzbjVzNS1sTzVuTnlXMGhzNjFWRE4wQW1hNVFsc2gyS012LVhDUGtuY1VoSl9pWHNCYVJQRVFXZHBuNkcwNDN2ZVlHTGI2NDYxc2FXbTFXNGZvUzB3Tk0wQnRGeEl5ZVo3bGYzSXhQSmk2WGlPekpWekZGVmNrSW5JY0wxT2pOSkNEaDZwWFQzRQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 29 Jul 2026 05:59:11 GMT",
-      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; J.P. Morgan",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785304751.0
-    },
-    {
       "title": "A One-Two Punch Drives Ecommerce Growth",
       "url": "https://www.practicalecommerce.com/a-one-two-punch-drives-ecommerce-growth",
       "source": "Practical Ecommerce",
@@ -176,17 +176,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781161200.0
     },
     {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
@@ -266,22 +255,11 @@
       "published_ts": 1785456000.0
     },
     {
-      "title": "Video - Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDd4TDRoYzk3aEJPMWM2a1V6UjFsY1JTX09hU2c0Z1hIVHdmVkZ4SUl2ZXVZSEJnb1A4M1JTUVlybWRRVGFGN1EzRFZXMEtRR1lmRlNMMnY2MG8tRTZoLXI3QVNXcW9DQXJ6cHE4ZGpVVFdTSlhWb1ZFME5TT3ZaUURzZExabGp0V3YzRVFTb0VvdmVxS3dXLXRBeUtyN2c3dWlPQjdPYw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Thu, 30 Jul 2026 15:41:53 GMT",
-      "summary": "Video - Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1785426113.0
-    },
-    {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
@@ -475,11 +453,11 @@
       "published_ts": 1535526000.0
     },
     {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - wsj.com",
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; wsj.com",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -487,11 +465,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 22,
-    "threats": 22,
+    "total_fetched": 268,
+    "kept": 42,
+    "opportunities": 21,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 10.7
   }
 }
