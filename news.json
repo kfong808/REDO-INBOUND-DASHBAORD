@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T12:46:28.457097+00:00",
+  "updated": "2026-08-05T15:07:05.909534+00:00",
   "items": [
     {
       "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon - the-decoder.com",
@@ -13,6 +13,17 @@
       "published_ts": 1785926133.0
     },
     {
+      "title": "Amazon loses US court ban on Perplexity’s AI shopping tools - KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlRzYUJxSHVoWThOc01MMFlLaDQtRGoySHN0bXlSUFRIYkpOTDFvTDlqNFVvVHd6LWJLVDdvNElhOVJDWnRZb1plUEFhY1JTUE9jZlNRRngyXzlNZk5iWDhKYVF1eVZtb3FKRUdWQllxdWZRTF9PajFKY2lmUXpRS2FoNFk1Qk9kM0NBSjRScks?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 05 Aug 2026 00:45:58 GMT",
+      "summary": "Amazon loses US court ban on Perplexity’s AI shopping tools &nbsp;&nbsp; KELO-AM",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785890758.0
+    },
+    {
       "title": "Amazon loses US bid to block Perplexity AI shopping agent - MLex",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUx1U01KamFkNXlYdHNVbVFfTXZWRmcxbVF6LU05OTg5ZEtzNUs0Q0lxc1dya3lRT0R3VW1tLU93aktmNDhfWDlHUzBsb0RtRGtQMEk2T25GM1NmWmFadzk3c1VvdmtBdW5NVmpnMWI4Sk1GVVhZclEtR3ZTc1ZHNFJNcno1czJTcW9KU1cxZ1VGakE2X1ZqeWN2Z2s4cGlLTHRWTUVYSGxhM0lmTGVJWGJMUURYZG1tbnZnV2pZQTZFQdIBWkFVX3lxTFBuMmF1blZpYWFnV0gtLUhvOHVZd0NqVmtEdG5HMjhOaGowMnJLUnlmd1Y5dEtvZkhvOTFoVzB3LXl3Q0xha19ocUJydFpkNEF1X09aalIwZFRaQQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -24,17 +35,6 @@
       "published_ts": 1785875100.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 04 Aug 2026 20:24:34 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785875074.0
-    },
-    {
       "title": "Kroger’s AI shopping assistant has ads at launch",
       "url": "https://www.modernretail.co/technology/krogers-ai-shopping-assistant-has-ads-at-launch/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
       "source": "Modern Retail",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785873514.0
-    },
-    {
-      "title": "Tech Tuesday: Trust in the Age of Agentic Commerce - wwd.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGxOUVBCdWFwdXc2U1VnS253c2FaUDgyRjJlY0ZQbHh2OXlDWjVlR0I2eDJvMENBUTM1Mjh5b1p1RTJ2UktyRklKaXA0b3RwNEd0Uk1PYUtGN2N2UzNaYWZIM3hTemRZTzhKVjZhLTdoYlJEeWd3YlRXbXhqSVR0aUIzbGprU0ROemdId01FVEgxejE2VGRSVldCcw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 04 Aug 2026 17:03:18 GMT",
-      "summary": "Tech Tuesday: Trust in the Age of Agentic Commerce &nbsp;&nbsp; wwd.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785862998.0
     },
     {
       "title": "Havas Market’s Molly Hop: In Agentic Commerce, Only One Product Wins. Retailers Aren’t Ready - Beet.TV",
@@ -88,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785769397.0
+    },
+    {
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 03 Aug 2026 14:53:11 GMT",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785768791.0
     },
     {
       "title": "How to win in agentic commerce as AI agents decide and transact - EY",
@@ -244,15 +244,15 @@
       "published_ts": 1785028003.0
     },
     {
-      "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Klaviyo launches beta for marketing AI agents &nbsp;&nbsp; Digital Commerce 360",
+      "title": "Opinion: Safe communities require attentive neighbors - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1FpY1UzbDRoNU1vMmhzUFQzYzVYWnF0eWoyenJ5VDlobjhveExnc0xjejhWSEl0Nms1VTVOSEs0YnZNdWtPUjZIb09jTWFHSDV2S1dUb29CdFJ5eUxhekF5anY0WlNQQURONi1HcGN3QzJld1A4eDJDLVRIUldaS0dHWjhwYmZKZTRyX1Bjc1dEWGhRSk000gGcAUFVX3lxTE1uaUllRTNENUxUaVFKZjhPeHZEd0R5TjhkYmRoOHQtWmZUc3JTVmw0eWFlSm83TnBzR3FMenlaQm9KUWlINW5PSG5TR1BDaU8yQW1WRW9NLWYtdWZ3aVZWYW5FcWFNbkpqUTZWMk00QUxYY05PYmZHb3I4M19JMmJsUkc5UnA2ekJOY3BqNTFtbkk5QzNEaXVVbjJzMA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "summary": "Opinion: Safe communities require attentive neighbors &nbsp;&nbsp; The Mercury News",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1782889200.0
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1783839600.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -459,6 +459,6 @@
     "opportunities": 19,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 11.0
   }
 }
