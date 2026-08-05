@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T04:54:06.172646+00:00",
+  "updated": "2026-08-05T07:31:35.709778+00:00",
   "items": [
     {
       "title": "Amazon loses US court ban on Perplexity’s AI shopping tools - KELO-AM",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785890758.0
-    },
-    {
-      "title": "Flowise Is Shutting Down",
-      "url": "https://flowiseai.com/sunset",
-      "source": "Hacker News",
-      "published": "Wed, 05 Aug 2026 00:02:40 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: shutting down",
-      "published_ts": 1785888160.0
     },
     {
       "title": "Amazon loses US bid to block Perplexity AI shopping agent - MLex",
@@ -68,11 +57,11 @@
       "published_ts": 1785849691.0
     },
     {
-      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - hackernoon.com",
+      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - HackerNoon",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2hQdnZsLU43VXVPUUxtbXIxcWhRaktMQmtzQU1kQ00yWkt1UWFEcGFnbkd0ZlVLZ0F0QXlBamQ2QmxPaUJpbzI1TmlGaTk0ZG5pQUthNXZqeWlzWHhKWll2WmFCZTJ0bjRxdnVsVTNkTXhPTU9SNlhGLWhsNmE5RGQ1azhFNnNoLXdVazlXdnJWd1o3bFBYTE1NRVJuZUwxUDFod0VUYm5WVjR6U1N2RDJ0MF9GVHFmTnZfYWJR?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Mon, 03 Aug 2026 16:50:16 GMT",
-      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; hackernoon.com",
+      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; HackerNoon",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -90,11 +79,11 @@
       "published_ts": 1785769397.0
     },
     {
-      "title": "How to win in agentic commerce as AI agents decide and transact - ey.com",
+      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 03 Aug 2026 10:59:41 GMT",
-      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; ey.com",
+      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -110,17 +99,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1785504780.0
-    },
-    {
-      "title": "How Mastercard plans to compete in agentic commerce - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXYydXdYRmhiVDNUWUYxNU9jRW5mTzg5d1FRelR5UFV5cnl5Y1B1QXNKSnMwWlNzNDFuS0hKOGV3T1pPdTAwQi1ZbFd2SXJxdi1UWWc0Q0dZODMtU1pIWFNxNDNNVXItMlRFWDBsWTF4SlNjZFNqbHVUNF9WbXlzUDJEVWFqZVR3X0cyY2pHWjEzVWg5bkxpWnFkVnVzZlV3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 30 Jul 2026 17:21:00 GMT",
-      "summary": "How Mastercard plans to compete in agentic commerce &nbsp;&nbsp; American Banker",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785432060.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
@@ -255,11 +233,22 @@
       "published_ts": 1785456000.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
+      "title": "Is Klaviyo (KVYO) A Bargain As A New CFO Joins The Story? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTl9WT29vSVFQdUdkMXJFb012aXl4QnM1N3k1b0M4Y1BxR2JmN1pWdks4SUIteXk2VkRRcGpoLWdxN2QyM1FGUlE1amNVQVd0NE1DSlhJUE1Jd2l1Q191QzJ5WkNRWS16alhZaUM4S2lnODkzNm5PMldiSUtoMzZ0UUNYdU1tRzYxblhZN1ZtcktHU1A4REFoX185WW50Y2J4Qnh0R0RveWgzTk1vWklBckNMNFRyamZEcUHSAb8BQVVfeXFMUFBHaTZkUDB5c25nZ005UzQyV1A0LTlGai1GUzV5N1VPWVgycVZDX0JVUVA0WTdJNkRvV0NDbHZ1RnR3YXViZTJYdUcxbWN5YjB1S3BNaUw1RVhKUkVITlRidUU4SzN2cFNNVk5sNFIxanhhZjRXRnpVdVhVb0J0czY3QTMtSG4wT1pmclF0UmExSTJvZHdrZGg3QUhmR1BWQWNINGJkanNqdVJOaFdWcWZTYUg0Q0pnXzM5LVhhZzA?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sun, 26 Jul 2026 01:06:43 GMT",
+      "summary": "Is Klaviyo (KVYO) A Bargain As A New CFO Joins The Story? &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1785028003.0
+    },
+    {
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
@@ -465,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 42,
-    "opportunities": 21,
-    "threats": 21,
+    "total_fetched": 269,
+    "kept": 41,
+    "opportunities": 19,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 14.1
   }
 }
