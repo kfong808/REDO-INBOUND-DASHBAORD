@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-04T23:53:56.098030+00:00",
+  "updated": "2026-08-05T01:28:36.927428+00:00",
   "items": [
     {
-      "title": "I'm giving away free access to my all-in-one eCommerce growth platform in exchange for honest feedback (5 beta tester).",
-      "url": "https://www.reddit.com/r/shopify/comments/1vfoamt/im_giving_away_free_access_to_my_allinone/",
-      "source": "r/shopify",
-      "published": "2026-08-04T21:55:04+00:00",
-      "summary": "Hi Everyone! 🌪️ NO FOR DM My saas is launching soon ! I want your HONEST FEEDBACK. While working on my own Shopify Projects, I've noticed most online stores spend anywhere from $100 to over $2000 (depending on their size) monthly on an average of 5-15 different products/tools: SEO, Monitoring, Analytics, Back-in-Stock Alerts, UX Audits, Performance Tools, etc. The real issue with this model isn't the cost, but the fact each product/tool has it's own dashboard, reports, and metrics. This results ",
+      "title": "Flowise Is Shutting Down",
+      "url": "https://flowiseai.com/sunset",
+      "source": "Hacker News",
+      "published": "Wed, 05 Aug 2026 00:02:40 +0000",
+      "summary": "Comments",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1785880504.0
+      "reasoning": "Matched: shutting down",
+      "published_ts": 1785888160.0
     },
     {
       "title": "Amazon loses US bid to block Perplexity AI shopping agent - MLex",
@@ -110,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1785432060.0
-    },
-    {
-      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - New Castle News",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc20zUllRSnV0R1NWQlMzazNWTndHMDFhMGs1TUszRms1d2VDV2pzRU9BN0QzMUZQOGVUQXNaTkxOODRqT1Qyd1FwaFREVVJVVEVxNDYzOW9uX0FKa1JxRE9MMVRJbWxqbkNQQmhnek5FdEpiZzZVd0J3ZDd0dmtYalJqWjBNeDQ0ejhkWDJrekJNZVliWlVYMTU5dTItVkZVdzA2RjRpb25MM1B6QWpJVVZ3TUlZWXdxLXpULWNXc2JoN2wzRngteG1KSU5FdWtUaVY3eXh0bHMtR2F5M2NOTUxYc3JpbHh0dXdUX3B1RXNUSkRLZ3VDS2FCODNmNjl2RDRDMGlkdVI?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 30 Jul 2026 10:45:07 GMT",
-      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; New Castle News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785408307.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
@@ -277,6 +266,17 @@
       "published_ts": 1785456000.0
     },
     {
+      "title": "Video - Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDd4TDRoYzk3aEJPMWM2a1V6UjFsY1JTX09hU2c0Z1hIVHdmVkZ4SUl2ZXVZSEJnb1A4M1JTUVlybWRRVGFGN1EzRFZXMEtRR1lmRlNMMnY2MG8tRTZoLXI3QVNXcW9DQXJ6cHE4ZGpVVFdTSlhWb1ZFME5TT3ZaUURzZExabGp0V3YzRVFTb0VvdmVxS3dXLXRBeUtyN2c3dWlPQjdPYw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Thu, 30 Jul 2026 15:41:53 GMT",
+      "summary": "Video - Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1785426113.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -286,17 +286,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
-    },
-    {
-      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -475,22 +464,22 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
     },
     {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; wsj.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -499,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 45,
-    "opportunities": 23,
+    "kept": 44,
+    "opportunities": 22,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 10.1
   }
 }
