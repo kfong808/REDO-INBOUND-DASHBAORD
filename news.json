@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-05T07:31:35.709778+00:00",
+  "updated": "2026-08-05T10:23:38.594093+00:00",
   "items": [
-    {
-      "title": "Amazon loses US court ban on Perplexity’s AI shopping tools - KELO-AM",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlRzYUJxSHVoWThOc01MMFlLaDQtRGoySHN0bXlSUFRIYkpOTDFvTDlqNFVvVHd6LWJLVDdvNElhOVJDWnRZb1plUEFhY1JTUE9jZlNRRngyXzlNZk5iWDhKYVF1eVZtb3FKRUdWQllxdWZRTF9PajFKY2lmUXpRS2FoNFk1Qk9kM0NBSjRScks?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 05 Aug 2026 00:45:58 GMT",
-      "summary": "Amazon loses US court ban on Perplexity’s AI shopping tools &nbsp;&nbsp; KELO-AM",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785890758.0
-    },
     {
       "title": "Amazon loses US bid to block Perplexity AI shopping agent - MLex",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUx1U01KamFkNXlYdHNVbVFfTXZWRmcxbVF6LU05OTg5ZEtzNUs0Q0lxc1dya3lRT0R3VW1tLU93aktmNDhfWDlHUzBsb0RtRGtQMEk2T25GM1NmWmFadzk3c1VvdmtBdW5NVmpnMWI4Sk1GVVhZclEtR3ZTc1ZHNFJNcno1czJTcW9KU1cxZ1VGakE2X1ZqeWN2Z2s4cGlLTHRWTUVYSGxhM0lmTGVJWGJMUURYZG1tbnZnV2pZQTZFQdIBWkFVX3lxTFBuMmF1blZpYWFnV0gtLUhvOHVZd0NqVmtEdG5HMjhOaGowMnJLUnlmd1Y5dEtvZkhvOTFoVzB3LXl3Q0xha19ocUJydFpkNEF1X09aalIwZFRaQQ?oc=5",
@@ -22,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785875100.0
+    },
+    {
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 04 Aug 2026 20:24:34 GMT",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785875074.0
     },
     {
       "title": "Kroger’s AI shopping assistant has ads at launch",
@@ -88,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1785754781.0
-    },
-    {
-      "title": "Mastercard Q2 Earnings Call Highlights Agentic Commerce Push - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYThEdVBRRVh6a3NlZGFsVlJNU2p4cExiVzUtTy13SmdxU2J3NjJSa0RlQks1RDduU04wQzBsdzdmcV95bkxnZmpyRGZ1YlBsZU1NeVlreFU1eUpKelN5V1NjYlhhNWFrWmV0NGN0X2g4X0lGYkZTaURjQmlLQVN4SHp4WUNmSzdEMS1fYjZoUHhSajhuS2pMQVk0ZVZJZXRDd1RsOFVB?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 31 Jul 2026 13:33:00 GMT",
-      "summary": "Mastercard Q2 Earnings Call Highlights Agentic Commerce Push &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785504780.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
@@ -244,6 +233,17 @@
       "published_ts": 1785028003.0
     },
     {
+      "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Klaviyo launches beta for marketing AI agents &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1782889200.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -253,6 +253,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -319,6 +330,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
+    },
+    {
+      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1770278400.0
     },
     {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
@@ -440,25 +462,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 41,
-    "opportunities": 19,
-    "threats": 22,
+    "kept": 42,
+    "opportunities": 18,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 14.1
+    "runtime_seconds": 10.5
   }
 }
