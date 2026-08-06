@@ -1,16 +1,27 @@
 {
-  "updated": "2026-08-06T10:26:32.439831+00:00",
+  "updated": "2026-08-06T12:49:34.690245+00:00",
   "items": [
     {
-      "title": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNXdYWWltZW1CYzVoZ2FfRzdZTGZZeFZuMWtIQ2FSZHdwMTU4cGtpa3lGZHlra2ZiVTNRM3d4bmEybTZDRnB2Z01OZzNUUFg3aW9oamk1ZXR5TE4yNzc3X011UTl1YndSR3JGQ0dVaUFsbzJwaXNDSGJtSVF4QzRuRC1fMmZLdWtVNGV0V21lOVh3OXJFRFZsZm5lQ3EwU0RraGtHc3ZzcVRTMGlnZnJJWEd0bDRERmhKdTRtUEx1Mm5JaEZiRDlsdUVXZDhPM2xCNVB1Z2MyM004MTlVZkY4ZWcxREY1ejhRTWgzd1B3NnVOR1Q3Wk5ZeVdLcDlaVkhKRVhfM3pCNNIBjAJBVV95cUxNNjNEU3lWanNPMUJkTnNqSFlLM1lqVGJxeHJDeHdfREVJWEx0eG9GUkJRMThMQTloNkFMbzBwWnIwLW9pVEJxclcwOXdvTEFVTG1uU1UtV3ktdW1xbVZ6eE1OM2FQR0gyUGR3QTRIMlFxUDc3bFd5T0VXMHA1UUtac09WUi1WdGdTYnk0eXdVYm9mOHRDUnJhWGxMWTdITmhuUlRhYXZCY1ZtdkhuME1OckNLTDlUYURnb3JMOTIxMklYRHJPMkktS3dCaUtURUtRRXBpLUU4LVN6Z1A3UkN4X0s3UU05MG9TeUVBRF9EZWxSa1k3ZXRRdWZZS29oX0lhYkNtXzlyTV9RODRH?oc=5",
+      "title": "KIBO Commerce Unifies Agentic Commerce and Order Management - MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckNNbWlDNjh6Sy15UHh4Wlh6aV9ydVNVVzRSYXEwRjMzelcxcDJaMEQtR25sTnZvNkRWLTRWX3hxMWRUM05kRGY0ZDV5U1hpRUtVZ1JQNlotYnJudEs2dVZuRHpDZDRwaFZsQ1hUa1l6aHJyMG84cFNNamF0TzhDSEl3NG51R3lkS1BOYkhVQjFWZw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 06 Aug 2026 07:15:06 GMT",
-      "summary": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience &nbsp;&nbsp; The Manila Times",
+      "published": "Thu, 06 Aug 2026 12:42:12 GMT",
+      "summary": "KIBO Commerce Unifies Agentic Commerce and Order Management &nbsp;&nbsp; MarTech Cube",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786000506.0
+      "published_ts": 1786020132.0
+    },
+    {
+      "title": "Agentic Commerce: An Executive Guide to What's Happening and What to Do About It - Shopify",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnZuTHhYaHBaWDVKeWZpa0gzb2VnWHJFb1dGUEdUYk5abTYxXzdfVzRfR2NSakZfbnhKQkhMYURzZDJJQTBheFZwb2pJMnZZLVFhQy1NSWZTSjBMdjE0SkxsR0M3blprOGVvSDdhNVBKUjZlSlZxU2V0cFRXd3ZFOQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 05 Aug 2026 23:40:08 GMT",
+      "summary": "Agentic Commerce: An Executive Guide to What's Happening and What to Do About It &nbsp;&nbsp; Shopify",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785973208.0
     },
     {
       "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - Shopify",
@@ -35,11 +46,11 @@
       "published_ts": 1785967560.0
     },
     {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - emarketer.com",
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; emarketer.com",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -233,26 +244,37 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - digitalcommerce360.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; digitalcommerce360.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1772611200.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo Strengthens AI Capabilities With Strategic Acquisition of Agency Team and Technology - cmswire.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHhwZF91LU9qWDZmNjdZdnBZMVo5Qmx2cVRBejdMNTdVMEVUMVVSalFlT0VhTjZ2c2lZSnR5YVV5QVRjQ2pPZVMwY3I4SEhYc18wNU1YcUtFWmdja2tmTk5SblUwMVBBWVR4S0hiejJYY3Awb2Z3WlBpbm84Um0wQkprZDdiU0RjQmQ5dmh2MjdDTi1XSGdmWW85Uk1VNkhvRkp3bjJseG5TTHJ2eGRHaVZTM2RXY0VlVkVWeTlEVEZTRF9o?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 06 Aug 2026 06:14:51 GMT",
+      "summary": "Klaviyo Strengthens AI Capabilities With Strategic Acquisition of Agency Team and Technology &nbsp;&nbsp; cmswire.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquisition",
+      "published_ts": 1785996891.0
     },
     {
       "title": "Klaviyo acquisition reunites CEO with Drift co-founder - The Business Journals",
@@ -266,11 +288,11 @@
       "published_ts": 1785976380.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres' Agency, uniting former mentor and protégé - app.dealroom.co",
+      "title": "Klaviyo acquires Elias Torres' Agency, uniting former mentor and protégé - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUxYYU8zOEFGMjVmMVZleFVzV2hvMmF6aDNPYWhlRFdSTGw0eUtSeDRvN0ExRmNBUnoyeDhWT3VXeVZ3U1VyMHU5TmFtQUhWZTUtRExPUy11Qmo4d2pLb1M0a1ZXUUFycW9wU3BDZ0pwenFCdTY2WjY5NmJMTDM5U0NZU1kwZHlNWk5kQ1d2Y3kxWVBTb0JNN01yeEpKTkNfY2taLWYzQQ?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Wed, 05 Aug 2026 23:21:50 GMT",
-      "summary": "Klaviyo acquires Elias Torres' Agency, uniting former mentor and protégé &nbsp;&nbsp; app.dealroom.co",
+      "summary": "Klaviyo acquires Elias Torres' Agency, uniting former mentor and protégé &nbsp;&nbsp; Dealroom",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
@@ -299,22 +321,22 @@
       "published_ts": 1785768912.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
+      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
       "published_ts": 1785456000.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
@@ -343,11 +365,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -486,22 +508,11 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 23,
+    "kept": 47,
+    "opportunities": 24,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.5
+    "runtime_seconds": 9.9
   }
 }
