@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-06T01:25:37.181111+00:00",
+  "updated": "2026-08-06T04:54:42.926292+00:00",
   "items": [
     {
       "title": "EUDI Wallet provides baseline target for standards to enable agentic commerce - Biometric Update",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdEVxclp0QzV5UGcxM184OHd1SHphX093VjJzWWpaTHBveGptTThva0ZsWGpZM2xIYUIxTmpfRTdIRHRIZW5ybGdBRmJfMm5EZEIybUpFT3NCV05ZRHJpYlFiY1M3bjRQRHdLUkkza3RaWkhVYVZibDE2YlpHY01WRUpXQ1ozMU5CTnJvSjBocVhvQnFULWJkQjVTcUxxaFRGZWg5UnpmeFI4V29kVWRLQ19EZG81cmc?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 05 Aug 2026 21:31:01 GMT",
+      "published": "Wed, 05 Aug 2026 22:06:00 GMT",
       "summary": "EUDI Wallet provides baseline target for standards to enable agentic commerce &nbsp;&nbsp; Biometric Update",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785965461.0
+      "published_ts": 1785967560.0
     },
     {
       "title": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? - eWeek",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785875100.0
+    },
+    {
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 04 Aug 2026 20:24:34 GMT",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785875074.0
     },
     {
       "title": "Kroger’s AI shopping assistant has ads at launch",
@@ -112,17 +123,6 @@
       "published_ts": 1785754781.0
     },
     {
-      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 30 Jul 2026 10:45:00 GMT",
-      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785408300.0
-    },
-    {
       "title": "New Ecommerce Tools: July 29, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-29-2026",
       "source": "Practical Ecommerce",
@@ -156,11 +156,11 @@
       "published_ts": 1783753200.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -178,22 +178,22 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "title": "Agentic Post-Purchase Services - trendhunter.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -233,11 +233,22 @@
       "published_ts": 1785976380.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "title": "Klaviyo acquires Elias Torres' Agency, uniting former mentor and protégé - Dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUxYYU8zOEFGMjVmMVZleFVzV2hvMmF6aDNPYWhlRFdSTGw0eUtSeDRvN0ExRmNBUnoyeDhWT3VXeVZ3U1VyMHU5TmFtQUhWZTUtRExPUy11Qmo4d2pLb1M0a1ZXUUFycW9wU3BDZ0pwenFCdTY2WjY5NmJMTDM5U0NZU1kwZHlNWk5kQ1d2Y3kxWVBTb0JNN01yeEpKTkNfY2taLWYzQQ?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 23:21:50 GMT",
+      "summary": "Klaviyo acquires Elias Torres' Agency, uniting former mentor and protégé &nbsp;&nbsp; Dealroom.co",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785972110.0
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Wed, 05 Aug 2026 20:05:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; techcrunch.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
@@ -275,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -464,6 +486,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Ecommerce marketing startup Yotpo raises $230m, hits $1.4 billion valuation - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmwwc29hUjRLaVdXTWFXS2lTYTRWM2ZzZ1RTSGRMYkZaRHlVbm82d3J4UEtmTTlYNlVBSHBVeGl4Y1l6ZWM5LU4wYlNQTlBSanhGSkI0bjZqY1FlNmpranZ3WTA5Vmp4ME9vWHZYWjFQTS1Kck9nYmRlUVJTT2lva0o3SmhucFdSY0FDaDJKNDhUZzQ3QWlNWFNVMWVZREx0RFgyMWRB0gGrAUFVX3lxTE9EX3ZxMFlpYWFBRlRwS1c3bXVVZm9oZVhLbVRMdl80LUYtZFoySFNHdnVOT2VhNmdaVW41azJiNlJLRkhLWmFxeVBwS0hLNjViRjlKbkhvSmlycHdTdXJKdTVsUi1pa2hGTDFORklHNWRwYzFzSWdBUkQ2Vkg4cURLWlJHM1FRUlVvbGFuSVBvTC1WNll6ZGpfZHlVTXFYWmFONnJvMnNBSTdJWQ?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 18 Mar 2021 07:00:00 GMT",
+      "summary": "Ecommerce marketing startup Yotpo raises $230m, hits $1.4 billion valuation &nbsp;&nbsp; The Times of Israel",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Yotpo + raises, valuation",
+      "published_ts": 1616050800.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -477,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
+    "kept": 46,
     "opportunities": 20,
-    "threats": 23,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 11.2
   }
 }
