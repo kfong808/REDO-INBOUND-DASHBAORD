@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T20:28:24.907604+00:00",
+  "updated": "2026-08-07T21:28:00.141173+00:00",
   "items": [
     {
       "title": "Business-travel payments provide an early test for agentic commerce - American Banker",
@@ -22,6 +22,28 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786115425.0
+    },
+    {
+      "title": "Amazon Perplexity AI Shopping Ban Overturned by Appeals Court - AirGuide Business",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VTNrOVNXQjFQT252SklpVWZKd1o4cUdCYklxN2g0YmF6cUV4OUdEUXI5cUdhbDZEUVNtRVZtaG1lcjc2alJWRnZrUUloLWlSb3hfdHBB?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 07 Aug 2026 15:00:51 GMT",
+      "summary": "Amazon Perplexity AI Shopping Ban Overturned by Appeals Court &nbsp;&nbsp; AirGuide Business",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1786114851.0
+    },
+    {
+      "title": "Beyond Workflow Completion: Architect’s Framework for Reliable Agentic Commerce - The Ritz Herald",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0liRkh1TXhwQzlldDZCYUpYMl9GU3ZxMWlKWVY4TFNVd0FvZnlWeDEzckkyWF9ubVZCdHZnU1BpOHhDNGtqVEE2T043c1dGMVZVWURqVWpBUDJ5Y1dXV1dwNUlTdVZ2RDdNZnpKLWFucmNaUjB3cTNTc05BUU8tMmFsaFpUbmYwMC10TVNOZkZqZ01WVlNCT0ZPc1V3b1RrLS13?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 07 Aug 2026 04:35:52 GMT",
+      "summary": "Beyond Workflow Completion: Architect’s Framework for Reliable Agentic Commerce &nbsp;&nbsp; The Ritz Herald",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786077352.0
     },
     {
       "title": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling - PYMNTS.com",
@@ -90,11 +112,11 @@
       "published_ts": 1785946208.0
     },
     {
-      "title": "Building trust for agentic commerce: Mastercard Signals report explores the path forward - Mastercard",
+      "title": "Building trust for agentic commerce: Mastercard Signals report explores the path forward - mastercard.com",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcU10Q2g3X0N4cXliTXdhOFpZMVdiQWFmelRhNHBGMkkzMGc5eS1LalN3N2V0ZC0xd1FWYm1ramJpb2xQMlZKVjR5YTFDYlhScGVPUEhvcnQyck54MUFncGdVOVg3elR1M01yREZJMVM3UmFmdEhrc0laNW1sZHNtS2V6dEZEX2k3cTBLb2t0ZTg1Z2hkS2h4QUNXeDlXSmdwSFVpb19JS2w3ZndDdDU2cFl6NTJXSENKaEFMWm1iMXFKLVdhWFlUbFdOaFFJYlF3UUw3MUhGT2J1cXJMYlFNQmFlaDVocTFfQV82ZVBWc0ZDUk0wQ2tZRjdLZVo?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 05 Aug 2026 15:55:00 GMT",
-      "summary": "Building trust for agentic commerce: Mastercard Signals report explores the path forward &nbsp;&nbsp; Mastercard",
+      "summary": "Building trust for agentic commerce: Mastercard Signals report explores the path forward &nbsp;&nbsp; mastercard.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -244,11 +266,11 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - trendhunter.com",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -277,11 +299,11 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... - Roanoke-Chowan News-Herald",
+      "title": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... - roanoke-chowannewsherald.com",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOa0ZwS3pGTW9QQkNGdlc5QVZ6ZmU5S0tpcHhwdVduZVZmM250N1llbTJ3ZnhSZlplUFRhczZmcjBOTFM5OW1jUkxsRzFKSk9DbXczYkdHMlNlczhFMWtMd2lCZ2h1RVBveVJlTHdjX0dLY0dXS0RhUmFyZWxPQmZiOWt2OFl2SlpHdTlhWmJfSC14MkZWMktOZnEyRWZYdlJZS1VKQ0JMSFRVZkVvZnB4ZC1aMUl6TnJObmFyVGZqYXBDdENGaWJHVW9aNUFaRU1jQXFOQlY3bE5lMEVUajRiSWpoRnkzUE50aktRaHJNUkdfcFcwUFo1bjRkd3VIN0Q5by0weVI0WE9NbXRHR0FxTl9B?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 07 Aug 2026 04:37:55 GMT",
-      "summary": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... &nbsp;&nbsp; Roanoke-Chowan News-Herald",
+      "summary": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... &nbsp;&nbsp; roanoke-chowannewsherald.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -365,11 +387,11 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - investors.intuit.com",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; investors.intuit.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
@@ -387,11 +409,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -475,11 +497,11 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -554,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 50,
-    "opportunities": 25,
+    "kept": 52,
+    "opportunities": 27,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 17.9
+    "runtime_seconds": 10.7
   }
 }
