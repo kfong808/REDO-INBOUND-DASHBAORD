@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T02:04:31.715120+00:00",
+  "updated": "2026-08-07T04:46:32.752783+00:00",
   "items": [
     {
       "title": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling - PYMNTS.com",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786040555.0
+    },
+    {
+      "title": "Shopify Posts Another Quarter of Strong GMV Growth, AI Shopping Traffic Grows 3X - benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTHB1cmxUcmpPWld2Vnl5QkpxSElQWVRab1JUZmhOcmdPR0l1YzZDWFFVYlJPSnZYVUduOGstTl9qcjFHWXVVYUwtWEpWMzM2aEZIcXBfMFBLZVlZcUktbTJRaHZRd1IyRjVZVnFJdWZvbHpnZmR1N1MzMDJyc0VLZElwWkR0Y1RNU2dXQkgwVWZTTTItdXkzSWNqOGcxdVZZWHFxOVRUb2s1WUxNWXFzZUw3WUlHVmN4enZDMGtZYjB2NkN5Y1F3YWFla3NnZGRyZ2lleDdRdGJPdjhMUDlMcTQzN25wclc4VUE?oc=5",
+      "source": "Google News: Shopify",
+      "published": "Thu, 06 Aug 2026 17:16:36 GMT",
+      "summary": "Shopify Posts Another Quarter of Strong GMV Growth, AI Shopping Traffic Grows 3X &nbsp;&nbsp; benzinga.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1786036596.0
     },
     {
       "title": "KIBO Commerce Unifies Agentic Commerce and Order Management - MarTech Cube",
@@ -46,37 +57,26 @@
       "published_ts": 1785967560.0
     },
     {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - emarketer.com",
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; emarketer.com",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785961283.0
     },
     {
-      "title": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? - eweek.com",
+      "title": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? - eWeek",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWlZ4QVVyUmJKY3Uwa1NGOWZzMWNRWnRyMjVUcFpuT0hwSGNlSW81MDk4LV9pV1NEZG9ERVhxbDJkR28ybnpnSVZqS09vdEpOcmpEMjBoNkdjbWVuWGc3Mk94Tnhmem1QOS1wWkFmcEVhUml2QzZlWWRMaw?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 16:10:08 GMT",
-      "summary": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? &nbsp;&nbsp; eweek.com",
+      "summary": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? &nbsp;&nbsp; eWeek",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785946208.0
-    },
-    {
-      "title": "Building trust for agentic commerce: Mastercard Signals report explores the path forward - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcU10Q2g3X0N4cXliTXdhOFpZMVdiQWFmelRhNHBGMkkzMGc5eS1LalN3N2V0ZC0xd1FWYm1ramJpb2xQMlZKVjR5YTFDYlhScGVPUEhvcnQyck54MUFncGdVOVg3elR1M01yREZJMVM3UmFmdEhrc0laNW1sZHNtS2V6dEZEX2k3cTBLb2t0ZTg1Z2hkS2h4QUNXeDlXSmdwSFVpb19JS2w3ZndDdDU2cFl6NTJXSENKaEFMWm1iMXFKLVdhWFlUbFdOaFFJYlF3UUw3MUhGT2J1cXJMYlFNQmFlaDVocTFfQV82ZVBWc0ZDUk0wQ2tZRjdLZVo?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 05 Aug 2026 15:55:00 GMT",
-      "summary": "Building trust for agentic commerce: Mastercard Signals report explores the path forward &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785945300.0
     },
     {
       "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon - the-decoder.com",
@@ -88,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785926133.0
-    },
-    {
-      "title": "Amazon loses US bid to block Perplexity AI shopping agent - MLex",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUx1U01KamFkNXlYdHNVbVFfTXZWRmcxbVF6LU05OTg5ZEtzNUs0Q0lxc1dya3lRT0R3VW1tLU93aktmNDhfWDlHUzBsb0RtRGtQMEk2T25GM1NmWmFadzk3c1VvdmtBdW5NVmpnMWI4Sk1GVVhZclEtR3ZTc1ZHNFJNcno1czJTcW9KU1cxZ1VGakE2X1ZqeWN2Z2s4cGlLTHRWTUVYSGxhM0lmTGVJWGJMUURYZG1tbnZnV2pZQTZFQdIBWkFVX3lxTFBuMmF1blZpYWFnV0gtLUhvOHVZd0NqVmtEdG5HMjhOaGowMnJLUnlmd1Y5dEtvZkhvOTFoVzB3LXl3Q0xha19ocUJydFpkNEF1X09aalIwZFRaQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 04 Aug 2026 20:25:00 GMT",
-      "summary": "Amazon loses US bid to block Perplexity AI shopping agent &nbsp;&nbsp; MLex",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785875100.0
     },
     {
       "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
@@ -134,11 +123,11 @@
       "published_ts": 1785775816.0
     },
     {
-      "title": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce - Digital Transactions",
+      "title": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce - digitaltransactions.net",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1lzZFVBVnJBQ3Rsb1lGMXpOdWdwSExOVFVtVmhVdl9tRXRSUGJLamFEc0lidmJCcGpNdk5NNjBqeWU4dzNtVXlheUF4TkJ5Wk56VlBXcktyNDJYNGVGWlBwYnF6TEY4SWtGVG1pZzU4ZzFkTzZOSU5MMG9jeEQyakhGUmZnSVR4YXlMTzY1TG0zQjV5azRXSEVzU3hQT3RxSVBvckEwVXk?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Mon, 03 Aug 2026 15:03:17 GMT",
-      "summary": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce &nbsp;&nbsp; Digital Transactions",
+      "summary": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce &nbsp;&nbsp; digitaltransactions.net",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -200,11 +189,11 @@
       "published_ts": 1783753200.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -222,11 +211,11 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -266,17 +255,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Is Klaviyo (KVYO) Undervalued As Raised Guidance And AI Deals Lift Interest? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc040MndmWUxidmZoZUI0YkszSHZrWXVqdHFhbmE4N2FlSHk0Snp4OWV1OTRvU2JQSWYxRkREYmI0MVVReVVXdjdoSHJyRm15RmU4TXpDU0JLLUtFcmg5V3VqN1FIZGdSNE9BSlU5Yjd3UVJKLUxxQ1p6UEJkdGI4aktMRk5IdXc0T1AwWWdUcEQ4ZE9TclY1SmgtQUhNMVpqTjBMLUVsY1dPWnppR0VXWkIwUEhweUFpLVI5dXE3YXfSAcYBQVVfeXFMTlJfaWd3aFg5ckZQWXlUX1M3a1JISFpEN2gyU0JFUWR5NjVhOVM1YjUxZml3NmxEVk43ZW9oQTVKd1BlVzYzZXg2QWJTeDVpeDRzdjRCLTlpb1VzMExsMU5UWmhIeUlMTGVNTXgyVGtnZlRlYUJuODlVSHZENU1GeVFwUEJJbEItbXVJQkhvU195SlV2d0hRcmZQb3VfQk16bEgySHFHSVpEa2pRQW9pdmdLZXhuT0pBamkwd3YxcTN4OE5NZmtR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 06 Aug 2026 20:28:05 GMT",
-      "summary": "Is Klaviyo (KVYO) Undervalued As Raised Guidance And AI Deals Lift Interest? &nbsp;&nbsp; simplywall.st",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raised",
-      "published_ts": 1786048085.0
-    },
-    {
       "title": "Klaviyo Acquires AI Agent Team ‘Agency,’ Names Founder Elias Torres CPO - Wowtale",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01STBPUE5Sa0dDOFk1Y1FCVm1HOXI1VmVzemR5R0J2UVExX1oxRW5ndU50bU45Z3FHblEzbjlBZXRpay1KS0RJdWYtd3ZzYjFFcWlN?oc=5",
       "source": "Google News: Klaviyo",
@@ -288,37 +266,37 @@
       "published_ts": 1786047245.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Thu, 06 Aug 2026 15:31:16 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; ca.finance.yahoo.com",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1786030276.0
     },
     {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 06 Aug 2026 07:30:47 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Singapore",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1786001447.0
+    },
+    {
       "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
       "source": "Google News: Postscript",
-      "published": "Thu, 06 Aug 2026 10:24:08 GMT",
+      "published": "Wed, 05 Aug 2026 23:50:24 GMT",
       "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
-      "published_ts": 1786011848.0
-    },
-    {
-      "title": "Klaviyo Strengthens AI Capabilities With Strategic Acquisition of Agency Team and Technology - CMSWire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHhwZF91LU9qWDZmNjdZdnBZMVo5Qmx2cVRBejdMNTdVMEVUMVVSalFlT0VhTjZ2c2lZSnR5YVV5QVRjQ2pPZVMwY3I4SEhYc18wNU1YcUtFWmdja2tmTk5SblUwMVBBWVR4S0hiejJYY3Awb2Z3WlBpbm84Um0wQkprZDdiU0RjQmQ5dmh2MjdDTi1XSGdmWW85Uk1VNkhvRkp3bjJseG5TTHJ2eGRHaVZTM2RXY0VlVkVWeTlEVEZTRF9o?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 06 Aug 2026 06:14:51 GMT",
-      "summary": "Klaviyo Strengthens AI Capabilities With Strategic Acquisition of Agency Team and Technology &nbsp;&nbsp; CMSWire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquisition",
-      "published_ts": 1785996891.0
+      "published_ts": 1785973824.0
     },
     {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
@@ -354,6 +332,17 @@
       "published_ts": 1785416400.0
     },
     {
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - tracxn.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1784358000.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -387,11 +376,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -475,11 +464,11 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -541,11 +530,11 @@
       "published_ts": 1535526000.0
     },
     {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - wsj.com",
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; wsj.com",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -554,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 50,
-    "opportunities": 24,
+    "kept": 49,
+    "opportunities": 23,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 9.8
   }
 }
