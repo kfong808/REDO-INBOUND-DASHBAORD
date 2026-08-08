@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-07T23:23:51.543559+00:00",
+  "updated": "2026-08-08T00:48:32.598781+00:00",
   "items": [
+    {
+      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaQmR4RVZpWXREQ0JJZHF2ZnN3a25TNENycnBVaWs1a09za3B2ZFhvNzRoWVVNVDVJc3F4elBuRmtaZVVJUGFPRkgtOHZERnB6d3NGSUxsajBzT1EyRzJXQkdwYnA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 07 Aug 2026 19:45:58 GMT",
+      "summary": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity &nbsp;&nbsp; Salesforce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786131958.0
+    },
     {
       "title": "Business-travel payments provide an early test for agentic commerce - American Banker",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1B1d083bldkck92OTdNa1ltMXlmbDVRNDBHamZ0WlRuRVdQbk9hT1ZoaEFFa1V3WDR2VGQ4ZXFxWWcwWkhqLVllSGJiZXlIYWozZW9SYy1HMy1xMG5IZ3B1M0lDbUZLMzdpbi0yenFGZ1U1VkQ5RnVnaEJzYVdybUYtUkVpTWNUdl95dVBFYWZXNHRwZVV0MThyaw?oc=5",
@@ -22,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786115425.0
-    },
-    {
-      "title": "Amazon Perplexity AI Shopping Ban Overturned by Appeals Court - AirGuide Business",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VTNrOVNXQjFQT252SklpVWZKd1o4cUdCYklxN2g0YmF6cUV4OUdEUXI5cUdhbDZEUVNtRVZtaG1lcjc2alJWRnZrUUloLWlSb3hfdHBB?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 07 Aug 2026 15:00:51 GMT",
-      "summary": "Amazon Perplexity AI Shopping Ban Overturned by Appeals Court &nbsp;&nbsp; AirGuide Business",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1786114851.0
     },
     {
       "title": "Beyond Workflow Completion: Architect’s Framework for Reliable Agentic Commerce - The Ritz Herald",
@@ -79,33 +79,22 @@
       "published_ts": 1785973195.0
     },
     {
-      "title": "EUDI Wallet provides baseline target for standards to enable agentic commerce - Biometric Update",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdEVxclp0QzV5UGcxM184OHd1SHphX093VjJzWWpaTHBveGptTThva0ZsWGpZM2xIYUIxTmpfRTdIRHRIZW5ybGdBRmJfMm5EZEIybUpFT3NCV05ZRHJpYlFiY1M3bjRQRHdLUkkza3RaWkhVYVZibDE2YlpHY01WRUpXQ1ozMU5CTnJvSjBocVhvQnFULWJkQjVTcUxxaFRGZWg5UnpmeFI4V29kVWRLQ19EZG81cmc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 05 Aug 2026 22:06:00 GMT",
-      "summary": "EUDI Wallet provides baseline target for standards to enable agentic commerce &nbsp;&nbsp; Biometric Update",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785967560.0
-    },
-    {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - emarketer.com",
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; emarketer.com",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785961283.0
     },
     {
-      "title": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? - eWeek",
+      "title": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? - eweek.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWlZ4QVVyUmJKY3Uwa1NGOWZzMWNRWnRyMjVUcFpuT0hwSGNlSW81MDk4LV9pV1NEZG9ERVhxbDJkR28ybnpnSVZqS09vdEpOcmpEMjBoNkdjbWVuWGc3Mk94Tnhmem1QOS1wWkFmcEVhUml2QzZlWWRMaw?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 16:10:08 GMT",
-      "summary": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? &nbsp;&nbsp; eWeek",
+      "summary": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? &nbsp;&nbsp; eweek.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -310,11 +299,11 @@
       "published_ts": 1786138264.0
     },
     {
-      "title": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... - Roanoke-Chowan News-Herald",
+      "title": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... - roanoke-chowannewsherald.com",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOa0ZwS3pGTW9QQkNGdlc5QVZ6ZmU5S0tpcHhwdVduZVZmM250N1llbTJ3ZnhSZlplUFRhczZmcjBOTFM5OW1jUkxsRzFKSk9DbXczYkdHMlNlczhFMWtMd2lCZ2h1RVBveVJlTHdjX0dLY0dXS0RhUmFyZWxPQmZiOWt2OFl2SlpHdTlhWmJfSC14MkZWMktOZnEyRWZYdlJZS1VKQ0JMSFRVZkVvZnB4ZC1aMUl6TnJObmFyVGZqYXBDdENGaWJHVW9aNUFaRU1jQXFOQlY3bE5lMEVUajRiSWpoRnkzUE50aktRaHJNUkdfcFcwUFo1bjRkd3VIN0Q5by0weVI0WE9NbXRHR0FxTl9B?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 07 Aug 2026 04:37:55 GMT",
-      "summary": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... &nbsp;&nbsp; Roanoke-Chowan News-Herald",
+      "summary": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... &nbsp;&nbsp; roanoke-chowannewsherald.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -343,11 +332,11 @@
       "published_ts": 1785960300.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -365,11 +354,11 @@
       "published_ts": 1785416400.0
     },
     {
-      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
+      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - thehockeynews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
       "source": "Google News: Postscript",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
+      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; thehockeynews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -519,22 +508,22 @@
       "published_ts": 1708070400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - businessinsider.com",
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; businessinsider.com",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + acquires",
@@ -563,11 +552,11 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -587,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 53,
-    "opportunities": 27,
+    "kept": 52,
+    "opportunities": 26,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.7
   }
 }
