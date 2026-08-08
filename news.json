@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-08T21:19:26.436879+00:00",
+  "updated": "2026-08-08T22:17:06.883900+00:00",
   "items": [
     {
-      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - salesforce.com",
+      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaQmR4RVZpWXREQ0JJZHF2ZnN3a25TNENycnBVaWs1a09za3B2ZFhvNzRoWVVNVDVJc3F4elBuRmtaZVVJUGFPRkgtOHZERnB6d3NGSUxsajBzT1EyRzJXQkdwYnA?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 07 Aug 2026 19:45:58 GMT",
-      "summary": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity &nbsp;&nbsp; salesforce.com",
+      "summary": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity &nbsp;&nbsp; Salesforce",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -79,11 +79,11 @@
       "published_ts": 1785967560.0
     },
     {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - emarketer.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; emarketer.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -145,11 +145,11 @@
       "published_ts": 1785873514.0
     },
     {
-      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - HackerNoon",
+      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - hackernoon.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2hQdnZsLU43VXVPUUxtbXIxcWhRaktMQmtzQU1kQ00yWkt1UWFEcGFnbkd0ZlVLZ0F0QXlBamQ2QmxPaUJpbzI1TmlGaTk0ZG5pQUthNXZqeWlzWHhKWll2WmFCZTJ0bjRxdnVsVTNkTXhPTU9SNlhGLWhsNmE5RGQ1azhFNnNoLXdVazlXdnJWd1o3bFBYTE1NRVJuZUwxUDFod0VUYm5WVjR6U1N2RDJ0MF9GVHFmTnZfYWJR?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Mon, 03 Aug 2026 16:50:16 GMT",
-      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; HackerNoon",
+      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; hackernoon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -297,6 +297,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
+    },
+    {
+      "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMtcDQwYjNrNUdyVkNHeTJTOTBrS3RrS0Mzc25GbDRQaFNXZkZJQ3NHazBWRVZoTlV3T092RDZxVFREZV9oYWJ1Y1dGcm9KSnNTTGNIZW1YQjZWTVFyNjNBeTNtdjNXcENWdDFrdGp2cHczV00zbnZYQm44WGJCa1JiZHpnUXpJTkphRGtxZWVqenc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 07 Aug 2026 02:14:00 GMT",
+      "summary": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1786068840.0
     },
     {
       "title": "Klaviyo acquisition reunites CEO with Drift co-founder - The Business Journals",
@@ -554,10 +565,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 50,
+    "kept": 51,
     "opportunities": 27,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.1
+    "runtime_seconds": 9.7
   }
 }
