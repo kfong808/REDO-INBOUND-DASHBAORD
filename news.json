@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T04:03:37.503377+00:00",
+  "updated": "2026-08-08T05:34:35.700895+00:00",
   "items": [
     {
       "title": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience - Customer Think",
@@ -90,11 +90,11 @@
       "published_ts": 1785967560.0
     },
     {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - emarketer.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; emarketer.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -134,11 +134,11 @@
       "published_ts": 1785926133.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 20:24:34 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -200,11 +200,11 @@
       "published_ts": 1785315638.0
     },
     {
-      "title": "The Agentic Commerce Debate: Two Expert Perspectives - jpmorgan.com",
+      "title": "The Agentic Commerce Debate: Two Expert Perspectives - J.P. Morgan",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0ZTbDFwaEZKU0dzbjVzNS1sTzVuTnlXMGhzNjFWRE4wQW1hNVFsc2gyS012LVhDUGtuY1VoSl9pWHNCYVJQRVFXZHBuNkcwNDN2ZVlHTGI2NDYxc2FXbTFXNGZvUzB3Tk0wQnRGeEl5ZVo3bGYzSXhQSmk2WGlPekpWekZGVmNrSW5JY0wxT2pOSkNEaDZwWFQzRQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 29 Jul 2026 05:59:11 GMT",
-      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; jpmorgan.com",
+      "summary": "The Agentic Commerce Debate: Two Expert Perspectives &nbsp;&nbsp; J.P. Morgan",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -310,6 +310,17 @@
       "published_ts": 1786138264.0
     },
     {
+      "title": "Klaviyo strengthens AI capabilities with strategic acquisition of Agency team and technology; Agency co-founder and CEO Elias Torres to be named Chief Product Officer as team joins Klaviyo - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUWRId21LT0ppYW9WRFg1SUMtaUFzU2p0aUJvLWZLSGhXM01XWWpoTWItM2FaWGhjTTZfdnFHVklHMFBwODZpSkJodnh3LTBPOUd2cHBTYTVkTF93SGdVWWtfT0hGcHdVV016UXBZaGVzUjRUVXg0U1Z3bWl6Qy04a2xJdzhiU09oMUF2NzYwX1dvbVQxbE5ZUnRoTGhIYXhuSTlhNzRiRHFWMU44YTd0SDlsR0dVOE9GQ280RHh1NDVsV3pWdlhmY05mcEhsMTBHcU1ucS1CeWxJYnV4c0pBNUJLc18zNHM?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 07 Aug 2026 15:29:44 GMT",
+      "summary": "Klaviyo strengthens AI capabilities with strategic acquisition of Agency team and technology; Agency co-founder and CEO Elias Torres to be named Chief Product Officer as team joins Klaviyo &nbsp;&nbsp; marketscreener.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquisition",
+      "published_ts": 1786116584.0
+    },
+    {
       "title": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... - Roanoke-Chowan News-Herald",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOa0ZwS3pGTW9QQkNGdlc5QVZ6ZmU5S0tpcHhwdVduZVZmM250N1llbTJ3ZnhSZlplUFRhczZmcjBOTFM5OW1jUkxsRzFKSk9DbXczYkdHMlNlczhFMWtMd2lCZ2h1RVBveVJlTHdjX0dLY0dXS0RhUmFyZWxPQmZiOWt2OFl2SlpHdTlhWmJfSC14MkZWMktOZnEyRWZYdlJZS1VKQ0JMSFRVZkVvZnB4ZC1aMUl6TnJObmFyVGZqYXBDdENGaWJHVW9aNUFaRU1jQXFOQlY3bE5lMEVUajRiSWpoRnkzUE50aktRaHJNUkdfcFcwUFo1bjRkd3VIN0Q5by0weVI0WE9NbXRHR0FxTl9B?oc=5",
       "source": "Google News: Klaviyo",
@@ -387,17 +398,6 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1784358000.0
-    },
-    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -464,11 +464,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - newsfilecorp.com",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; newsfilecorp.com",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -519,11 +519,11 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -585,11 +585,11 @@
       "published_ts": 1535526000.0
     },
     {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
+      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
+      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; wsj.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -602,6 +602,6 @@
     "opportunities": 27,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.6
+    "runtime_seconds": 11.1
   }
 }
