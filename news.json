@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-08T06:32:50.671784+00:00",
+  "updated": "2026-08-08T07:39:37.046105+00:00",
   "items": [
     {
-      "title": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience - Customer Think",
+      "title": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience - customerthink.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTJUeW5pR0NRcFM2STc4RjQ3OTlQVzM3MU5maE1nQjJITHpWRTNLbndXRHh4Z01EVXR1b2V6bzByT3FJVmQ5OTVDc2MzbXY0dGd6Y0lkbGIzcWZfNkJqZHBvNnZlczBMRk5HazVaSUtpWFdsODZENDhkdUZpSVItV09IZGVwcEdkdzdwWVNObnVMbGtpTXU0c0pnV1VvSGFkdUJqOFZfWlBLRjNicTlVM1ZWcGxsRm9LTVlXWHB3UXU2S1owR21zTQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 07 Aug 2026 21:14:54 GMT",
-      "summary": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience &nbsp;&nbsp; Customer Think",
+      "summary": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience &nbsp;&nbsp; customerthink.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -332,11 +332,11 @@
       "published_ts": 1786068840.0
     },
     {
-      "title": "Klaviyo acquisition reunites CEO with Drift co-founder - The Business Journals",
+      "title": "Klaviyo acquisition reunites CEO with Drift co-founder - bizjournals.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXFfWjVTVGJyeEZVOUlsT1IwaTZMalZ3bXV4ZXlKWHFSMTU0bF9GTzQ4WXNocU1tQjVCcTVNa1F4NkhwTk5HQnp5a0V3aEhGSVFOY1dpWkJEMloxVVMyMnREQ0wzMXQzNWYyQldHUG9TcjVRcGtpUUhtUV96MFN1NQ?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Thu, 06 Aug 2026 00:33:00 GMT",
-      "summary": "Klaviyo acquisition reunites CEO with Drift co-founder &nbsp;&nbsp; The Business Journals",
+      "summary": "Klaviyo acquisition reunites CEO with Drift co-founder &nbsp;&nbsp; bizjournals.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquisition",
@@ -396,17 +396,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
-    },
-    {
-      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -519,6 +508,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 17 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729148400.0
+    },
+    {
       "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
@@ -583,25 +583,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Retail Technology Provider Narvar Raises $30 Million in New Funding - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01DWktfWmwyUlBrOXd6WEdsS25EOE1vdXdyUnZIMGNQckcyU3ByT1FDVWRZU1FhR1ZfSjZMT3NoUVRyTHpzQkpaaXlSbGY1TmtYeXZ4TEZzU1dsOHFLUHZkbGRpa2VzbE9hcVJGMlQ2Rlg3cndKUjVpNFVTU1VJc0wwajd3cDFQU3lSYzk5NGhaSGdOQ04xOWlqYUxOcmNGNmVUNjY0UEU5Zw?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 28 Aug 2018 07:00:00 GMT",
-      "summary": "Retail Technology Provider Narvar Raises $30 Million in New Funding &nbsp;&nbsp; WSJ",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535439600.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 54,
+    "kept": 53,
     "opportunities": 27,
-    "threats": 27,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 10.9
   }
 }
