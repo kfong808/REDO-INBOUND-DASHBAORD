@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T11:19:23.245705+00:00",
+  "updated": "2026-08-08T12:24:13.250203+00:00",
   "items": [
     {
       "title": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience - Customer Think",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786115425.0
-    },
-    {
-      "title": "Amazon Perplexity AI Shopping Ban Overturned by Appeals Court - AirGuide Business",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VTNrOVNXQjFQT252SklpVWZKd1o4cUdCYklxN2g0YmF6cUV4OUdEUXI5cUdhbDZEUVNtRVZtaG1lcjc2alJWRnZrUUloLWlSb3hfdHBB?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 07 Aug 2026 15:00:51 GMT",
-      "summary": "Amazon Perplexity AI Shopping Ban Overturned by Appeals Court &nbsp;&nbsp; AirGuide Business",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1786114851.0
     },
     {
       "title": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling - PYMNTS.com",
@@ -134,11 +123,11 @@
       "published_ts": 1785926133.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 20:24:34 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -178,11 +167,11 @@
       "published_ts": 1785769397.0
     },
     {
-      "title": "How to win in agentic commerce as AI agents decide and transact - ey.com",
+      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 03 Aug 2026 10:59:41 GMT",
-      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; ey.com",
+      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -277,11 +266,11 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - digitalcommerce360.com",
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; digitalcommerce360.com",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -299,33 +288,33 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; forbes.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
     },
     {
-      "title": "Top MarTech News From the Week of August 7th: Updates from Pipedrive, Klaviyo, Thryv, and More - Solutions Review",
+      "title": "Top MarTech News From the Week of August 7th: Updates from Pipedrive, Klaviyo, Thryv, and More - solutionsreview.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTJDYU5GU08tbUNzMzllNFNFbXZxak9RYnFDbUxQSDdmZkY5SWdzVTBrTFhZdGZXa3V6ZnhadUJYdDJYNC1idDdoVW84ZWFiS3I1azYxNjc2bUF3YS1WUjFGOTA5S1RESHFDdjBnblJSQl9aS0c4eDVieHQyVFk1WGFwYWZBMWNEd1JyZUFuZV8tUQ?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 07 Aug 2026 21:31:04 GMT",
-      "summary": "Top MarTech News From the Week of August 7th: Updates from Pipedrive, Klaviyo, Thryv, and More &nbsp;&nbsp; Solutions Review",
+      "summary": "Top MarTech News From the Week of August 7th: Updates from Pipedrive, Klaviyo, Thryv, and More &nbsp;&nbsp; solutionsreview.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1786138264.0
     },
     {
-      "title": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... - roanoke-chowannewsherald.com",
+      "title": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... - Roanoke-Chowan News-Herald",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOa0ZwS3pGTW9QQkNGdlc5QVZ6ZmU5S0tpcHhwdVduZVZmM250N1llbTJ3ZnhSZlplUFRhczZmcjBOTFM5OW1jUkxsRzFKSk9DbXczYkdHMlNlczhFMWtMd2lCZ2h1RVBveVJlTHdjX0dLY0dXS0RhUmFyZWxPQmZiOWt2OFl2SlpHdTlhWmJfSC14MkZWMktOZnEyRWZYdlJZS1VKQ0JMSFRVZkVvZnB4ZC1aMUl6TnJObmFyVGZqYXBDdENGaWJHVW9aNUFaRU1jQXFOQlY3bE5lMEVUajRiSWpoRnkzUE50aktRaHJNUkdfcFcwUFo1bjRkd3VIN0Q5by0weVI0WE9NbXRHR0FxTl9B?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 07 Aug 2026 04:37:55 GMT",
-      "summary": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... &nbsp;&nbsp; roanoke-chowannewsherald.com",
+      "summary": "3 Best Klaviyo Email Marketing Agencies for North Carolina B... &nbsp;&nbsp; Roanoke-Chowan News-Herald",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -354,11 +343,11 @@
       "published_ts": 1785976380.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Wed, 05 Aug 2026 20:05:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; techcrunch.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
@@ -409,6 +398,17 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
+    },
+    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
@@ -431,11 +431,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -508,11 +508,11 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
@@ -541,22 +541,22 @@
       "published_ts": 1708070400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + acquires",
@@ -599,9 +599,9 @@
   "stats": {
     "total_fetched": 270,
     "kept": 54,
-    "opportunities": 28,
-    "threats": 26,
+    "opportunities": 27,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 10.7
   }
 }
