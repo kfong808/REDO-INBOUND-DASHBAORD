@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T19:20:57.660900+00:00",
+  "updated": "2026-08-08T20:16:42.425576+00:00",
   "items": [
     {
       "title": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience - Customer Think",
@@ -79,11 +79,11 @@
       "published_ts": 1785967560.0
     },
     {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - emarketer.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; emarketer.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -343,11 +343,11 @@
       "published_ts": 1785960300.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -363,6 +363,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1785416400.0
+    },
+    {
+      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1785394800.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -398,11 +409,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -565,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 51,
+    "kept": 52,
     "opportunities": 27,
-    "threats": 24,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.7
+    "runtime_seconds": 10.3
   }
 }
