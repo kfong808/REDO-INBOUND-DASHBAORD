@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T04:12:35.626247+00:00",
+  "updated": "2026-08-09T05:39:58.138727+00:00",
   "items": [
     {
       "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
@@ -13,11 +13,11 @@
       "published_ts": 1786131958.0
     },
     {
-      "title": "Business-travel payments provide an early test for agentic commerce - American Banker",
+      "title": "Business-travel payments provide an early test for agentic commerce - americanbanker.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1B1d083bldkck92OTdNa1ltMXlmbDVRNDBHamZ0WlRuRVdQbk9hT1ZoaEFFa1V3WDR2VGQ4ZXFxWWcwWkhqLVllSGJiZXlIYWozZW9SYy1HMy1xMG5IZ3B1M0lDbUZLMzdpbi0yenFGZ1U1VkQ5RnVnaEJzYVdybUYtUkVpTWNUdl95dVBFYWZXNHRwZVV0MThyaw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 07 Aug 2026 18:48:00 GMT",
-      "summary": "Business-travel payments provide an early test for agentic commerce &nbsp;&nbsp; American Banker",
+      "summary": "Business-travel payments provide an early test for agentic commerce &nbsp;&nbsp; americanbanker.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -123,11 +123,11 @@
       "published_ts": 1785926133.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 20:24:34 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -145,11 +145,11 @@
       "published_ts": 1785873514.0
     },
     {
-      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - hackernoon.com",
+      "title": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust - HackerNoon",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2hQdnZsLU43VXVPUUxtbXIxcWhRaktMQmtzQU1kQ00yWkt1UWFEcGFnbkd0ZlVLZ0F0QXlBamQ2QmxPaUJpbzI1TmlGaTk0ZG5pQUthNXZqeWlzWHhKWll2WmFCZTJ0bjRxdnVsVTNkTXhPTU9SNlhGLWhsNmE5RGQ1azhFNnNoLXdVazlXdnJWd1o3bFBYTE1NRVJuZUwxUDFod0VUYm5WVjR6U1N2RDJ0MF9GVHFmTnZfYWJR?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Mon, 03 Aug 2026 16:50:16 GMT",
-      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; hackernoon.com",
+      "summary": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust &nbsp;&nbsp; HackerNoon",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -541,11 +541,11 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -558,6 +558,6 @@
     "opportunities": 27,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 16.1
+    "runtime_seconds": 9.9
   }
 }
