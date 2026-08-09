@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T19:23:58.952487+00:00",
+  "updated": "2026-08-09T20:19:01.518312+00:00",
   "items": [
     {
       "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
@@ -200,11 +200,11 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -321,6 +321,17 @@
       "published_ts": 1785394800.0
     },
     {
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + funding round",
+      "published_ts": 1784271600.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -330,6 +341,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -453,11 +475,11 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
+    "kept": 48,
     "opportunities": 24,
-    "threats": 22,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 10.7
   }
 }
