@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T09:05:49.716929+00:00",
+  "updated": "2026-08-10T10:56:33.899248+00:00",
   "items": [
     {
       "title": "KIBO Commerce Unifies Agentic Commerce and Order Management into a Single, Model-Agnostic AI Experience - Customer Think",
@@ -35,11 +35,11 @@
       "published_ts": 1786128480.0
     },
     {
-      "title": "Pay-By-Bank Enters Agentic Commerce with a Sionic and Agentix Tie-up - Digital Transactions",
+      "title": "Pay-By-Bank Enters Agentic Commerce with a Sionic and Agentix Tie-up - digitaltransactions.net",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2sySGtvR2J6YUg1S2NTV2xoZjk2cjdQWXZydjRrLXJCUnR3S0w1TTBvb2EwU2pmektQa0pvMVU0X21GNl9FbWViZmZmVzRvYmg3R0xSTVhYNVJvMjZ5cll5bXJnZEFwYVVjWjNrQmhLbUk0VEtQUjNRQlBFTEtMdGRJRFhPQXd6WXpVbWo5U1FsbTBRU0VBSEtOd3JLQ29SaDRGdml1cUQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 07 Aug 2026 15:10:25 GMT",
-      "summary": "Pay-By-Bank Enters Agentic Commerce with a Sionic and Agentix Tie-up &nbsp;&nbsp; Digital Transactions",
+      "summary": "Pay-By-Bank Enters Agentic Commerce with a Sionic and Agentix Tie-up &nbsp;&nbsp; digitaltransactions.net",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -167,11 +167,11 @@
       "published_ts": 1784295026.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -233,6 +233,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 08 Aug 2026 06:58:46 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1786172326.0
+    },
+    {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
       "source": "Google News: Klaviyo",
@@ -244,26 +255,15 @@
       "published_ts": 1786157943.0
     },
     {
-      "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMtcDQwYjNrNUdyVkNHeTJTOTBrS3RrS0Mzc25GbDRQaFNXZkZJQ3NHazBWRVZoTlV3T092RDZxVFREZV9oYWJ1Y1dGcm9KSnNTTGNIZW1YQjZWTVFyNjNBeTNtdjNXcENWdDFrdGp2cHczV00zbnZYQm44WGJCa1JiZHpnUXpJTkphRGtxZWVqenc?oc=5",
+      "title": "Klaviyo acquisition reunites CEO with Drift co-founder - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXFfWjVTVGJyeEZVOUlsT1IwaTZMalZ3bXV4ZXlKWHFSMTU0bF9GTzQ4WXNocU1tQjVCcTVNa1F4NkhwTk5HQnp5a0V3aEhGSVFOY1dpWkJEMloxVVMyMnREQ0wzMXQzNWYyQldHUG9TcjVRcGtpUUhtUV96MFN1NQ?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Fri, 07 Aug 2026 02:14:00 GMT",
-      "summary": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1786068840.0
-    },
-    {
-      "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation &nbsp;&nbsp; GetLatka",
+      "published": "Thu, 06 Aug 2026 00:33:00 GMT",
+      "summary": "Klaviyo acquisition reunites CEO with Drift co-founder &nbsp;&nbsp; The Business Journals",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Attentive + valuation",
-      "published_ts": 1785999600.0
+      "reasoning": "Klaviyo + acquisition",
+      "published_ts": 1785976380.0
     },
     {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
@@ -343,11 +343,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -514,6 +514,6 @@
     "opportunities": 21,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 12.1
   }
 }
