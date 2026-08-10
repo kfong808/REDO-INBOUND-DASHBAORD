@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T20:30:36.837874+00:00",
+  "updated": "2026-08-10T21:31:12.263426+00:00",
   "items": [
     {
       "title": "Which Shopify apps do you feel are overpriced for what they actually do?",
@@ -222,22 +222,22 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; forbes.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -255,6 +255,17 @@
       "published_ts": 1786365561.0
     },
     {
+      "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
+      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1786348800.0
+    },
+    {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
       "source": "Google News: Attentive",
@@ -266,22 +277,22 @@
       "published_ts": 1785999600.0
     },
     {
-      "title": "Klaviyo acquisition reunites CEO with Drift co-founder - bizjournals.com",
+      "title": "Klaviyo acquisition reunites CEO with Drift co-founder - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXFfWjVTVGJyeEZVOUlsT1IwaTZMalZ3bXV4ZXlKWHFSMTU0bF9GTzQ4WXNocU1tQjVCcTVNa1F4NkhwTk5HQnp5a0V3aEhGSVFOY1dpWkJEMloxVVMyMnREQ0wzMXQzNWYyQldHUG9TcjVRcGtpUUhtUV96MFN1NQ?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Thu, 06 Aug 2026 00:33:00 GMT",
-      "summary": "Klaviyo acquisition reunites CEO with Drift co-founder &nbsp;&nbsp; bizjournals.com",
+      "summary": "Klaviyo acquisition reunites CEO with Drift co-founder &nbsp;&nbsp; The Business Journals",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquisition",
       "published_ts": 1785976380.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -332,11 +343,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -354,11 +365,11 @@
       "published_ts": 1773817200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -486,11 +497,11 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -499,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 45,
+    "kept": 46,
     "opportunities": 22,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 12.0
   }
 }
