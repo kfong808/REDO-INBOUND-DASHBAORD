@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-10T15:49:16.829742+00:00",
+  "updated": "2026-08-10T16:41:50.255225+00:00",
   "items": [
+    {
+      "title": "Which Shopify apps do you feel are overpriced for what they actually do?",
+      "url": "https://www.reddit.com/r/shopify/comments/1vkoufe/which_shopify_apps_do_you_feel_are_overpriced_for/",
+      "source": "r/shopify",
+      "published": "2026-08-10T15:58:16+00:00",
+      "summary": "I keep seeing threads here where someone posts their monthly app bill and the comments turn into &quot;why are you paying $150/mo for that, you could vibe code it in a weekend with Claude&quot; But that advice ignores that most store owners are running a business not learning how to code to shave 150/mo off their app stack. Even if AI does 80% of the work. That being said... Which app (or category of app) do you use where the price feels out of line with what it does? - Apps charging a % of reve",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: overpriced",
+      "published_ts": 1786377496.0
+    },
     {
       "title": "How Dr. Martens laces up for agentic commerce - TechInformed",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FUmhneDBCM0t6b2ZxTVZTSW9henBJbjkwU3ZjM3cyR01nNE02MUpNNTh5ZGFDNkxtc3ZjUExPakdLZmY2anVfLU16dS1mRXlONk5SSWRGQ1ZYcVM2Ny1GaDgyUnBSWlZRUnFyel84VEtmOE1TN2tzcU53?oc=5",
@@ -46,22 +57,11 @@
       "published_ts": 1786128480.0
     },
     {
-      "title": "Pay-By-Bank Enters Agentic Commerce with a Sionic and Agentix Tie-up - Digital Transactions",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2sySGtvR2J6YUg1S2NTV2xoZjk2cjdQWXZydjRrLXJCUnR3S0w1TTBvb2EwU2pmektQa0pvMVU0X21GNl9FbWViZmZmVzRvYmg3R0xSTVhYNVJvMjZ5cll5bXJnZEFwYVVjWjNrQmhLbUk0VEtQUjNRQlBFTEtMdGRJRFhPQXd6WXpVbWo5U1FsbTBRU0VBSEtOd3JLQ29SaDRGdml1cUQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 07 Aug 2026 15:10:25 GMT",
-      "summary": "Pay-By-Bank Enters Agentic Commerce with a Sionic and Agentix Tie-up &nbsp;&nbsp; Digital Transactions",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786115425.0
-    },
-    {
-      "title": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling - PYMNTS.com",
+      "title": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFdUYnNwbzlpQWNYMDVrNmRGbnktdXpxZmVvWXg1MHBxbzJZYUF6UFZHa2JXOXhLZWlmRjllaEVYUW5uZDduUk9NWnpWNXNpSFBMcDBsY2J6VHVKNDdKU0NTSzJYcWgzU3dzTXU4b2xWQTRJZFFyUlc1ZklwcnlFZlVHelFRcjR4VFpGem05amszQ085bXlYZkpXX3hYYjM2ekhzSFladTFBMVhOWEZXY2tUaEYzbkJHeVQwWHppLWZaR1ZVYnE0?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Thu, 06 Aug 2026 18:22:35 GMT",
-      "summary": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling &nbsp;&nbsp; PYMNTS.com",
+      "summary": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling &nbsp;&nbsp; pymnts.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -156,11 +156,11 @@
       "published_ts": 1784295026.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -222,11 +222,11 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Klaviyo’s Strategic Acquisition of Agency: A Major shift for AI-Driven CRM? - The Futurum Group",
+      "title": "Klaviyo’s Strategic Acquisition of Agency: A Major shift for AI-Driven CRM? - futurumgroup.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0xjSEljdV9XSGhqRkMxaUY3Y0djeDBYM2J0cnV1R0kyX2U3LVF1ZEJTM192MGRDcjBlY0JNT1FVeVdaWjE0ZjRRUnY1QWp2SnFxOGczVENkVEdjV3BVeWZYcWFqMHFYRkh0T0M0YnJ3T2N0bzZOcm53YjN2ejVFWlhDdnFpd2F1dVowMG1WX1VZeFRSazZXNEk0M29uZG9iYTBacEtObWl2TG8?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Mon, 10 Aug 2026 12:39:21 GMT",
-      "summary": "Klaviyo’s Strategic Acquisition of Agency: A Major shift for AI-Driven CRM? &nbsp;&nbsp; The Futurum Group",
+      "summary": "Klaviyo’s Strategic Acquisition of Agency: A Major shift for AI-Driven CRM? &nbsp;&nbsp; futurumgroup.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquisition",
@@ -255,11 +255,11 @@
       "published_ts": 1785976380.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
+    "total_fetched": 269,
     "kept": 44,
     "opportunities": 20,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 10.3
   }
 }
