@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T18:41:12.378638+00:00",
+  "updated": "2026-08-10T19:46:42.139613+00:00",
   "items": [
     {
       "title": "Which Shopify apps do you feel are overpriced for what they actually do?",
@@ -112,15 +112,26 @@
       "published_ts": 1785926133.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 20:24:34 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785875074.0
+    },
+    {
+      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; Business Wire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785394800.0
     },
     {
       "title": "New Ecommerce Tools: July 29, 2026",
@@ -255,11 +266,11 @@
       "published_ts": 1785976380.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
+      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -431,22 +442,22 @@
       "published_ts": 1708070400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + acquires",
@@ -477,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 43,
-    "opportunities": 20,
+    "kept": 44,
+    "opportunities": 21,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 9.3
   }
 }
