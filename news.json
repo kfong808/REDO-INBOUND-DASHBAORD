@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T22:30:28.207380+00:00",
+  "updated": "2026-08-11T23:28:34.113624+00:00",
   "items": [
     {
       "title": "The Quarterly Review: PayPal's Jeff Pomeroy on scaling the firm's payment services, and how crypto and agentic commerce fit in - Tearsheet",
@@ -90,11 +90,11 @@
       "published_ts": 1786040555.0
     },
     {
-      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - Shopify",
+      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - shopify.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FVm9lc3NMWHZXaFFnTmI5NzNDb0dNUVhzTXNJWkxqSlRJQ2thSVgxUE9rOFJxelAzUFNCWDdNd1VUUFVIUFZld1NMeFdkOXVDSm1pVlZsamtiRVNHdTJWdXd1bmQ?oc=5",
       "source": "Google News: ecommerce SaaS",
       "published": "Wed, 05 Aug 2026 23:39:55 GMT",
-      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; Shopify",
+      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; shopify.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: stack consolidation",
@@ -222,22 +222,22 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; forbes.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - uk.finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Mon, 10 Aug 2026 22:02:59 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; uk.finance.yahoo.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -277,17 +277,6 @@
       "published_ts": 1785999600.0
     },
     {
-      "title": "Klaviyo acquisition reunites CEO with Drift co-founder - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXFfWjVTVGJyeEZVOUlsT1IwaTZMalZ3bXV4ZXlKWHFSMTU0bF9GTzQ4WXNocU1tQjVCcTVNa1F4NkhwTk5HQnp5a0V3aEhGSVFOY1dpWkJEMloxVVMyMnREQ0wzMXQzNWYyQldHUG9TcjVRcGtpUUhtUV96MFN1NQ?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 06 Aug 2026 00:33:00 GMT",
-      "summary": "Klaviyo acquisition reunites CEO with Drift co-founder &nbsp;&nbsp; The Business Journals",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquisition",
-      "published_ts": 1785976380.0
-    },
-    {
       "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -299,11 +288,22 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1785394800.0
+    },
+    {
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -431,22 +431,22 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar names new CEO - ww.fashionnetwork.com",
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; ww.fashionnetwork.com",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1729148400.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -492,6 +492,6 @@
     "opportunities": 21,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 10.2
   }
 }
