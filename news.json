@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-11T08:02:25.433209+00:00",
+  "updated": "2026-08-11T09:49:34.777431+00:00",
   "items": [
+    {
+      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 11 Aug 2026 08:04:56 GMT",
+      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1786435496.0
+    },
     {
       "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
@@ -90,17 +101,6 @@
       "published_ts": 1785961283.0
     },
     {
-      "title": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? - eWeek",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWlZ4QVVyUmJKY3Uwa1NGOWZzMWNRWnRyMjVUcFpuT0hwSGNlSW81MDk4LV9pV1NEZG9ERVhxbDJkR28ybnpnSVZqS09vdEpOcmpEMjBoNkdjbWVuWGc3Mk94Tnhmem1QOS1wWkFmcEVhUml2QzZlWWRMaw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 05 Aug 2026 16:10:08 GMT",
-      "summary": "Perplexity Keeps Its AI Shopping Agent on Amazon: What Happens Next? &nbsp;&nbsp; eWeek",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785946208.0
-    },
-    {
       "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXBIT1UzMjBBdGhyUnVTMG1Pam1iQy1Fc1lQSFBORWkxWHBxM3JUbnc2UXBkTXFNLVVUUlk1QXc2XzVacmR5VDFFX3VYUnBRVGZOcDd3dTNuTUY3Rl95NGF2NkFfYzlYMU9nX3NTSUFvOHZKVkFCTlRvTkVrSEVLNUdhTGtCcGFPeTloNkVzWUxPbzBvRmZKQw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -178,11 +178,11 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - aws.amazon.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; aws.amazon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -260,17 +260,6 @@
       "source": "Google News: Postscript",
       "published": "Mon, 10 Aug 2026 08:00:00 GMT",
       "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1786348800.0
-    },
-    {
-      "title": "THE POSTSCRIPT: Fully Recovered - rockdalenewtoncitizen.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXdNdHlnZXMxb29YajVma2tPQm1GXzRNeE1CY013X2tWay1Kbk1wak5nZkc5Y3RJWlliWmw5ai0yakk1UW91SDhrMHBMOHhYOHNtQS0zLUhuSTgwdnp2dkVGSG80dms2QV9FS0lNTkVaQTQ4cTJTaE4wa002WV9pMVRGNDJnbzIxMmZLc3JONjh2Rzk3LUliT1RBSjRESmZjRUpoWGE1WE1zUl9TMVJWa0d1al9RM1FfUmNKZXBGRnhBdw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
-      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; rockdalenewtoncitizen.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -431,22 +420,22 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
+      "title": "Narvar names new CEO - ww.fashionnetwork.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; ww.fashionnetwork.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -499,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
+    "kept": 44,
     "opportunities": 22,
-    "threats": 23,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.2
   }
 }
