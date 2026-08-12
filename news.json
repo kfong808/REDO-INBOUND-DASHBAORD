@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-12T21:33:36.047535+00:00",
+  "updated": "2026-08-12T22:29:04.817175+00:00",
   "items": [
-    {
-      "title": "Rise of agentic commerce may change retail space - BusinessWorld Online",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb042WFM5U2I0ZGtjUkVvNzdaRVhJNnhqek55ZlJYUGVzSWM1TzRDTUszSThaX1NTT2d1YXh3MF9ldThRQ3dXMEJSN2RqT3N2dXowdjdVZnRlbGU3MnBmUzc4b1RyZzZPcUZLUG9NWnljVjRzYjlDOGF0cWxwc1BhWXdWRWF2RVRZdUQ5dTJBclVPMXdSWU1LaGhySXgyV1ZKbzFEaDZn?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 12 Aug 2026 16:04:20 GMT",
-      "summary": "Rise of agentic commerce may change retail space &nbsp;&nbsp; BusinessWorld Online",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786550660.0
-    },
     {
       "title": "Why True Agentic Commerce Relies on Responsible Guardrails - exchangewire.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmtrN0FkUDFPaThqY3E2QW1aVTVYME1pNy1ScmIwUm43OS1WQU1ndXRNNGhBVENLYnlQZFNaV2F3Q0EySjdMRHEyVVQ1b3BCNWhkTUFQMzhDQ3l2TG9hMVdqZ2NlV2RtRFZtWVJFblZLaUtQQlFFUTdxdmNwLVdIRzd5MVdNY1FNaUhBNW9yVTNqWVNfaTdUa3NkZFRoM0VIQlRDN1JNYw?oc=5",
@@ -33,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786523016.0
+    },
+    {
+      "title": "The Quarterly Review: PayPal's Jeff Pomeroy on scaling the firm's payment services, and how crypto and agentic commerce fit in - tearsheet.co",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR3dmUkU0NDFNQV9RYnk5ZG9vY0dIWE9xZHZNeFIzQXBoMXplb2N6U0c2S0lZOGdqNENWU2JQT0hVY3NkSlFqbWI1Wjd5SUs0VXFvQTU5R09jMENzTlRNTlhwZ2dCVmgwcEFjRWZTNXhfTzBsRjh2ZlVVUW9BV1ZQVGxJX3RCc1FwQUlLMmVmN3VHSzRIdF9lMUY4UzJZdjNRVDNUcm5uQUZFaVdvS1hzay1WQkZHQlN0VTh4U1VwWjBhVmthd09KeU5OdVAzQTQ2LUh0WEVreFV5U3ZXbHRBRmFOQ185V2twakpDREt2YldQb3hQZWRPRA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 11 Aug 2026 14:38:34 GMT",
+      "summary": "The Quarterly Review: PayPal's Jeff Pomeroy on scaling the firm's payment services, and how crypto and agentic commerce fit in &nbsp;&nbsp; tearsheet.co",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786459114.0
     },
     {
       "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
@@ -123,11 +123,11 @@
       "published_ts": 1785826800.0
     },
     {
-      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - businesswire.com",
+      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; businesswire.com",
+      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -167,33 +167,11 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781161200.0
-    },
-    {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - businesswire.com",
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; businesswire.com",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -266,17 +244,6 @@
       "published_ts": 1786502569.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Mon, 10 Aug 2026 22:02:59 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1786399379.0
-    },
-    {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
       "source": "Google News: Postscript",
@@ -310,11 +277,11 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - businesswire.com",
+      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
       "source": "Google News: Attentive",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; businesswire.com",
+      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
@@ -376,11 +343,11 @@
       "published_ts": 1776927600.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -510,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 22,
-    "threats": 24,
+    "kept": 43,
+    "opportunities": 20,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 10.3
   }
 }
