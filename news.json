@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:22:59.387894+00:00",
+  "updated": "2026-08-12T07:06:33.781754+00:00",
   "items": [
     {
       "title": "The Quarterly Review: PayPal's Jeff Pomeroy on scaling the firm's payment services, and how crypto and agentic commerce fit in - Tearsheet",
@@ -24,11 +24,11 @@
       "published_ts": 1786453200.0
     },
     {
-      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - pymnts.com",
+      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 11 Aug 2026 08:04:56 GMT",
-      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; pymnts.com",
+      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -79,11 +79,11 @@
       "published_ts": 1786128480.0
     },
     {
-      "title": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling - pymnts.com",
+      "title": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFdUYnNwbzlpQWNYMDVrNmRGbnktdXpxZmVvWXg1MHBxbzJZYUF6UFZHa2JXOXhLZWlmRjllaEVYUW5uZDduUk9NWnpWNXNpSFBMcDBsY2J6VHVKNDdKU0NTSzJYcWgzU3dzTXU4b2xWQTRJZFFyUlc1ZklwcnlFZlVHelFRcjR4VFpGem05amszQ085bXlYZkpXX3hYYjM2ekhzSFladTFBMVhOWEZXY2tUaEYzbkJHeVQwWHppLWZaR1ZVYnE0?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Thu, 06 Aug 2026 18:22:35 GMT",
-      "summary": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling &nbsp;&nbsp; pymnts.com",
+      "summary": "Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -222,22 +222,33 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; forbes.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
     },
     {
-      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
+      "title": "Klaviyo posts strong Q2 2026 with raised revenue guidance but lower margin outlook - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnBFUlBaM3QtZHhvSVJIcW1CNmw4azFEajVudzZsM1AzbVVJbmY1UEEzeC1ZVFhnbG9reG0wRmdYbEhsb0pQZ2ZkNHZnbVRtdlB1TkRnZ0J5R1czelY1TV9Kd2ROZ1ZoLXZkbDRJcGpLVHQ1ZHM4MFNnNThSTkZSVEJhOGxpTmIwQWl0a0Z5V1JMZHFJMFItTFZ3SENUdVlDYVBDb09R?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 12 Aug 2026 05:48:26 GMT",
+      "summary": "Klaviyo posts strong Q2 2026 with raised revenue guidance but lower margin outlook &nbsp;&nbsp; Pluang",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raised",
+      "published_ts": 1786513706.0
+    },
+    {
+      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - theouterhaven.net",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Wed, 12 Aug 2026 02:42:49 GMT",
-      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; The Outerhaven",
+      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; theouterhaven.net",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
@@ -299,17 +310,6 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1785394800.0
-    },
-    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -341,17 +341,6 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
-    },
-    {
-      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1778742000.0
     },
     {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
@@ -431,11 +420,11 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
@@ -453,11 +442,11 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -499,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
+    "kept": 44,
     "opportunities": 21,
-    "threats": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.8
   }
 }
