@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T10:08:11.877976+00:00",
+  "updated": "2026-08-12T11:38:08.677234+00:00",
   "items": [
     {
       "title": "The Quarterly Review: PayPal's Jeff Pomeroy on scaling the firm's payment services, and how crypto and agentic commerce fit in - Tearsheet",
@@ -13,22 +13,11 @@
       "published_ts": 1786459114.0
     },
     {
-      "title": "Glance and Productsup Partner to Enable Agentic Commerce for Enterprise Brands - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQalNtb2stN2wxb3JwSVNCcUEzb2toTm9PQmlSSVZQdkhPM0sydWJuU1VaUEF1RU0yTnA4R1htMUNDNzZhRzB0WS1oRVF2d2xWV082UmFDOTRzYndQUkRhNXhjd1ZTZXBZc2JPYmVmOHQwRHo2NWFheWE3dmhadlZ6Z2lhSGFRVTJYdThZckNJZWk0dU0?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 11 Aug 2026 13:00:00 GMT",
-      "summary": "Glance and Productsup Partner to Enable Agentic Commerce for Enterprise Brands &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786453200.0
-    },
-    {
-      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
+      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 11 Aug 2026 08:04:56 GMT",
-      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
+      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; pymnts.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -57,11 +46,11 @@
       "published_ts": 1786359702.0
     },
     {
-      "title": "Agentic AI Shopping Experiences - Trend Hunter",
+      "title": "Agentic AI Shopping Experiences - trendhunter.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yem1TOGhMUW9xemc1Q3hDUERHdVZwSjNzbVlOQVdBMExSX0dzNmF1WWM1RnJVd1Y5cW15c01tRTM1U2hzQVdvX0pINGNYR3k3clozcVRsSVZJanhXN1ZUNmlwRFpobU54NzVjMUhPM2NzQ3J20gF0QVVfeXFMTVh6bVM4aExRb3F6ZzVDeENQREd1VnBKM3NtWU5BV0EwTFJfR3M2YXVZYzVGclV3VjlxbXlzTW1FMzVTaHNBV29fSkg0Y1hHeTdyWjNxVGxJVklqeFc3VlQ2aXBEWmhtTng3NWMxSE8zY3NDcnY?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Mon, 10 Aug 2026 09:02:38 GMT",
-      "summary": "Agentic AI Shopping Experiences &nbsp;&nbsp; Trend Hunter",
+      "summary": "Agentic AI Shopping Experiences &nbsp;&nbsp; trendhunter.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -88,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: stack consolidation",
       "published_ts": 1785973195.0
-    },
-    {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785961283.0
     },
     {
       "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon - the-decoder.com",
@@ -156,11 +134,22 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781247600.0
+    },
+    {
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - aws.amazon.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; aws.amazon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -178,11 +167,11 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "title": "Agentic Post-Purchase Services - trendhunter.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -244,26 +233,15 @@
       "published_ts": 1786502569.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - uk.finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Mon, 10 Aug 2026 22:02:59 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; uk.finance.yahoo.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1786399379.0
-    },
-    {
-      "title": "Klaviyo’s Strategic Acquisition of Agency: A Major shift for AI-Driven CRM? - The Futurum Group",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0xjSEljdV9XSGhqRkMxaUY3Y0djeDBYM2J0cnV1R0kyX2U3LVF1ZEJTM192MGRDcjBlY0JNT1FVeVdaWjE0ZjRRUnY1QWp2SnFxOGczVENkVEdjV3BVeWZYcWFqMHFYRkh0T0M0YnJ3T2N0bzZOcm53YjN2ejVFWlhDdnFpd2F1dVowMG1WX1VZeFRSazZXNEk0M29uZG9iYTBacEtObWl2TG8?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Mon, 10 Aug 2026 12:39:21 GMT",
-      "summary": "Klaviyo’s Strategic Acquisition of Agency: A Major shift for AI-Driven CRM? &nbsp;&nbsp; The Futurum Group",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquisition",
-      "published_ts": 1786365561.0
     },
     {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
@@ -310,11 +288,11 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -354,17 +332,6 @@
       "published_ts": 1779951600.0
     },
     {
-      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1778742000.0
-    },
-    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -376,11 +343,11 @@
       "published_ts": 1776927600.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -509,11 +476,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 20,
-    "threats": 26,
+    "total_fetched": 269,
+    "kept": 43,
+    "opportunities": 19,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.8
+    "runtime_seconds": 10.8
   }
 }
