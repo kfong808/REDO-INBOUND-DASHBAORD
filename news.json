@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T17:49:53.334833+00:00",
+  "updated": "2026-08-12T18:45:48.178639+00:00",
   "items": [
     {
       "title": "Rise of agentic commerce may change retail space - BusinessWorld Online",
@@ -79,17 +79,6 @@
       "published_ts": 1786359702.0
     },
     {
-      "title": "Agentic AI Shopping Experiences - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yem1TOGhMUW9xemc1Q3hDUERHdVZwSjNzbVlOQVdBMExSX0dzNmF1WWM1RnJVd1Y5cW15c01tRTM1U2hzQVdvX0pINGNYR3k3clozcVRsSVZJanhXN1ZUNmlwRFpobU54NzVjMUhPM2NzQ3J20gF0QVVfeXFMTVh6bVM4aExRb3F6ZzVDeENQREd1VnBKM3NtWU5BV0EwTFJfR3M2YXVZYzVGclV3VjlxbXlzTW1FMzVTaHNBV29fSkg0Y1hHeTdyWjNxVGxJVklqeFc3VlQ2aXBEWmhtTng3NWMxSE8zY3NDcnY?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 10 Aug 2026 09:02:38 GMT",
-      "summary": "Agentic AI Shopping Experiences &nbsp;&nbsp; Trend Hunter",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1786352558.0
-    },
-    {
       "title": "Business-travel payments provide an early test for agentic commerce - American Banker",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1B1d083bldkck92OTdNa1ltMXlmbDVRNDBHamZ0WlRuRVdQbk9hT1ZoaEFFa1V3WDR2VGQ4ZXFxWWcwWkhqLVllSGJiZXlIYWozZW9SYy1HMy1xMG5IZ3B1M0lDbUZLMzdpbi0yenFGZ1U1VkQ5RnVnaEJzYVdybUYtUkVpTWNUdl95dVBFYWZXNHRwZVV0MThyaw?oc=5",
       "source": "Google News: agentic commerce",
@@ -112,6 +101,17 @@
       "published_ts": 1785973195.0
     },
     {
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 05 Aug 2026 20:21:23 GMT",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785961283.0
+    },
+    {
       "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXBIT1UzMjBBdGhyUnVTMG1Pam1iQy1Fc1lQSFBORWkxWHBxM3JUbnc2UXBkTXFNLVVUUlk1QXc2XzVacmR5VDFFX3VYUnBRVGZOcDd3dTNuTUY3Rl95NGF2NkFfYzlYMU9nX3NTSUFvOHZKVkFCTlRvTkVrSEVLNUdhTGtCcGFPeTloNkVzWUxPbzBvRmZKQw?oc=5",
       "source": "Google News: AI shopping agent",
@@ -132,6 +132,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785826800.0
+    },
+    {
+      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; Business Wire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785394800.0
     },
     {
       "title": "New Ecommerce Tools: July 29, 2026",
@@ -233,11 +244,11 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - forbes.com",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; forbes.com",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -365,6 +376,17 @@
       "published_ts": 1779951600.0
     },
     {
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1778742000.0
+    },
+    {
       "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
@@ -453,11 +475,11 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar names new CEO - ww.fashionnetwork.com",
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; ww.fashionnetwork.com",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -475,22 +497,22 @@
       "published_ts": 1708070400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - businessinsider.com",
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; businessinsider.com",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + acquires",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
-    "opportunities": 22,
-    "threats": 24,
+    "kept": 48,
+    "opportunities": 23,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 10.7
   }
 }
