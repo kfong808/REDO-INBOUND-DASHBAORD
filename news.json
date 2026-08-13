@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T19:50:38.871850+00:00",
+  "updated": "2026-08-13T20:29:30.427854+00:00",
   "items": [
     {
       "title": "Brazil’s AI shoppers point to the next phase of Agentic Commerce - Payments Industry Intelligence",
@@ -13,15 +13,15 @@
       "published_ts": 1786648841.0
     },
     {
-      "title": "Mastercard Stock Rises as Ackman Targets Agentic Commerce - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXVxb1U1elIyalhsUll6elN5Y3pCNHl4bTRkbEJZYU9zLTl4SDcwS1lOSEJXbHBsNWI2SWhFRFhkcTVUQjE1NE1yZC1MYUtkV3FTekdYaTdtdlVITnZzVVRPbTB3V3lMbXJpN2xZMWtVVkJoOXh3WmdMUFpxOWk0VWtHSjVTaDBmcXVXQ1BPdHlHb1Y4RkRrbmlNcWc?oc=5",
+      "title": "Mastercard Stock Rises as Ackman Targets Agentic Commerce - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTkl2c2Z1NFRuUUk0bjJqTEd1dUtpVm1HdXZUemVfRjhlV1BEYW1iOUNxR3FTUy02RmdISUVyMHdhczUxaGhta2E4cGQ5ZHBoQUNnVmlJcl9DR0J0c19HYzVyQmVpc0V1QkRhbll4UkpZZktURFMzeTR2ck10TEpnQTZoRnFjSTBqdldzYjVSd0ZEWmZvcWhZNW1CYzRpa3A3SWc5c0l2Q2JpQW03UWNHazBQUW1jaUc4?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 13 Aug 2026 18:33:15 GMT",
-      "summary": "Mastercard Stock Rises as Ackman Targets Agentic Commerce &nbsp;&nbsp; GuruFocus",
+      "published": "Thu, 13 Aug 2026 19:11:28 GMT",
+      "summary": "Mastercard Stock Rises as Ackman Targets Agentic Commerce &nbsp;&nbsp; TradingView",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786645995.0
+      "published_ts": 1786648288.0
     },
     {
       "title": "Agentic commerce threatens brands and retail media: the risk is not losing traffic, but losing the customer - InformaBTL",
@@ -321,17 +321,6 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780383600.0
-    },
-    {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
@@ -488,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
+    "kept": 43,
     "opportunities": 21,
-    "threats": 23,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.3
   }
 }
