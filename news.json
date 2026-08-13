@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T05:38:30.314328+00:00",
+  "updated": "2026-08-13T07:10:17.007233+00:00",
   "items": [
     {
       "title": "Why True Agentic Commerce Relies on Responsible Guardrails - exchangewire.com",
@@ -68,11 +68,11 @@
       "published_ts": 1786359702.0
     },
     {
-      "title": "Business-travel payments provide an early test for agentic commerce - americanbanker.com",
+      "title": "Business-travel payments provide an early test for agentic commerce - American Banker",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1B1d083bldkck92OTdNa1ltMXlmbDVRNDBHamZ0WlRuRVdQbk9hT1ZoaEFFa1V3WDR2VGQ4ZXFxWWcwWkhqLVllSGJiZXlIYWozZW9SYy1HMy1xMG5IZ3B1M0lDbUZLMzdpbi0yenFGZ1U1VkQ5RnVnaEJzYVdybUYtUkVpTWNUdl95dVBFYWZXNHRwZVV0MThyaw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 07 Aug 2026 18:48:00 GMT",
-      "summary": "Business-travel payments provide an early test for agentic commerce &nbsp;&nbsp; americanbanker.com",
+      "summary": "Business-travel payments provide an early test for agentic commerce &nbsp;&nbsp; American Banker",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -156,11 +156,11 @@
       "published_ts": 1785304751.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -233,6 +233,17 @@
       "published_ts": 1786502569.0
     },
     {
+      "title": "Klaviyo (KVYO) insider plans sale of 15,531 Series A shares via Goldman Sachs - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnlqX0k2Unl4WkVSelVwQkNyQkQtVXdYTHFxdGxFZEhXZl83akpNR1FLM0VyVDM0dDVGRDB4THBpanU5aWpQcUlzTEVMVXVCM1FqWmRianpuMTFlaERCcG9reDg3a1AtWElRTzVoVi04LXgwRWU5RFFCME1KVmNRRlBkbTBTdWF3V1lWS05jejhNQQ?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 11 Aug 2026 22:33:29 GMT",
+      "summary": "Klaviyo (KVYO) insider plans sale of 15,531 Series A shares via Goldman Sachs &nbsp;&nbsp; Stock Titan",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + series a",
+      "published_ts": 1786487609.0
+    },
+    {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
       "source": "Google News: Postscript",
@@ -263,6 +274,17 @@
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
+      "published_ts": 1785394800.0
+    },
+    {
+      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
       "published_ts": 1785394800.0
     },
     {
@@ -409,11 +431,11 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -455,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 41,
+    "kept": 43,
     "opportunities": 20,
-    "threats": 21,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 10.0
   }
 }
