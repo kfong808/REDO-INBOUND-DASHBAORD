@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T08:57:14.053375+00:00",
+  "updated": "2026-08-14T09:54:41.848981+00:00",
   "items": [
     {
       "title": "Will agentic commerce push more merchants into marketplaces? - Electronic Payments International",
@@ -101,11 +101,11 @@
       "published_ts": 1786403569.0
     },
     {
-      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - Shopify",
+      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - shopify.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FVm9lc3NMWHZXaFFnTmI5NzNDb0dNUVhzTXNJWkxqSlRJQ2thSVgxUE9rOFJxelAzUFNCWDdNd1VUUFVIUFZld1NMeFdkOXVDSm1pVlZsamtiRVNHdTJWdXd1bmQ?oc=5",
       "source": "Google News: ecommerce SaaS",
       "published": "Wed, 05 Aug 2026 23:39:55 GMT",
-      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; Shopify",
+      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; shopify.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: stack consolidation",
@@ -123,11 +123,11 @@
       "published_ts": 1785961283.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -167,11 +167,11 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - aws.amazon.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; aws.amazon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -187,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
+      "source": "Google News: abandoned cart recovery",
+      "published": "Wed, 01 Apr 2026 13:54:08 GMT",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1775051648.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -233,6 +244,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzdLUWpMOE1yczNISWwzYkRYd19jNUhHeXVTZ19jM3VQbEdOQThtNHRWTEt3Y3N3WU1oZWZXaGdNb19HSUJXUktwYmY1R0dIcGQ4bFdiYlVJWXNoaHlGd1A2d1ZEWVZKYlQ2TElVbWppMzdtVVZyUTV2SVBubkpabjFZT0hEeDZLREVnV3RmWDFFOS1rRlJzQi1GNGp2dnBPdTBocUVSTjh3TmUzYi1CUGFlb3F2SDNqcFpaUFhYMU5vcHBxQlRKN3pjS1RIVEtkTVRsemNCNlU?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 14 Aug 2026 07:20:16 GMT",
+      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + series a",
+      "published_ts": 1786692016.0
+    },
+    {
       "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamMwUC1Ic0Vyd2xGdEJHU0VUXzNXeDBiTmNFemx1VW53RVRnaThPRmZySG10M0kxUzdOQWFBTVQ5TklZcXRhejhObEpJRWtDaTVWak9keXlHX0JJM3RnVjBTamt0TGZEOGx2ZVM0ekxqcDdpWGdaS1daMVRuaGlvSFU5YlVQMHdoem9Pa0ZtZlJLVTUtOXEzRzQycmotM1F0eGxrekF3dEt0RmJPSFBuNE1fd2RveE9zQWR2Z0JsdlU4M3BWalh5azQ0Vy16ZkdJalJvdw?oc=5",
       "source": "Google News: Klaviyo",
@@ -275,6 +297,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raised",
       "published_ts": 1786431600.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Mon, 10 Aug 2026 22:02:59 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1786399379.0
     },
     {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
@@ -464,6 +497,17 @@
       "published_ts": 1646640000.0
     },
     {
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + acquires",
+      "published_ts": 1639641600.0
+    },
+    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
@@ -473,25 +517,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 21,
-    "threats": 23,
+    "kept": 47,
+    "opportunities": 22,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 11.3
   }
 }
