@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:41:16.176790+00:00",
+  "updated": "2026-08-14T20:20:50.788175+00:00",
   "items": [
     {
       "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
@@ -24,11 +24,11 @@
       "published_ts": 1786695660.0
     },
     {
-      "title": "Will agentic commerce push more merchants into marketplaces? - Electronic Payments International",
+      "title": "Will agentic commerce push more merchants into marketplaces? - electronicpaymentsinternational.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWTRtYmY2cTM5d3VRZ29xb2RCRHRiTXZrdmd5M05lTldQc0t1d1JXR0YyczdURjV1dVN6c0RyT0FXUDhkY0tPNVZBaHYxbVkyLWV4T2ZCcXY4NjY4U0dCODR6cmM1ZHREOTRsbWRkS0Y4MnRwSU5faVItTWdZQnZNeFlTSXJjMVBvSjNfWjBiN3ZWR0NxWWpyQ3dxcTV2SkRfa09wcElGNnhHaTR2MUw5R3pRa1NEMFk?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Thu, 13 Aug 2026 22:57:45 GMT",
-      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; Electronic Payments International",
+      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; electronicpaymentsinternational.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -101,17 +101,6 @@
       "published_ts": 1786403569.0
     },
     {
-      "title": "How Dr. Martens laces up for agentic commerce - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FUmhneDBCM0t6b2ZxTVZTSW9henBJbjkwU3ZjM3cyR01nNE02MUpNNTh5ZGFDNkxtc3ZjUExPakdLZmY2anVfLU16dS1mRXlONk5SSWRGQ1ZYcVM2Ny1GaDgyUnBSWlZRUnFyel84VEtmOE1TN2tzcU53?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 10 Aug 2026 11:01:42 GMT",
-      "summary": "How Dr. Martens laces up for agentic commerce &nbsp;&nbsp; TechInformed",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786359702.0
-    },
-    {
       "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
@@ -156,11 +145,22 @@
       "published_ts": 1785315638.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "Agentic Commerce: A New Chapter for Instant Payments - Citigroup",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjJmV3A1X25GaFlLdVFWY1plYlBqOTFISy0ySDl3aXhnakVKVDJWdmVFbm9tang3QzdxYUFpV2QtOEVHd3F1dnlLV3VWRzhZMlN0N0tSZVRYMmRsU1U3TVNjeEktN2w2STRFZzNiUE1EbWpXckVMdVZKYURWNjlzRmZ2cTNlWXVxd1FxYmkzM1hnZEtReEJzVw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 28 Jul 2026 17:40:49 GMT",
+      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; Citigroup",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785260449.0
+    },
+    {
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -189,11 +189,11 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -266,22 +266,11 @@
       "published_ts": 1786682656.0
     },
     {
-      "title": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVBSV0dCTzhSdk1aTkwydmFZY0R3Z0YyMlAySFRDbGI4R3BfcjdOVk5wbm1yc0hhRTdJZHpGbW5iWnhGcDhJWkIwaGZxbHItTks2U1ZyUWVzd1A1bFc1NU1ON1VLQUhJWkt0OWpnY3ViYXRacFNxOGZiS0tVU1V1T080ZExiblgxRUFQM0JNOVFvdHNVT0xTX1hUV2RUZXowUTJqVWtHeGs?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 13 Aug 2026 20:31:36 GMT",
-      "summary": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares &nbsp;&nbsp; Stock Titan",
-      "classification": "threat",
-      "confidence": "high",
-      "reasoning": "Klaviyo + series a, series b",
-      "published_ts": 1786653096.0
-    },
-    {
-      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - theouterhaven.net",
+      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Wed, 12 Aug 2026 02:42:49 GMT",
-      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; theouterhaven.net",
+      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; The Outerhaven",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
@@ -332,17 +321,6 @@
       "published_ts": 1785999600.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1785913200.0
-    },
-    {
       "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
       "source": "Google News: Mailchimp",
@@ -385,17 +363,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
-    },
-    {
-      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -508,22 +475,22 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1708070400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
@@ -541,17 +508,6 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Yotpo launches new partner programme - - Enterprise Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOal9PVllKZ0FvSHNDY0RTQk9fcjdZaVJzX3lCejRKR081a25IY1J3V0RiYkNVVDRnOTFqWHFqV2pEV3FXNGxLZUhSMnBibEVGdjVrLXU4X3N0SmtqV0NOR18xT0pFdFFDbzloQzYtcGgzSUFDV3pUY0Q1ZGU2RThOSEVGOEF3cWtEZ3c?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Fri, 21 May 2021 07:00:00 GMT",
-      "summary": "Yotpo launches new partner programme - &nbsp;&nbsp; Enterprise Times",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Yotpo + launches",
-      "published_ts": 1621580400.0
-    },
-    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -565,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 51,
+    "kept": 47,
     "opportunities": 22,
-    "threats": 29,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.2
+    "runtime_seconds": 10.4
   }
 }
