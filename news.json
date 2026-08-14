@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:08:00.705322+00:00",
+  "updated": "2026-08-14T15:40:51.850470+00:00",
   "items": [
     {
       "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786702289.0
+    },
+    {
+      "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWktRX0c4eTJEYmlSUUpPb3Y5RmE0VnVfQ0QzdEZGd2tFN2FDYzVkSVpPanhMU1hnMGlWY3BWUm9tWklfaDBiQU05Rlk2ZTdyeFBpLS1lTDN3b1hLay1kWjlXbEktRkQ4bDhUN0dPQlpQbmI4WkM1NnFOY05pMjlWRHJhbEZsTk0?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 14 Aug 2026 08:21:00 GMT",
+      "summary": "AI Shopping Bots Push Adyen Into Loyalty Race &nbsp;&nbsp; Technology Org",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1786695660.0
     },
     {
       "title": "Will agentic commerce push more merchants into marketplaces? - Electronic Payments International",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786648288.0
-    },
-    {
-      "title": "Agentic commerce threatens brands and retail media: the risk is not losing traffic, but losing the customer - InformaBTL",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWZFZ3pZWjc4S0tQeW9ZUkw0dVBnT0F4WDRFLUVmZHJsQzJlR1NXZ2RwVkdKUkw1Ny1XdzVaWFhpU0o4VDU4eXg1dUhzaWVjaUJ2VURrUFoxUk9kWmoxNHVUY2JnQVBCV0I1eVNXOUNVU3pLeGNHdG1OUndvc0pWMmc1QWtVbWxENHBPREJsdU5nenAzWENRZ0NhN3NJTDN6aDNBYThfd3I0LU1NWU1iMWtqa2R5VHVvSHd6ZWd0TUw2OFdvWUJJOEQwSzZVUQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 13 Aug 2026 16:06:39 GMT",
-      "summary": "Agentic commerce threatens brands and retail media: the risk is not losing traffic, but losing the customer &nbsp;&nbsp; InformaBTL",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786637199.0
     },
     {
       "title": "Why True Agentic Commerce Relies on Responsible Guardrails - exchangewire.com",
@@ -112,15 +112,26 @@
       "published_ts": 1786403569.0
     },
     {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
+      "title": "AI shopping agents may be harder to shut out of ecommerce sites - emarketer.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
+      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; emarketer.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785961283.0
+    },
+    {
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785826800.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
@@ -145,6 +156,17 @@
       "published_ts": 1785315638.0
     },
     {
+      "title": "Agentic Commerce: A New Chapter for Instant Payments - citigroup.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjJmV3A1X25GaFlLdVFWY1plYlBqOTFISy0ySDl3aXhnakVKVDJWdmVFbm9tang3QzdxYUFpV2QtOEVHd3F1dnlLV3VWRzhZMlN0N0tSZVRYMmRsU1U3TVNjeEktN2w2STRFZzNiUE1EbWpXckVMdVZKYURWNjlzRmZ2cTNlWXVxd1FxYmkzM1hnZEtReEJzVw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 28 Jul 2026 17:40:49 GMT",
+      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; citigroup.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785260449.0
+    },
+    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -167,11 +189,11 @@
       "published_ts": 1781247600.0
     },
     {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - aws.amazon.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; aws.amazon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -222,17 +244,6 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -255,11 +266,11 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - tradingview.com",
+      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzdLUWpMOE1yczNISWwzYkRYd19jNUhHeXVTZ19jM3VQbEdOQThtNHRWTEt3Y3N3WU1oZWZXaGdNb19HSUJXUktwYmY1R0dIcGQ4bFdiYlVJWXNoaHlGd1A2d1ZEWVZKYlQ2TElVbWppMzdtVVZyUTV2SVBubkpabjFZT0hEeDZLREVnV3RmWDFFOS1rRlJzQi1GNGp2dnBPdTBocUVSTjh3TmUzYi1CUGFlb3F2SDNqcFpaUFhYMU5vcHBxQlRKN3pjS1RIVEtkTVRsemNCNlU?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 14 Aug 2026 07:20:16 GMT",
-      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; tradingview.com",
+      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + series a",
@@ -343,6 +354,17 @@
       "published_ts": 1785999600.0
     },
     {
+      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - app.dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Sun, 02 Aug 2026 15:36:17 GMT",
+      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; app.dealroom.co",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + acquisition",
+      "published_ts": 1785684977.0
+    },
+    {
       "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
       "source": "Google News: Postscript",
@@ -385,17 +407,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
-    },
-    {
-      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -508,11 +519,11 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - adage.com",
+      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; adage.com",
+      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -565,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 51,
-    "opportunities": 23,
+    "kept": 52,
+    "opportunities": 24,
     "threats": 28,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 13.1
   }
 }
