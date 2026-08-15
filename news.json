@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T02:07:17.933706+00:00",
+  "updated": "2026-08-15T03:29:39.149170+00:00",
   "items": [
     {
       "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
@@ -101,15 +101,15 @@
       "published_ts": 1786403569.0
     },
     {
-      "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 05 Aug 2026 20:21:23 GMT",
-      "summary": "AI shopping agents may be harder to shut out of ecommerce sites &nbsp;&nbsp; eMarketer",
+      "title": "How Dr. Martens laces up for agentic commerce - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FUmhneDBCM0t6b2ZxTVZTSW9henBJbjkwU3ZjM3cyR01nNE02MUpNNTh5ZGFDNkxtc3ZjUExPakdLZmY2anVfLU16dS1mRXlONk5SSWRGQ1ZYcVM2Ny1GaDgyUnBSWlZRUnFyel84VEtmOE1TN2tzcU53?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 10 Aug 2026 11:01:42 GMT",
+      "summary": "How Dr. Martens laces up for agentic commerce &nbsp;&nbsp; TechInformed",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785961283.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786359702.0
     },
     {
       "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
@@ -165,6 +165,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
+    },
+    {
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnFfejNTRTJNbnlPRlhQNkN6cV9xWVl3Zl9nb2ZWbldVMkFYa2ZUSUMzSU9wMEdEc1NmVDJ1anJyaGE4QmRtbzNvT1lpVFFEVkdGcVZUTGtvaU1vVHR1MlBydnB3ay10VmZDRVBMN1U3NElsNjFXVjdMRVZRT2xoNlQyaU9uYzVyaHFrNFFsRDhidzhxaU0zSkhTUU1hQl9uam93?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781247600.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -266,6 +277,17 @@
       "published_ts": 1786682656.0
     },
     {
+      "title": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVBSV0dCTzhSdk1aTkwydmFZY0R3Z0YyMlAySFRDbGI4R3BfcjdOVk5wbm1yc0hhRTdJZHpGbW5iWnhGcDhJWkIwaGZxbHItTks2U1ZyUWVzd1A1bFc1NU1ON1VLQUhJWkt0OWpnY3ViYXRacFNxOGZiS0tVU1V1T080ZExiblgxRUFQM0JNOVFvdHNVT0xTX1hUV2RUZXowUTJqVWtHeGs?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 13 Aug 2026 20:31:36 GMT",
+      "summary": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares &nbsp;&nbsp; Stock Titan",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Klaviyo + series a, series b",
+      "published_ts": 1786653096.0
+    },
+    {
       "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
       "source": "Google News: Loop Returns",
@@ -321,22 +343,33 @@
       "published_ts": 1785999600.0
     },
     {
-      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; techcrunch.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785913200.0
+    },
+    {
+      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - app.dealroom.co",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Sun, 02 Aug 2026 15:36:17 GMT",
-      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; Dealroom",
+      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; app.dealroom.co",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + acquisition",
       "published_ts": 1785684977.0
     },
     {
-      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
+      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - thehockeynews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
       "source": "Google News: Postscript",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
+      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; thehockeynews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -420,11 +453,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - newsfilecorp.com",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; newsfilecorp.com",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -475,11 +508,11 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar names new CEO - ww.fashionnetwork.com",
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; ww.fashionnetwork.com",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -497,11 +530,11 @@
       "published_ts": 1708070400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
@@ -530,11 +563,11 @@
       "published_ts": 1621580400.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -543,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 49,
-    "opportunities": 22,
-    "threats": 27,
+    "kept": 52,
+    "opportunities": 23,
+    "threats": 29,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 10.3
   }
 }
