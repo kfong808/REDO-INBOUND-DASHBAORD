@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-15T21:10:29.680672+00:00",
+  "updated": "2026-08-15T22:09:30.581137+00:00",
   "items": [
     {
-      "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
+      "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - deloitte.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1NVmtRTVNUMkljOEdQTklLcXpNa0NFOGFocWhRZ1FoTXdiZjZxQXptNElHMTI4UWdleGVHZzk5ZDJEcmZEYUlCMDFobzM1aGZZVzZzcC1VN19UT1p1VDBHcF9TelZmaXZEMUk1UTFnV0JhY3NyRmo0RzQtRDNWXzA2NHNvYmIyamZwZ3AxQmQxRTA3ZmdSc2s2NU1ldFNsWVIzOVlfNnRONUs3MHhRRm9DeU80YlFwckpTag?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 14 Aug 2026 10:11:29 GMT",
-      "summary": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics &nbsp;&nbsp; Deloitte",
+      "summary": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics &nbsp;&nbsp; deloitte.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -24,11 +24,11 @@
       "published_ts": 1786695660.0
     },
     {
-      "title": "Will agentic commerce push more merchants into marketplaces? - Electronic Payments International",
+      "title": "Will agentic commerce push more merchants into marketplaces? - electronicpaymentsinternational.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWTRtYmY2cTM5d3VRZ29xb2RCRHRiTXZrdmd5M05lTldQc0t1d1JXR0YyczdURjV1dVN6c0RyT0FXUDhkY0tPNVZBaHYxbVkyLWV4T2ZCcXY4NjY4U0dCODR6cmM1ZHREOTRsbWRkS0Y4MnRwSU5faVItTWdZQnZNeFlTSXJjMVBvSjNfWjBiN3ZWR0NxWWpyQ3dxcTV2SkRfa09wcElGNnhHaTR2MUw5R3pRa1NEMFk?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Thu, 13 Aug 2026 22:57:45 GMT",
-      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; Electronic Payments International",
+      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; electronicpaymentsinternational.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -101,15 +101,26 @@
       "published_ts": 1786359702.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785826800.0
+    },
+    {
+      "title": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce - Digital Transactions",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1lzZFVBVnJBQ3Rsb1lGMXpOdWdwSExOVFVtVmhVdl9tRXRSUGJLamFEc0lidmJCcGpNdk5NNjBqeWU4dzNtVXlheUF4TkJ5Wk56VlBXcktyNDJYNGVGWlBwYnF6TEY4SWtGVG1pZzU4ZzFkTzZOSU5MMG9jeEQyakhGUmZnSVR4YXlMTzY1TG0zQjV5azRXSEVzU3hQT3RxSVBvckEwVXk?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 03 Aug 2026 15:03:17 GMT",
+      "summary": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce &nbsp;&nbsp; Digital Transactions",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785769397.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
@@ -137,12 +148,12 @@
       "title": "Agentic Commerce: A New Chapter for Instant Payments - Citigroup",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjJmV3A1X25GaFlLdVFWY1plYlBqOTFISy0ySDl3aXhnakVKVDJWdmVFbm9tang3QzdxYUFpV2QtOEVHd3F1dnlLV3VWRzhZMlN0N0tSZVRYMmRsU1U3TVNjeEktN2w2STRFZzNiUE1EbWpXckVMdVZKYURWNjlzRmZ2cTNlWXVxd1FxYmkzM1hnZEtReEJzVw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 28 Jul 2026 17:40:49 GMT",
+      "published": "Tue, 28 Jul 2026 07:00:00 GMT",
       "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; Citigroup",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1785260449.0
+      "published_ts": 1785222000.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -156,17 +167,6 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - news.bloomberglaw.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; news.bloomberglaw.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
-    },
-    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -176,28 +176,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
-    },
-    {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnFfejNTRTJNbnlPRlhQNkN6cV9xWVl3Zl9nb2ZWbldVMkFYa2ZUSUMzSU9wMEdEc1NmVDJ1anJyaGE4QmRtbzNvT1lpVFFEVkdGcVZUTGtvaU1vVHR1MlBydnB3ay10VmZDRVBMN1U3NElsNjFXVjdMRVZRT2xoNlQyaU9uYzVyaHFrNFFsRDhidzhxaU0zSkhTUU1hQl9uam93?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781161200.0
     },
     {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
@@ -233,37 +211,15 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1772611200.0
-    },
-    {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - TradingView",
@@ -299,11 +255,11 @@
       "published_ts": 1786653096.0
     },
     {
-      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
+      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - theouterhaven.net",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Wed, 12 Aug 2026 02:42:49 GMT",
-      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; The Outerhaven",
+      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; theouterhaven.net",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
@@ -543,10 +499,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 24,
+    "kept": 45,
+    "opportunities": 20,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.8
   }
 }
