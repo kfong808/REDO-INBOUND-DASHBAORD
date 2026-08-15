@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T16:11:21.828588+00:00",
+  "updated": "2026-08-15T17:11:37.281041+00:00",
   "items": [
     {
       "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
@@ -112,6 +112,17 @@
       "published_ts": 1786359702.0
     },
     {
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785826800.0
+    },
+    {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
       "source": "Google News: AI shopping agent",
@@ -145,15 +156,26 @@
       "published_ts": 1785260449.0
     },
     {
-      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
+      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
       "published": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; finance.yahoo.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1783839600.0
+    },
+    {
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782284400.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -222,26 +244,15 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - digitalcommerce360.com",
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; digitalcommerce360.com",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1772611200.0
-    },
-    {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -253,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1767686400.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -299,11 +299,11 @@
       "published_ts": 1786682656.0
     },
     {
-      "title": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares - Stock Titan",
+      "title": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares - stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVBSV0dCTzhSdk1aTkwydmFZY0R3Z0YyMlAySFRDbGI4R3BfcjdOVk5wbm1yc0hhRTdJZHpGbW5iWnhGcDhJWkIwaGZxbHItTks2U1ZyUWVzd1A1bFc1NU1ON1VLQUhJWkt0OWpnY3ViYXRacFNxOGZiS0tVU1V1T080ZExiblgxRUFQM0JNOVFvdHNVT0xTX1hUV2RUZXowUTJqVWtHeGs?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Thu, 13 Aug 2026 20:31:36 GMT",
-      "summary": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares &nbsp;&nbsp; Stock Titan",
+      "summary": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares &nbsp;&nbsp; stocktitan.net",
       "classification": "threat",
       "confidence": "high",
       "reasoning": "Klaviyo + series a, series b",
@@ -497,17 +497,6 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Yotpo’s new B2B campaign was inspired by Wes Anderson films - Ad Age",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0d0dW9Qd0Y4ZFhLZjJUYkFqTTBOaDBnek9VdHpEUDA2OWNnTGhaM3VPWE9NSTNwdzBHR0I3YWg2cFZYQlFjMHhhR1lTdVg0RF9jV2V4YnE1cjZLVWpVN1BrSWFjRXlvVUE3UXJLbjNUWWctNFVrYzBJSjlVSXY2bEFhR2hFTTgwZmZ1dkdyU0pDS0E0Slk0N05BQTV6ejg?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Fri, 16 Feb 2024 08:00:00 GMT",
-      "summary": "Yotpo’s new B2B campaign was inspired by Wes Anderson films &nbsp;&nbsp; Ad Age",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1708070400.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -530,6 +519,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Yotpo launches new partner programme - - Enterprise Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOal9PVllKZ0FvSHNDY0RTQk9fcjdZaVJzX3lCejRKR081a25IY1J3V0RiYkNVVDRnOTFqWHFqV2pEV3FXNGxLZUhSMnBibEVGdjVrLXU4X3N0SmtqV0NOR18xT0pFdFFDbzloQzYtcGgzSUFDV3pUY0Q1ZGU2RThOSEVGOEF3cWtEZ3c?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 21 May 2021 07:00:00 GMT",
+      "summary": "Yotpo launches new partner programme - &nbsp;&nbsp; Enterprise Times",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + launches",
+      "published_ts": 1621580400.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -547,6 +547,6 @@
     "opportunities": 25,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 12.6
   }
 }
