@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:21:02.177785+00:00",
+  "updated": "2026-08-16T07:22:10.419669+00:00",
   "items": [
     {
       "title": "Please help! Shopify keeps billing me after I have closed my stores and I cant get them to stop.",
@@ -25,14 +25,14 @@
     },
     {
       "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1NVmtRTVNUMkljOEdQTklLcXpNa0NFOGFocWhRZ1FoTXdiZjZxQXptNElHMTI4UWdleGVHZzk5ZDJEcmZEYUlCMDFobzM1aGZZVzZzcC1VN19UT1p1VDBHcF9TelZmaXZEMUk1UTFnV0JhY3NyRmo0RzQtRDNWXzA2NHNvYmIyamZwZ3AxQmQxRTA3ZmdSc2s2NU1ldFNsWVIzOVlfNnRONUs3MHhRRm9DeU80YlFwckpTag?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZPczlYYzl2bm1qbjdOZjFmMnE1bG9EeVV6RmcxelJWMmV5V3RtWVhTTGNYeldRUUdhbnlxOTBNRkxvUGd3SnpOSFUybEItZldHMHlwVC1WMzNCNkZPM1dGTVJJQzNvcG1hanpNQkM2UUl6alZWdlV0ZUY3VU9LWVJMNjk1YlZxOHduWFVZRWVOME9TbDlnWDdCUWJTSDhLVjFwNTB4YlBJN3BfemNEMzFIRjZ4V3dvZGVVeg?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 14 Aug 2026 10:11:29 GMT",
+      "published": "Fri, 14 Aug 2026 18:25:37 GMT",
       "summary": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics &nbsp;&nbsp; Deloitte",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786702289.0
+      "published_ts": 1786731937.0
     },
     {
       "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
@@ -46,11 +46,11 @@
       "published_ts": 1786695660.0
     },
     {
-      "title": "Will agentic commerce push more merchants into marketplaces? - electronicpaymentsinternational.com",
+      "title": "Will agentic commerce push more merchants into marketplaces? - Electronic Payments International",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWTRtYmY2cTM5d3VRZ29xb2RCRHRiTXZrdmd5M05lTldQc0t1d1JXR0YyczdURjV1dVN6c0RyT0FXUDhkY0tPNVZBaHYxbVkyLWV4T2ZCcXY4NjY4U0dCODR6cmM1ZHREOTRsbWRkS0Y4MnRwSU5faVItTWdZQnZNeFlTSXJjMVBvSjNfWjBiN3ZWR0NxWWpyQ3dxcTV2SkRfa09wcElGNnhHaTR2MUw5R3pRa1NEMFk?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Thu, 13 Aug 2026 22:57:45 GMT",
-      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; electronicpaymentsinternational.com",
+      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; Electronic Payments International",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -530,6 +530,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Yotpo launches new partner programme - - enterprisetimes.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOal9PVllKZ0FvSHNDY0RTQk9fcjdZaVJzX3lCejRKR081a25IY1J3V0RiYkNVVDRnOTFqWHFqV2pEV3FXNGxLZUhSMnBibEVGdjVrLXU4X3N0SmtqV0NOR18xT0pFdFFDbzloQzYtcGgzSUFDV3pUY0Q1ZGU2RThOSEVGOEF3cWtEZ3c?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 21 May 2021 07:00:00 GMT",
+      "summary": "Yotpo launches new partner programme - &nbsp;&nbsp; enterprisetimes.co.uk",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + launches",
+      "published_ts": 1621580400.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -543,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 49,
+    "kept": 50,
     "opportunities": 27,
-    "threats": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.1
+    "runtime_seconds": 11.2
   }
 }
