@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T13:23:04.779687+00:00",
+  "updated": "2026-08-16T14:12:42.474533+00:00",
   "items": [
     {
       "title": "Please help! Shopify keeps billing me after I have closed my stores and I cant get them to stop.",
@@ -25,14 +25,14 @@
     },
     {
       "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1NVmtRTVNUMkljOEdQTklLcXpNa0NFOGFocWhRZ1FoTXdiZjZxQXptNElHMTI4UWdleGVHZzk5ZDJEcmZEYUlCMDFobzM1aGZZVzZzcC1VN19UT1p1VDBHcF9TelZmaXZEMUk1UTFnV0JhY3NyRmo0RzQtRDNWXzA2NHNvYmIyamZwZ3AxQmQxRTA3ZmdSc2s2NU1ldFNsWVIzOVlfNnRONUs3MHhRRm9DeU80YlFwckpTag?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZPczlYYzl2bm1qbjdOZjFmMnE1bG9EeVV6RmcxelJWMmV5V3RtWVhTTGNYeldRUUdhbnlxOTBNRkxvUGd3SnpOSFUybEItZldHMHlwVC1WMzNCNkZPM1dGTVJJQzNvcG1hanpNQkM2UUl6alZWdlV0ZUY3VU9LWVJMNjk1YlZxOHduWFVZRWVOME9TbDlnWDdCUWJTSDhLVjFwNTB4YlBJN3BfemNEMzFIRjZ4V3dvZGVVeg?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 14 Aug 2026 10:11:29 GMT",
+      "published": "Fri, 14 Aug 2026 18:25:37 GMT",
       "summary": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics &nbsp;&nbsp; Deloitte",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786702289.0
+      "published_ts": 1786731937.0
     },
     {
       "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
@@ -200,22 +200,22 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "AI shopping agents are coming. No one is ready for them - fortune.com",
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnFfejNTRTJNbnlPRlhQNkN6cV9xWVl3Zl9nb2ZWbldVMkFYa2ZUSUMzSU9wMEdEc1NmVDJ1anJyaGE4QmRtbzNvT1lpVFFEVkdGcVZUTGtvaU1vVHR1MlBydnB3ay10VmZDRVBMN1U3NElsNjFXVjdMRVZRT2xoNlQyaU9uYzVyaHFrNFFsRDhidzhxaU0zSkhTUU1hQl9uam93?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; fortune.com",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781247600.0
     },
     {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - aws.amazon.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; aws.amazon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -233,11 +233,11 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -277,17 +277,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
-    },
-    {
       "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzdLUWpMOE1yczNISWwzYkRYd19jNUhHeXVTZ19jM3VQbEdOQThtNHRWTEt3Y3N3WU1oZWZXaGdNb19HSUJXUktwYmY1R0dIcGQ4bFdiYlVJWXNoaHlGd1A2d1ZEWVZKYlQ2TElVbWppMzdtVVZyUTV2SVBubkpabjFZT0hEeDZLREVnV3RmWDFFOS1rRlJzQi1GNGp2dnBPdTBocUVSTjh3TmUzYi1CUGFlb3F2SDNqcFpaUFhYMU5vcHBxQlRKN3pjS1RIVEtkTVRsemNCNlU?oc=5",
       "source": "Google News: Klaviyo",
@@ -299,11 +288,11 @@
       "published_ts": 1786692016.0
     },
     {
-      "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - Retail Technology Innovation Hub",
+      "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - retailtechinnovationhub.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamMwUC1Ic0Vyd2xGdEJHU0VUXzNXeDBiTmNFemx1VW53RVRnaThPRmZySG10M0kxUzdOQWFBTVQ5TklZcXRhejhObEpJRWtDaTVWak9keXlHX0JJM3RnVjBTamt0TGZEOGx2ZVM0ekxqcDdpWGdaS1daMVRuaGlvSFU5YlVQMHdoem9Pa0ZtZlJLVTUtOXEzRzQycmotM1F0eGxrekF3dEt0RmJPSFBuNE1fd2RveE9zQWR2Z0JsdlU4M3BWalh5azQ0Vy16ZkdJalJvdw?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 14 Aug 2026 04:44:16 GMT",
-      "summary": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology &nbsp;&nbsp; Retail Technology Innovation Hub",
+      "summary": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology &nbsp;&nbsp; retailtechinnovationhub.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -343,6 +332,17 @@
       "published_ts": 1786431600.0
     },
     {
+      "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
+      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1786348800.0
+    },
+    {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
       "source": "Google News: Attentive",
@@ -365,11 +365,11 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -387,15 +387,26 @@
       "published_ts": 1782716400.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -543,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 49,
-    "opportunities": 26,
-    "threats": 23,
+    "kept": 50,
+    "opportunities": 25,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 9.9
   }
 }
