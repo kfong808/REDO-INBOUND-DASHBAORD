@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T07:22:10.419669+00:00",
+  "updated": "2026-08-16T08:15:43.396978+00:00",
   "items": [
     {
       "title": "Please help! Shopify keeps billing me after I have closed my stores and I cant get them to stop.",
@@ -90,11 +90,11 @@
       "published_ts": 1786435496.0
     },
     {
-      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - wwd.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 10 Aug 2026 23:12:49 GMT",
-      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; wwd.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -277,11 +277,11 @@
       "published_ts": 1771920000.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -308,6 +308,17 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + series a",
       "published_ts": 1786692016.0
+    },
+    {
+      "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - Retail Technology Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamMwUC1Ic0Vyd2xGdEJHU0VUXzNXeDBiTmNFemx1VW53RVRnaThPRmZySG10M0kxUzdOQWFBTVQ5TklZcXRhejhObEpJRWtDaTVWak9keXlHX0JJM3RnVjBTamt0TGZEOGx2ZVM0ekxqcDdpWGdaS1daMVRuaGlvSFU5YlVQMHdoem9Pa0ZtZlJLVTUtOXEzRzQycmotM1F0eGxrekF3dEt0RmJPSFBuNE1fd2RveE9zQWR2Z0JsdlU4M3BWalh5azQ0Vy16ZkdJalJvdw?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 14 Aug 2026 04:44:16 GMT",
+      "summary": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology &nbsp;&nbsp; Retail Technology Innovation Hub",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1786682656.0
     },
     {
       "title": "Klaviyo (KVYO): Summit funds convert Series B, sell 5M Series A shares - Stock Titan",
@@ -442,11 +453,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - newsfilecorp.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; newsfilecorp.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -530,17 +541,6 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Yotpo launches new partner programme - - enterprisetimes.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOal9PVllKZ0FvSHNDY0RTQk9fcjdZaVJzX3lCejRKR081a25IY1J3V0RiYkNVVDRnOTFqWHFqV2pEV3FXNGxLZUhSMnBibEVGdjVrLXU4X3N0SmtqV0NOR18xT0pFdFFDbzloQzYtcGgzSUFDV3pUY0Q1ZGU2RThOSEVGOEF3cWtEZ3c?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Fri, 21 May 2021 07:00:00 GMT",
-      "summary": "Yotpo launches new partner programme - &nbsp;&nbsp; enterprisetimes.co.uk",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Yotpo + launches",
-      "published_ts": 1621580400.0
-    },
-    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -558,6 +558,6 @@
     "opportunities": 27,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.0
   }
 }
