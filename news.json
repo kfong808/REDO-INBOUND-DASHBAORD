@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T08:15:43.396978+00:00",
+  "updated": "2026-08-16T09:16:49.292768+00:00",
   "items": [
     {
       "title": "Please help! Shopify keeps billing me after I have closed my stores and I cant get them to stop.",
@@ -25,14 +25,14 @@
     },
     {
       "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZPczlYYzl2bm1qbjdOZjFmMnE1bG9EeVV6RmcxelJWMmV5V3RtWVhTTGNYeldRUUdhbnlxOTBNRkxvUGd3SnpOSFUybEItZldHMHlwVC1WMzNCNkZPM1dGTVJJQzNvcG1hanpNQkM2UUl6alZWdlV0ZUY3VU9LWVJMNjk1YlZxOHduWFVZRWVOME9TbDlnWDdCUWJTSDhLVjFwNTB4YlBJN3BfemNEMzFIRjZ4V3dvZGVVeg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1NVmtRTVNUMkljOEdQTklLcXpNa0NFOGFocWhRZ1FoTXdiZjZxQXptNElHMTI4UWdleGVHZzk5ZDJEcmZEYUlCMDFobzM1aGZZVzZzcC1VN19UT1p1VDBHcF9TelZmaXZEMUk1UTFnV0JhY3NyRmo0RzQtRDNWXzA2NHNvYmIyamZwZ3AxQmQxRTA3ZmdSc2s2NU1ldFNsWVIzOVlfNnRONUs3MHhRRm9DeU80YlFwckpTag?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 14 Aug 2026 18:25:37 GMT",
+      "published": "Fri, 14 Aug 2026 10:11:29 GMT",
       "summary": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics &nbsp;&nbsp; Deloitte",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786731937.0
+      "published_ts": 1786702289.0
     },
     {
       "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
@@ -90,11 +90,11 @@
       "published_ts": 1786435496.0
     },
     {
-      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - wwd.com",
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 10 Aug 2026 23:12:49 GMT",
-      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; wwd.com",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -145,11 +145,11 @@
       "published_ts": 1785315638.0
     },
     {
-      "title": "Agentic Commerce: A New Chapter for Instant Payments - Citigroup",
+      "title": "Agentic Commerce: A New Chapter for Instant Payments - citigroup.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjJmV3A1X25GaFlLdVFWY1plYlBqOTFISy0ySDl3aXhnakVKVDJWdmVFbm9tang3QzdxYUFpV2QtOEVHd3F1dnlLV3VWRzhZMlN0N0tSZVRYMmRsU1U3TVNjeEktN2w2STRFZzNiUE1EbWpXckVMdVZKYURWNjlzRmZ2cTNlWXVxd1FxYmkzM1hnZEtReEJzVw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; Citigroup",
+      "summary": "Agentic Commerce: A New Chapter for Instant Payments &nbsp;&nbsp; citigroup.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -255,17 +255,6 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1772611200.0
-    },
-    {
       "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -277,11 +266,11 @@
       "published_ts": 1771920000.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -431,11 +420,11 @@
       "published_ts": 1776927600.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -451,17 +440,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1770278400.0
-    },
-    {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - newsfilecorp.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; newsfilecorp.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Omnisend",
-      "published_ts": 1769673600.0
     },
     {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
@@ -519,11 +497,11 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
@@ -541,11 +519,11 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -554,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 50,
-    "opportunities": 27,
-    "threats": 23,
+    "kept": 48,
+    "opportunities": 26,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 12.4
   }
 }
