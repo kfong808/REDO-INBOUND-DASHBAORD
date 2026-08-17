@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-17T05:25:36.257869+00:00",
+  "updated": "2026-08-17T06:31:55.623223+00:00",
   "items": [
+    {
+      "title": "NIQ AI-native revenue gains 34% as agentic commerce product nears launch - PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTBCSm80eTNRZ0ZWd3UzMERELUxIa21GRUdlOE1CZXZTUVoxVzlGSnNRdEVpbWNKX3RhNjNndFpCUlNUSDRKdGJ1ekJCQUViQUQ5d3hGR2dKYW90N3p6NGVjbkNvMUlmTXNOaU82andLaU1jNzRUQWgtSVZTR0Jjd21VYUdnRlczY2MxR1pNOXR6UmM?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 17 Aug 2026 05:25:46 GMT",
+      "summary": "NIQ AI-native revenue gains 34% as agentic commerce product nears launch &nbsp;&nbsp; PPC Land",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786944346.0
+    },
     {
       "title": "Please help! Shopify keeps billing me after I have closed my stores and I cant get them to stop.",
       "url": "https://www.reddit.com/r/shopify/comments/1vpk8rh/please_help_shopify_keeps_billing_me_after_i_have/",
@@ -35,11 +46,11 @@
       "published_ts": 1786702289.0
     },
     {
-      "title": "AI Shopping Bots Push Adyen Into Loyalty Race - technology.org",
+      "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWktRX0c4eTJEYmlSUUpPb3Y5RmE0VnVfQ0QzdEZGd2tFN2FDYzVkSVpPanhMU1hnMGlWY3BWUm9tWklfaDBiQU05Rlk2ZTdyeFBpLS1lTDN3b1hLay1kWjlXbEktRkQ4bDhUN0dPQlpQbmI4WkM1NnFOY05pMjlWRHJhbEZsTk0?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Fri, 14 Aug 2026 08:21:00 GMT",
-      "summary": "AI Shopping Bots Push Adyen Into Loyalty Race &nbsp;&nbsp; technology.org",
+      "summary": "AI Shopping Bots Push Adyen Into Loyalty Race &nbsp;&nbsp; Technology Org",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -68,17 +79,6 @@
       "published_ts": 1786523204.0
     },
     {
-      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 10 Aug 2026 23:12:49 GMT",
-      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786403569.0
-    },
-    {
       "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - Shopify",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FVm9lc3NMWHZXaFFnTmI5NzNDb0dNUVhzTXNJWkxqSlRJQ2thSVgxUE9rOFJxelAzUFNCWDdNd1VUUFVIUFZld1NMeFdkOXVDSm1pVlZsamtiRVNHdTJWdXd1bmQ?oc=5",
       "source": "Google News: ecommerce SaaS",
@@ -90,22 +90,33 @@
       "published_ts": 1785973195.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1785826800.0
     },
     {
-      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
+      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 03 Aug 2026 10:59:41 GMT",
+      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1785754781.0
+    },
+    {
+      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - businesswire.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; Business Wire",
+      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; businesswire.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -189,11 +200,11 @@
       "published_ts": 1781161200.0
     },
     {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - businesswire.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; businesswire.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -255,11 +266,11 @@
       "published_ts": 1786692016.0
     },
     {
-      "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - retailtechinnovationhub.com",
+      "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamMwUC1Ic0Vyd2xGdEJHU0VUXzNXeDBiTmNFemx1VW53RVRnaThPRmZySG10M0kxUzdOQWFBTVQ5TklZcXRhejhObEpJRWtDaTVWak9keXlHX0JJM3RnVjBTamt0TGZEOGx2ZVM0ekxqcDdpWGdaS1daMVRuaGlvSFU5YlVQMHdoem9Pa0ZtZlJLVTUtOXEzRzQycmotM1F0eGxrekF3dEt0RmJPSFBuNE1fd2RveE9zQWR2Z0JsdlU4M3BWalh5azQ0Vy16ZkdJalJvdw?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 14 Aug 2026 04:44:16 GMT",
-      "summary": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology &nbsp;&nbsp; retailtechinnovationhub.com",
+      "summary": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology &nbsp;&nbsp; Retail Technology Innovation Hub",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -310,33 +321,33 @@
       "published_ts": 1785999600.0
     },
     {
-      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
+      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - app.dealroom.co",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Sun, 02 Aug 2026 15:36:17 GMT",
-      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; Dealroom",
+      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; app.dealroom.co",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + acquisition",
       "published_ts": 1785684977.0
     },
     {
-      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - thehockeynews.com",
+      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
       "source": "Google News: Postscript",
       "published": "Thu, 30 Jul 2026 15:45:31 GMT",
-      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; thehockeynews.com",
+      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1785426331.0
     },
     {
-      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
+      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - businesswire.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
       "source": "Google News: Attentive",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; Business Wire",
+      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; businesswire.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
@@ -453,11 +464,11 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
@@ -475,11 +486,11 @@
       "published_ts": 1729148400.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - businessinsider.com",
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; businessinsider.com",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + acquires",
@@ -508,11 +519,11 @@
       "published_ts": 1621580400.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -521,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 47,
-    "opportunities": 22,
+    "kept": 48,
+    "opportunities": 23,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 9.6
   }
 }
