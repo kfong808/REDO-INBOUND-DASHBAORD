@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T12:20:31.007670+00:00",
+  "updated": "2026-08-17T13:31:36.351955+00:00",
   "items": [
     {
       "title": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure In China - Crowdfund Insider",
@@ -321,6 +321,28 @@
       "published_ts": 1786431600.0
     },
     {
+      "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
+      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1786348800.0
+    },
+    {
+      "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMtcDQwYjNrNUdyVkNHeTJTOTBrS3RrS0Mzc25GbDRQaFNXZkZJQ3NHazBWRVZoTlV3T092RDZxVFREZV9oYWJ1Y1dGcm9KSnNTTGNIZW1YQjZWTVFyNjNBeTNtdjNXcENWdDFrdGp2cHczV00zbnZYQm44WGJCa1JiZHpnUXpJTkphRGtxZWVqenc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "summary": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1785999600.0
+    },
+    {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
       "source": "Google News: Attentive",
@@ -409,11 +431,11 @@
       "published_ts": 1776927600.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -429,17 +451,6 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1770278400.0
-    },
-    {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Omnisend",
-      "published_ts": 1769673600.0
     },
     {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
@@ -543,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 49,
+    "kept": 50,
     "opportunities": 24,
-    "threats": 25,
+    "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 10.9
   }
 }
