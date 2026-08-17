@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:29:24.569626+00:00",
+  "updated": "2026-08-17T10:20:57.758737+00:00",
   "items": [
     {
       "title": "NIQ AI-native revenue gains 34% as agentic commerce product nears launch - PPC Land",
@@ -35,11 +35,11 @@
       "published_ts": 1786833924.0
     },
     {
-      "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - Deloitte",
+      "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics - deloitte.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1NVmtRTVNUMkljOEdQTklLcXpNa0NFOGFocWhRZ1FoTXdiZjZxQXptNElHMTI4UWdleGVHZzk5ZDJEcmZEYUlCMDFobzM1aGZZVzZzcC1VN19UT1p1VDBHcF9TelZmaXZEMUk1UTFnV0JhY3NyRmo0RzQtRDNWXzA2NHNvYmIyamZwZ3AxQmQxRTA3ZmdSc2s2NU1ldFNsWVIzOVlfNnRONUs3MHhRRm9DeU80YlFwckpTag?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 14 Aug 2026 10:11:29 GMT",
-      "summary": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics &nbsp;&nbsp; Deloitte",
+      "summary": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics &nbsp;&nbsp; deloitte.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -112,6 +112,17 @@
       "published_ts": 1785826800.0
     },
     {
+      "title": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce - Digital Transactions",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1lzZFVBVnJBQ3Rsb1lGMXpOdWdwSExOVFVtVmhVdl9tRXRSUGJLamFEc0lidmJCcGpNdk5NNjBqeWU4dzNtVXlheUF4TkJ5Wk56VlBXcktyNDJYNGVGWlBwYnF6TEY4SWtGVG1pZzU4ZzFkTzZOSU5MMG9jeEQyakhGUmZnSVR4YXlMTzY1TG0zQjV5azRXSEVzU3hQT3RxSVBvckEwVXk?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 03 Aug 2026 15:03:17 GMT",
+      "summary": "Are Merchants Ready for the AI Shopping Shift? Maybe, Says WooCommerce &nbsp;&nbsp; Digital Transactions",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785769397.0
+    },
+    {
       "title": "How to win in agentic commerce as AI agents decide and transact - EY",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
       "source": "Google News: agentic commerce",
@@ -178,17 +189,6 @@
       "published_ts": 1782802800.0
     },
     {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1782284400.0
-    },
-    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -198,17 +198,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
-    },
-    {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
     },
     {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
@@ -233,11 +222,11 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -288,11 +277,11 @@
       "published_ts": 1786692016.0
     },
     {
-      "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - retailtechinnovationhub.com",
+      "title": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamMwUC1Ic0Vyd2xGdEJHU0VUXzNXeDBiTmNFemx1VW53RVRnaThPRmZySG10M0kxUzdOQWFBTVQ5TklZcXRhejhObEpJRWtDaTVWak9keXlHX0JJM3RnVjBTamt0TGZEOGx2ZVM0ekxqcDdpWGdaS1daMVRuaGlvSFU5YlVQMHdoem9Pa0ZtZlJLVTUtOXEzRzQycmotM1F0eGxrekF3dEt0RmJPSFBuNE1fd2RveE9zQWR2Z0JsdlU4M3BWalh5azQ0Vy16ZkdJalJvdw?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 14 Aug 2026 04:44:16 GMT",
-      "summary": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology &nbsp;&nbsp; retailtechinnovationhub.com",
+      "summary": "AllSaints goes live with new customer engagement platform powered by Klaviyo technology &nbsp;&nbsp; Retail Technology Innovation Hub",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -330,17 +319,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raised",
       "published_ts": 1786431600.0
-    },
-    {
-      "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMtcDQwYjNrNUdyVkNHeTJTOTBrS3RrS0Mzc25GbDRQaFNXZkZJQ3NHazBWRVZoTlV3T092RDZxVFREZV9oYWJ1Y1dGcm9KSnNTTGNIZW1YQjZWTVFyNjNBeTNtdjNXcENWdDFrdGp2cHczV00zbnZYQm44WGJCa1JiZHpnUXpJTkphRGtxZWVqenc?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1785999600.0
     },
     {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
@@ -420,11 +398,11 @@
       "published_ts": 1779951600.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -530,6 +508,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Yotpo launches new partner programme - - Enterprise Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOal9PVllKZ0FvSHNDY0RTQk9fcjdZaVJzX3lCejRKR081a25IY1J3V0RiYkNVVDRnOTFqWHFqV2pEV3FXNGxLZUhSMnBibEVGdjVrLXU4X3N0SmtqV0NOR18xT0pFdFFDbzloQzYtcGgzSUFDV3pUY0Q1ZGU2RThOSEVGOEF3cWtEZ3c?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 21 May 2021 07:00:00 GMT",
+      "summary": "Yotpo launches new partner programme - &nbsp;&nbsp; Enterprise Times",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + launches",
+      "published_ts": 1621580400.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -543,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 25,
+    "kept": 48,
+    "opportunities": 24,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 11.7
   }
 }
