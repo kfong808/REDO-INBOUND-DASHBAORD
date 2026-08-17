@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T19:19:35.052348+00:00",
+  "updated": "2026-08-17T20:14:20.377823+00:00",
   "items": [
     {
       "title": "Synchrony Works With OpenAI to Advance Agentic Commerce - citybiz",
@@ -101,11 +101,11 @@
       "published_ts": 1786435496.0
     },
     {
-      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - Shopify",
+      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - shopify.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FVm9lc3NMWHZXaFFnTmI5NzNDb0dNUVhzTXNJWkxqSlRJQ2thSVgxUE9rOFJxelAzUFNCWDdNd1VUUFVIUFZld1NMeFdkOXVDSm1pVlZsamtiRVNHdTJWdXd1bmQ?oc=5",
       "source": "Google News: ecommerce SaaS",
       "published": "Wed, 05 Aug 2026 23:39:55 GMT",
-      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; Shopify",
+      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; shopify.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: stack consolidation",
@@ -233,11 +233,11 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -519,11 +519,11 @@
       "published_ts": 1621580400.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -536,6 +536,6 @@
     "opportunities": 22,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 12.9
   }
 }
