@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-17T00:36:16.727746+00:00",
+  "updated": "2026-08-17T02:12:45.209403+00:00",
   "items": [
-    {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "source": "Hacker News",
-      "published": "Sun, 16 Aug 2026 15:16:06 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: shutdown",
-      "published_ts": 1786893366.0
-    },
     {
       "title": "Please help! Shopify keeps billing me after I have closed my stores and I cant get them to stop.",
       "url": "https://www.reddit.com/r/shopify/comments/1vpk8rh/please_help_shopify_keeps_billing_me_after_i_have/",
@@ -178,11 +167,11 @@
       "published_ts": 1782802800.0
     },
     {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - news.bloomberglaw.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; news.bloomberglaw.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -288,11 +277,11 @@
       "published_ts": 1718866800.0
     },
     {
-      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - tradingview.com",
+      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzdLUWpMOE1yczNISWwzYkRYd19jNUhHeXVTZ19jM3VQbEdOQThtNHRWTEt3Y3N3WU1oZWZXaGdNb19HSUJXUktwYmY1R0dIcGQ4bFdiYlVJWXNoaHlGd1A2d1ZEWVZKYlQ2TElVbWppMzdtVVZyUTV2SVBubkpabjFZT0hEeDZLREVnV3RmWDFFOS1rRlJzQi1GNGp2dnBPdTBocUVSTjh3TmUzYi1CUGFlb3F2SDNqcFpaUFhYMU5vcHBxQlRKN3pjS1RIVEtkTVRsemNCNlU?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 14 Aug 2026 07:20:16 GMT",
-      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; tradingview.com",
+      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + series a",
@@ -363,6 +352,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + acquisition",
       "published_ts": 1785684977.0
+    },
+    {
+      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Thu, 30 Jul 2026 15:45:31 GMT",
+      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1785426331.0
     },
     {
       "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
@@ -544,9 +544,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 49,
-    "opportunities": 26,
-    "threats": 23,
+    "opportunities": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 10.1
   }
 }
