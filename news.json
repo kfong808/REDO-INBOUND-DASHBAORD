@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:15:38.551180+00:00",
+  "updated": "2026-08-17T22:12:40.857870+00:00",
   "items": [
     {
       "title": "Synchrony Works With OpenAI to Advance Agentic Commerce - citybiz",
@@ -112,11 +112,11 @@
       "published_ts": 1786435496.0
     },
     {
-      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - Shopify",
+      "title": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation - shopify.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FVm9lc3NMWHZXaFFnTmI5NzNDb0dNUVhzTXNJWkxqSlRJQ2thSVgxUE9rOFJxelAzUFNCWDdNd1VUUFVIUFZld1NMeFdkOXVDSm1pVlZsamtiRVNHdTJWdXd1bmQ?oc=5",
       "source": "Google News: ecommerce SaaS",
       "published": "Wed, 05 Aug 2026 23:39:55 GMT",
-      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; Shopify",
+      "summary": "What Is SaaS Sprawl? The Enterprise Guide to Tech Stack Consolidation &nbsp;&nbsp; shopify.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: stack consolidation",
@@ -343,6 +343,17 @@
       "published_ts": 1785999600.0
     },
     {
+      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Mon, 03 Aug 2026 18:25:18 GMT",
+      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; Dealroom",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + acquisition",
+      "published_ts": 1785781518.0
+    },
+    {
       "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
       "source": "Google News: Attentive",
@@ -365,11 +376,11 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
+      "title": "Postscript: Mark Singer - newyorker.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -387,22 +398,11 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1780383600.0
-    },
-    {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - investors.intuit.com",
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; investors.intuit.com",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
@@ -475,11 +475,11 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
@@ -547,6 +547,6 @@
     "opportunities": 23,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 11.3
   }
 }
