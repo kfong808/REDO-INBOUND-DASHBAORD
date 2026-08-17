@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T23:09:28.220371+00:00",
+  "updated": "2026-08-17T00:36:16.727746+00:00",
   "items": [
     {
       "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
@@ -167,6 +167,17 @@
       "published_ts": 1783839600.0
     },
     {
+      "title": "Agentic commerce is going to require rethinking consumer payments - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGdZbTFkTkFzYTctaE1WaWhlX0dWbjlGcXduRndGVkdQbno4ZlhsZ3IycUQ0cDc2U05IbngxcWdOUDYxSmktTThHQWZuUGRDVUZud1NjZWFnT1ZMWUlEaVlCYTNwUXBJMW1EM1phaHBncnRWeW1NQUVqajU2eksyR0cxZjlUNnh3ak51NWZSX3l3VlNPb1pTR2w4OHdZeHpaeWllSFZMcnJHeGlTLWJzNGg3NA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Agentic commerce is going to require rethinking consumer payments &nbsp;&nbsp; American Banker",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1782802800.0
+    },
+    {
       "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
       "source": "Google News: AI shopping agent",
@@ -266,22 +277,22 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - forbes.com",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; forbes.com",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
     },
     {
-      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - TradingView",
+      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzdLUWpMOE1yczNISWwzYkRYd19jNUhHeXVTZ19jM3VQbEdOQThtNHRWTEt3Y3N3WU1oZWZXaGdNb19HSUJXUktwYmY1R0dIcGQ4bFdiYlVJWXNoaHlGd1A2d1ZEWVZKYlQ2TElVbWppMzdtVVZyUTV2SVBubkpabjFZT0hEeDZLREVnV3RmWDFFOS1rRlJzQi1GNGp2dnBPdTBocUVSTjh3TmUzYi1CUGFlb3F2SDNqcFpaUFhYMU5vcHBxQlRKN3pjS1RIVEtkTVRsemNCNlU?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Fri, 14 Aug 2026 07:20:16 GMT",
-      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; TradingView",
+      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; tradingview.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + series a",
@@ -341,17 +352,6 @@
       "confidence": "medium",
       "reasoning": "Attentive + valuation",
       "published_ts": 1785999600.0
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1785913200.0
     },
     {
       "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
@@ -420,11 +420,11 @@
       "published_ts": 1779951600.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
@@ -544,9 +544,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 49,
-    "opportunities": 25,
-    "threats": 24,
+    "opportunities": 26,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.3
+    "runtime_seconds": 10.9
   }
 }
