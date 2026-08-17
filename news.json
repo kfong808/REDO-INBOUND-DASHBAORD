@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-17T15:15:18.923077+00:00",
+  "updated": "2026-08-17T16:14:10.755878+00:00",
   "items": [
+    {
+      "title": "Synchrony works with OpenAI to advance agentic commerce (SYF:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVRQOGZXSkdZOVBvcTA1djg2T1d6REFiNkkzZUY1RkNuNThfWWFhRUh2RXVXdkFILVlEb09IY1JYVk5oLTJ3TUExZ2pWSVpickxLUVc0OEEtZTM4ZjJ2blM1bjhheHlTTW5HN1VjN29LSXRYRU1wX2NmRkVHNWhocG56LU8xNHBWa0xiN0Rzd3Fuam5FdzFV?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 17 Aug 2026 15:57:37 GMT",
+      "summary": "Synchrony works with OpenAI to advance agentic commerce (SYF:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786982257.0
+    },
     {
       "title": "Synchrony Announces Enterprise Collaboration with OpenAI to Power the Next Era of Agentic Commerce - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQjM3S3NEZ2QyUkdndGVwR08yd19nYWtlNUhURzQ3RDMxd0E0aVlySEtYVGhORlo0dG5iMHMxWUhzV1d0RmdmQWE5SEc2VHY5TFpmYjNZT3Itd1dhS0lNZXFzdjM2ejF0WHMta0IxVWV1TlhzWTBQN05DdHRFNnhyNkI2V09zNFZzN2FVeUJnQkxESVpmT1BnOU5yX243blNfYV9uVFlkUklwLWljUTczUDF4X1hxSWpma3drRHlVVC1yY2tPRVVwMlJJc2pUd1FzQ0dLOC1FdkJyalJFTXlhaVFucUhHOWJuNmc?oc=5",
@@ -13,22 +24,11 @@
       "published_ts": 1786978800.0
     },
     {
-      "title": "Ask HN: Alternatives to GitHub",
-      "url": "https://news.ycombinator.com/item?id=49331033",
-      "source": "Hacker News",
-      "published": "Mon, 17 Aug 2026 13:59:17 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: alternatives to",
-      "published_ts": 1786975157.0
-    },
-    {
-      "title": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure In China - crowdfundinsider.com",
+      "title": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure In China - Crowdfund Insider",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTRZR1lFNV9RR2E1OUJmLWJCeC04R1NJM0lSTG9ZMzhGbmhJbUNTeG9xcVV4cEJxR0VhZzRKcG92c0c5N05lLUJTRkJLMjM5OExyaDVoekpyNkFfVkV2MGJGdlZPd0JRdEFLWDZBVDVxQnlHamtaSWNuNWZEN1JBRXZYM05yX2g4NzZOSkw2VDF1c1BlV0pyUkxJNHBKRngtLTJnWU9yV1hkWXBxY3p0S0Q3aVBDQQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 17 Aug 2026 11:54:11 GMT",
-      "summary": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure In China &nbsp;&nbsp; crowdfundinsider.com",
+      "summary": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure In China &nbsp;&nbsp; Crowdfund Insider",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -88,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1786695660.0
-    },
-    {
-      "title": "Will agentic commerce push more merchants into marketplaces? - Electronic Payments International",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWTRtYmY2cTM5d3VRZ29xb2RCRHRiTXZrdmd5M05lTldQc0t1d1JXR0YyczdURjV1dVN6c0RyT0FXUDhkY0tPNVZBaHYxbVkyLWV4T2ZCcXY4NjY4U0dCODR6cmM1ZHREOTRsbWRkS0Y4MnRwSU5faVItTWdZQnZNeFlTSXJjMVBvSjNfWjBiN3ZWR0NxWWpyQ3dxcTV2SkRfa09wcElGNnhHaTR2MUw5R3pRa1NEMFk?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 13 Aug 2026 22:57:45 GMT",
-      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; Electronic Payments International",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786661865.0
     },
     {
       "title": "Why True Agentic Commerce Relies on Responsible Guardrails - exchangewire.com",
@@ -189,11 +178,11 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - news.bloomberglaw.com",
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; news.bloomberglaw.com",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -519,11 +508,11 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar names new CEO - ww.fashionnetwork.com",
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; ww.fashionnetwork.com",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -575,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 52,
-    "opportunities": 25,
+    "total_fetched": 289,
+    "kept": 51,
+    "opportunities": 24,
     "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 11.8
   }
 }
