@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:34:31.423305+00:00",
+  "updated": "2026-08-18T14:21:33.092813+00:00",
   "items": [
     {
       "title": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook - Dealroom",
@@ -57,17 +57,6 @@
       "published_ts": 1786968018.0
     },
     {
-      "title": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure In China - crowdfundinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTRZR1lFNV9RR2E1OUJmLWJCeC04R1NJM0lSTG9ZMzhGbmhJbUNTeG9xcVV4cEJxR0VhZzRKcG92c0c5N05lLUJTRkJLMjM5OExyaDVoekpyNkFfVkV2MGJGdlZPd0JRdEFLWDZBVDVxQnlHamtaSWNuNWZEN1JBRXZYM05yX2g4NzZOSkw2VDF1c1BlV0pyUkxJNHBKRngtLTJnWU9yV1hkWXBxY3p0S0Q3aVBDQQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 17 Aug 2026 11:54:11 GMT",
-      "summary": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure In China &nbsp;&nbsp; crowdfundinsider.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786967651.0
-    },
-    {
       "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWktRX0c4eTJEYmlSUUpPb3Y5RmE0VnVfQ0QzdEZGd2tFN2FDYzVkSVpPanhMU1hnMGlWY3BWUm9tWklfaDBiQU05Rlk2ZTdyeFBpLS1lTDN3b1hLay1kWjlXbEktRkQ4bDhUN0dPQlpQbmI4WkM1NnFOY05pMjlWRHJhbEZsTk0?oc=5",
       "source": "Google News: AI shopping agent",
@@ -88,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1786435496.0
-    },
-    {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785826800.0
     },
     {
       "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
@@ -209,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Why the AI shopping agent wars will heat up in 2026 - Modern Retail",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZml3Z0pfRU1ud2NiS3JyejI5cW9VOWlRN0g4S1JiTzNTOXhfZXV0ZF80aHROSVhUeFM4ZW5GNnNkbWFyMmw5YWRaeVVFOGQtTTA4eWxPLTlMeG9ZZS14ZjVJemlEX0U3X1JBVDlpaE5VWGxlSUJJR21DQ2xrSXZtMk9EWG5iWUIybGtBNnBrTkl4VENETWc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary": "Why the AI shopping agent wars will heat up in 2026 &nbsp;&nbsp; Modern Retail",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1767686400.0
     },
     {
       "title": "Should Klaviyo’s (KVYO) Strong Q2, Raised Guidance and AI Agency Deal Prompt Investor Reassessment? - simplywall.st",
@@ -499,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 45,
-    "opportunities": 19,
+    "kept": 44,
+    "opportunities": 18,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.4
   }
 }
