@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T07:29:09.157566+00:00",
+  "updated": "2026-08-18T08:22:26.211962+00:00",
   "items": [
     {
       "title": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook - Dealroom",
@@ -211,22 +211,11 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "AI shopping agents are coming. No one is ready for them - fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; fortune.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - aws.amazon.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; aws.amazon.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -255,15 +244,26 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - trendhunter.com",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2fSAW9BVV95cUxQYUp2eTI1V3ZoYWRPeXlGMzc4dV9mWHFoR2hHZm80YUZIUWdfYUg2MUFmQy1MN29YZ3RjOVgxZkUtai1RWWhCb18xYjVYSzgwOXRxZ2Fnbkk2emFrRy1jMWlBWlRXcG5TRjZtYmdxbDg?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1773730800.0
+    },
+    {
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -332,6 +332,17 @@
       "published_ts": 1786431600.0
     },
     {
+      "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
+      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1786348800.0
+    },
+    {
       "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMtcDQwYjNrNUdyVkNHeTJTOTBrS3RrS0Mzc25GbDRQaFNXZkZJQ3NHazBWRVZoTlV3T092RDZxVFREZV9oYWJ1Y1dGcm9KSnNTTGNIZW1YQjZWTVFyNjNBeTNtdjNXcENWdDFrdGp2cHczV00zbnZYQm44WGJCa1JiZHpnUXpJTkphRGtxZWVqenc?oc=5",
       "source": "Google News: Klaviyo",
@@ -354,11 +365,11 @@
       "published_ts": 1785999600.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -374,17 +385,6 @@
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1782716400.0
-    },
-    {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + raises",
-      "published_ts": 1780988400.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -497,17 +497,6 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1729148400.0
-    },
-    {
       "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
@@ -541,11 +530,11 @@
       "published_ts": 1621580400.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -554,9 +543,9 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 50,
+    "kept": 49,
     "opportunities": 25,
-    "threats": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
     "runtime_seconds": 9.8
   }
