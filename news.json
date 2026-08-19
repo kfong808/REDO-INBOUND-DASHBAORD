@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T11:15:10.435143+00:00",
+  "updated": "2026-08-19T12:21:53.173770+00:00",
   "items": [
     {
       "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
@@ -35,17 +35,6 @@
       "published_ts": 1787065680.0
     },
     {
-      "title": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczMzUUVDWS1aZUxJX3dYaFJBYmJPVHM5RWtzMzJ0QXJ4c0F2WUhsU3Nxb2d2QXdWc0VVeThCMUhaclI1Q2tSMElfS0tRSnNyeUUzVmtBOUxHdDdEZnBudXd4QUtTV1A3U0RjNExzRWNvTU9OVTlFQ1loUGx0UU9LX2tfWGZKWGw1VWUtVXRKSTRXVU5NeW1rTGlxNA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 18 Aug 2026 07:24:51 GMT",
-      "summary": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook &nbsp;&nbsp; Dealroom",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787037891.0
-    },
-    {
       "title": "Post purchase subscriptions",
       "url": "https://www.reddit.com/r/shopify/comments/1vrgorw/post_purchase_subscriptions/",
       "source": "r/shopify",
@@ -55,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787032843.0
+    },
+    {
+      "title": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWhlNFB5YjJSYUFJZnRpX2RnLXFrMGNvRHRhcXpDUnhZX2s2XzNGS2pPX2lqQUNkQW5UMGdQN1prWHMweWp0anp3MzlJaTdhVlRFbkNPQWJQdHdxUVhNai10RkM2cDItdzZyRHN6V2hGb3c1QTY1UE93aUk4VnFLTkpEVFhjS0N2ZzNLRmVHYlRrdnd2N2RwX01FZE1LTkpqR0M3QktsLV9DQjBlWDF0VFpCdDE1ZlFa?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 17 Aug 2026 12:00:18 GMT",
+      "summary": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 &nbsp;&nbsp; MediaPost",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786968018.0
     },
     {
       "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
@@ -79,11 +79,11 @@
       "published_ts": 1786435496.0
     },
     {
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; Reuters",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools &nbsp;&nbsp; reuters.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -200,11 +200,11 @@
       "published_ts": 1771920000.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -431,22 +431,22 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
     },
     {
-      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
+      "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3FXNzVwWUlVd2dVYWpDcVk5eFpocVV5RjN2NkhEMkQ2aVBrUnZwTl9uWTN0RlZRajllcmJvejRHNEhoaXlwbnFiRWQtdUl1RS1wZkZRNFBzUlhSNHlFOVpNSndDRFFCdDZXV0NOOUNjb2J1OWMyYlA4N1EwU0M4RC1TWkhmeWR0NWNEcGFjeTVLZG9FS09XQnNxUkZ6YmFSeGExbVJXQ0VJcTA?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; Business Insider",
+      "summary": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs &nbsp;&nbsp; businessinsider.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + acquires",
@@ -492,6 +492,6 @@
     "opportunities": 19,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 10.3
   }
 }
