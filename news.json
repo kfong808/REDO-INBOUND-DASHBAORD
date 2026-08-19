@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:17:42.641186+00:00",
+  "updated": "2026-08-19T19:17:51.539390+00:00",
   "items": [
     {
       "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787072705.0
+    },
+    {
+      "title": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczMzUUVDWS1aZUxJX3dYaFJBYmJPVHM5RWtzMzJ0QXJ4c0F2WUhsU3Nxb2d2QXdWc0VVeThCMUhaclI1Q2tSMElfS0tRSnNyeUUzVmtBOUxHdDdEZnBudXd4QUtTV1A3U0RjNExzRWNvTU9OVTlFQ1loUGx0UU9LX2tfWGZKWGw1VWUtVXRKSTRXVU5NeW1rTGlxNA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 18 Aug 2026 07:24:51 GMT",
+      "summary": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook &nbsp;&nbsp; Dealroom",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787037891.0
     },
     {
       "title": "Post purchase subscriptions",
@@ -266,17 +277,6 @@
       "published_ts": 1786431600.0
     },
     {
-      "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMtcDQwYjNrNUdyVkNHeTJTOTBrS3RrS0Mzc25GbDRQaFNXZkZJQ3NHazBWRVZoTlV3T092RDZxVFREZV9oYWJ1Y1dGcm9KSnNTTGNIZW1YQjZWTVFyNjNBeTNtdjNXcENWdDFrdGp2cHczV00zbnZYQm44WGJCa1JiZHpnUXpJTkphRGtxZWVqenc?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1785999600.0
-    },
-    {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
       "source": "Google News: Attentive",
@@ -420,11 +420,11 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
@@ -489,9 +489,9 @@
   "stats": {
     "total_fetched": 270,
     "kept": 44,
-    "opportunities": 18,
-    "threats": 26,
+    "opportunities": 19,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 14.2
   }
 }
