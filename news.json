@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T09:22:25.684974+00:00",
+  "updated": "2026-08-19T10:17:19.907255+00:00",
   "items": [
     {
       "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787032843.0
-    },
-    {
-      "title": "Exclusive: THL to acquire Queue-It from GRO Capital as ‘agentic commerce’ grows - pehub.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjN0aDhoYXdoN2luUnpuSk9IQmgyU29sTVB1eDA5MW44bHFjNDZfdUd6d2UteWExcXk2cDVkZ0VVYWpzUmtHTThmZ19Va19YZ3RFYmhOQmhDQTIyMHVRMEhCalZZejA4UVJNaEp0bEhLTUsyenk0NWZrazA3TWE4QmNqOXIxVFJpcG82OURKQ0cxSEFkOTZSbXZVdnpxdXVOTDY1bEpvLVd4NHBFVmdBSWNUeW9nR1I1SXk1ZnFB?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 18 Aug 2026 01:00:29 GMT",
-      "summary": "Exclusive: THL to acquire Queue-It from GRO Capital as ‘agentic commerce’ grows &nbsp;&nbsp; pehub.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787014829.0
     },
     {
       "title": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 - MediaPost",
@@ -222,11 +211,11 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres - theaiinsider.tech",
+      "title": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc19CNTFoMWNRbXRYaDdPMzhqekRtS1l3RnR6NmcyMldnM0hXS3ZIeE9rdlFkd1BaS3FYdE5HY08zWmptOEsybmM3MHZIQ2RqRFF6aWtnMk1PbFV0TXNNZEo5Y3ZEYW1Vb2JlajljdjFxZEZaVnZOZ0VQMktDMjdLWV9JU01ZTi1DSDJXMi00bHE4SkpNek5lZ1FkWTNiRlBwWlpLeGNIcTNpTXFrQmhSbGtUZU9CX2UzZjFxLTlxaGo0NUZlb2x4V1l3?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Tue, 18 Aug 2026 18:56:51 GMT",
-      "summary": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres &nbsp;&nbsp; theaiinsider.tech",
+      "summary": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres &nbsp;&nbsp; AI Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
@@ -277,11 +266,11 @@
       "published_ts": 1786431600.0
     },
     {
-      "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - finance.yahoo.com",
+      "title": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMtcDQwYjNrNUdyVkNHeTJTOTBrS3RrS0Mzc25GbDRQaFNXZkZJQ3NHazBWRVZoTlV3T092RDZxVFREZV9oYWJ1Y1dGcm9KSnNTTGNIZW1YQjZWTVFyNjNBeTNtdjNXcENWdDFrdGp2cHczV00zbnZYQm44WGJCa1JiZHpnUXpJTkphRGtxZWVqenc?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? &nbsp;&nbsp; finance.yahoo.com",
+      "summary": "What Does Klaviyo (KVYO) Gain From Its New AI Product Leadership? &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
@@ -499,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
-    "opportunities": 20,
+    "kept": 44,
+    "opportunities": 19,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 10.7
   }
 }
