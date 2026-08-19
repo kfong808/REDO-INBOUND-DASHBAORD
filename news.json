@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T10:17:19.907255+00:00",
+  "updated": "2026-08-19T11:15:10.435143+00:00",
   "items": [
     {
       "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787032843.0
-    },
-    {
-      "title": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 - MediaPost",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWhlNFB5YjJSYUFJZnRpX2RnLXFrMGNvRHRhcXpDUnhZX2s2XzNGS2pPX2lqQUNkQW5UMGdQN1prWHMweWp0anp3MzlJaTdhVlRFbkNPQWJQdHdxUVhNai10RkM2cDItdzZyRHN6V2hGb3c1QTY1UE93aUk4VnFLTkpEVFhjS0N2ZzNLRmVHYlRrdnd2N2RwX01FZE1LTkpqR0M3QktsLV9DQjBlWDF0VFpCdDE1ZlFa?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 17 Aug 2026 12:00:18 GMT",
-      "summary": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 &nbsp;&nbsp; MediaPost",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786968018.0
     },
     {
       "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
@@ -134,6 +123,17 @@
       "published_ts": 1785315638.0
     },
     {
+      "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGt5OU5xdUg4OWtBQXpWbkVITmg0SWU0N2lKUXUzdnpHUndpWDRPTXpSVGdoMGZxNUdZY3dDVU53TU1ZblZoT1NSeEd5VUZNMkdzZVZWMjJSYTNRTGwxck95T3NxbzlNVmhjZ2hnWVdCQXlWX2x6TnN1YUItWkh5UjV0V2JNb0h2T2lfRXp1UGttanVDOFJrRFZYSmZVaHZwN05V?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "AI Shopping Agents Pose Novel Liability, Authorization Risks &nbsp;&nbsp; Bloomberg Law News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1782284400.0
+    },
+    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -200,11 +200,11 @@
       "published_ts": 1771920000.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -420,11 +420,11 @@
       "published_ts": 1762416000.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
