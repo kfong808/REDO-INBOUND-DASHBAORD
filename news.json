@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T13:38:01.724644+00:00",
+  "updated": "2026-08-20T14:24:36.535886+00:00",
   "items": [
     {
       "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
@@ -77,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786968018.0
-    },
-    {
-      "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWktRX0c4eTJEYmlSUUpPb3Y5RmE0VnVfQ0QzdEZGd2tFN2FDYzVkSVpPanhMU1hnMGlWY3BWUm9tWklfaDBiQU05Rlk2ZTdyeFBpLS1lTDN3b1hLay1kWjlXbEktRkQ4bDhUN0dPQlpQbmI4WkM1NnFOY05pMjlWRHJhbEZsTk0?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sat, 15 Aug 2026 07:44:33 GMT",
-      "summary": "AI Shopping Bots Push Adyen Into Loyalty Race &nbsp;&nbsp; Technology Org",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1786779873.0
     },
     {
       "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
@@ -464,17 +453,6 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
-    },
-    {
       "title": "Yotpo launches new partner programme - - Enterprise Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOal9PVllKZ0FvSHNDY0RTQk9fcjdZaVJzX3lCejRKR081a25IY1J3V0RiYkNVVDRnOTFqWHFqV2pEV3FXNGxLZUhSMnBibEVGdjVrLXU4X3N0SmtqV0NOR18xT0pFdFFDbzloQzYtcGgzSUFDV3pUY0Q1ZGU2RThOSEVGOEF3cWtEZ3c?oc=5",
       "source": "Google News: Yotpo",
@@ -499,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
-    "opportunities": 20,
-    "threats": 25,
+    "kept": 43,
+    "opportunities": 19,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 11.9
   }
 }
