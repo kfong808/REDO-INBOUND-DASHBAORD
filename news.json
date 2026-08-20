@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-20T15:22:57.603833+00:00",
+  "updated": "2026-08-20T16:21:28.772258+00:00",
   "items": [
+    {
+      "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
+      "url": "https://www.retaildive.com/news/tjx-blames-merchandising-missteps-rare-miss-us-tjmaxx-marshalls-stores/828295/",
+      "source": "Retail Dive",
+      "published": "Thu, 20 Aug 2026 11:44:00 -0400",
+      "summary": "Some analysts believe the off-price retailer is also suffering the consequences of stiffer competition and consumers&rsquo; resistance to price increases.",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: price increase",
+      "published_ts": 1787240640.0
+    },
     {
       "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUdpeXVkUWs3ZkJnWFRuRVhKV3VIVURVRWdKWWoybl9lRDJLTmNtSUxUanMtRDRVeUZNZjI2NE9VM3VZSnpXWlpmUW92eUI2R1V6V0Y0bVRaVTFXamIxdHZwek5hNXRrZzJaSXZpTFF5SFJkdDY1Y3ZiaXJ1SW9palgwYWNiODlTNTFscG04dG1TaDBiR3MwY0NhLU1ycWs?oc=5",
@@ -57,15 +68,15 @@
       "published_ts": 1787037891.0
     },
     {
-      "title": "Post purchase subscriptions",
-      "url": "https://www.reddit.com/r/shopify/comments/1vrgorw/post_purchase_subscriptions/",
-      "source": "r/shopify",
-      "published": "2026-08-18T06:00:43+00:00",
-      "summary": "I currently am in the middle of testing offers and want to upsell some of the free gifts in my value stack (not the main product) as a subscription offer. There are a lot of apps for one-time post-purchase upsells, and a lot for subscriptions, but are there any for post-purchase monthly subscriptions? &#32; submitted by &#32; /u/Late-Cranberry-4826 [link] &#32; [comments]",
+      "title": "Exclusive: THL to acquire Queue-It from GRO Capital as ‘agentic commerce’ grows - pehub.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjN0aDhoYXdoN2luUnpuSk9IQmgyU29sTVB1eDA5MW44bHFjNDZfdUd6d2UteWExcXk2cDVkZ0VVYWpzUmtHTThmZ19Va19YZ3RFYmhOQmhDQTIyMHVRMEhCalZZejA4UVJNaEp0bEhLTUsyenk0NWZrazA3TWE4QmNqOXIxVFJpcG82OURKQ0cxSEFkOTZSbXZVdnpxdXVOTDY1bEpvLVd4NHBFVmdBSWNUeW9nR1I1SXk1ZnFB?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 18 Aug 2026 01:00:29 GMT",
+      "summary": "Exclusive: THL to acquire Queue-It from GRO Capital as ‘agentic commerce’ grows &nbsp;&nbsp; pehub.com",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1787032843.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787014829.0
     },
     {
       "title": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 - MediaPost",
@@ -253,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + raised",
       "published_ts": 1787028560.0
-    },
-    {
-      "title": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzdLUWpMOE1yczNISWwzYkRYd19jNUhHeXVTZ19jM3VQbEdOQThtNHRWTEt3Y3N3WU1oZWZXaGdNb19HSUJXUktwYmY1R0dIcGQ4bFdiYlVJWXNoaHlGd1A2d1ZEWVZKYlQ2TElVbWppMzdtVVZyUTV2SVBubkpabjFZT0hEeDZLREVnV3RmWDFFOS1rRlJzQi1GNGp2dnBPdTBocUVSTjh3TmUzYi1CUGFlb3F2SDNqcFpaUFhYMU5vcHBxQlRKN3pjS1RIVEtkTVRsemNCNlU?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 14 Aug 2026 07:20:16 GMT",
-      "summary": "Klaviyo, Inc. Series A Stock 12‑Month Price Target Cut to $26.65, Implies 39% Upside &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + series a",
-      "published_ts": 1786692016.0
     },
     {
       "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
@@ -489,8 +489,8 @@
   "stats": {
     "total_fetched": 270,
     "kept": 44,
-    "opportunities": 20,
-    "threats": 24,
+    "opportunities": 21,
+    "threats": 23,
     "classifier_mode": "keyword",
     "runtime_seconds": 10.5
   }
