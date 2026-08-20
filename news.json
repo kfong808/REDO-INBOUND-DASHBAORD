@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T14:24:36.535886+00:00",
+  "updated": "2026-08-20T15:22:57.603833+00:00",
   "items": [
     {
       "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
@@ -77,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786968018.0
+    },
+    {
+      "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWktRX0c4eTJEYmlSUUpPb3Y5RmE0VnVfQ0QzdEZGd2tFN2FDYzVkSVpPanhMU1hnMGlWY3BWUm9tWklfaDBiQU05Rlk2ZTdyeFBpLS1lTDN3b1hLay1kWjlXbEktRkQ4bDhUN0dPQlpQbmI4WkM1NnFOY05pMjlWRHJhbEZsTk0?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 15 Aug 2026 07:44:33 GMT",
+      "summary": "AI Shopping Bots Push Adyen Into Loyalty Race &nbsp;&nbsp; Technology Org",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1786779873.0
     },
     {
       "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
@@ -477,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
-    "opportunities": 19,
+    "kept": 44,
+    "opportunities": 20,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 10.5
   }
 }
