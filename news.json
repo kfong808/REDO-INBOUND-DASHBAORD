@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T11:16:49.515939+00:00",
+  "updated": "2026-08-20T12:24:06.914813+00:00",
   "items": [
     {
       "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
@@ -35,6 +35,17 @@
       "published_ts": 1787072705.0
     },
     {
+      "title": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndEaG9NaFpMdzNfaHpxWEN4MVZfRUtObURocEUzZXEyRnEzUTFBY3FjQVlCdHdzSGlGQmpFNFpXcWZxemt1RWtSOFNCQ2lFWFBTZ0t6Q05rTmh2dEtxMnFMM2lNcnVuY0lWOUVZNmtyajNYMXlwaThnUS13Y0l0TnByUy1oOVVlbXpKNk5uRTVHN0s4ZUVkWUxSUEVkQ1BERnpXWjJBdzh2NXhUODlZTlRaSnE2N05jWFJoVQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 18 Aug 2026 15:08:00 GMT",
+      "summary": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce &nbsp;&nbsp; TradingView",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787065680.0
+    },
+    {
       "title": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczMzUUVDWS1aZUxJX3dYaFJBYmJPVHM5RWtzMzJ0QXJ4c0F2WUhsU3Nxb2d2QXdWc0VVeThCMUhaclI1Q2tSMElfS0tRSnNyeUUzVmtBOUxHdDdEZnBudXd4QUtTV1A3U0RjNExzRWNvTU9OVTlFQ1loUGx0UU9LX2tfWGZKWGw1VWUtVXRKSTRXVU5NeW1rTGlxNA?oc=5",
       "source": "Google News: agentic commerce",
@@ -55,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787032843.0
-    },
-    {
-      "title": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 - MediaPost",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWhlNFB5YjJSYUFJZnRpX2RnLXFrMGNvRHRhcXpDUnhZX2s2XzNGS2pPX2lqQUNkQW5UMGdQN1prWHMweWp0anp3MzlJaTdhVlRFbkNPQWJQdHdxUVhNai10RkM2cDItdzZyRHN6V2hGb3c1QTY1UE93aUk4VnFLTkpEVFhjS0N2ZzNLRmVHYlRrdnd2N2RwX01FZE1LTkpqR0M3QktsLV9DQjBlWDF0VFpCdDE1ZlFa?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 17 Aug 2026 12:00:18 GMT",
-      "summary": "Agentic Commerce Forecast To Reach 1.3B Users By 2031 06/29/2026 &nbsp;&nbsp; MediaPost",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786968018.0
     },
     {
       "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
@@ -481,6 +481,6 @@
     "opportunities": 18,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.0
+    "runtime_seconds": 10.4
   }
 }
