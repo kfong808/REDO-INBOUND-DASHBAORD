@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T23:13:12.010661+00:00",
+  "updated": "2026-08-20T00:36:12.088871+00:00",
   "items": [
     {
       "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
@@ -68,11 +68,11 @@
       "published_ts": 1787032843.0
     },
     {
-      "title": "AI Shopping Bots Push Adyen Into Loyalty Race - technology.org",
+      "title": "AI Shopping Bots Push Adyen Into Loyalty Race - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWktRX0c4eTJEYmlSUUpPb3Y5RmE0VnVfQ0QzdEZGd2tFN2FDYzVkSVpPanhMU1hnMGlWY3BWUm9tWklfaDBiQU05Rlk2ZTdyeFBpLS1lTDN3b1hLay1kWjlXbEktRkQ4bDhUN0dPQlpQbmI4WkM1NnFOY05pMjlWRHJhbEZsTk0?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Sat, 15 Aug 2026 07:44:33 GMT",
-      "summary": "AI Shopping Bots Push Adyen Into Loyalty Race &nbsp;&nbsp; technology.org",
+      "summary": "AI Shopping Bots Push Adyen Into Loyalty Race &nbsp;&nbsp; Technology Org",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -154,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
     },
     {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
@@ -499,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
-    "opportunities": 19,
+    "kept": 46,
+    "opportunities": 20,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 11.0
   }
 }
