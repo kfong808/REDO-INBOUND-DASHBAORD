@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T16:21:28.772258+00:00",
+  "updated": "2026-08-20T17:18:34.508499+00:00",
   "items": [
     {
       "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787072705.0
-    },
-    {
-      "title": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndEaG9NaFpMdzNfaHpxWEN4MVZfRUtObURocEUzZXEyRnEzUTFBY3FjQVlCdHdzSGlGQmpFNFpXcWZxemt1RWtSOFNCQ2lFWFBTZ0t6Q05rTmh2dEtxMnFMM2lNcnVuY0lWOUVZNmtyajNYMXlwaThnUS13Y0l0TnByUy1oOVVlbXpKNk5uRTVHN0s4ZUVkWUxSUEVkQ1BERnpXWjJBdzh2NXhUODlZTlRaSnE2N05jWFJoVQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 18 Aug 2026 15:08:00 GMT",
-      "summary": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce &nbsp;&nbsp; TradingView",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787065680.0
     },
     {
       "title": "Tokens Are the New Dollars: Stripe's Agentic Commerce Playbook - Dealroom",
@@ -487,11 +476,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 44,
-    "opportunities": 21,
+    "total_fetched": 269,
+    "kept": 43,
+    "opportunities": 20,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 13.8
   }
 }
