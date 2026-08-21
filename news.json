@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T05:22:28.847741+00:00",
+  "updated": "2026-08-21T06:26:07.663336+00:00",
   "items": [
     {
       "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - Technology Magazine",
@@ -154,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1785315638.0
+    },
+    {
+      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1783753200.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -499,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
-    "opportunities": 21,
+    "kept": 46,
+    "opportunities": 22,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 10.7
   }
 }
