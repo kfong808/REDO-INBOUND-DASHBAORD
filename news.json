@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T17:18:42.159411+00:00",
+  "updated": "2026-08-21T18:21:03.505701+00:00",
   "items": [
     {
       "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - Technology Magazine",
@@ -79,17 +79,6 @@
       "published_ts": 1787072705.0
     },
     {
-      "title": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndEaG9NaFpMdzNfaHpxWEN4MVZfRUtObURocEUzZXEyRnEzUTFBY3FjQVlCdHdzSGlGQmpFNFpXcWZxemt1RWtSOFNCQ2lFWFBTZ0t6Q05rTmh2dEtxMnFMM2lNcnVuY0lWOUVZNmtyajNYMXlwaThnUS13Y0l0TnByUy1oOVVlbXpKNk5uRTVHN0s4ZUVkWUxSUEVkQ1BERnpXWjJBdzh2NXhUODlZTlRaSnE2N05jWFJoVQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 18 Aug 2026 15:08:00 GMT",
-      "summary": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce &nbsp;&nbsp; TradingView",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787065680.0
-    },
-    {
       "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -99,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1786435496.0
-    },
-    {
-      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaQmR4RVZpWXREQ0JJZHF2ZnN3a25TNENycnBVaWs1a09za3B2ZFhvNzRoWVVNVDVJc3F4elBuRmtaZVVJUGFPRkgtOHZERnB6d3NGSUxsajBzT1EyRzJXQkdwYnA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity &nbsp;&nbsp; Salesforce",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786086000.0
     },
     {
       "title": "New Ecommerce Tools: July 29, 2026",
@@ -187,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
-    },
-    {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -520,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 47,
-    "opportunities": 21,
+    "total_fetched": 270,
+    "kept": 44,
+    "opportunities": 18,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 10.4
   }
 }
