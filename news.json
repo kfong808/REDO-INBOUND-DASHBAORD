@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T00:38:37.228612+00:00",
+  "updated": "2026-08-21T02:16:40.045852+00:00",
   "items": [
     {
       "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - Technology Magazine",
@@ -321,6 +321,17 @@
       "published_ts": 1785913200.0
     },
     {
+      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Mon, 03 Aug 2026 18:25:18 GMT",
+      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; Dealroom",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + acquisition",
+      "published_ts": 1785781518.0
+    },
+    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -499,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
+    "kept": 46,
     "opportunities": 21,
-    "threats": 24,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 11.4
   }
 }
