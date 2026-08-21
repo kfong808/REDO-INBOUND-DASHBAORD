@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:18:37.690345+00:00",
+  "updated": "2026-08-21T20:13:37.446029+00:00",
   "items": [
     {
       "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - Technology Magazine",
@@ -420,17 +420,6 @@
       "published_ts": 1764316800.0
     },
     {
-      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEtjRVF4ZWRVbVIwWDFMZ0JVbTd2eTlPQm1tNzBSem81LW13UWF6MWYxR1ctVkxSa3RUeFpVYm9oeDNZeDdsdDJpYURvWDBYYzJqQXdkdHk0NFItaTI4N1dIUHI2aEdCdUY4TEdrdGMtck9LY3ZsRDZhWlVSNVlScjdCemhnSktsR1RGNkxwWXprdjlKTW1WX2ZEUk5xSDg0Nlo4Slhzbk1QcG5zY0kwX2lLaDVXR1ZvN0ZTbVpRZFBFdjRVRXphenVOUTF2YUdwWm16MVN4Nk5uZzA?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1762416000.0
-    },
-    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -488,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
+    "kept": 43,
     "opportunities": 18,
-    "threats": 26,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 11.2
   }
 }
