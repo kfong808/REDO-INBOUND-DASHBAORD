@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-20T23:15:38.330362+00:00",
+  "updated": "2026-08-21T00:38:37.228612+00:00",
   "items": [
+    {
+      "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - Technology Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MMUNuWDJVMlZPdHZ4eW9zQ2lmYlNVRl9BOURPdnJ3RF90OEMwRW9XQkZMRFdwek9kMVl3emZ6cU55TEg0Uk52YTBQVWxaZXhCOWQtekNJc1pFMlYwUGJJdmxR?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 21 Aug 2026 00:13:37 GMT",
+      "summary": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools &nbsp;&nbsp; Technology Magazine",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787271217.0
+    },
     {
       "title": "AIibaba Focuses on Agentic Commerce as AI Spending Balloons - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm54MVNRNEJkdTlrX0RqUmZRUmR4RWh2OTlhVEYtMEtJV3FocDVuNElFY1kxOHVidk96Z0otUnZaamdBZzAyTjI5ZUQyQnpvZGw1QmdndFdaQmoxdXBRZ0tSbl9jNnNBOFc2dXZib1pHSGt6UXNzcm1ZWHBlYnAtdFhhX1N3Szk3RHdZUkhTcUgtTWZGUnc?oc=5",
@@ -11,17 +22,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787252921.0
-    },
-    {
-      "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOEt5blVwSmplekRUQXd0XzMxbk9LZ3ZXS2IzRGxfR1AzVGpyV245WjVQN3ZhclRRNXRMak40RmdZMmhneDgzWm1od0ZDM1hsLXM0cFQyWjA2TEk2WDYyMGs1VGtJclpfdTJZWWFGcmJFR1hkeXhFNUFDNjJZOTFDbG1zWFpQX3A0d1p2TThoVFRVS2haTWpGakZ6cEp2YWhJZDdENk1kNFJzeDRPSDdPU3Y0eVZiNHNBb29WZEZsMjZhcUdXTHdGcXlsVklKaDBBaURnRU5rdEJzY0lCWUp3cTcyT0NDeGU0U1dKaWp5SmjSAfYBQVVfeXFMTWp4ZHZ6eWRDSEp4WmFyODdqcElrT05QeURBQjdQUGl1a3BDZmhZemJxb3FHZUZvOG5HbzU3WWUwLWN1VGxqSTBzTlJUOEY4b0V0X1JoYkpiRkhHN3cxTkRKVTE2Nms2NUd2dVN0NDUtcmRicmpyMkwyLWVZUUhRUk1SV2hMeF9oZGZPamc2bWJkLVhuTGU3Z3V1OUx6MFFDWlR6TS1PTlVZWjllbGllM2FDUDFoc3BRd2tid0FVTUpnRkY4RzBrZGszNmQwSDFuMW4zYlVVejhLV29rS3JUUnliaGdJMDZzTlM0bHA5cGlIYnJkT1NR?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 20 Aug 2026 17:20:59 GMT",
-      "summary": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools &nbsp;&nbsp; The Manila Times",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787246459.0
     },
     {
       "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
@@ -503,6 +503,6 @@
     "opportunities": 21,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.4
+    "runtime_seconds": 11.0
   }
 }
