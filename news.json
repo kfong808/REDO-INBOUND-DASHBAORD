@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:21:03.505701+00:00",
+  "updated": "2026-08-21T19:18:37.690345+00:00",
   "items": [
     {
       "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - Technology Magazine",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 44,
     "opportunities": 18,
     "threats": 26,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 10.9
   }
 }
