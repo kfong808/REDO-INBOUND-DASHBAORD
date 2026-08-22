@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:13:37.764627+00:00",
+  "updated": "2026-08-22T19:14:59.194888+00:00",
   "items": [
     {
       "title": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? - simplywall.st",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787362692.0
+    },
+    {
+      "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools - Technology Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MMUNuWDJVMlZPdHZ4eW9zQ2lmYlNVRl9BOURPdnJ3RF90OEMwRW9XQkZMRFdwek9kMVl3emZ6cU55TEg0Uk52YTBQVWxaZXhCOWQtekNJc1pFMlYwUGJJdmxR?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 21 Aug 2026 00:13:37 GMT",
+      "summary": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools &nbsp;&nbsp; Technology Magazine",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787271217.0
     },
     {
       "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
@@ -93,12 +104,12 @@
       "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Tue, 11 Aug 2026 08:04:56 GMT",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1786435496.0
+      "published_ts": 1786431600.0
     },
     {
       "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
@@ -110,6 +121,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1786086000.0
+    },
+    {
+      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; Business Wire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1785394800.0
     },
     {
       "title": "New Ecommerce Tools: July 29, 2026",
@@ -143,28 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
-    },
-    {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781161200.0
     },
     {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
@@ -481,6 +481,6 @@
     "opportunities": 18,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 10.0
   }
 }
