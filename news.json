@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:21:40.095882+00:00",
+  "updated": "2026-08-23T07:24:21.918947+00:00",
   "items": [
     {
       "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
@@ -448,6 +448,6 @@
     "opportunities": 17,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.0
   }
 }
