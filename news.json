@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:13:41.703820+00:00",
+  "updated": "2026-08-23T19:14:15.906677+00:00",
   "items": [
     {
       "title": "Double-Digit Ecommerce Growth Returns",
@@ -233,17 +233,6 @@
       "published_ts": 1787028560.0
     },
     {
-      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
-      "source": "Google News: Loop Returns",
-      "published": "Wed, 12 Aug 2026 02:42:49 GMT",
-      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; The Outerhaven",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Loop Returns",
-      "published_ts": 1786502569.0
-    },
-    {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
       "source": "Google News: Postscript",
@@ -444,10 +433,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 40,
+    "kept": 39,
     "opportunities": 16,
-    "threats": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 9.9
   }
 }
