@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:24:16.967329+00:00",
+  "updated": "2026-08-24T13:41:35.805951+00:00",
   "items": [
     {
       "title": "Mediocrity will evaporate: Why agentic commerce changes how brands compete - Mi-3.com.au.",
@@ -26,7 +26,7 @@
     {
       "title": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkI5T0lCeVdrYmhsNW1Oa2tGQjJnTDVqV2NGTnZiYXhXdVJUOVByeFBvLUZiX3drRFc5cVV2NGVRVVhqekF1MzFzRzAwOWgxX0FHNWIxOFZseU10RlViQ0dWUXl5bmlUNlVGWDRQa3VhNmhSZERMVXlHNU93eHRJdHFmVlhfLUhnMk9Ga0xxQS14ZHZ2em9kQWJiczJKcmVPQUFXRVFSNEtRVlVfMWt5eFZTb05YQ3hJMHhTZWpRSF83ZlJm0gHKAUFVX3lxTFA3bTJWdml0dW9ic3dfWFUtMGlGRFg0THh2Z1duSU1tOG5fV1E1Y05UTmt3WEFFWUc0eFRlNXZTMEVCNWFfR2k3WVh0Yms2VHg1bmcwWEdLVC1GNG1VWldEdVV6RGtZTmZZVmtfbXRJVi02Q0wtdVNvSzktbzZKQllkMEQ3eDdSSnZXb3oxazA5SGY2QUFleU95ZXJEczI2OUN3X2FEU0Q4WENnaWlJVDR2VXhJY1ZoTHhVMjRuXzNoLUNyU2pMX1JNdFE?oc=5",
-      "source": "Google News: Shopify",
+      "source": "Google News: agentic commerce",
       "published": "Sat, 22 Aug 2026 01:38:12 GMT",
       "summary": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? &nbsp;&nbsp; simplywall.st",
       "classification": "opportunity",
@@ -465,11 +465,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
+    "total_fetched": 269,
     "kept": 42,
     "opportunities": 17,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 10.3
   }
 }
