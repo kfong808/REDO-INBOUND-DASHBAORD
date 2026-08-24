@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T00:37:51.383066+00:00",
+  "updated": "2026-08-24T02:15:53.115628+00:00",
   "items": [
     {
       "title": "Mediocrity will evaporate: Why agentic commerce changes how brands compete - Mi-3.com.au.",
@@ -454,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 268,
     "kept": 41,
     "opportunities": 18,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 10.8
   }
 }
