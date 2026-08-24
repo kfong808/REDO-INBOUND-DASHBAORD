@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:17:19.425022+00:00",
+  "updated": "2026-08-24T12:24:16.967329+00:00",
   "items": [
     {
       "title": "Mediocrity will evaporate: Why agentic commerce changes how brands compete - Mi-3.com.au.",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787181262.0
-    },
-    {
-      "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUdpeXVkUWs3ZkJnWFRuRVhKV3VIVURVRWdKWWoybl9lRDJLTmNtSUxUanMtRDRVeUZNZjI2NE9VM3VZSnpXWlpmUW92eUI2R1V6V0Y0bVRaVTFXamIxdHZwek5hNXRrZzJaSXZpTFF5SFJkdDY1Y3ZiaXJ1SW9palgwYWNiODlTNTFscG04dG1TaDBiR3MwY0NhLU1ycWs?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 19 Aug 2026 16:48:25 GMT",
-      "summary": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains &nbsp;&nbsp; Innovation & Tech Today",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787158105.0
     },
     {
       "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
@@ -343,6 +332,17 @@
       "published_ts": 1778742000.0
     },
     {
+      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - Eastern Progress",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORXFHUXdRa0dMR0pYY3Y3Ml96R0tNMWlRckpkR1ByME1NSFVtaU1MWWpQMGViZVZscGxnRHBwOGo5SVJmdlQwWXZocVNEOFRQdVA4UVFyZUVyVVNIMWtsb09NMDFSSDdmUTJQTnFlSndxeGtZaXdvUk40S05jZ0M0YVlmNDByTTlmbUxfaUdHLTZIQWZwa0lRSEpfMm8yczFQZEtSRFY5ejktNmJIODhNRHVpcDFJV01sa014THdGTjZBTWpnUFV5TnJ2cmQ5OGh1enVTU0dpaS1pb2xWYWc?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; Eastern Progress",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
@@ -467,9 +467,9 @@
   "stats": {
     "total_fetched": 268,
     "kept": 42,
-    "opportunities": 18,
-    "threats": 24,
+    "opportunities": 17,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.8
+    "runtime_seconds": 10.1
   }
 }
