@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:28:01.512118+00:00",
+  "updated": "2026-08-24T16:22:58.907053+00:00",
   "items": [
     {
       "title": "How businesses should prepare for agentic commerce - EY",
@@ -299,6 +299,17 @@
       "published_ts": 1785913200.0
     },
     {
+      "title": "Postscript On Gerry Cosby's Magnificent Hockey Store - The Hockey News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTJUWG5Hb3lRclpMX2gwTXpIOFRfTEc5aFpHY0dUdXIwVmNQVHF4MHZSSGJHcDZFQzA4S2l3aFZ6c1VnZG16alNidmZvNWhIVVVLc1k5Rkk2a3ZLZnRwQjJRYU9sQTZzaEtFQUdNSUl0Q214c2NmQ0NWdDFDbWVmanBRM3l3Zzc4Zm1pN1JYblRQSi1CLUxDd0hXWTN4cm5hQTFDUGdweXo5dF8wQ3ow?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Thu, 30 Jul 2026 15:45:31 GMT",
+      "summary": "Postscript On Gerry Cosby's Magnificent Hockey Store &nbsp;&nbsp; The Hockey News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1785426331.0
+    },
+    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -374,6 +385,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1772179200.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -488,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
+    "kept": 46,
     "opportunities": 19,
-    "threats": 25,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 10.6
   }
 }
