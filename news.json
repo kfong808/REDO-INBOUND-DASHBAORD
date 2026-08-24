@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T14:31:07.337637+00:00",
+  "updated": "2026-08-24T15:28:01.512118+00:00",
   "items": [
     {
       "title": "How businesses should prepare for agentic commerce - EY",
@@ -112,17 +112,6 @@
       "published_ts": 1786086000.0
     },
     {
-      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUwzYU1MbHNKa0xhZjkzUTJxTzlIOE1YRzdybUl4bk5XRHpCUzE0bnpad0tnR2xqakx0X0RrbEptUUl3VHJFYWw5bkRaTjhYTmhvX3FqR0hJdkM5Z0ZaSkJuVVg3ZS1vYThPOEpESXdNak91eE5yWWhLbkxSVDBCaWs5bXhYa25VN1pPREZOOEhWTHRzVlJkQjhtR0dkZW1MZ19VNkZjTVd6Q1k2QnBOa2dGMHdhUVdFRExpNEVmaEVSX2d1NVFKUTF3a0tZbTdidHI5cy1UaWNTaUk2RGQ0SHpDRy05cm03?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1785394800.0
-    },
-    {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
@@ -145,6 +134,17 @@
       "published_ts": 1782111600.0
     },
     {
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781247600.0
+    },
+    {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -154,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781161200.0
+    },
+    {
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1779260400.0
     },
     {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
@@ -176,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1773730800.0
+    },
+    {
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -222,6 +244,28 @@
       "published_ts": 1787144400.0
     },
     {
+      "title": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc19CNTFoMWNRbXRYaDdPMzhqekRtS1l3RnR6NmcyMldnM0hXS3ZIeE9rdlFkd1BaS3FYdE5HY08zWmptOEsybmM3MHZIQ2RqRFF6aWtnMk1PbFV0TXNNZEo5Y3ZEYW1Vb2JlajljdjFxZEZaVnZOZ0VQMktDMjdLWV9JU01ZTi1DSDJXMi00bHE4SkpNek5lZ1FkWTNiRlBwWlpLeGNIcTNpTXFrQmhSbGtUZU9CX2UzZjFxLTlxaGo0NUZlb2x4V1l3?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 18 Aug 2026 18:56:51 GMT",
+      "summary": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres &nbsp;&nbsp; AI Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1787079411.0
+    },
+    {
+      "title": "Should Klaviyo’s (KVYO) Strong Q2, Raised Guidance and AI Agency Deal Prompt Investor Reassessment? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW4tRzNSZDVlUUdhb1VOQWtLcDdrN0Uwa1dGYzNYclFoV2NELS1FZzg3aVdLaWhtRXBEeWxnV2IyYzB4OVd0LV9TX3lUbUFUOU95bkRkTG0tS2pldW5Xa2V0ZWljbXF1NS1qWFE3Y0xlMDc3WHhtVTZSNFdQQ0Nqd0hnU0xCelVlYTFFd0gybkNDbzhyTWNpbFdFdXFWZG0wR05ONTQ2akwwM3VtZWlJWVdXbXczZzd6NkV3dFhqNDl0QdIBxwFBVV95cUxOT3M5UFQ5S2hGR3JnU3hKNXdmZi1UcTI0RDFZa21qSmlxS2NBWTZ6dUVjelAyOU1QUWlQbG5mbHVKNEp0OWNJNzNKWVBtQnFVamw2Qk1uR3RWd0JMTjdvRlh1WlFGd2FIWmtILTFoQlEzcGdaTUQySktjTWkzQ2hFVVc5UURwSF9xeUFQRFc4dXhZeUYwc3J2bWJaOUI0Q2IxbHpOTF91bEtZNXBvQlBwazFtdnY0TkU4ejhGX2ZmaC1aOTdUcktn?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 18 Aug 2026 04:49:20 GMT",
+      "summary": "Should Klaviyo’s (KVYO) Strong Q2, Raised Guidance and AI Agency Deal Prompt Investor Reassessment? &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raised",
+      "published_ts": 1787028560.0
+    },
+    {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
       "source": "Google News: Postscript",
@@ -264,28 +308,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
-    },
-    {
-      "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Klaviyo launches beta for marketing AI agents &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1782889200.0
-    },
-    {
-      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -466,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 42,
-    "opportunities": 17,
+    "kept": 44,
+    "opportunities": 19,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 11.1
   }
 }
