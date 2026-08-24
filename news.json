@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T22:14:31.304690+00:00",
+  "updated": "2026-08-24T23:13:40.374959+00:00",
   "items": [
     {
       "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery - Robotics & Automation News",
@@ -167,17 +167,6 @@
       "published_ts": 1781161200.0
     },
     {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1779260400.0
-    },
-    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -286,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
       "published_ts": 1785913200.0
+    },
+    {
+      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Mon, 03 Aug 2026 18:25:18 GMT",
+      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; Dealroom",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + acquisition",
+      "published_ts": 1785781518.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -478,9 +478,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 43,
-    "opportunities": 19,
-    "threats": 24,
+    "opportunities": 18,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.4
+    "runtime_seconds": 11.8
   }
 }
