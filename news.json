@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T18:23:13.647142+00:00",
+  "updated": "2026-08-24T19:21:12.989054+00:00",
   "items": [
     {
       "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery - Robotics & Automation News",
@@ -189,6 +189,17 @@
       "published_ts": 1773730800.0
     },
     {
+      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1770019200.0
+    },
+    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -198,6 +209,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
     },
     {
       "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
@@ -242,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
       "published_ts": 1787079411.0
-    },
-    {
-      "title": "Should Klaviyo’s (KVYO) Strong Q2, Raised Guidance and AI Agency Deal Prompt Investor Reassessment? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW4tRzNSZDVlUUdhb1VOQWtLcDdrN0Uwa1dGYzNYclFoV2NELS1FZzg3aVdLaWhtRXBEeWxnV2IyYzB4OVd0LV9TX3lUbUFUOU95bkRkTG0tS2pldW5Xa2V0ZWljbXF1NS1qWFE3Y0xlMDc3WHhtVTZSNFdQQ0Nqd0hnU0xCelVlYTFFd0gybkNDbzhyTWNpbFdFdXFWZG0wR05ONTQ2akwwM3VtZWlJWVdXbXczZzd6NkV3dFhqNDl0QdIBxwFBVV95cUxOT3M5UFQ5S2hGR3JnU3hKNXdmZi1UcTI0RDFZa21qSmlxS2NBWTZ6dUVjelAyOU1QUWlQbG5mbHVKNEp0OWNJNzNKWVBtQnFVamw2Qk1uR3RWd0JMTjdvRlh1WlFGd2FIWmtILTFoQlEzcGdaTUQySktjTWkzQ2hFVVc5UURwSF9xeUFQRFc4dXhZeUYwc3J2bWJaOUI0Q2IxbHpOTF91bEtZNXBvQlBwazFtdnY0TkU4ejhGX2ZmaC1aOTdUcktn?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 18 Aug 2026 04:49:20 GMT",
-      "summary": "Should Klaviyo’s (KVYO) Strong Q2, Raised Guidance and AI Agency Deal Prompt Investor Reassessment? &nbsp;&nbsp; simplywall.st",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raised",
-      "published_ts": 1787028560.0
     },
     {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
@@ -363,17 +374,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
-    },
-    {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1772179200.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -489,9 +489,9 @@
   "stats": {
     "total_fetched": 268,
     "kept": 44,
-    "opportunities": 18,
-    "threats": 26,
+    "opportunities": 20,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 10.7
   }
 }
