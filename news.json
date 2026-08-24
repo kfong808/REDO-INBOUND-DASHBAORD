@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-24T19:21:12.989054+00:00",
+  "updated": "2026-08-24T20:17:45.222053+00:00",
   "items": [
     {
       "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery - Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGxYNkZUUDFqbnJpeXc3bjgwQ1FyalliMllzN1ItZ1NaUVB1aWtpTE1KbGVUaUJZSnFYOXRmb0pWcEJoWW0xOGxOYmh1YmpTM2Y2VUZxVjFyRloyd1NMT1dpOG8xdkpJUExjNVlVaWp5WjVuU2Q3NHlQQk1TLTd0V2hRLWtDWW1MeW1URW1ubHNTVDdIYjRueFJBT1VvWUQ4SUIxdmNUdmJnSk9IZ2s3S0piTkw5WmFFT0ZES21lOXdaeFZ4NTF3cUFVYUNnQUU?oc=5",
-      "source": "Google News: agentic commerce",
+      "source": "Google News: AI shopping agent",
       "published": "Mon, 24 Aug 2026 17:47:02 GMT",
       "summary": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery &nbsp;&nbsp; Robotics & Automation News",
       "classification": "opportunity",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1787488021.0
+    },
+    {
+      "title": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkI5T0lCeVdrYmhsNW1Oa2tGQjJnTDVqV2NGTnZiYXhXdVJUOVByeFBvLUZiX3drRFc5cVV2NGVRVVhqekF1MzFzRzAwOWgxX0FHNWIxOFZseU10RlViQ0dWUXl5bmlUNlVGWDRQa3VhNmhSZERMVXlHNU93eHRJdHFmVlhfLUhnMk9Ga0xxQS14ZHZ2em9kQWJiczJKcmVPQUFXRVFSNEtRVlVfMWt5eFZTb05YQ3hJMHhTZWpRSF83ZlJm0gHKAUFVX3lxTFA3bTJWdml0dW9ic3dfWFUtMGlGRFg0THh2Z1duSU1tOG5fV1E1Y05UTmt3WEFFWUc0eFRlNXZTMEVCNWFfR2k3WVh0Yms2VHg1bmcwWEdLVC1GNG1VWldEdVV6RGtZTmZZVmtfbXRJVi02Q0wtdVNvSzktbzZKQllkMEQ3eDdSSnZXb3oxazA5SGY2QUFleU95ZXJEczI2OUN3X2FEU0Q4WENnaWlJVDR2VXhJY1ZoTHhVMjRuXzNoLUNyU2pMX1JNdFE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sat, 22 Aug 2026 01:38:12 GMT",
+      "summary": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? &nbsp;&nbsp; simplywall.st",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787362692.0
     },
     {
       "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
@@ -189,17 +200,6 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1770019200.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -209,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
@@ -487,11 +476,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 44,
-    "opportunities": 20,
+    "total_fetched": 269,
+    "kept": 43,
+    "opportunities": 19,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 10.8
   }
 }
