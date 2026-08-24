@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T04:34:25.000244+00:00",
+  "updated": "2026-08-24T05:29:12.605356+00:00",
   "items": [
     {
       "title": "Mediocrity will evaporate: Why agentic commerce changes how brands compete - Mi-3.com.au.",
@@ -255,6 +255,17 @@
       "published_ts": 1787028560.0
     },
     {
+      "title": "Being attentive can influence what happens inside your body, study finds - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXphUk1VY3dhNmRJdnZZdVNxdTNrV2dBWG8ta1VrWnZxV3ZyMlFpdkJxQmZKdUFuTVM1T2tTc3dQSnhCYnFnNnRKVEpwTklQMGlTSl9qWEc5RmNEUTZjM3RXUnpWX1RNQ3FjZEVwb1ZjOGhTWFFEWkJLcTd0ekRlVUtwbmtLbkxr?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 17 Aug 2026 14:09:40 GMT",
+      "summary": "Being attentive can influence what happens inside your body, study finds &nbsp;&nbsp; Yahoo News Singapore",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1786975780.0
+    },
+    {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
       "source": "Google News: Postscript",
@@ -264,17 +275,6 @@
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1786348800.0
-    },
-    {
-      "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation &nbsp;&nbsp; GetLatka",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + valuation",
-      "published_ts": 1785999600.0
     },
     {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
@@ -409,6 +409,17 @@
       "published_ts": 1762416000.0
     },
     {
+      "title": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3JJby1WWjdyQXdOcExhdWhuQ3o1N2trbEx3QzBocDc4bGtTZzhIZVhBcGhoMVk3MHN3bjdwdVluZDRDS09HbnNGN0V4M25UUzk1azNJZkFyemJ1U0x5dndGclhFXzB6RG56cHFvdG9TdENJZEdwUnNJRk8tM1VaYWZZME9VWXZlTjZGdXJ2YmJMNHV6ZVVOQ09KYzgyWW5KenhHelpR?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "summary": "ATTENTIVE RANKS TOP 20 ON FORBES 2025 CLOUD 100 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1756882800.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -455,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 41,
+    "kept": 42,
     "opportunities": 18,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 11.1
   }
 }
