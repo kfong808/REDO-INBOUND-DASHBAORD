@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T08:34:58.268522+00:00",
+  "updated": "2026-08-24T09:35:10.943236+00:00",
   "items": [
     {
       "title": "Mediocrity will evaporate: Why agentic commerce changes how brands compete - Mi-3.com.au.",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787362692.0
-    },
-    {
-      "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
-      "url": "https://www.retaildive.com/news/tjx-blames-merchandising-missteps-rare-miss-us-tjmaxx-marshalls-stores/828295/",
-      "source": "Retail Dive",
-      "published": "Thu, 20 Aug 2026 11:44:00 -0400",
-      "summary": "Some analysts believe the off-price retailer is also suffering the consequences of stiffer competition and consumers&rsquo; resistance to price increases.",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: price increase",
-      "published_ts": 1787240640.0
     },
     {
       "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
@@ -466,10 +455,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 42,
-    "opportunities": 17,
+    "kept": 41,
+    "opportunities": 16,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.5
+    "runtime_seconds": 9.0
   }
 }
