@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T14:33:55.041439+00:00",
+  "updated": "2026-08-25T15:32:44.147764+00:00",
   "items": [
     {
       "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787617800.0
+    },
+    {
+      "title": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fT3VraEdlWnF0WW9TMWU5NlREYWQxMkVpa2JxR1BWVXkxclhDTW13a2Ywb3VSdHFxU1BGeFhUa1NDcnpkYzFYOHppejJvY3ZjX2RpWUlhcw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 25 Aug 2026 00:24:20 GMT",
+      "summary": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search &nbsp;&nbsp; 헤럴드경제",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787617460.0
     },
     {
       "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery - Robotics & Automation News",
@@ -222,17 +233,6 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -255,17 +255,6 @@
       "published_ts": 1787314095.0
     },
     {
-      "title": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjBON2JHVTlhNFF0Njd1MFRqQUJDWHBURWJhZ3dzWXdZS2o4d2FQNzdoMnpYOVJ0dzhTbzZSN3lqRXh4XzhQM2p0SWMtZlltU1ZfaE9UdHM4dUpTMm5hNGxLaEtVTWpoZWMyajZUVE9fNVB3S21XeUxlQ05WYUdURGVzYk9NVlE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 20 Aug 2026 17:44:22 GMT",
-      "summary": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) &nbsp;&nbsp; Seeking Alpha",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + new product",
-      "published_ts": 1787247862.0
-    },
-    {
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
       "source": "Google News: Attentive",
@@ -275,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Attentive + launches",
       "published_ts": 1787144400.0
-    },
-    {
-      "title": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres - AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc19CNTFoMWNRbXRYaDdPMzhqekRtS1l3RnR6NmcyMldnM0hXS3ZIeE9rdlFkd1BaS3FYdE5HY08zWmptOEsybmM3MHZIQ2RqRFF6aWtnMk1PbFV0TXNNZEo5Y3ZEYW1Vb2JlajljdjFxZEZaVnZOZ0VQMktDMjdLWV9JU01ZTi1DSDJXMi00bHE4SkpNek5lZ1FkWTNiRlBwWlpLeGNIcTNpTXFrQmhSbGtUZU9CX2UzZjFxLTlxaGo0NUZlb2x4V1l3?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 18 Aug 2026 18:56:51 GMT",
-      "summary": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres &nbsp;&nbsp; AI Insider",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1787079411.0
     },
     {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
@@ -330,6 +308,28 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
+    },
+    {
+      "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Klaviyo launches beta for marketing AI agents &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1782889200.0
+    },
+    {
+      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -514,6 +514,6 @@
     "opportunities": 22,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 10.6
   }
 }
