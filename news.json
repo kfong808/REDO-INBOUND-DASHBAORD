@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-25T16:25:41.122604+00:00",
+  "updated": "2026-08-25T17:22:11.356329+00:00",
   "items": [
+    {
+      "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWdSLUt1N0g1bkFjazBZNHZUVm1qZ1R6Ym5CT2ZKV2NZWWE3blRXZHJnSTE3MGhRUFlmOW9OQ2tJMm5oWUlZRGlkcHlPN3hkaWVFTGpmZ1U2RjNLUW1JWFlvdVBsLXRtRHNqTlVrLVB5NDB5SDYzYzN6bFdEeHloWDhTd1pRZ1dxSUl2NUR2cENianlRUE9JdXc4NjhCVzZP?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 25 Aug 2026 11:04:24 GMT",
+      "summary": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility &nbsp;&nbsp; The AI Journal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787655864.0
+    },
     {
       "title": "Stocky alternates? Export your supplier data first",
       "url": "https://www.reddit.com/r/shopify/comments/1vxvrc4/stocky_alternates_export_your_supplier_data_first/",
@@ -24,6 +35,61 @@
       "published_ts": 1787630400.0
     },
     {
+      "title": "The trust gap that will decide agentic commerce in Asian retail - Asian Business Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzA5VzZIVHFjODdfVDFkVXRFOUpFdFFORC1qYnF5ejg4NXNLbEVoeU5URXpjQm42VVhSbEJUR2gxSjJfZGxKc1ZxVThYWnk5RTlhOFoxQklIY054QTdSNDY5ZldCLWVtWjgyaWJvNmlqZDhoYjdORVVZZElsTXh0elQ0d2FYUXVhOW5za0U3Yjc5YkQtMHhlVlFhS2lOUQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 25 Aug 2026 00:30:00 GMT",
+      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Asian Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787617800.0
+    },
+    {
+      "title": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fT3VraEdlWnF0WW9TMWU5NlREYWQxMkVpa2JxR1BWVXkxclhDTW13a2Ywb3VSdHFxU1BGeFhUa1NDcnpkYzFYOHppejJvY3ZjX2RpWUlhcw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 25 Aug 2026 00:24:20 GMT",
+      "summary": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search &nbsp;&nbsp; 헤럴드경제",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787617460.0
+    },
+    {
+      "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGxYNkZUUDFqbnJpeXc3bjgwQ1FyalliMllzN1ItZ1NaUVB1aWtpTE1KbGVUaUJZSnFYOXRmb0pWcEJoWW0xOGxOYmh1YmpTM2Y2VUZxVjFyRloyd1NMT1dpOG8xdkpJUExjNVlVaWp5WjVuU2Q3NHlQQk1TLTd0V2hRLWtDWW1MeW1URW1ubHNTVDdIYjRueFJBT1VvWUQ4SUIxdmNUdmJnSk9IZ2s3S0piTkw5WmFFT0ZES21lOXdaeFZ4NTF3cUFVYUNnQUU?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 24 Aug 2026 17:47:02 GMT",
+      "summary": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery &nbsp;&nbsp; Robotics & Automation News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787593622.0
+    },
+    {
+      "title": "Synchrony, OpenAI Partner on Agentic Commerce - CDO Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVlqbDk3cjd0bUd3WGhWSlJtQW1CNk5OZEJkZzYtZjZmaHBDLTVFRGVNODRSN1NZTGh3Q3lmd3cyZjlZdmxMbzEyRzZfaUJTZnFySXlWZ3pNd1dNbHNnQmFPT0pocTJCUjMwMlh6MmowWHdCaHU3cXVuLVNCOUNaLThXV2I?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 24 Aug 2026 15:57:00 GMT",
+      "summary": "Synchrony, OpenAI Partner on Agentic Commerce &nbsp;&nbsp; CDO Magazine",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787587020.0
+    },
+    {
+      "title": "How businesses should prepare for agentic commerce - EY",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3NqaEJxaEc2OS0zRFJEWHI5cDEzb01NVkNzN09SdFhsZFdVbWIxalR3ajIyNjFyTU1ySUNUdFAwOFpTZlJRcEtmdkhmRlNUUENfVXU2YjhLSnRsR08zb0I3ZGdJQ1RKbWUxRXlYN2JuS2tWSE1aZEZfMlpBWUtCOEFBdTl2UUVqdUJVWWZ6a3BjNEVmNGVwejBaekFLejZfeFpLVlNMUkpmLWc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 24 Aug 2026 12:11:25 GMT",
+      "summary": "How businesses should prepare for agentic commerce &nbsp;&nbsp; EY",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787573485.0
+    },
+    {
       "title": "Double-Digit Ecommerce Growth Returns",
       "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
       "source": "Practical Ecommerce",
@@ -33,14 +99,410 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1787488021.0
+    },
+    {
+      "title": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkI5T0lCeVdrYmhsNW1Oa2tGQjJnTDVqV2NGTnZiYXhXdVJUOVByeFBvLUZiX3drRFc5cVV2NGVRVVhqekF1MzFzRzAwOWgxX0FHNWIxOFZseU10RlViQ0dWUXl5bmlUNlVGWDRQa3VhNmhSZERMVXlHNU93eHRJdHFmVlhfLUhnMk9Ga0xxQS14ZHZ2em9kQWJiczJKcmVPQUFXRVFSNEtRVlVfMWt5eFZTb05YQ3hJMHhTZWpRSF83ZlJm0gHKAUFVX3lxTFA3bTJWdml0dW9ic3dfWFUtMGlGRFg0THh2Z1duSU1tOG5fV1E1Y05UTmt3WEFFWUc0eFRlNXZTMEVCNWFfR2k3WVh0Yms2VHg1bmcwWEdLVC1GNG1VWldEdVV6RGtZTmZZVmtfbXRJVi02Q0wtdVNvSzktbzZKQllkMEQ3eDdSSnZXb3oxazA5SGY2QUFleU95ZXJEczI2OUN3X2FEU0Q4WENnaWlJVDR2VXhJY1ZoTHhVMjRuXzNoLUNyU2pMX1JNdFE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sat, 22 Aug 2026 01:38:12 GMT",
+      "summary": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? &nbsp;&nbsp; simplywall.st",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787362692.0
+    },
+    {
+      "title": "AIibaba Focuses on Agentic Commerce as AI Spending Balloons - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm54MVNRNEJkdTlrX0RqUmZRUmR4RWh2OTlhVEYtMEtJV3FocDVuNElFY1kxOHVidk96Z0otUnZaamdBZzAyTjI5ZUQyQnpvZGw1QmdndFdaQmoxdXBRZ0tSbl9jNnNBOFc2dXZib1pHSGt6UXNzcm1ZWHBlYnAtdFhhX1N3Szk3RHdZUkhTcUgtTWZGUnc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 20 Aug 2026 19:09:28 GMT",
+      "summary": "AIibaba Focuses on Agentic Commerce as AI Spending Balloons &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787252968.0
+    },
+    {
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 20 Aug 2026 11:51:59 GMT",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787226719.0
+    },
+    {
+      "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nRXdzWnZvaTN5WGdKZlh0WTZUaF9iVzcwWjc5TXE1SmsxMHhzNmtqR3huUW9yQnRYMFJ5TDdtMU9iMGRBRWJBeVJ4bUswZm9HczkzenR5RUR5aS1WTlh3aHNETF9EYXREX0xMTl91dzNHWWdP?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 19 Aug 2026 23:14:22 GMT",
+      "summary": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) &nbsp;&nbsp; Shopify",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1787181262.0
+    },
+    {
+      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1786431600.0
+    },
+    {
+      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1783753200.0
+    },
+    {
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1782111600.0
+    },
+    {
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781247600.0
+    },
+    {
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781161200.0
+    },
+    {
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
+      "source": "Google News: abandoned cart recovery",
+      "published": "Wed, 01 Apr 2026 13:54:08 GMT",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1775051648.0
+    },
+    {
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1773730800.0
+    },
+    {
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1768464000.0
+    },
+    {
+      "title": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience - WWD",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGVzTERtckV5cGVsT1NMUlJMMWhBNzNOY1o2NjFJZnpJT3NJV3JfeWFYdHcxZkc5R2YwODFKZ2J2MVF0Wmd0ZmNJdlhsb2MtR1BPUFBUT0FkeGdyaW5QR0laMHprRUh5WklGMl84ZTExcGVZRTRHaThRa2pob0RBZUNYWlJMV0ZIMmhlbzhnaWMxcGtZWWVyTk9tWmc4UTFSdDZyNVg3bmc2TDhCaGlpNWRmdEowNEpRRG5KNGlJTS1NbGFMV2dtQU02QUp6dFJUM2JiQmVTeTI?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1729062000.0
+    },
+    {
+      "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWs1TC1pb3J5NFQ4VTlqcXJLdm1uekp6YURUZmF0N0tNb2NwSFFyYjQwYWgyWnd0VlRNRHg0NFJDSm0zdllNVWdNaTJzSXRzTmIyNlA3NFJPWmMxOWhicmp5N1Y5V3laUkhObURRSmpMeWdvZ3hNcUVvRF80RzNaRzBWUlFwVmRPeWRqZEdEaHU?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 21 Aug 2026 12:08:15 GMT",
+      "summary": "Learn how to rank in ChatGPT with Yotpo Discover today &nbsp;&nbsp; London Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1787314095.0
+    },
+    {
+      "title": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjBON2JHVTlhNFF0Njd1MFRqQUJDWHBURWJhZ3dzWXdZS2o4d2FQNzdoMnpYOVJ0dzhTbzZSN3lqRXh4XzhQM2p0SWMtZlltU1ZfaE9UdHM4dUpTMm5hNGxLaEtVTWpoZWMyajZUVE9fNVB3S21XeUxlQ05WYUdURGVzYk9NVlE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 20 Aug 2026 17:44:22 GMT",
+      "summary": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) &nbsp;&nbsp; Seeking Alpha",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + new product",
+      "published_ts": 1787247862.0
+    },
+    {
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 19 Aug 2026 13:00:00 GMT",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1787144400.0
+    },
+    {
+      "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
+      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1786348800.0
+    },
+    {
+      "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1785999600.0
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785913200.0
+    },
+    {
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + funding round",
+      "published_ts": 1784271600.0
+    },
+    {
+      "title": "Postscript: Mark Singer - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
+    },
+    {
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + raises",
+      "published_ts": 1780988400.0
+    },
+    {
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1779951600.0
+    },
+    {
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1778742000.0
+    },
+    {
+      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - Eastern Progress",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORXFHUXdRa0dMR0pYY3Y3Ml96R0tNMWlRckpkR1ByME1NSFVtaU1MWWpQMGViZVZscGxnRHBwOGo5SVJmdlQwWXZocVNEOFRQdVA4UVFyZUVyVVNIMWtsb09NMDFSSDdmUTJQTnFlSndxeGtZaXdvUk40S05jZ0M0YVlmNDByTTlmbUxfaUdHLTZIQWZwa0lRSEpfMm8yczFQZEtSRFY5ejktNmJIODhNRHVpcDFJV01sa014THdGTjZBTWpnUFV5TnJ2cmQ5OGh1enVTU0dpaS1pb2xWYWc?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; Eastern Progress",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
+      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1770278400.0
+    },
+    {
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1769673600.0
+    },
+    {
+      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + introduces",
+      "published_ts": 1768204800.0
+    },
+    {
+      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + valuation",
+      "published_ts": 1764316800.0
+    },
+    {
+      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEtjRVF4ZWRVbVIwWDFMZ0JVbTd2eTlPQm1tNzBSem81LW13UWF6MWYxR1ctVkxSa3RUeFpVYm9oeDNZeDdsdDJpYURvWDBYYzJqQXdkdHk0NFItaTI4N1dIUHI2aEdCdUY4TEdrdGMtck9LY3ZsRDZhWlVSNVlScjdCemhnSktsR1RGNkxwWXprdjlKTW1WX2ZEUk5xSDg0Nlo4Slhzbk1QcG5zY0kwX2lLaDVXR1ZvN0ZTbVpRZFBFdjRVRXphenVOUTF2YUdwWm16MVN4Nk5uZzA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1762416000.0
+    },
+    {
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + acquires",
+      "published_ts": 1744095600.0
+    },
+    {
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 17 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729148400.0
+    },
+    {
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 07 Mar 2022 08:00:00 GMT",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + launches",
+      "published_ts": 1646640000.0
+    },
+    {
+      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
-    "total_fetched": 80,
-    "kept": 3,
-    "opportunities": 3,
-    "threats": 0,
+    "total_fetched": 269,
+    "kept": 45,
+    "opportunities": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 149.8
+    "runtime_seconds": 14.4
   }
 }
