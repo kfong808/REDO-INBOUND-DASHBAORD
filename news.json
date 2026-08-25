@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T13:39:58.369757+00:00",
+  "updated": "2026-08-25T14:33:55.041439+00:00",
   "items": [
     {
       "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
@@ -35,11 +35,11 @@
       "published_ts": 1787630400.0
     },
     {
-      "title": "The trust gap that will decide agentic commerce in Asian retail - Retail Asia",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW9nYk1NYjMzeGJUNlI5NDR6YVlkR1VCMXpxUFZXUml3YWNvNG1iX09tZHFMOWVoUjBJcjVGLXcwUzJ6WmRJNTVzMzBrbzQ0VmdpNEpIMUtNR2FlMkpZazZWYTQtOFliYnMzV25wTEUySXlqUHpBRmV3ZTJGMktOeGpjUDk1Q0UxWWdsMndXb2VMQQ?oc=5",
+      "title": "The trust gap that will decide agentic commerce in Asian retail - Asian Business Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzA5VzZIVHFjODdfVDFkVXRFOUpFdFFORC1qYnF5ejg4NXNLbEVoeU5URXpjQm42VVhSbEJUR2gxSjJfZGxKc1ZxVThYWnk5RTlhOFoxQklIY054QTdSNDY5ZldCLWVtWjgyaWJvNmlqZDhoYjdORVVZZElsTXh0elQ0d2FYUXVhOW5za0U3Yjc5YkQtMHhlVlFhS2lOUQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 25 Aug 2026 00:30:00 GMT",
-      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Retail Asia",
+      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Asian Business Review",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -321,17 +321,6 @@
       "published_ts": 1785913200.0
     },
     {
-      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Mon, 03 Aug 2026 18:25:18 GMT",
-      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; Dealroom",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + acquisition",
-      "published_ts": 1785781518.0
-    },
-    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -521,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 47,
+    "kept": 46,
     "opportunities": 22,
-    "threats": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 10.7
   }
 }
