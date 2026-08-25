@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T07:35:03.794880+00:00",
+  "updated": "2026-08-25T08:29:20.765797+00:00",
   "items": [
     {
       "title": "Why more celebrity-led brands are shutting down",
@@ -112,6 +112,17 @@
       "published_ts": 1786431600.0
     },
     {
+      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaQmR4RVZpWXREQ0JJZHF2ZnN3a25TNENycnBVaWs1a09za3B2ZFhvNzRoWVVNVDVJc3F4elBuRmtaZVVJUGFPRkgtOHZERnB6d3NGSUxsajBzT1EyRzJXQkdwYnA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity &nbsp;&nbsp; Salesforce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1786086000.0
+    },
+    {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
@@ -156,17 +167,6 @@
       "published_ts": 1781161200.0
     },
     {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1779260400.0
-    },
-    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -209,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1718866800.0
     },
     {
       "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
@@ -487,11 +476,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 44,
-    "opportunities": 20,
+    "total_fetched": 267,
+    "kept": 43,
+    "opportunities": 19,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 10.1
   }
 }
