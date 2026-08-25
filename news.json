@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-25T09:23:49.089378+00:00",
+  "updated": "2026-08-25T10:20:42.690685+00:00",
   "items": [
+    {
+      "title": "Stocky alternates? Export your supplier data first",
+      "url": "https://www.reddit.com/r/shopify/comments/1vxvrc4/stocky_alternates_export_your_supplier_data_first/",
+      "source": "r/shopify",
+      "published": "2026-08-25T10:17:51+00:00",
+      "summary": "Few days left until the sunset of stocky. Have you folks evaluated any vendors yet? I was trying out sumtracker today and felt easy enough! Am I missing something? Was trying out their free tier with inventory sync off. If anyone has used it, can you please share your experience with the platform and the team? Looking for suggestions here Doing about 8000 in yearly sales order Looking for inventory sync and replenishment Don’t want to do open source as I’m not willing to invest time there. Plus ",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: sunset",
+      "published_ts": 1787653071.0
+    },
     {
       "title": "Why more celebrity-led brands are shutting down",
       "url": "https://www.modernretail.co/operations/why-more-celebrity-led-brands-are-shutting-down/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -110,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1786431600.0
-    },
-    {
-      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaQmR4RVZpWXREQ0JJZHF2ZnN3a25TNENycnBVaWs1a09za3B2ZFhvNzRoWVVNVDVJc3F4elBuRmtaZVVJUGFPRkgtOHZERnB6d3NGSUxsajBzT1EyRzJXQkdwYnA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity &nbsp;&nbsp; Salesforce",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786086000.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -365,6 +365,17 @@
       "published_ts": 1778569200.0
     },
     {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1772179200.0
+    },
+    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -477,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 43,
+    "kept": 44,
     "opportunities": 19,
-    "threats": 24,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.2
+    "runtime_seconds": 10.5
   }
 }
