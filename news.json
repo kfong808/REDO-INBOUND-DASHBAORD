@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T04:28:14.365920+00:00",
+  "updated": "2026-08-25T05:22:36.038627+00:00",
   "items": [
     {
       "title": "Why more celebrity-led brands are shutting down",
@@ -13,11 +13,11 @@
       "published_ts": 1787630400.0
     },
     {
-      "title": "The trust gap that will decide agentic commerce in Asian retail - Asian Business Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzA5VzZIVHFjODdfVDFkVXRFOUpFdFFORC1qYnF5ejg4NXNLbEVoeU5URXpjQm42VVhSbEJUR2gxSjJfZGxKc1ZxVThYWnk5RTlhOFoxQklIY054QTdSNDY5ZldCLWVtWjgyaWJvNmlqZDhoYjdORVVZZElsTXh0elQ0d2FYUXVhOW5za0U3Yjc5YkQtMHhlVlFhS2lOUQ?oc=5",
+      "title": "The trust gap that will decide agentic commerce in Asian retail - Retail Asia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW9nYk1NYjMzeGJUNlI5NDR6YVlkR1VCMXpxUFZXUml3YWNvNG1iX09tZHFMOWVoUjBJcjVGLXcwUzJ6WmRJNTVzMzBrbzQ0VmdpNEpIMUtNR2FlMkpZazZWYTQtOFliYnMzV25wTEUySXlqUHpBRmV3ZTJGMktOeGpjUDk1Q0UxWWdsMndXb2VMQQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 25 Aug 2026 00:30:00 GMT",
-      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Asian Business Review",
+      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Retail Asia",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -255,28 +255,6 @@
       "published_ts": 1787144400.0
     },
     {
-      "title": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres - AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc19CNTFoMWNRbXRYaDdPMzhqekRtS1l3RnR6NmcyMldnM0hXS3ZIeE9rdlFkd1BaS3FYdE5HY08zWmptOEsybmM3MHZIQ2RqRFF6aWtnMk1PbFV0TXNNZEo5Y3ZEYW1Vb2JlajljdjFxZEZaVnZOZ0VQMktDMjdLWV9JU01ZTi1DSDJXMi00bHE4SkpNek5lZ1FkWTNiRlBwWlpLeGNIcTNpTXFrQmhSbGtUZU9CX2UzZjFxLTlxaGo0NUZlb2x4V1l3?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 18 Aug 2026 18:56:51 GMT",
-      "summary": "Klaviyo Acquires AI Customer Success Startup Agency, Reunites With Former Mentor Elias Torres &nbsp;&nbsp; AI Insider",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1787079411.0
-    },
-    {
-      "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
-      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1786348800.0
-    },
-    {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
       "source": "Google News: Attentive",
@@ -319,6 +297,28 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
+    },
+    {
+      "title": "Klaviyo launches beta for marketing AI agents - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Klaviyo launches beta for marketing AI agents &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + launches",
+      "published_ts": 1782889200.0
+    },
+    {
+      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -503,6 +503,6 @@
     "opportunities": 20,
     "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 10.0
   }
 }
