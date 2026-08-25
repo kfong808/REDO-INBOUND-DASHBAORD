@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:22:42.339702+00:00",
+  "updated": "2026-08-25T19:22:22.477935+00:00",
   "items": [
     {
       "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
@@ -35,11 +35,11 @@
       "published_ts": 1787630400.0
     },
     {
-      "title": "The trust gap that will decide agentic commerce in Asian retail - Asian Business Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzA5VzZIVHFjODdfVDFkVXRFOUpFdFFORC1qYnF5ejg4NXNLbEVoeU5URXpjQm42VVhSbEJUR2gxSjJfZGxKc1ZxVThYWnk5RTlhOFoxQklIY054QTdSNDY5ZldCLWVtWjgyaWJvNmlqZDhoYjdORVVZZElsTXh0elQ0d2FYUXVhOW5za0U3Yjc5YkQtMHhlVlFhS2lOUQ?oc=5",
+      "title": "The trust gap that will decide agentic commerce in Asian retail - Retail Asia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW9nYk1NYjMzeGJUNlI5NDR6YVlkR1VCMXpxUFZXUml3YWNvNG1iX09tZHFMOWVoUjBJcjVGLXcwUzJ6WmRJNTVzMzBrbzQ0VmdpNEpIMUtNR2FlMkpZazZWYTQtOFliYnMzV25wTEUySXlqUHpBRmV3ZTJGMktOeGpjUDk1Q0UxWWdsMndXb2VMQQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 25 Aug 2026 00:30:00 GMT",
-      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Asian Business Review",
+      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Retail Asia",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1787617460.0
-    },
-    {
-      "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery - Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGxYNkZUUDFqbnJpeXc3bjgwQ1FyalliMllzN1ItZ1NaUVB1aWtpTE1KbGVUaUJZSnFYOXRmb0pWcEJoWW0xOGxOYmh1YmpTM2Y2VUZxVjFyRloyd1NMT1dpOG8xdkpJUExjNVlVaWp5WjVuU2Q3NHlQQk1TLTd0V2hRLWtDWW1MeW1URW1ubHNTVDdIYjRueFJBT1VvWUQ4SUIxdmNUdmJnSk9IZ2s3S0piTkw5WmFFT0ZES21lOXdaeFZ4NTF3cUFVYUNnQUU?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 24 Aug 2026 17:47:02 GMT",
-      "summary": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery &nbsp;&nbsp; Robotics & Automation News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787593622.0
     },
     {
       "title": "Synchrony, OpenAI Partner on Agentic Commerce - CDO Magazine",
@@ -198,17 +187,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781161200.0
-    },
-    {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1779260400.0
     },
     {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
@@ -510,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
-    "opportunities": 22,
+    "kept": 44,
+    "opportunities": 20,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 10.7
   }
 }
