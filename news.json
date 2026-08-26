@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:18:55.439293+00:00",
+  "updated": "2026-08-26T12:27:42.078142+00:00",
   "items": [
     {
       "title": "Agentic commerce: How AI is becoming retail’s new front door - Retail Insight Network",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787738175.0
-    },
-    {
-      "title": "AI shopping tools not replacing discovery in retail - ecommercenews.com.au",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3BBaDcwWnA1QnFxMkdyb0N5WXNXTHBRdkhhOEhqc1RvdkdFZ0JSejZGX3k4SUM2WjhGZ0dFSjJHc09HdFRjZVlMRThPVzdiZmR3Ums4T2MtOEV3ZTRiMmhPYi1Jc1BCelpCa21wVDFVT2NwY3l3ODRBSWxZVVZoTjBDNzhYellBa2JpNm90QQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 26 Aug 2026 05:29:00 GMT",
-      "summary": "AI shopping tools not replacing discovery in retail &nbsp;&nbsp; ecommercenews.com.au",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787722140.0
     },
     {
       "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
@@ -68,6 +57,17 @@
       "published_ts": 1787617800.0
     },
     {
+      "title": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fT3VraEdlWnF0WW9TMWU5NlREYWQxMkVpa2JxR1BWVXkxclhDTW13a2Ywb3VSdHFxU1BGeFhUa1NDcnpkYzFYOHppejJvY3ZjX2RpWUlhcw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 25 Aug 2026 00:24:20 GMT",
+      "summary": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search &nbsp;&nbsp; 헤럴드경제",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787617460.0
+    },
+    {
       "title": "Synchrony, OpenAI Partner on Agentic Commerce - CDO Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVlqbDk3cjd0bUd3WGhWSlJtQW1CNk5OZEJkZzYtZjZmaHBDLTVFRGVNODRSN1NZTGh3Q3lmd3cyZjlZdmxMbzEyRzZfaUJTZnFySXlWZ3pNd1dNbHNnQmFPT0pocTJCUjMwMlh6MmowWHdCaHU3cXVuLVNCOUNaLThXV2I?oc=5",
       "source": "Google News: agentic commerce",
@@ -99,17 +99,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1787488021.0
-    },
-    {
-      "title": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkI5T0lCeVdrYmhsNW1Oa2tGQjJnTDVqV2NGTnZiYXhXdVJUOVByeFBvLUZiX3drRFc5cVV2NGVRVVhqekF1MzFzRzAwOWgxX0FHNWIxOFZseU10RlViQ0dWUXl5bmlUNlVGWDRQa3VhNmhSZERMVXlHNU93eHRJdHFmVlhfLUhnMk9Ga0xxQS14ZHZ2em9kQWJiczJKcmVPQUFXRVFSNEtRVlVfMWt5eFZTb05YQ3hJMHhTZWpRSF83ZlJm0gHKAUFVX3lxTFA3bTJWdml0dW9ic3dfWFUtMGlGRFg0THh2Z1duSU1tOG5fV1E1Y05UTmt3WEFFWUc0eFRlNXZTMEVCNWFfR2k3WVh0Yms2VHg1bmcwWEdLVC1GNG1VWldEdVV6RGtZTmZZVmtfbXRJVi02Q0wtdVNvSzktbzZKQllkMEQ3eDdSSnZXb3oxazA5SGY2QUFleU95ZXJEczI2OUN3X2FEU0Q4WENnaWlJVDR2VXhJY1ZoTHhVMjRuXzNoLUNyU2pMX1JNdFE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sat, 22 Aug 2026 01:38:12 GMT",
-      "summary": "Did Rosenblatt’s AI ‘Agentic Commerce’ Call Just Reframe Shopify’s (SHOP) Competitive Moat? &nbsp;&nbsp; simplywall.st",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787362692.0
     },
     {
       "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
@@ -431,6 +420,17 @@
       "published_ts": 1764316800.0
     },
     {
+      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEtjRVF4ZWRVbVIwWDFMZ0JVbTd2eTlPQm1tNzBSem81LW13UWF6MWYxR1ctVkxSa3RUeFpVYm9oeDNZeDdsdDJpYURvWDBYYzJqQXdkdHk0NFItaTI4N1dIUHI2aEdCdUY4TEdrdGMtck9LY3ZsRDZhWlVSNVlScjdCemhnSktsR1RGNkxwWXprdjlKTW1WX2ZEUk5xSDg0Nlo4Slhzbk1QcG5zY0kwX2lLaDVXR1ZvN0ZTbVpRZFBFdjRVRXphenVOUTF2YUdwWm16MVN4Nk5uZzA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1762416000.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -462,25 +462,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
-    "opportunities": 20,
+    "kept": 42,
+    "opportunities": 19,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 11.0
   }
 }
