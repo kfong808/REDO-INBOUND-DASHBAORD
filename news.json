@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T07:36:38.128298+00:00",
+  "updated": "2026-08-26T08:29:53.841479+00:00",
   "items": [
     {
       "title": "AI shopping tools not replacing discovery in retail - ecommercenews.com.au",
@@ -46,6 +46,17 @@
       "published_ts": 1787630400.0
     },
     {
+      "title": "The trust gap that will decide agentic commerce in Asian retail - Asian Business Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzA5VzZIVHFjODdfVDFkVXRFOUpFdFFORC1qYnF5ejg4NXNLbEVoeU5URXpjQm42VVhSbEJUR2gxSjJfZGxKc1ZxVThYWnk5RTlhOFoxQklIY054QTdSNDY5ZldCLWVtWjgyaWJvNmlqZDhoYjdORVVZZElsTXh0elQ0d2FYUXVhOW5za0U3Yjc5YkQtMHhlVlFhS2lOUQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 25 Aug 2026 00:30:00 GMT",
+      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Asian Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787617800.0
+    },
+    {
       "title": "Synchrony, OpenAI Partner on Agentic Commerce - CDO Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVlqbDk3cjd0bUd3WGhWSlJtQW1CNk5OZEJkZzYtZjZmaHBDLTVFRGVNODRSN1NZTGh3Q3lmd3cyZjlZdmxMbzEyRzZfaUJTZnFySXlWZ3pNd1dNbHNnQmFPT0pocTJCUjMwMlh6MmowWHdCaHU3cXVuLVNCOUNaLThXV2I?oc=5",
       "source": "Google News: agentic commerce",
@@ -88,6 +99,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787362692.0
+    },
+    {
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 20 Aug 2026 11:51:59 GMT",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787226719.0
     },
     {
       "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
@@ -455,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 18,
+    "kept": 43,
+    "opportunities": 20,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.9
+    "runtime_seconds": 10.2
   }
 }
