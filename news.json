@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T02:18:09.878666+00:00",
+  "updated": "2026-08-26T03:43:25.821915+00:00",
   "items": [
     {
       "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
@@ -376,17 +376,6 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1772179200.0
-    },
-    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -429,6 +418,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
       "published_ts": 1764316800.0
+    },
+    {
+      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEtjRVF4ZWRVbVIwWDFMZ0JVbTd2eTlPQm1tNzBSem81LW13UWF6MWYxR1ctVkxSa3RUeFpVYm9oeDNZeDdsdDJpYURvWDBYYzJqQXdkdHk0NFItaTI4N1dIUHI2aEdCdUY4TEdrdGMtck9LY3ZsRDZhWlVSNVlScjdCemhnSktsR1RGNkxwWXprdjlKTW1WX2ZEUk5xSDg0Nlo4Slhzbk1QcG5zY0kwX2lLaDVXR1ZvN0ZTbVpRZFBFdjRVRXphenVOUTF2YUdwWm16MVN4Nk5uZzA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1762416000.0
     },
     {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
@@ -481,6 +481,6 @@
     "opportunities": 20,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 10.2
   }
 }
