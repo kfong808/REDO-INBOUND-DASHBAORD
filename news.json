@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T03:43:25.821915+00:00",
+  "updated": "2026-08-26T04:29:25.063723+00:00",
   "items": [
     {
       "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
@@ -35,11 +35,11 @@
       "published_ts": 1787630400.0
     },
     {
-      "title": "The trust gap that will decide agentic commerce in Asian retail - Asian Business Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzA5VzZIVHFjODdfVDFkVXRFOUpFdFFORC1qYnF5ejg4NXNLbEVoeU5URXpjQm42VVhSbEJUR2gxSjJfZGxKc1ZxVThYWnk5RTlhOFoxQklIY054QTdSNDY5ZldCLWVtWjgyaWJvNmlqZDhoYjdORVVZZElsTXh0elQ0d2FYUXVhOW5za0U3Yjc5YkQtMHhlVlFhS2lOUQ?oc=5",
+      "title": "The trust gap that will decide agentic commerce in Asian retail - Retail Asia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW9nYk1NYjMzeGJUNlI5NDR6YVlkR1VCMXpxUFZXUml3YWNvNG1iX09tZHFMOWVoUjBJcjVGLXcwUzJ6WmRJNTVzMzBrbzQ0VmdpNEpIMUtNR2FlMkpZazZWYTQtOFliYnMzV25wTEUySXlqUHpBRmV3ZTJGMktOeGpjUDk1Q0UxWWdsMndXb2VMQQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 25 Aug 2026 00:30:00 GMT",
-      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Asian Business Review",
+      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Retail Asia",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -464,6 +464,17 @@
       "published_ts": 1631170800.0
     },
     {
+      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
       "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
@@ -476,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 43,
+    "total_fetched": 250,
+    "kept": 44,
     "opportunities": 20,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 26.6
   }
 }
