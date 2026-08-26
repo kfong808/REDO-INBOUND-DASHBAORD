@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:15:55.045820+00:00",
+  "updated": "2026-08-26T00:38:11.495763+00:00",
   "items": [
     {
       "title": "Beyond Pay-to-Play: How AI Shopping Agents Are Rewriting Marketplace Visibility - The AI Journal",
@@ -35,11 +35,11 @@
       "published_ts": 1787630400.0
     },
     {
-      "title": "The trust gap that will decide agentic commerce in Asian retail - Retail Asia",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW9nYk1NYjMzeGJUNlI5NDR6YVlkR1VCMXpxUFZXUml3YWNvNG1iX09tZHFMOWVoUjBJcjVGLXcwUzJ6WmRJNTVzMzBrbzQ0VmdpNEpIMUtNR2FlMkpZazZWYTQtOFliYnMzV25wTEUySXlqUHpBRmV3ZTJGMktOeGpjUDk1Q0UxWWdsMndXb2VMQQ?oc=5",
+      "title": "The trust gap that will decide agentic commerce in Asian retail - Asian Business Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzA5VzZIVHFjODdfVDFkVXRFOUpFdFFORC1qYnF5ejg4NXNLbEVoeU5URXpjQm42VVhSbEJUR2gxSjJfZGxKc1ZxVThYWnk5RTlhOFoxQklIY054QTdSNDY5ZldCLWVtWjgyaWJvNmlqZDhoYjdORVVZZElsTXh0elQ0d2FYUXVhOW5za0U3Yjc5YkQtMHhlVlFhS2lOUQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 25 Aug 2026 00:30:00 GMT",
-      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Retail Asia",
+      "summary": "The trust gap that will decide agentic commerce in Asian retail &nbsp;&nbsp; Asian Business Review",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -121,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787181262.0
-    },
-    {
-      "title": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains - Innovation & Tech Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUdpeXVkUWs3ZkJnWFRuRVhKV3VIVURVRWdKWWoybl9lRDJLTmNtSUxUanMtRDRVeUZNZjI2NE9VM3VZSnpXWlpmUW92eUI2R1V6V0Y0bVRaVTFXamIxdHZwek5hNXRrZzJaSXZpTFF5SFJkdDY1Y3ZiaXJ1SW9palgwYWNiODlTNTFscG04dG1TaDBiR3MwY0NhLU1ycWs?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 19 Aug 2026 16:48:25 GMT",
-      "summary": "Agentic Commerce Figured Out Payments, but the Liability Dilemma Remains &nbsp;&nbsp; Innovation & Tech Today",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787158105.0
     },
     {
       "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
@@ -310,6 +299,17 @@
       "published_ts": 1784271600.0
     },
     {
+      "title": "Postscript: Mark Singer - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
+    },
+    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -363,6 +363,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1772179200.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -477,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
-    "opportunities": 21,
-    "threats": 22,
+    "kept": 44,
+    "opportunities": 20,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 10.8
   }
 }
