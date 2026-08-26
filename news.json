@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-26T09:29:35.899340+00:00",
+  "updated": "2026-08-26T10:23:25.864945+00:00",
   "items": [
+    {
+      "title": "Agentic commerce: How AI is becoming retail’s new front door - Retail Insight Network",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVJRQnV5Vk51Y1FiWkdRNm02dXQ1bU5jU1h0WnNVbmJUZDh1QUZrNllIYUlQdkRsWGNNM0pTUUNvSjkwR3p0MXcwdC1NV0lYWkZCZ2pOOVZwZmxwWjEtZDdRbC11V1ZQZ3VPSDNBODRheHVXNG83RjdDRllDWkNGTTNUY1hhdmJYZVlsUGRpb1RSUTJPX2pqY1RYdzczVzRVcVRRVjktMDdqUHc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 26 Aug 2026 09:56:15 GMT",
+      "summary": "Agentic commerce: How AI is becoming retail’s new front door &nbsp;&nbsp; Retail Insight Network",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787738175.0
+    },
     {
       "title": "AI shopping tools not replacing discovery in retail - ecommercenews.com.au",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3BBaDcwWnA1QnFxMkdyb0N5WXNXTHBRdkhhOEhqc1RvdkdFZ0JSejZGX3k4SUM2WjhGZ0dFSjJHc09HdFRjZVlMRThPVzdiZmR3Ums4T2MtOEV3ZTRiMmhPYi1Jc1BCelpCa21wVDFVT2NwY3l3ODRBSWxZVVZoTjBDNzhYellBa2JpNm90QQ?oc=5",
@@ -99,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787362692.0
-    },
-    {
-      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 20 Aug 2026 11:51:59 GMT",
-      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787226719.0
     },
     {
       "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
@@ -481,6 +481,6 @@
     "opportunities": 20,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.3
+    "runtime_seconds": 10.0
   }
 }
