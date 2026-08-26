@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T13:44:29.746104+00:00",
+  "updated": "2026-08-26T14:33:56.616914+00:00",
   "items": [
     {
       "title": "Agentic commerce: How AI is becoming retail’s new front door - Retail Insight Network",
@@ -470,6 +470,6 @@
     "opportunities": 19,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 13.9
   }
 }
