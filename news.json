@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T18:48:49.135772+00:00",
+  "updated": "2026-08-26T21:26:27.601777+00:00",
   "items": [
     {
       "title": "AI Spotlight: Enabling Purchases While Stopping Fraud in Agentic Commerce - Digital Commerce 360",
@@ -79,17 +79,6 @@
       "published_ts": 1787617460.0
     },
     {
-      "title": "Synchrony, OpenAI Partner on Agentic Commerce - CDO Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVlqbDk3cjd0bUd3WGhWSlJtQW1CNk5OZEJkZzYtZjZmaHBDLTVFRGVNODRSN1NZTGh3Q3lmd3cyZjlZdmxMbzEyRzZfaUJTZnFySXlWZ3pNd1dNbHNnQmFPT0pocTJCUjMwMlh6MmowWHdCaHU3cXVuLVNCOUNaLThXV2I?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 24 Aug 2026 15:57:00 GMT",
-      "summary": "Synchrony, OpenAI Partner on Agentic Commerce &nbsp;&nbsp; CDO Magazine",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787587020.0
-    },
-    {
       "title": "How businesses should prepare for agentic commerce - EY",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3NqaEJxaEc2OS0zRFJEWHI5cDEzb01NVkNzN09SdFhsZFdVbWIxalR3ajIyNjFyTU1ySUNUdFAwOFpTZlJRcEtmdkhmRlNUUENfVXU2YjhLSnRsR08zb0I3ZGdJQ1RKbWUxRXlYN2JuS2tWSE1aZEZfMlpBWUtCOEFBdTl2UUVqdUJVWWZ6a3BjNEVmNGVwejBaekFLejZfeFpLVlNMUkpmLWc?oc=5",
       "source": "Google News: agentic commerce",
@@ -132,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787036400.0
-    },
-    {
-      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1786431600.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -189,6 +167,17 @@
       "published_ts": 1781161200.0
     },
     {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
+    },
+    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -209,6 +198,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1773730800.0
+    },
+    {
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -242,6 +242,17 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1787314095.0
+    },
+    {
+      "title": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjBON2JHVTlhNFF0Njd1MFRqQUJDWHBURWJhZ3dzWXdZS2o4d2FQNzdoMnpYOVJ0dzhTbzZSN3lqRXh4XzhQM2p0SWMtZlltU1ZfaE9UdHM4dUpTMm5hNGxLaEtVTWpoZWMyajZUVE9fNVB3S21XeUxlQ05WYUdURGVzYk9NVlE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 20 Aug 2026 17:44:22 GMT",
+      "summary": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) &nbsp;&nbsp; Seeking Alpha",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + new product",
+      "published_ts": 1787247862.0
     },
     {
       "title": "Attentive Launches AI Grow - Destination CRM",
@@ -308,17 +319,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
-    },
-    {
-      "title": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTRvem1BV1hHTk9wNFJ2WUJfQWJDNnhVWFdmLVNYZmVrTGxMZ1NnbEp6d3B4NnprSnlKRlJ6ZHlUZDFLTGlwVWpzM3Z1aXRtZmpoeVM3WEJQRXc3eWtqSlRZeVZZU21QYXA3ODhCSnd1QkNJcmY0ZEQ5WlhZamZ2d1M2WjFSMWdXSjh1RFMzbk9wOTFVb1pLUWozVGtoOG9HendHOVdDYjZPVmpFcU1Za2N5MWpVWkFISFRQNUJhM3dVUG16Vy1uYWRLcDFIYlp4RjBxR1JvZnRYOUhN?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Lightspeed and Klaviyo launch integration to empower merchants with marketing automation &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -492,6 +492,6 @@
     "opportunities": 20,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 11.4
   }
 }
