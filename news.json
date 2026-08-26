@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T08:29:53.841479+00:00",
+  "updated": "2026-08-26T09:29:35.899340+00:00",
   "items": [
     {
       "title": "AI shopping tools not replacing discovery in retail - ecommercenews.com.au",
@@ -481,6 +481,6 @@
     "opportunities": 20,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 9.3
   }
 }
