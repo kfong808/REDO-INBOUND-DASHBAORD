@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T23:20:11.628467+00:00",
+  "updated": "2026-08-28T07:45:57.492434+00:00",
   "items": [
     {
       "title": "AI shopping agents aren't ready to buy on your behalf, study finds - the-decoder.com",
@@ -33,6 +33,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787800321.0
+    },
+    {
+      "title": "DBS and Stripe partner to accelerate agentic commerce in Asia - The Digital Banker",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODFpUmoyR1dWeFNsZHVhZzZSUjFEa3FUYXdaQlpoeUMwWGlUQXoxTmhPUEUtNFpGbjNwQnJ1QjhtT0FrLTJSc01JSUNkdVpyTG9BSXE3dGZCd0hLUldfT0MwMmZhQmhjcUJaZk1qcTJmQUtJVlBqM19WLXNudmozNE1Db0QzV0xvVmw1WlQ5bWNaSUd5Y3c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 27 Aug 2026 01:12:27 GMT",
+      "summary": "DBS and Stripe partner to accelerate agentic commerce in Asia &nbsp;&nbsp; The Digital Banker",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787793147.0
     },
     {
       "title": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks - Investor's Business Daily",
@@ -90,17 +101,6 @@
       "published_ts": 1787617460.0
     },
     {
-      "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery - Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGxYNkZUUDFqbnJpeXc3bjgwQ1FyalliMllzN1ItZ1NaUVB1aWtpTE1KbGVUaUJZSnFYOXRmb0pWcEJoWW0xOGxOYmh1YmpTM2Y2VUZxVjFyRloyd1NMT1dpOG8xdkpJUExjNVlVaWp5WjVuU2Q3NHlQQk1TLTd0V2hRLWtDWW1MeW1URW1ubHNTVDdIYjRueFJBT1VvWUQ4SUIxdmNUdmJnSk9IZ2s3S0piTkw5WmFFT0ZES21lOXdaeFZ4NTF3cUFVYUNnQUU?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 24 Aug 2026 17:47:02 GMT",
-      "summary": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery &nbsp;&nbsp; Robotics & Automation News",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787593622.0
-    },
-    {
       "title": "Double-Digit Ecommerce Growth Returns",
       "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
       "source": "Practical Ecommerce",
@@ -121,6 +121,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787181262.0
+    },
+    {
+      "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbm1GWXZGMENXWDBvZEdFekRrSjBDVk5ud2VLY3NreW1LWlhCZ2h0aldxS1oySzBwQ0NoQUtxMXk0NERZbFEycDhFNG9yTzFINHpPTVM5M0xiLUgzUXZZbmUtZmtqMUNxUTZMMkZCMVlKTldsRWZZTWQxN3NzcHQ1RlhfaXpSVkYwaGJEeURCTDA3NVYzYmh1RTZhbXV2bmpYaDVxU094dmJNNU5iaGFsRFVObnJHUQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "summary": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787036400.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -167,6 +178,17 @@
       "published_ts": 1781161200.0
     },
     {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
+    },
+    {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
@@ -187,6 +209,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1773730800.0
+    },
+    {
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -376,6 +409,17 @@
       "published_ts": 1772179200.0
     },
     {
+      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1770710400.0
+    },
+    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -466,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 42,
-    "opportunities": 18,
-    "threats": 24,
+    "kept": 46,
+    "opportunities": 21,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 11.9
   }
 }
