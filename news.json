@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T14:46:57.541602+00:00",
+  "updated": "2026-08-29T18:00:02.669830+00:00",
   "items": [
     {
       "title": "Stocky not sunsetting until March now?",
@@ -13,6 +13,28 @@
       "published_ts": 1787965512.0
     },
     {
+      "title": "Lovebug Opens Its Family Probiotic Catalog to AI Shopping Agents - KTBS 3",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdGJRRXA2bnI4LUdYa2YzODNJTWRmbGgwQmVYeE5jbXJ5TEdfUlhCazJ3MVVQNXlWR1hIUkdBY2NIQjB5ZmdVZGg0TFQxUlI2NTdReWpQNTBYVnl4X1lpVWpEb1Y1NTRnMFJPRzZ3N0dLeFR6RERWazNtWm94cDhtR00tejVmY1FVVmFLTGJscXRZNjlDcW1XekdtcDVMM0R2ZFZUU1ZZVmwzT0dDY1BDM0dQcHpHRHVYOW0zVnNUVk5nVXVUdjFfRTd3dFRGVVJvRUp2c3hhR2R3LVptWW5oY1BVTktjNzVTRFdqeld2YmlCekV4alpFUkhR?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 28 Aug 2026 20:44:53 GMT",
+      "summary": "Lovebug Opens Its Family Probiotic Catalog to AI Shopping Agents &nbsp;&nbsp; KTBS 3",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787949893.0
+    },
+    {
+      "title": "How businesses should prepare for agentic commerce - EY",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbl9qOFVwOXNNU2tNcXZDM2dJaDgtWVhvNzBWZjNVQkpaUC0tVVFkdGJuRUxGUG9VaGJPY3hrVEZEQnJFejJyeFhnbzlYdlZPbWV2MGlsQ3M3SmVNNHdhblJ0MktZRVJHYllYcmM2X3JkbjJWc3RaLW9QNmpfcmwyV1NTbkdIcUtFTDhuVlkxVmROdXpMM081cDFQaEo5WFBwYWtYN3l0RldmeWc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 28 Aug 2026 13:42:59 GMT",
+      "summary": "How businesses should prepare for agentic commerce &nbsp;&nbsp; EY",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787924579.0
+    },
+    {
       "title": "The Agentic Commerce Measurement Gap - CDO Magazine",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjdOZTRBZGdHVi1xYm5vRnFTVzI4U0phVEpXbGg1N3VZVWlpWC1YZXFTcTE0c2Q5VnlCZzJPZnRZbnNod2pySmQtYTFvcW13UUplWFI5cWUtbXhnQXNSSlRLWE5SNGx3eE1tdW1lTi1tNG5Fd1JRX3lqRW1yRVlmS1hibW0xS3ln?oc=5",
       "source": "Google News: agentic commerce",
@@ -24,15 +46,15 @@
       "published_ts": 1787922000.0
     },
     {
-      "title": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale - Rezolve Ai",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUFiUVN0bXlWamk0UDI4Z3pmQl9iR1NkLWRIZGpjN2VaZXRHY3lXZVhuT2pGM2FYMW9tb3dtMEhhZU8tMlpUOWEzUnNuOW5BSno4bWNNUXQ5S2NGU1pULUdMOTFIb3VlNmQ4bTNIb2daSUE2S1dxbDB2OEE0WnpiREdDY0lqSmZOWEVNZG9STUpyV0xTOFZibDlOQmloc01Jem1mUUxvTWpYOUo0MDZXYTJRbnlvRkVEREpMVFA1cEJ0aDZQRTNnNU1ZbkI?oc=5",
+      "title": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmkzRk1hOWItMUtuUVBFODFxY0VTTDcyMlBzYXdsU0lVb0RKaWRtZjdnUGVOZi10NENMVk1EZmhwaE9oTTNhSkNNWi1jSmx0ZHhkelJGZ3FHTHlJZlMzbGpZSVlDalQ4XzhJamNYVVIxT3hFV0tuZ2tudFpaNDhXdFprZndIeVhjNHh2UnFUZUU1Vi1iSkhteHV3?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 28 Aug 2026 11:59:53 GMT",
-      "summary": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale &nbsp;&nbsp; Rezolve Ai",
+      "published": "Fri, 28 Aug 2026 12:00:00 GMT",
+      "summary": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787918393.0
+      "published_ts": 1787918400.0
     },
     {
       "title": "Agentic commerce, AI-driven fraud shake up financial services dealmaking - pehub.com",
@@ -79,28 +101,6 @@
       "published_ts": 1787838459.0
     },
     {
-      "title": "How businesses should prepare for agentic commerce - EY",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlZhLU1JN2FDUExSbnREVG9VV1R3VEZCN0FmaUpkYl9LdXY2eTBTQU1Kd1dsMUxRd2d6a1FfM1lzaXpzazJLS0pHYk9qU2M3dnh0d2ZydFprclRkaEdvZTVUWXVxN3hJUXo4akYxVDcxaDlfZFFqaDJhMHZpZ1VaaUJzWGJWV1VNcnRfa2J1dXJMQjlXNHR0cEhCNVh4Wng0ekVvNlc4VzdBUEE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 27 Aug 2026 03:12:01 GMT",
-      "summary": "How businesses should prepare for agentic commerce &nbsp;&nbsp; EY",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787800321.0
-    },
-    {
-      "title": "DBS and Stripe partner to accelerate agentic commerce in Asia - The Digital Banker",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODFpUmoyR1dWeFNsZHVhZzZSUjFEa3FUYXdaQlpoeUMwWGlUQXoxTmhPUEUtNFpGbjNwQnJ1QjhtT0FrLTJSc01JSUNkdVpyTG9BSXE3dGZCd0hLUldfT0MwMmZhQmhjcUJaZk1qcTJmQUtJVlBqM19WLXNudmozNE1Db0QzV0xvVmw1WlQ5bWNaSUd5Y3c?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 27 Aug 2026 01:12:27 GMT",
-      "summary": "DBS and Stripe partner to accelerate agentic commerce in Asia &nbsp;&nbsp; The Digital Banker",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787793147.0
-    },
-    {
       "title": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2ExQ2tGLXlud0xHT0R0YVAtUmp4bDNhNWZKN1Jla09WcHM4Qlhsc1MwUHBDNk1UNHFheW10WTVORmRUemdwT0hrczBqOERHZy1ZQjI4bTRnb3ZSbk4xd3c1R3phZ3RuSEhGbUhzbXBDSlF6THN4Z1JBc2k1OElXT2xBMUFyWmxOUXozcTdpaDNOQzYzcVlaengtU25Nc21hSGo1TFJCT3ZkS3Azb1labkJRYWRpUQ?oc=5",
       "source": "Google News: Shopify",
@@ -134,6 +134,17 @@
       "published_ts": 1787738175.0
     },
     {
+      "title": "Why Trust is the Biggest Barrier for Agentic Commerce to Overcome - Mintel",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3B6a2pFeFRMRVE4UWZDZWU3ZGlsTk5taW1pYTJLdVlpZEZodG4zbGFpa1ZISFhNUnVFSHdDdEYzVTlxYVR0N05pVDNENVIyNWlYR1c1anNJTkRVM3cxMFdDQVllTkVRTEgtcXpVMUR2WWQyTDVmQnFWcUsxY2hGaUVZLWFONnBGV2NvZ21hUGJEUHhyVy1hVVE5RFlyQQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "summary": "Why Trust is the Biggest Barrier for Agentic Commerce to Overcome &nbsp;&nbsp; Mintel",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787727600.0
+    },
+    {
       "title": "Double-Digit Ecommerce Growth Returns",
       "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
       "source": "Practical Ecommerce",
@@ -156,15 +167,15 @@
       "published_ts": 1787181262.0
     },
     {
-      "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity - Salesforce",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaQmR4RVZpWXREQ0JJZHF2ZnN3a25TNENycnBVaWs1a09za3B2ZFhvNzRoWVVNVDVJc3F4elBuRmtaZVVJUGFPRkgtOHZERnB6d3NGSUxsajBzT1EyRzJXQkdwYnA?oc=5",
+      "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbm1GWXZGMENXWDBvZEdFekRrSjBDVk5ud2VLY3NreW1LWlhCZ2h0aldxS1oySzBwQ0NoQUtxMXk0NERZbFEycDhFNG9yTzFINHpPTVM5M0xiLUgzUXZZbmUtZmtqMUNxUTZMMkZCMVlKTldsRWZZTWQxN3NzcHQ1RlhfaXpSVkYwaGJEeURCTDA3NVYzYmh1RTZhbXV2bmpYaDVxU094dmJNNU5iaGFsRFVObnJHUQ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity &nbsp;&nbsp; Salesforce",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "summary": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1786086000.0
+      "published_ts": 1787036400.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -291,12 +302,12 @@
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
       "source": "Google News: Attentive",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
       "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + launches",
-      "published_ts": 1787122800.0
+      "published_ts": 1787036400.0
     },
     {
       "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
@@ -420,6 +431,17 @@
       "published_ts": 1772179200.0
     },
     {
+      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1770710400.0
+    },
+    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -440,17 +462,6 @@
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
       "published_ts": 1769673600.0
-    },
-    {
-      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + introduces",
-      "published_ts": 1768204800.0
     },
     {
       "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
@@ -521,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 47,
-    "opportunities": 25,
+    "kept": 48,
+    "opportunities": 26,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 13.0
   }
 }
