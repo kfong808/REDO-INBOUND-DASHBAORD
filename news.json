@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-28T19:44:59.531787+00:00",
+  "updated": "2026-08-29T02:34:22.678470+00:00",
   "items": [
+    {
+      "title": "Stocky not sunsetting until March now?",
+      "url": "https://www.reddit.com/r/shopify/comments/1w18hi0/stocky_not_sunsetting_until_march_now/",
+      "source": "r/shopify",
+      "published": "2026-08-29T01:05:12+00:00",
+      "summary": "I've been working for months now to prepare for our switch from Stocky to another inventory management system. Today, I opened Stocky to make sure all of our POs are transferred and see this new red announcement at the top: Stocky is retiring in 186 days After March 1, Stocky will no longer be available. Shopify's built-in inventory now covers your core workflows like tracking, transfers, purchase orders, and reporting across admin and POS. Recent updates make switching easy: forecast and create",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: sunset",
+      "published_ts": 1787965512.0
+    },
     {
       "title": "How businesses should prepare for agentic commerce - EY",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbl9qOFVwOXNNU2tNcXZDM2dJaDgtWVhvNzBWZjNVQkpaUC0tVVFkdGJuRUxGUG9VaGJPY3hrVEZEQnJFejJyeFhnbzlYdlZPbWV2MGlsQ3M3SmVNNHdhblJ0MktZRVJHYllYcmM2X3JkbjJWc3RaLW9QNmpfcmwyV1NTbkdIcUtFTDhuVlkxVmROdXpMM081cDFQaEo5WFBwYWtYN3l0RldmeWc?oc=5",
@@ -79,6 +90,17 @@
       "published_ts": 1787838459.0
     },
     {
+      "title": "DBS and Stripe partner to accelerate agentic commerce in Asia - The Digital Banker",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODFpUmoyR1dWeFNsZHVhZzZSUjFEa3FUYXdaQlpoeUMwWGlUQXoxTmhPUEUtNFpGbjNwQnJ1QjhtT0FrLTJSc01JSUNkdVpyTG9BSXE3dGZCd0hLUldfT0MwMmZhQmhjcUJaZk1qcTJmQUtJVlBqM19WLXNudmozNE1Db0QzV0xvVmw1WlQ5bWNaSUd5Y3c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 27 Aug 2026 01:12:27 GMT",
+      "summary": "DBS and Stripe partner to accelerate agentic commerce in Asia &nbsp;&nbsp; The Digital Banker",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787793147.0
+    },
+    {
       "title": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2ExQ2tGLXlud0xHT0R0YVAtUmp4bDNhNWZKN1Jla09WcHM4Qlhsc1MwUHBDNk1UNHFheW10WTVORmRUemdwT0hrczBqOERHZy1ZQjI4bTRnb3ZSbk4xd3c1R3phZ3RuSEhGbUhzbXBDSlF6THN4Z1JBc2k1OElXT2xBMUFyWmxOUXozcTdpaDNOQzYzcVlaengtU25Nc21hSGo1TFJCT3ZkS3Azb1labkJRYWRpUQ?oc=5",
       "source": "Google News: Shopify",
@@ -112,15 +134,15 @@
       "published_ts": 1787738175.0
     },
     {
-      "title": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fT3VraEdlWnF0WW9TMWU5NlREYWQxMkVpa2JxR1BWVXkxclhDTW13a2Ywb3VSdHFxU1BGeFhUa1NDcnpkYzFYOHppejJvY3ZjX2RpWUlhcw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 25 Aug 2026 00:24:20 GMT",
-      "summary": "LF Mall upgrades AI shopping agent 'LF Style Talk' with voice and image search &nbsp;&nbsp; 헤럴드경제",
+      "title": "Why Trust is the Biggest Barrier for Agentic Commerce to Overcome - Mintel",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3B6a2pFeFRMRVE4UWZDZWU3ZGlsTk5taW1pYTJLdVlpZEZodG4zbGFpa1ZISFhNUnVFSHdDdEYzVTlxYVR0N05pVDNENVIyNWlYR1c1anNJTkRVM3cxMFdDQVllTkVRTEgtcXpVMUR2WWQyTDVmQnFWcUsxY2hGaUVZLWFONnBGV2NvZ21hUGJEUHhyVy1hVVE5RFlyQQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "summary": "Why Trust is the Biggest Barrier for Agentic Commerce to Overcome &nbsp;&nbsp; Mintel",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787617460.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1787727600.0
     },
     {
       "title": "Double-Digit Ecommerce Growth Returns",
@@ -189,6 +211,17 @@
       "published_ts": 1782111600.0
     },
     {
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781247600.0
+    },
+    {
       "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -198,6 +231,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1781161200.0
+    },
+    {
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1779260400.0
     },
     {
       "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
@@ -222,6 +266,17 @@
       "published_ts": 1773730800.0
     },
     {
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1771920000.0
+    },
+    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -242,17 +297,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + new product",
       "published_ts": 1787247862.0
-    },
-    {
-      "title": "Attentive Launches AI Grow - Destination CRM",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEpfd0l4N0ZwUGhxVU8tM25ZaUFLd0U4Ukk4bXBzNm1SU0VGcU9kMVNzNXgyOXJiWG9NNE02LXRQeXR1MEhQaUJieEoyWUh2bEh6V1hPc3llQ1FZQmE2dGlnc2dMWno3VTlIYi1Vd203andxQXBGdTFsQlppVHhJX1EzbnlOVkZTSE03cTIzS3pjT0RGSkxadlpST3Jza2x4Vy1uOGZtR3lWelk?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 20 Aug 2026 04:00:45 GMT",
-      "summary": "Attentive Launches AI Grow &nbsp;&nbsp; Destination CRM",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1787198445.0
     },
     {
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
@@ -387,6 +431,17 @@
       "published_ts": 1772179200.0
     },
     {
+      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1770710400.0
+    },
+    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -462,25 +517,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
-    "opportunities": 21,
-    "threats": 22,
+    "kept": 47,
+    "opportunities": 26,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 10.0
   }
 }
