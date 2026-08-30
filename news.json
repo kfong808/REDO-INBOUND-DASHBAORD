@@ -1,27 +1,38 @@
 {
-  "updated": "2026-08-30T17:03:22.760560+00:00",
+  "updated": "2026-08-30T20:14:54.633581+00:00",
   "items": [
     {
-      "title": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYWN3cnBzaEs0d0NnQlpVWjhUYUVBaF85UmR4Wm1GZHpHRUlXeWNnMERMbEJoUXpackNkSFNnclpTdGktU0lBMlg0SjF4VTU3YXJTLUJCMDJLZ2pNMTUtS1RoTktGaHRaX21ESzF2NXpQZjdjZDhPdnZ4aUxmelduYndKOElOYmVlRTNuZlRYQkVvNm5ONnlhS1lNVDNLRXpYaVhSbFJ0RFVVWnJna1FBUkl4VzBjdkNua3U1ZFdzVk5vZUlUemtibFc4TkZHaWF6eHJHWUFTQWpfaHc?oc=5",
+      "title": "“Shopper’s Needs Come First with Vendee Labs’ Exclusive AI Shopping Agent” - BusinessMole",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXJtOS1FSFREOHljRlhONWZ0WGxNVkRjUU9IckZjMWdiY1RDZ19FMlRBNDdYUlpNMXhEM0tCVFBMYXFqdnhXMW1pUHJHRGlWbEFZeDVtR00tVzItRE5GdkxYSmpxc1dZd3hKOWI4a0prWjJCNlM3cHNHNHNqckgyWEdfcjQzWUhQN2hXWEdPbHlPYjRYZTE4N3BtNkVLSy1LTFE?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Sat, 29 Aug 2026 19:00:00 GMT",
-      "summary": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce &nbsp;&nbsp; The Motley Fool",
+      "published": "Sun, 30 Aug 2026 19:33:23 GMT",
+      "summary": "“Shopper’s Needs Come First with Vendee Labs’ Exclusive AI Shopping Agent” &nbsp;&nbsp; BusinessMole",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1788030000.0
+      "published_ts": 1788118403.0
     },
     {
-      "title": "Stocky not sunsetting until March now?",
-      "url": "https://www.reddit.com/r/shopify/comments/1w18hi0/stocky_not_sunsetting_until_march_now/",
+      "title": "Switching from Square to Shopify - POS Questions",
+      "url": "https://www.reddit.com/r/shopify/comments/1w2qukb/switching_from_square_to_shopify_pos_questions/",
       "source": "r/shopify",
-      "published": "2026-08-29T01:05:12+00:00",
-      "summary": "I've been working for months now to prepare for our switch from Stocky to another inventory management system. Today, I opened Stocky to make sure all of our POs are transferred and see this new red announcement at the top: Stocky is retiring in 186 days After March 1, Stocky will no longer be available. Shopify's built-in inventory now covers your core workflows like tracking, transfers, purchase orders, and reporting across admin and POS. Recent updates make switching easy: forecast and create",
+      "published": "2026-08-30T19:27:20+00:00",
+      "summary": "Hello! Our bakery is switching from Square to Shopify. So far everything has been seamless, however we want to save money by not having to buy any more POS hardware. Does anybody know if the Square POS hardware would be compatible with Shopify? Tablet - iPad Tablet Stand - Square Tap reader - Square Receipt printer - Star TSP100 Thanks! &#32; submitted by &#32; /u/Rochalil [link] &#32; [comments]",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: sunset",
-      "published_ts": 1787965512.0
+      "reasoning": "Matched: switching from",
+      "published_ts": 1788118040.0
+    },
+    {
+      "title": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2JHZGhLb1dEdHlKUHM2VlFRbDhrSWhYNDMwUUQ0QmVROG1nT0NWV3hJaEgtVU43NS1OZVVrNm9ka1FOV3JzSThMLUhtakowNnAzanRuanVvdjdGNmNPZ2VySW50UE9CQ2VFRlhubUphRHBId3dRWFl1SHBvMTJhOXJ2MXpOMERpVkNUWEJwWlpMeFVGNDFxX0lhQlFkbjdDb1ZWLVFqYzZmaks3Zm9mbXBUWlBVQlVuX216bk5YcG5yYWZtS1EyRGxhYzhlSjEyYWhNdllGamxheEpHU2pXQzFyendLTW1LMHpiZDdaenRISWdXZ0premMzR3hzQ2dpdDVTY3VUbFRPTFk?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 29 Aug 2026 18:35:36 GMT",
+      "summary": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce &nbsp;&nbsp; The Globe and Mail",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1788028536.0
     },
     {
       "title": "How businesses should prepare for agentic commerce - EY",
@@ -57,17 +68,6 @@
       "published_ts": 1787918393.0
     },
     {
-      "title": "Agentic commerce, AI-driven fraud shake up financial services dealmaking - pehub.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSDg0SFh4NVpmY29TZm1SWWZpVG9DcVBNVF9NeFBmMFRsUXF6SHlYWEU1SHRqZ1hoVzNremVqdVdJeEk5TnBZZURndkNZNnlDejM0SjJLVy1JNEtBcExSMURrN1VyZ3MwNnVjQTNUTU5HazNBZWZPWmZsdVlsb004R21aX3lZVW1QTkNoTDBXT2RLa1hDbG5TNjl3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 28 Aug 2026 04:50:56 GMT",
-      "summary": "Agentic commerce, AI-driven fraud shake up financial services dealmaking &nbsp;&nbsp; pehub.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787892656.0
-    },
-    {
       "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - VisionMonday.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3l1d1dJbnZ3aVFDZE1LNXZ2WjV6R3kyUGR0dEFhNGg4TW9LMmUwUUpHTVhCVnFWVDJUcjIwN2dSRlNtaFp3YmNrNlYzZk1uS2lNYUV5eDhUSXZuZmM4T2o3WjNDNVpPLTdfcFY1UFYwLXNnSF9oSXVTTVlvWWdJVW5ZM2EtcE5EVjB1SzJld0drQkhyc21tb0ZoZ2tFazFEeVBrbS1jZGI1VkcyZ01nQVY2TUcwR2dzQWMyb2ZZMk5sWVk?oc=5",
       "source": "Google News: Narvar",
@@ -79,17 +79,6 @@
       "published_ts": 1787856000.0
     },
     {
-      "title": "AI shopping agents aren't ready to buy on your behalf, study finds - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM19mT1d1QnpLcnlUWm1YUloyWWttUlh2ZWtDVkJGLWdYT0c0bGRpN0w1WGhTdU5Sak5takdHU29GR3JYTVRYMkRhU2cxVHRhalpsRHBxaTN1a2pWaFJoMDh6TUhkcXp0ZDJsZEhuV21kUGhQVmlzNTNOMEF1QmtqeFpEYU0xZHpjaFJSMWhBX2N6eVk?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 27 Aug 2026 18:31:09 GMT",
-      "summary": "AI shopping agents aren't ready to buy on your behalf, study finds &nbsp;&nbsp; the-decoder.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787855469.0
-    },
-    {
       "title": "Contribution Margin Guides Ecommerce Growth",
       "url": "https://www.practicalecommerce.com/contribution-margin-guides-ecommerce-growth",
       "source": "Practical Ecommerce",
@@ -99,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1787838459.0
-    },
-    {
-      "title": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2ExQ2tGLXlud0xHT0R0YVAtUmp4bDNhNWZKN1Jla09WcHM4Qlhsc1MwUHBDNk1UNHFheW10WTVORmRUemdwT0hrczBqOERHZy1ZQjI4bTRnb3ZSbk4xd3c1R3phZ3RuSEhGbUhzbXBDSlF6THN4Z1JBc2k1OElXT2xBMUFyWmxOUXozcTdpaDNOQzYzcVlaengtU25Nc21hSGo1TFJCT3ZkS3Azb1labkJRYWRpUQ?oc=5",
-      "source": "Google News: Shopify",
-      "published": "Thu, 27 Aug 2026 00:47:00 GMT",
-      "summary": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks &nbsp;&nbsp; Investor's Business Daily",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787791620.0
     },
     {
       "title": "AI Spotlight: Enabling Purchases While Stopping Fraud in Agentic Commerce - Digital Commerce 360",
@@ -291,12 +269,12 @@
       "title": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjBON2JHVTlhNFF0Njd1MFRqQUJDWHBURWJhZ3dzWXdZS2o4d2FQNzdoMnpYOVJ0dzhTbzZSN3lqRXh4XzhQM2p0SWMtZlltU1ZfaE9UdHM4dUpTMm5hNGxLaEtVTWpoZWMyajZUVE9fNVB3S21XeUxlQ05WYUdURGVzYk9NVlE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 20 Aug 2026 17:44:22 GMT",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
       "summary": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) &nbsp;&nbsp; Seeking Alpha",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + new product",
-      "published_ts": 1787247862.0
+      "published_ts": 1787209200.0
     },
     {
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
@@ -453,17 +431,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdXhLaUN5TUI3OXRPakk2LWVOLTQzWkxpOWhEQXlwbXV0dlA5SnpLYWtCRUZ2bjE5MmVscTZYb0FaeTZRTDVWZG53cFhVVE9ybFVEWHR5c0JPN2oyQmp1U0V0TmJ5SkVmWGNWOGdFc0NoRTVtSmZQYTJCbGlVamF1ekNHVk51eVZsZTllWHZlb01BbllzUE1OZUF4c3FhcDUyZGF1cnNSTTNZWkYySmFxdDVsSVEzYmV4bGVpRmFkdDQyN3hWOVFSSEdQLTJzRXEyNVhtdUtqR0tZREFRaS1jU3pXMGlDZ1pBeW1nc0VtX3dXTVdoQUE?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Mindbody and Attentive Commercial Partnership Brings Enterprise-Grade AI Marketing to the Wellness Industry &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1765353600.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -495,25 +462,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
-    "opportunities": 26,
-    "threats": 20,
+    "kept": 42,
+    "opportunities": 24,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 13.8
   }
 }
