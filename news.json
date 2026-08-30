@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-29T22:54:27.388372+00:00",
+  "updated": "2026-08-30T00:53:13.923578+00:00",
   "items": [
     {
       "title": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSFVCN0VPUWFMLWN1eklfOG1hSTcyU01sVnFrX25SU25LaVBQdEtpYzhNeVlZY193Wm1fM0VEWTNndElqdGxiUHR6eTRZRDdHRjJicTFJZmNua3ZPVWJKQ09sSzJrSWhNZnZ2LThBZlMzN1B5TE5XalVaOWdWcXJTWmpodjMwVl9aYmt4WkZqWF92YUlhNXc1NURPZFBBWG53eEp3aFNYTE5vWkI1c0otMmdCd1MxZVlpaXA1anp3NHlzWE14X0xfaFh5R0V4bVF5Qzg5QWlMbEZrTFRnbmtCQk1rbHJ3Nm10a1ZTS3JPREFCNmczY1dURkEtTUNfSVA5a3l6VFhFUmx2aTRGYkc4QnhESQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2JHZGhLb1dEdHlKUHM2VlFRbDhrSWhYNDMwUUQ0QmVROG1nT0NWV3hJaEgtVU43NS1OZVVrNm9ka1FOV3JzSThMLUhtakowNnAzanRuanVvdjdGNmNPZ2VySW50UE9CQ2VFRlhubUphRHBId3dRWFl1SHBvMTJhOXJ2MXpOMERpVkNUWEJwWlpMeFVGNDFxX0lhQlFkbjdDb1ZWLVFqYzZmaks3Zm9mbXBUWlBVQlVuX216bk5YcG5yYWZtS1EyRGxhYzhlSjEyYWhNdllGamxheEpHU2pXQzFyendLTW1LMHpiZDdaenRISWdXZ0premMzR3hzQ2dpdDVTY3VUbFRPTFk?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Sat, 29 Aug 2026 18:21:53 GMT",
+      "published": "Sat, 29 Aug 2026 18:35:36 GMT",
       "summary": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce &nbsp;&nbsp; The Globe and Mail",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1788027713.0
+      "published_ts": 1788028536.0
     },
     {
       "title": "Stocky not sunsetting until March now?",
@@ -310,15 +310,15 @@
       "published_ts": 1787036400.0
     },
     {
-      "title": "THE POSTSCRIPT: Fully Recovered - news-daily.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVhpT1JYc19aVVh3OTF3VFUwX2VHQmRPclJ3MHNWbFlsXzd1MGNrZzgweFRLQ0JZVWMyNTBnOFctcWJ6TnAtcTZ6czNiamhkMzlQRlhRbHFyRTU4VXl2VU1nRzBSMUZyb1I1bmgxVWFVMG5sSG40ckxyVktZcEc2YXBRRUhpcEUzZkVoX0p2dmZSYVU1U0V1UHgtekVzQ2RKSFpsb1dHNU52eGN3aGVJYzJ6aw?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 10 Aug 2026 08:00:00 GMT",
-      "summary": "THE POSTSCRIPT: Fully Recovered &nbsp;&nbsp; news-daily.com",
+      "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1786348800.0
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1787036400.0
     },
     {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
@@ -520,11 +520,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 47,
     "opportunities": 27,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 10.7
   }
 }
