@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T01:09:46.850810+00:00",
+  "updated": "2026-08-31T07:51:16.012646+00:00",
   "items": [
     {
       "title": "“Shopper’s Needs Come First with Vendee Labs’ Exclusive AI Shopping Agent” - BusinessMole",
@@ -181,12 +181,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783753200.0
+      "published_ts": 1783839600.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -409,17 +409,6 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1770278400.0
-    },
-    {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdl9rRDI5eE5UUHRuYl9ieVltTklGc0V0a2tnTUhvbHJqYy1HeFVEUnY3LTU5Y2pJWHhhQzg5RXpYZmh0NlU3c09UVXIya09aZXp5M3B5QmNmbG5BUFFxZjl1aXRRQ1RyOTJtQk5hQUZjRGFRcUNJRklhc2JxVTVSYWt6aEdZZEZBTVBrbVFGdWxrRDFQMVl4NzVlQUZwR01GZHRBTlpaeUs4OWNUNkFScWtIN01iR2d0YWk4VURucw?oc=5",
       "source": "Google News: Omnisend",
@@ -464,6 +453,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 07 Mar 2022 08:00:00 GMT",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + launches",
+      "published_ts": 1646640000.0
+    },
+    {
       "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
@@ -481,6 +481,6 @@
     "opportunities": 25,
     "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.7
+    "runtime_seconds": 10.1
   }
 }
