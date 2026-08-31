@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-31T07:51:16.012646+00:00",
+  "updated": "2026-08-31T15:38:19.810106+00:00",
   "items": [
+    {
+      "title": "Best Buy emphasizes expert support with AI shopping assistant",
+      "url": "https://www.retaildive.com/news/best-buy-ai-shopping-assistant/829049/",
+      "source": "Retail Dive",
+      "published": "Mon, 31 Aug 2026 09:00:00 -0400",
+      "summary": "Ask Blue can answer shopping questions or guide users to customer support as needed.",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1788181200.0
+    },
+    {
+      "title": "Passkeys face a new test in agentic commerce - Frontier Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2ktS1pVeVB3LTV1dHFnb0ozVXQtZDZreUd1WU1jSEFhdElZdzVaZXZ2YzBfVGxSa0JRWURTNzlvVllMWXJFbTNfMUxaTWJnMGIxNDJhWEZudkVVY0VGd1p4MVdMT1hsSElLRjFOQ2NpV1NqS2p4N1dpWFYzbFdkWVlJLXVjR1B2?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 31 Aug 2026 00:30:00 GMT",
+      "summary": "Passkeys face a new test in agentic commerce &nbsp;&nbsp; Frontier Enterprise",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1788136200.0
+    },
     {
       "title": "“Shopper’s Needs Come First with Vendee Labs’ Exclusive AI Shopping Agent” - BusinessMole",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXJtOS1FSFREOHljRlhONWZ0WGxNVkRjUU9IckZjMWdiY1RDZ19FMlRBNDdYUlpNMXhEM0tCVFBMYXFqdnhXMW1pUHJHRGlWbEFZeDVtR00tVzItRE5GdkxYSmpxc1dZd3hKOWI4a0prWjJCNlM3cHNHNHNqckgyWEdfcjQzWUhQN2hXWEdPbHlPYjRYZTE4N3BtNkVLSy1LTFE?oc=5",
@@ -25,14 +47,25 @@
     },
     {
       "title": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPbkx0RnV3N1hlRzhPQ1RrcXlDcmMxUzk0LXZiV2pMcUU5a3hOTFZnUWNvaDhXQlJ2cEhvQVFOMktRc3l4MXk5alR5SGNyU0JONlBPcE9ya3pPY21JVnRja2Q3a1k3eW1rbk9JRzdEUjdnY3VLOGpqNmQzc3FETW0tZkFHeWt3eEk0UjliWTFNQ1hZVVY5cExIblFDbFN2TlJDYU8wcGxTSjRuMUdHbl91bzRrUGFVakRPR1FZRDczTjBXVUhOVTJUeC1DcXZoN2ViS3BHcUlYaU1GX2J1TXR2TkNnY3lyR2NOVExqcHNNN2c5bFhwTllrSmEtT3FRbkJjX0VVYVVpVDJTbXJIbkxscl9sOUdMQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2JHZGhLb1dEdHlKUHM2VlFRbDhrSWhYNDMwUUQ0QmVROG1nT0NWV3hJaEgtVU43NS1OZVVrNm9ka1FOV3JzSThMLUhtakowNnAzanRuanVvdjdGNmNPZ2VySW50UE9CQ2VFRlhubUphRHBId3dRWFl1SHBvMTJhOXJ2MXpOMERpVkNUWEJwWlpMeFVGNDFxX0lhQlFkbjdDb1ZWLVFqYzZmaks3Zm9mbXBUWlBVQlVuX216bk5YcG5yYWZtS1EyRGxhYzhlSjEyYWhNdllGamxheEpHU2pXQzFyendLTW1LMHpiZDdaenRISWdXZ0premMzR3hzQ2dpdDVTY3VUbFRPTFk?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Sat, 29 Aug 2026 18:23:45 GMT",
+      "published": "Sat, 29 Aug 2026 18:35:36 GMT",
       "summary": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce &nbsp;&nbsp; The Globe and Mail",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1788027825.0
+      "published_ts": 1788028536.0
+    },
+    {
+      "title": "Lovebug Opens Its Family Probiotic Catalog to AI Shopping Agents - KTBS 3",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdGJRRXA2bnI4LUdYa2YzODNJTWRmbGgwQmVYeE5jbXJ5TEdfUlhCazJ3MVVQNXlWR1hIUkdBY2NIQjB5ZmdVZGg0TFQxUlI2NTdReWpQNTBYVnl4X1lpVWpEb1Y1NTRnMFJPRzZ3N0dLeFR6RERWazNtWm94cDhtR00tejVmY1FVVmFLTGJscXRZNjlDcW1XekdtcDVMM0R2ZFZUU1ZZVmwzT0dDY1BDM0dQcHpHRHVYOW0zVnNUVk5nVXVUdjFfRTd3dFRGVVJvRUp2c3hhR2R3LVptWW5oY1BVTktjNzVTRFdqeld2YmlCekV4alpFUkhR?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 28 Aug 2026 20:44:53 GMT",
+      "summary": "Lovebug Opens Its Family Probiotic Catalog to AI Shopping Agents &nbsp;&nbsp; KTBS 3",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787949893.0
     },
     {
       "title": "How businesses should prepare for agentic commerce - EY",
@@ -57,17 +90,6 @@
       "published_ts": 1787922000.0
     },
     {
-      "title": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale - Rezolve Ai",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUFiUVN0bXlWamk0UDI4Z3pmQl9iR1NkLWRIZGpjN2VaZXRHY3lXZVhuT2pGM2FYMW9tb3dtMEhhZU8tMlpUOWEzUnNuOW5BSno4bWNNUXQ5S2NGU1pULUdMOTFIb3VlNmQ4bTNIb2daSUE2S1dxbDB2OEE0WnpiREdDY0lqSmZOWEVNZG9STUpyV0xTOFZibDlOQmloc01Jem1mUUxvTWpYOUo0MDZXYTJRbnlvRkVEREpMVFA1cEJ0aDZQRTNnNU1ZbkI?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 28 Aug 2026 11:59:53 GMT",
-      "summary": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale &nbsp;&nbsp; Rezolve Ai",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787918393.0
-    },
-    {
       "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - VisionMonday.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3l1d1dJbnZ3aVFDZE1LNXZ2WjV6R3kyUGR0dEFhNGg4TW9LMmUwUUpHTVhCVnFWVDJUcjIwN2dSRlNtaFp3YmNrNlYzZk1uS2lNYUV5eDhUSXZuZmM4T2o3WjNDNVpPLTdfcFY1UFYwLXNnSF9oSXVTTVlvWWdJVW5ZM2EtcE5EVjB1SzJld0drQkhyc21tb0ZoZ2tFazFEeVBrbS1jZGI1VkcyZ01nQVY2TUcwR2dzQWMyb2ZZMk5sWVk?oc=5",
       "source": "Google News: Narvar",
@@ -90,17 +112,6 @@
       "published_ts": 1787838459.0
     },
     {
-      "title": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2ExQ2tGLXlud0xHT0R0YVAtUmp4bDNhNWZKN1Jla09WcHM4Qlhsc1MwUHBDNk1UNHFheW10WTVORmRUemdwT0hrczBqOERHZy1ZQjI4bTRnb3ZSbk4xd3c1R3phZ3RuSEhGbUhzbXBDSlF6THN4Z1JBc2k1OElXT2xBMUFyWmxOUXozcTdpaDNOQzYzcVlaengtU25Nc21hSGo1TFJCT3ZkS3Azb1labkJRYWRpUQ?oc=5",
-      "source": "Google News: Shopify",
-      "published": "Thu, 27 Aug 2026 00:47:00 GMT",
-      "summary": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks &nbsp;&nbsp; Investor's Business Daily",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787791620.0
-    },
-    {
       "title": "AI Spotlight: Enabling Purchases While Stopping Fraud in Agentic Commerce - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaEduOVlicjh2M3hpa1pkMDlEM0F5Rmhwck5mc05HNEVXVkZnU0lfTzMyWmFTTFROMkVkS3dKaFFDb09KV0dqaThNRTVQaUd1bXRHek5weTJwZzQtN0FvVWhYbjM2ZHI0LU0xVW5SNW1oaGlxUTJ0cngtSktfVHhYYVc3aW81V1Fud1ZqaGNsUmNfQmlmTWlidnFleE1XZjFLUWRvdnU4enVWdFo5ZmxIeWVGX0hBTl8xNk55cExuTjBLVVhC?oc=5",
       "source": "Google News: agentic commerce",
@@ -110,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787768227.0
-    },
-    {
-      "title": "Agentic commerce: How AI is becoming retail’s new front door - Retail Insight Network",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVJRQnV5Vk51Y1FiWkdRNm02dXQ1bU5jU1h0WnNVbmJUZDh1QUZrNllIYUlQdkRsWGNNM0pTUUNvSjkwR3p0MXcwdC1NV0lYWkZCZ2pOOVZwZmxwWjEtZDdRbC11V1ZQZ3VPSDNBODRheHVXNG83RjdDRllDWkNGTTNUY1hhdmJYZVlsUGRpb1RSUTJPX2pqY1RYdzczVzRVcVRRVjktMDdqUHc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 26 Aug 2026 09:56:15 GMT",
-      "summary": "Agentic commerce: How AI is becoming retail’s new front door &nbsp;&nbsp; Retail Insight Network",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787738175.0
     },
     {
       "title": "Why Trust is the Biggest Barrier for Agentic Commerce to Overcome - Mintel",
@@ -167,15 +167,15 @@
       "published_ts": 1787036400.0
     },
     {
-      "title": "How Amazon And Walmart’s AI Shopping Agents Are Making It Harder To Find ‘Made In USA’ Products - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUFidW9TN0c0UHhhU0VBWDY1LU5mWlVIQld0YkpwQTh1UzZjQXFoQUx4ZzFXbGdoX1ZRZS1RanMtSVRqLTBDV3VENTZvQm9QYlhidFBHU0tMRms4aDludWk0TmJZbVQ3bGQzb2N3YlAwQlYwby1zVTh2MzVlMkVoMC1kaU1YakUtbkd4V0I5WVV5NF9hdjFJXzhNQ1c4bnFVT3VJbnRPdGljakFjT1Rmb3Jkc3RUbkFIa2Q1b2w0R3QwRTdf?oc=5",
+      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "summary": "How Amazon And Walmart’s AI Shopping Agents Are Making It Harder To Find ‘Made In USA’ Products &nbsp;&nbsp; Forbes",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1785481200.0
+      "published_ts": 1786431600.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -200,28 +200,6 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781247600.0
-    },
-    {
-      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1781161200.0
-    },
-    {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -231,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
-    },
-    {
-      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - Harvard Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; Harvard Business Review",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1778569200.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -255,17 +222,6 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "Agentic Commerce: AI Shopping Agents Guide 2025 - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Agentic Commerce: AI Shopping Agents Guide 2025 &nbsp;&nbsp; Deloitte",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1771920000.0
-    },
-    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -275,6 +231,28 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Kerrisdale Advisers LLC Makes New Investment in Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZkNoTDEzQk9jVlZ0dEFKNUZWQjUzeHJKMHh1bjhSSVN0endKWktuVFZSX0NfMzJob19pdjNaV0NZM0FvV21pNk1GWDdvYW5TalFmZjZpbHNQVFFjcHdWVzdQYkxsNW1Sa2hSeVBkLXVtbVg3UDhVSHlyd0tEQ1ZoU1ZPcF9nblBacUxPN2Z3YWRqWnZJZWNXLV9JeVhPWXVuZGZmOVF0SElqR3JHT2NYcGVvM01CeVpqQzN5aV9vUThxNnM?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Mon, 31 Aug 2026 10:35:52 GMT",
+      "summary": "Kerrisdale Advisers LLC Makes New Investment in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1788172552.0
+    },
+    {
+      "title": "THE POSTSCRIPT: Filled With Loons - news-daily.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHAxdWRSZzNnbnpxZFFjMXJZemRPU3A0d2d3aWJGZ2J6bUlIWkIzOXFNcEJ0RV9oUWZIb0VxNno5T3BlR2ZULUtRRnFHbXRldFl2cFFfUldVVzZLT1JvcS11b25kdU5BemUyRjJLNTVTUkdXNkx6cVFMU05YWi1zMUNPdHhtLUNCa3N6N3F1MEYwMmNIYXhQNlVZYVJBa3RacS14LXllNlE0ZFY5QXVfNjJuU2ozdw?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 31 Aug 2026 08:00:00 GMT",
+      "summary": "THE POSTSCRIPT: Filled With Loons &nbsp;&nbsp; news-daily.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1788163200.0
     },
     {
       "title": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) - Seeking Alpha",
@@ -476,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 43,
-    "opportunities": 25,
-    "threats": 18,
+    "total_fetched": 270,
+    "kept": 41,
+    "opportunities": 21,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.1
+    "runtime_seconds": 10.4
   }
 }
