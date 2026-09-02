@@ -1,6 +1,17 @@
 {
-  "updated": "2026-09-02T06:35:44.856299+00:00",
+  "updated": "2026-09-02T11:50:25.084145+00:00",
   "items": [
+    {
+      "title": "Spreedly Sees Good Bots Becoming an Agentic Commerce Channel - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmtoT0RESldMdU4wS1VEblh4RWw5Y0RBS2NmSzRtNm4wbXdwM2Y2dE5LRHFnY0ttdjVsc1pVNnl4dXZnbDFJU19fSVd6dlpOTWxmQzZFcEwyZXNsMm9hUDJtYVlRTDZHRWhmblBOWDdyN0MtMllTRHBXUXVJUWNab2FJdHBQbHZQVzVrcHR2ZXVlWFN0UjlzYlY4b3V6Z181LVM4cU1wY2M4Wlo4aFFvRDNoYw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 02 Sep 2026 08:04:57 GMT",
+      "summary": "Spreedly Sees Good Bots Becoming an Agentic Commerce Channel &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1788336297.0
+    },
     {
       "title": "Shopify email - does anyone know the roadmap for this?",
       "url": "https://www.reddit.com/r/shopify/comments/1w4pxra/shopify_email_does_anyone_know_the_roadmap_for/",
@@ -13,26 +24,15 @@
       "published_ts": 1788297359.0
     },
     {
-      "title": "The commercial card's new role in agentic commerce - thefr.com",
+      "title": "The commercial card's new role in agentic commerce - The Financial Revolutionist",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14ZmhfNnN6ZDc4SlZXUWNBbXI3SHhMdTBGRFFfSjdJdnlWVUk3WGdUM1NCTEdac05YSDZQQ1VWUjhHV09BQ2h2YndmdmRCYnN5blQ4UnBoZFR6OHJ5LUF2dWJraHg1NGh0ZGlsN1UwU0NyU09GZmJGcUJfeng?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 01 Sep 2026 19:02:24 GMT",
-      "summary": "The commercial card's new role in agentic commerce &nbsp;&nbsp; thefr.com",
+      "summary": "The commercial card's new role in agentic commerce &nbsp;&nbsp; The Financial Revolutionist",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1788289344.0
-    },
-    {
-      "title": "Stripe's Anna Spysz: The AI Shopping Agent That Went Rogue Over a System Prompt - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16QjVrUWoyWF9IV1NSTDg3Z010cmNNbkstQ3c5NVNxeUYxZnpLQ1cyY1NoZ3FCZWVWRFM4Qm1kS2VCZUY4eEt1VFFUZHVpbWloTHV3ZlViZTNBQ0k?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 01 Sep 2026 18:08:00 GMT",
-      "summary": "Stripe's Anna Spysz: The AI Shopping Agent That Went Rogue Over a System Prompt &nbsp;&nbsp; finance.biggo.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1788286080.0
     },
     {
       "title": "Stripe's Agentic Commerce Demo Exposes Prompt Risk - StartupHub.ai",
@@ -46,17 +46,6 @@
       "published_ts": 1788283151.0
     },
     {
-      "title": "EMVCo’s Effort to Reinforce Trust in Card-Based Agentic Commerce - Digital Transactions",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1hHc1dhRmxKT0JuZ1ZnUHJaWGRnaFBMRG4zUVB4NzNFdVZWVkVRUW9CNGxuQTNpVHFzNE5TSzVHU3VDR0RQcDRSdURoRXJCYnlJUlV0NDhVamlIVEZidllreU9yMl9ac2x4TlFzdTlhR2h4S0ZaNURQaW9iR0NyRjBfNEJNZVBOTEJieGRoeDdQSzVVaWZTcmkyWUtlMFYtTHc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 01 Sep 2026 15:14:02 GMT",
-      "summary": "EMVCo’s Effort to Reinforce Trust in Card-Based Agentic Commerce &nbsp;&nbsp; Digital Transactions",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788275642.0
-    },
-    {
       "title": "The Home Depot extends AI assistance in local stores",
       "url": "https://www.retaildive.com/news/the-home-depot-extends-ai-assistance-stores/829240/",
       "source": "Retail Dive",
@@ -68,15 +57,26 @@
       "published_ts": 1788273240.0
     },
     {
-      "title": "Warsh's words put markets at ease, but volatility remains; Can agentic commerce make in-store payments unsafe? More in Bankers' Hours. - LinkedIn",
+      "title": "Warsh's words put markets at ease, but volatility remains; Can agentic commerce make in-store payments unsafe? More in Bankers' Hours. - linkedin.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVlRYjEtRENnbWdWMUlUbjNyRDFCVkNFYllYOVoxczd0MGIzYmczR1B3ZHFHUDJpN0xIWE1ZODM1R2xBSE1wZ3pkYVlLc3BDVlRBQi1qdGF6R01vSEdzMDZvOVRtRmFMS1lwS2JTclBnakxHNkM3VGxHY0xEQVUyVkJWcWlTNVlUNDh6bjRyQTV4RC0yNEctUGhMdXh5UQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 01 Sep 2026 14:07:02 GMT",
-      "summary": "Warsh's words put markets at ease, but volatility remains; Can agentic commerce make in-store payments unsafe? More in Bankers' Hours. &nbsp;&nbsp; LinkedIn",
+      "summary": "Warsh's words put markets at ease, but volatility remains; Can agentic commerce make in-store payments unsafe? More in Bankers' Hours. &nbsp;&nbsp; linkedin.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1788271622.0
+    },
+    {
+      "title": "KuCoin Australia MD James Pinch at Crypto Winter 2026: Trust and Familiarity Will Shape the Future of Agentic Commerce - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZmVIM3FGM0lGN3hQMjNwc2JtSU51Sk1jQW8wbXNYa3R4RS1JQVIyXzA0T1N5WWNGYUpscmZ3aGxyelQ0WTBtUnRvWm94OTB2RjlsRTdDN19idDZuODB2dEFoczhfZ1BDcDFzMGlfLVp2OGpUMlRtMzI5RE5DTGdRNjNkMG95SHg2TXpaRnlBY3VBY0pHcFdFRm5vWjg1UFN1V2oxNHRiRlhlSGxvVDBuNURBYVRJQnFyTUNmS0JKdzJLa3RnT29GSjRfZ0V0cnVGSE9MbUtJaEFBWnBSdkJ5WnZtYlQzOXhTY2JHSzdOVlZTTndtaGxfaWdLdGVtOTVacWs3b1FzaFJGdw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 01 Sep 2026 00:00:00 GMT",
+      "summary": "KuCoin Australia MD James Pinch at Crypto Winter 2026: Trust and Familiarity Will Shape the Future of Agentic Commerce &nbsp;&nbsp; PR Newswire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1788220800.0
     },
     {
       "title": "Can agentic commerce make in-store payments unsafe? - American Banker",
@@ -112,17 +112,6 @@
       "published_ts": 1788136200.0
     },
     {
-      "title": "“Shopper’s Needs Come First with Vendee Labs’ Exclusive AI Shopping Agent” - businessmole.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXJtOS1FSFREOHljRlhONWZ0WGxNVkRjUU9IckZjMWdiY1RDZ19FMlRBNDdYUlpNMXhEM0tCVFBMYXFqdnhXMW1pUHJHRGlWbEFZeDVtR00tVzItRE5GdkxYSmpxc1dZd3hKOWI4a0prWjJCNlM3cHNHNHNqckgyWEdfcjQzWUhQN2hXWEdPbHlPYjRYZTE4N3BtNkVLSy1LTFE?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sun, 30 Aug 2026 19:33:23 GMT",
-      "summary": "“Shopper’s Needs Come First with Vendee Labs’ Exclusive AI Shopping Agent” &nbsp;&nbsp; businessmole.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1788118403.0
-    },
-    {
       "title": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2JHZGhLb1dEdHlKUHM2VlFRbDhrSWhYNDMwUUQ0QmVROG1nT0NWV3hJaEgtVU43NS1OZVVrNm9ka1FOV3JzSThMLUhtakowNnAzanRuanVvdjdGNmNPZ2VySW50UE9CQ2VFRlhubUphRHBId3dRWFl1SHBvMTJhOXJ2MXpOMERpVkNUWEJwWlpMeFVGNDFxX0lhQlFkbjdDb1ZWLVFqYzZmaks3Zm9mbXBUWlBVQlVuX216bk5YcG5yYWZtS1EyRGxhYzhlSjEyYWhNdllGamxheEpHU2pXQzFyendLTW1LMHpiZDdaenRISWdXZ0premMzR3hzQ2dpdDVTY3VUbFRPTFk?oc=5",
       "source": "Google News: AI shopping agent",
@@ -134,17 +123,6 @@
       "published_ts": 1788028536.0
     },
     {
-      "title": "Lovebug Opens Its Family Probiotic Catalog to AI Shopping Agents - KTBS 3",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdGJRRXA2bnI4LUdYa2YzODNJTWRmbGgwQmVYeE5jbXJ5TEdfUlhCazJ3MVVQNXlWR1hIUkdBY2NIQjB5ZmdVZGg0TFQxUlI2NTdReWpQNTBYVnl4X1lpVWpEb1Y1NTRnMFJPRzZ3N0dLeFR6RERWazNtWm94cDhtR00tejVmY1FVVmFLTGJscXRZNjlDcW1XekdtcDVMM0R2ZFZUU1ZZVmwzT0dDY1BDM0dQcHpHRHVYOW0zVnNUVk5nVXVUdjFfRTd3dFRGVVJvRUp2c3hhR2R3LVptWW5oY1BVTktjNzVTRFdqeld2YmlCekV4alpFUkhR?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 28 Aug 2026 20:44:53 GMT",
-      "summary": "Lovebug Opens Its Family Probiotic Catalog to AI Shopping Agents &nbsp;&nbsp; KTBS 3",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787949893.0
-    },
-    {
       "title": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale - Rezolve Ai",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUFiUVN0bXlWamk0UDI4Z3pmQl9iR1NkLWRIZGpjN2VaZXRHY3lXZVhuT2pGM2FYMW9tb3dtMEhhZU8tMlpUOWEzUnNuOW5BSno4bWNNUXQ5S2NGU1pULUdMOTFIb3VlNmQ4bTNIb2daSUE2S1dxbDB2OEE0WnpiREdDY0lqSmZOWEVNZG9STUpyV0xTOFZibDlOQmloc01Jem1mUUxvTWpYOUo0MDZXYTJRbnlvRkVEREpMVFA1cEJ0aDZQRTNnNU1ZbkI?oc=5",
       "source": "Google News: agentic commerce",
@@ -154,17 +132,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1787918393.0
-    },
-    {
-      "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - VisionMonday.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3l1d1dJbnZ3aVFDZE1LNXZ2WjV6R3kyUGR0dEFhNGg4TW9LMmUwUUpHTVhCVnFWVDJUcjIwN2dSRlNtaFp3YmNrNlYzZk1uS2lNYUV5eDhUSXZuZmM4T2o3WjNDNVpPLTdfcFY1UFYwLXNnSF9oSXVTTVlvWWdJVW5ZM2EtcE5EVjB1SzJld0drQkhyc21tb0ZoZ2tFazFEeVBrbS1jZGI1VkcyZ01nQVY2TUcwR2dzQWMyb2ZZMk5sWVk?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 27 Aug 2026 18:40:00 GMT",
-      "summary": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds &nbsp;&nbsp; VisionMonday.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787856000.0
     },
     {
       "title": "Contribution Margin Guides Ecommerce Growth",
@@ -189,37 +156,15 @@
       "published_ts": 1787488021.0
     },
     {
-      "title": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbm1GWXZGMENXWDBvZEdFekRrSjBDVk5ud2VLY3NreW1LWlhCZ2h0aldxS1oySzBwQ0NoQUtxMXk0NERZbFEycDhFNG9yTzFINHpPTVM5M0xiLUgzUXZZbmUtZmtqMUNxUTZMMkZCMVlKTldsRWZZTWQxN3NzcHQ1RlhfaXpSVkYwaGJEeURCTDA3NVYzYmh1RTZhbXV2bmpYaDVxU094dmJNNU5iaGFsRFVObnJHUQ?oc=5",
+      "title": "How to win in agentic commerce as AI agents decide and transact - EY",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WXlQN3ZsTkRSU3ZjQXByVi0yc0VGSDhjNVN4d3VQZGJ2cEhRWTlXTWUwV2xueFlzMXJiZEFodlpzQU5ac1czTDRTQTB4dkczR3FJemViZ0RtTkVUQUFHX2ZhNXpQNnp4Q0FsVVdIWQ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "summary": "Visa and Mastercard Join Rain’s Agentic Commerce Coalition &nbsp;&nbsp; PYMNTS.com",
+      "published": "Sun, 12 Jul 2026 20:15:13 GMT",
+      "summary": "How to win in agentic commerce as AI agents decide and transact &nbsp;&nbsp; EY",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787036400.0
-    },
-    {
-      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHc0LWo0STRSbm9aODkzelpabl9Fa2lkZVFjMFladmNfUUpSdlJQcW1oSXk4bllZQll0LWhxOVBIdjB1a2tZR0xzTGN1blR1SEFfR0lkSmx6MUZiNDBkLW5DUTJETFMtRHg5NUFhcVVhbllqSjFlZ0ctZzg2aXRlUC1ZTl9ZT21rLU1aRS1OU2FtdUc3alJHRnFqTkljaFFad3dtajR4TlFrYWdpb0Y1dkdwREh4cDJaWGhaaG45VzVuQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "summary": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1786431600.0
-    },
-    {
-      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783839600.0
+      "published_ts": 1783887313.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -233,6 +178,28 @@
       "published_ts": 1782111600.0
     },
     {
+      "title": "AI shopping agents are coming. No one is ready for them - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczktXzZXYmN2dHdXeE1mbXVvT2R5Y1Vzb1FkcjB1WVVJNHktRURKQk5EM0lOQWpWbUlaWmtTc3k2Nmpua2k3WFM0Rk9PbXNLMC1JaE05a3dkazdWdC1VVHBWNFJILUJsaUVVT0h5MU9QRnZQek1MaFhyMnpiR1FQRFNuQzVSdkJQLVIySUdzTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "AI shopping agents are coming. No one is ready for them &nbsp;&nbsp; Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781247600.0
+    },
+    {
+      "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzRLVWEteU1KRjM3MG9GTF8zUGl1NmRSbUo3OFlsOU40dmVBVXFER3dvaFZuLXFWbmJBWjJtc0xOczJhLVd1SlRXNEI5NjNLNHgzZXV1dDVTc1Q1WVBMdzJzSkZRcU9IX1R2TXFndzg1aWZDcWdHcU9JVTZTTTFFVmU2dWZCcHo0N25uN0ZkT1I4VHFfSWtLUm1IbUJRTGRqQkV2SU9HZEl2UFQ1OUtIWkV0eHI5bUtZT1NCVEdiOXIxYlRLTHY5LWNFRmNuTjQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1781161200.0
+    },
+    {
       "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -242,6 +209,28 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
+    },
+    {
+      "title": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents - hbr.org",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZWcG1wZnR6QWkxYkZWc3JLNGpkaVNucDJHZWhseDFWN24yQ1JaSlJwanYzWUlwTloxMmUyZkRiVndYbkRjczBzMmRIa3Z1Zzd2RUxjUWRPcGozU3Fva2lFY3RiZkdOeFl6c2NXU2hQZllidndnU0NaalBaT0d0cTZiZkU1cmdmOE81R3JQWl9iUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Research: Traditional Marketing Doesn’t Work on AI Shopping Agents &nbsp;&nbsp; hbr.org",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1778569200.0
+    },
+    {
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
+      "source": "Google News: abandoned cart recovery",
+      "published": "Wed, 01 Apr 2026 13:54:08 GMT",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1775051648.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -255,15 +244,26 @@
       "published_ts": 1773730800.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1768464000.0
+      "published_ts": 1718866800.0
+    },
+    {
+      "title": "Klaviyo's Ed Hallen on the two-month rule behind a $9B IPO - app.dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUwxWGkzNHo0QWtvanc4cDdlYU1ZSEFmb2tUWDdzZHRZUmdQU0pMSEV3SHVUY21rdERmeXp0b1gwWDVEVlp2VzQyYjNaV2psYzhRSC1oTmJxcnh3THA4WUhSNUNWYjRZVWhZa1N5aDFGM3pEZGV6eVN2Mm5UVzdiS1dzdTc4b2pMZnIxSlY0X1lzNXQ3b2c?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 02 Sep 2026 08:59:03 GMT",
+      "summary": "Klaviyo's Ed Hallen on the two-month rule behind a $9B IPO &nbsp;&nbsp; app.dealroom.co",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + ipo",
+      "published_ts": 1788339543.0
     },
     {
       "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -275,17 +275,6 @@
       "confidence": "medium",
       "reasoning": "Attentive + funding round",
       "published_ts": 1787697807.0
-    },
-    {
-      "title": "Attentive Announced the Launch of AI Grow - MarTech Cube",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IVW5GZmZxbGxGQ25haUtrcGxyMklhZ1BFenM5bmFaR09CSDVZa3NRVXVnN2xab29sRFZ4dEppWnlJRzE1R3F2WXpjM1Y2WTJ6TDNHNnhuQ2kyd3BDTmZfcUY5a1RrREJ0UWtZSk5NOEhlZVpmRHJYa0l3?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 20 Aug 2026 10:31:41 GMT",
-      "summary": "Attentive Announced the Launch of AI Grow &nbsp;&nbsp; MarTech Cube",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1787221901.0
     },
     {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
@@ -321,22 +310,11 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1779951600.0
-    },
-    {
-      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - easternprogress.com",
+      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - Eastern Progress",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORXFHUXdRa0dMR0pYY3Y3Ml96R0tNMWlRckpkR1ByME1NSFVtaU1MWWpQMGViZVZscGxnRHBwOGo5SVJmdlQwWXZocVNEOFRQdVA4UVFyZUVyVVNIMWtsb09NMDFSSDdmUTJQTnFlSndxeGtZaXdvUk40S05jZ0M0YVlmNDByTTlmbUxfaUdHLTZIQWZwa0lRSEpfMm8yczFQZEtSRFY5ejktNmJIODhNRHVpcDFJV01sa014THdGTjZBTWpnUFV5TnJ2cmQ5OGh1enVTU0dpaS1pb2xWYWc?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; easternprogress.com",
+      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; Eastern Progress",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -352,6 +330,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
     },
     {
       "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
@@ -431,6 +420,17 @@
       "published_ts": 1736150400.0
     },
     {
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 17 Oct 2024 07:00:00 GMT",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1729148400.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -451,14 +451,25 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 24,
-    "threats": 17,
+    "kept": 42,
+    "opportunities": 23,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.8
+    "runtime_seconds": 10.5
   }
 }
