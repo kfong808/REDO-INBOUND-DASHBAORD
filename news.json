@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-03T18:12:34.749249+00:00",
+  "updated": "2026-09-03T21:29:41.034831+00:00",
   "items": [
+    {
+      "title": "Dumb Question - Removing a Product Page - SEO",
+      "url": "https://www.reddit.com/r/shopify/comments/1w6gkve/dumb_question_removing_a_product_page_seo/",
+      "source": "r/shopify",
+      "published": "2026-09-03T18:58:27+00:00",
+      "summary": "Hey, just looking for opinions on the best way to remove a product from my site with the least impact on SEO. It's permanently discontinued. I am in the bedding industry. I have only 2 collections and only 12 products total. I know this is elementary stuff. I'm just looking for opinions. Thanks! &#32; submitted by &#32; /u/sspocoss [link] &#32; [comments]",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: discontinued",
+      "published_ts": 1788461907.0
+    },
+    {
+      "title": "Anthropic pushes Claude deeper into agentic commerce as identity standards evolve - Biometric Update",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1RqRlU4SWxPLVFJeTJiNmh6RExMZ05IcF8zSlA3czNKcHc1X0JXNTVYRVhwMVpsQmtsX25abDluZEdkT0FQMlZIeTRTSTUwLWkxYjR1SVJMMWNoQkF2cDVPclpwdlNZN185Q3VhdzhMQUFpUWd6dUl3TWRJQ3E4WVJfS3RnaWJDb0tSSlM2WHlIbWpYUWVOaElVM0hNWlZxUlY2Y2puOHR4QTJWMERzMXdOam4zakRSX2plcA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 03 Sep 2026 15:36:00 GMT",
+      "summary": "Anthropic pushes Claude deeper into agentic commerce as identity standards evolve &nbsp;&nbsp; Biometric Update",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1788449760.0
+    },
     {
       "title": "Anthropic Ships AI Shopping Agent Blueprints - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbkFpMDFjbU4xa3gtTVRRTEpyZTZwcTZaRExZSlJBaFdrUGUwQVNPWl9lVjJhLW1ERThXYkhFUGJWSUJvQ3RRSFdCdlI4SzZTYzkzT1hzdXBib1ZzSjlOdzRpUjAwT1hpc2ozV1o3M0tBQXBvbU5ybDVWUGxmZ3g2clByclVIUkVQZ3RvQTlXdmVsTlB1?oc=5",
@@ -13,22 +35,22 @@
       "published_ts": 1788442561.0
     },
     {
-      "title": "Anthropic releases AI shopping agent blueprints for retailers - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1dxWGZsdjgyeFlJWFVweUI0QUxhTk51blRneTJkRFJoUk84Ymp4Yzl2VUkzNWFlZXJHeFNhWk9EQ0gwdWd4ZGxlSHV3blNzMEl4anJnVldWZFVVUVdMaEg0X3ZGaTAyaHdWUkI2b2NtNDc3RHJsdVpQbmhIdzBCZnUwWU5RcTNIX0N0TV9zVzFYcGJKSFVDeg?oc=5",
+      "title": "Anthropic is giving retailers blueprints to build AI shopping agents for the holidays - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUd6R3IyYlNDZXpHb1c4clJOd3k3RWpwbFBvUmxtbktrdXVFOWFlY1NSLWgwYll4T19yTGF5SDl3T3N6aE92ZnpmOHQ0WjRlcktha1pfZTRHYVpoR0l6S2pXajhLQmgwWnY1YWxGSFBUZkwtUWdxV010V0xURXVZWlhJTko2dw?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Thu, 03 Sep 2026 12:28:51 GMT",
-      "summary": "Anthropic releases AI shopping agent blueprints for retailers &nbsp;&nbsp; Yahoo Tech",
+      "published": "Thu, 03 Sep 2026 12:29:33 GMT",
+      "summary": "Anthropic is giving retailers blueprints to build AI shopping agents for the holidays &nbsp;&nbsp; qz.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1788438531.0
+      "published_ts": 1788438573.0
     },
     {
-      "title": "John Lewis Is Making Content For AI Shopping Agents - finimize.com",
+      "title": "John Lewis Is Making Content For AI Shopping Agents - Finimize",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWJ6bFpaWENYM1JNZTZyY0NKVF9GZzNVbjhYeEpmVktIdmQ1R1JFd21PU2VqRnZjQnJobDR4T1BlbFdWM0JPUWRBdEpmLUt2amt3eWdpbnB3YTlOcW1jb1JsVXRfa1k2cXZFZ0JSZEs2b042S0tJVDNnZVBKb2RDWVA1dVF6MW8?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 03 Sep 2026 11:15:14 GMT",
-      "summary": "John Lewis Is Making Content For AI Shopping Agents &nbsp;&nbsp; finimize.com",
+      "summary": "John Lewis Is Making Content For AI Shopping Agents &nbsp;&nbsp; Finimize",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -44,6 +66,28 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1788426191.0
+    },
+    {
+      "title": "Can food brands survive the rise of agentic commerce? - FoodNavigator.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnpXQ3dYY21ab3BSaDNZLWladGZ2SGpXODZmS1lTS3BzLUh6aFVYWGRoWUpRcGJreGFXX0JNVlQ5bnVERTg5dllSRnlTekNweVBXWkp6UEZURDY4cDYxdUVuVVdVU01BcU1UNHN1ZkY5eFB2WGxNdXJyYzdxSExuWWJrTGdKT1k?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 03 Sep 2026 08:19:08 GMT",
+      "summary": "Can food brands survive the rise of agentic commerce? &nbsp;&nbsp; FoodNavigator.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1788423548.0
+    },
+    {
+      "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGhBUjJtQUNfQWo4VGkxam1oOVNRaUhOUHBHeGVpd2JSZW5zdk5jakFIdDJYcHRxc2E1UDU0b2tadFBYSFBnTHN0RFV5dl96QWN3U3JBUG1HUENIN1daM2JZdHBVS2lta0ROdkxoajR0Nkx6VXRnbWxzMkUyNGVQdEJWNGVtMU1JZzdTSG9tWFdtcG03bXNjctIBngFBVV95cUxNb1Z4NWJOTzRvNS00Ti0zVW9wRkhPdXJKZ1YzSDdQc1hfUWZwRGQ2NDh0Y0tKejNlQkRUV0dPblM1azFjS19YMkZCVjhMTkxqOE5wSHM3RzlITER4MmpjTXU5enZvbVVTT3ZPTHZHMnpndFBaUnpncFJ1X2p4WEFQbWNPYzZ0UDluNXllemZTQ3kyN2dYMm0tMzBScmNoQQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 03 Sep 2026 03:00:44 GMT",
+      "summary": "Dr. Squatch drives revenue through post-purchase tracking page adjustments &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1788404444.0
     },
     {
       "title": "Statista: Strategic Dilemma In Agentic Commerce - FutureIOT",
@@ -79,17 +123,6 @@
       "published_ts": 1788364811.0
     },
     {
-      "title": "Runner AI Debuts Agentic Commerce: AI Runs the Business, Founders Approve What Matters - WBOC TV",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPbWtabEpmUTBEbHl0MHBOVC0xaUVtNFlKcWVTaUtwRHViU2tyLTlnamVqZDVWTDd4Y1V2UWZHNlRYYUtKWHhfcHBPeTd4dV9lMVhSejRRQi0yc1FyMlFxT0t1YjQ2MEExcjdwdnFXcUlCdDBUSFVqZ29jWXg1SzVCeTlFR2ZHbjZJUHB3OHI1NGp6T05lcC12cFgzMU1tRlBZbndzVWEtUzdrT2EzRmFVZXJuZEwyekxNclhZSVBkWDlETEVwd3FyWDFjYU9PcjJMNkJ1RW9OdjYxdEZlVUtCa19qWXZCSEtha2NxQl82ZldOMFZFUWhWa1FFVWpLaDdmeHZ6ZndxVldRVVZoaEJwNUpKYzk?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 02 Sep 2026 14:46:25 GMT",
-      "summary": "Runner AI Debuts Agentic Commerce: AI Runs the Business, Founders Approve What Matters &nbsp;&nbsp; WBOC TV",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788360385.0
-    },
-    {
       "title": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM00xRkY5ZXpoNGIzY01mdmZ5SlItbExzSkZnVEd6RUFDeTNtOEZ4NGhTWE9fZElVS1UwbzNwR19Nc1JPV0lzbENiUnpOR0p6MW1jRVgtekFadHdOSk1POFZsenluVzlTbUdxZmRzQUJIVE1qWi1idUpaV2dnVVBTMUplcEhBbkRZTTlpZF9YM2pzZWtKUFk4cU9jTVpteF9meDJOd0xn?oc=5",
       "source": "Google News: agentic commerce",
@@ -101,70 +134,37 @@
       "published_ts": 1788345900.0
     },
     {
-      "title": "How 23% of Merchants Captured Retail’s Next Agentic Commerce Advantage - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkc4WFpEUXN5SjNiclpNLU9YNHpteV9XRkxXb1Z0Z01wdzFpamZ6MlBIcVR4Q0VpVEhiTGJQUnBQWEZ0b1JPTVRINTJsdDBya1JfWURrZS1vUWhQMGhTRWtKMHhKTTJCS1dJaVlMcjlUVnEzUG5POThmUWZ4bmFGcFRKMnZmUlp5Tm51d2ZjeDFieGxUZE1FQVM4Ny00RVpQY2ZPM3JmRXNVWFVoRjAxUUY5czVHU185UEJoQmd2U1lycVhKOEt0MjE0X0E4dVRk?oc=5",
+      "title": "Spreedly Sees Good Bots Becoming an Agentic Commerce Channel - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmtoT0RESldMdU4wS1VEblh4RWw5Y0RBS2NmSzRtNm4wbXdwM2Y2dE5LRHFnY0ttdjVsc1pVNnl4dXZnbDFJU19fSVd6dlpOTWxmQzZFcEwyZXNsMm9hUDJtYVlRTDZHRWhmblBOWDdyN0MtMllTRHBXUXVJUWNab2FJdHBQbHZQVzVrcHR2ZXVlWFN0UjlzYlY4b3V6Z181LVM4cU1wY2M4Wlo4aFFvRDNoYw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 02 Sep 2026 08:05:20 GMT",
-      "summary": "How 23% of Merchants Captured Retail’s Next Agentic Commerce Advantage &nbsp;&nbsp; PYMNTS.com",
+      "published": "Wed, 02 Sep 2026 08:40:20 GMT",
+      "summary": "Spreedly Sees Good Bots Becoming an Agentic Commerce Channel &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788336320.0
+      "published_ts": 1788338420.0
     },
     {
-      "title": "Shopify email - does anyone know the roadmap for this?",
-      "url": "https://www.reddit.com/r/shopify/comments/1w4pxra/shopify_email_does_anyone_know_the_roadmap_for/",
-      "source": "r/shopify",
-      "published": "2026-09-01T21:15:59+00:00",
-      "summary": "I have been using Shopify emails for my flows and marketing (Klaviyo is too expensive). Does anyone know if there are plans to improve Shopify emails? Something like being able to customize our own templates using code ( notification emails allow this, but not Shopify emails). Or at least are there plans to substantially improve the built in elements. It’s pretty hard to compose high quality emails using the current experience. Any Shopify engg, PM here? &#32; submitted by &#32; /u/throw656598 [",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: too expensive",
-      "published_ts": 1788297359.0
-    },
-    {
-      "title": "Stripe's Agentic Commerce Demo Exposes Prompt Risk - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDM5STF6QW9FZV9yU3JNYW95QWZKRkQzdnM0TVlDQ2VXSFNKNE0yTWd2NXN6UW5xNlBGUE1nQzhWLTgxSUNsSGQya1RYSnRVSmxtRk40dXZDd2JVSDFsT3JGUDExclhudTAtQkllN2J6dnY2dDF4ODAyRXo1TndITzdOLXJwZFF0OEV3MmZ4M3o5eXZy?oc=5",
+      "title": "Can agentic commerce make in-store payments unsafe? - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOURBNml1VEZHV090Q1ctNzVhM2Q0dGFYSkg2aDRQX1BsRWVlUFVWUjFSamlIaUZFWlhXb1FUZ0JoY2VXa25aeFo3RUtNWXVCVnRpRklKQWJSZFM0a2xWNkg3MTgwNzUyUDdodlNmNi1qMDduZzA3Y2V3V0I2SUdDdUJoT0ZoMnpWZkZaMlNEUlRvWDFrRnd0di0wWmpGckU?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 01 Sep 2026 17:19:11 GMT",
-      "summary": "Stripe's Agentic Commerce Demo Exposes Prompt Risk &nbsp;&nbsp; StartupHub.ai",
+      "published": "Mon, 31 Aug 2026 19:51:00 GMT",
+      "summary": "Can agentic commerce make in-store payments unsafe? &nbsp;&nbsp; American Banker",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788283151.0
+      "published_ts": 1788205860.0
     },
     {
-      "title": "Passkeys face a new test in agentic commerce - frontier-enterprise.com",
+      "title": "Passkeys face a new test in agentic commerce - Frontier Enterprise",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2ktS1pVeVB3LTV1dHFnb0ozVXQtZDZreUd1WU1jSEFhdElZdzVaZXZ2YzBfVGxSa0JRWURTNzlvVllMWXJFbTNfMUxaTWJnMGIxNDJhWEZudkVVY0VGd1p4MVdMT1hsSElLRjFOQ2NpV1NqS2p4N1dpWFYzbFdkWVlJLXVjR1B2?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 31 Aug 2026 00:30:00 GMT",
-      "summary": "Passkeys face a new test in agentic commerce &nbsp;&nbsp; frontier-enterprise.com",
+      "summary": "Passkeys face a new test in agentic commerce &nbsp;&nbsp; Frontier Enterprise",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1788136200.0
-    },
-    {
-      "title": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYWN3cnBzaEs0d0NnQlpVWjhUYUVBaF85UmR4Wm1GZHpHRUlXeWNnMERMbEJoUXpackNkSFNnclpTdGktU0lBMlg0SjF4VTU3YXJTLUJCMDJLZ2pNMTUtS1RoTktGaHRaX21ESzF2NXpQZjdjZDhPdnZ4aUxmelduYndKOElOYmVlRTNuZlRYQkVvNm5ONnlhS1lNVDNLRXpYaVhSbFJ0RFVVWnJna1FBUkl4VzBjdkNua3U1ZFdzVk5vZUlUemtibFc4TkZHaWF6eHJHWUFTQWpfaHc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sat, 29 Aug 2026 19:00:00 GMT",
-      "summary": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce &nbsp;&nbsp; The Motley Fool",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1788030000.0
-    },
-    {
-      "title": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale - Rezolve Ai",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUFiUVN0bXlWamk0UDI4Z3pmQl9iR1NkLWRIZGpjN2VaZXRHY3lXZVhuT2pGM2FYMW9tb3dtMEhhZU8tMlpUOWEzUnNuOW5BSno4bWNNUXQ5S2NGU1pULUdMOTFIb3VlNmQ4bTNIb2daSUE2S1dxbDB2OEE0WnpiREdDY0lqSmZOWEVNZG9STUpyV0xTOFZibDlOQmloc01Jem1mUUxvTWpYOUo0MDZXYTJRbnlvRkVEREpMVFA1cEJ0aDZQRTNnNU1ZbkI?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 28 Aug 2026 11:59:53 GMT",
-      "summary": "Rezolve Ai and Tech Mahindra Forge Global Alliance to Bring Agentic Commerce to Enterprise Scale &nbsp;&nbsp; Rezolve Ai",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1787918393.0
     },
     {
       "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - visionmonday.com",
@@ -233,15 +233,15 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "title": "Netalico Promoted to Shopify Premier Partner While Driving Agentic Commerce Adoption - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmZLZUhqanJ1aGVjQjEtVUZ6cTdWOTcxS0JueDI4eDhmMG1waFFITUR1Y2h2cnNlbjBmQ2JZNzZtNUtWeVdpYlhLd0VscHJJRk1hU2gwSkdsbXdOZGVzY1dGdUZKMnMxSXYyUV85XzRXU0l3b1JuUmxuaWJYTkZIODlyc25qc3owM2plVzhOWFg2THE4QlJDZ3pta1Q5VFNmcGc5RGlYZk1vRUdiT2F5dGVzcTRVN3dUT00waS0wZTBoM3R6VmNwYmMzZ0owV3p6UDhBSVlLNmw?oc=5",
+      "source": "Google News: Shopify Plus",
+      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "summary": "Netalico Promoted to Shopify Premier Partner While Driving Agentic Commerce Adoption &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1769500800.0
     },
     {
       "title": "Coho AI shuts down, Yotpo to integrate employees amid quiet exit - calcalistech.com",
@@ -255,37 +255,37 @@
       "published_ts": 1743922800.0
     },
     {
-      "title": "Lightspeed Launches ShipStation Integration for Retailers - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzNUdXBtNEkyV3hJN2JkZUw5X3pOVDc2SG1jdUxaSHZUWUFHTUV2UXgtcU9rdUl5U0YyRHhvSWRqc2FOUFpiZDlLRW5MOWMydThhYzI4UjBXSXVRSHZHbzYyUjB6U2J5S0loRnB0UzJWWWRKZTFqZ3pXX2RGMkpMdzRheEFqZDdOdEVNaUxQWk0xR0lZRXJRT1NVWl9HZ1dfcHdSaDF6dUZHVl9qT1lN?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 03 Sep 2026 12:43:40 GMT",
-      "summary": "Lightspeed Launches ShipStation Integration for Retailers &nbsp;&nbsp; marketscreener.com",
-      "classification": "threat",
+      "title": "Asos promotes other merchants post-purchase - Ecommerce News - Europe",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnRFZKRVBoU2g4dDZQME1hdjhtMFlfZnB3UVdXT1RtZjUtSjg4WTVBZnZ1LUVPS2owdEE3czdZdzgtajUycXFrZGRZTTI3T0JSOFpTTU9zMFpkZVJkenp2T1ZfUFVUb2VjMElkTHdNN0k2VkM2aW9OaA?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 03 Aug 2023 07:00:00 GMT",
+      "summary": "Asos promotes other merchants post-purchase &nbsp;&nbsp; Ecommerce News - Europe",
+      "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1788439420.0
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1691046000.0
     },
     {
-      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - prnewswire.com",
+      "title": "ShipStation Offers New Less-Than-Truckload Capability - Supply & Demand Chain Executive",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZzNPVThyNWVlNzVPOXZFYkdsM3BhakZmR3JYclYzZFNMRjR4Z1d6ODdZcTg5dS1KbG9CSFFaZFp2T0hDZVVnaHdPM1hBMG5LQlM2NTBIa1BCd3lsMEFBQTVITkZwV2xQaGd5bHNEX1ZWYmZGcWFCTXpEeTNXWG9ROHJGck5SRTU0ZEFRSmFpMk4yQWh4ZUV2N0RSZEFhYjNTYWxaTnRwM1lMUGxVQ3hFOW4xR3ZXZlhYUHVDM0k1XzVpWWM?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 03 Sep 2026 14:37:31 GMT",
+      "summary": "ShipStation Offers New Less-Than-Truckload Capability &nbsp;&nbsp; Supply & Demand Chain Executive",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788446251.0
+    },
+    {
+      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
       "source": "Google News: ShipStation",
       "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; prnewswire.com",
+      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1788436800.0
-    },
-    {
-      "title": "Klaviyo inks 10-year deal for Dublin hub - Green Street News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlZ2bGEzR2xHMkR0cVIyS0tOaXlIXzFyaVdiZFgzV3JqYUhOdDFOM1MydzNGa2dCTFFDZWJqQmtaM2ZoTkFCa0NHN3JaZjJSQm9MUzhhY3l1OEx2T0hURDdsX2dhMF9nd0d4eU01TFRJSURtTGlXOEhWZHBoQ3MzYTJrNA?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 03 Sep 2026 06:52:49 GMT",
-      "summary": "Klaviyo inks 10-year deal for Dublin hub &nbsp;&nbsp; Green Street News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1788418369.0
     },
     {
       "title": "Klaviyo's Ed Hallen on the two-month rule behind a $9B IPO - Dealroom",
@@ -299,37 +299,26 @@
       "published_ts": 1788339123.0
     },
     {
-      "title": "Attentive - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnV6ZEZNVzRVaUFQZHlFeDVtQk1uU0tMUDh6cUpqYXdoYWhKYkVvSHhuM185aHI1ajhvR1FURERZUHVIS3VZaGlkbWRjcFVJTVFUQTd1X0hpei12a0V6LXc3Mk04Z0hKY1RMN1FQbUYwLW1fWEhIeEJOWU1JU3VOS2ZvcDRVUVN3eUFuVXlsWkxqOGxQM0NQSkxhMnlqcEhjZVBFWS04WS1leXk1?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1787036400.0
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; techcrunch.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
       "published_ts": 1785913200.0
     },
     {
-      "title": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFVqa0dsSGlmTVZVSU5mcGdtUzR2R3lXWjB2U2pMNTQ1ZGZUNkpwWWN0N1JVQlRCZTRWVnZZamtYcEZqRTVGaEJMbmdkd25NX1dEUjhNQ2cwT3VYUWhSMzZ1dnpfd0ZLR3VOakFEYUhnRGZsbnNyUWxBNExKZnJXc2JVUDk3ZzRYTm1BUE52MEt0QnVEd295SFpnd2ZLM3lRcjV4ZXR5Q2d2dw?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Mon, 03 Aug 2026 18:25:18 GMT",
-      "summary": "Mailchimp in decline after Intuit acquisition, says SaaStr's Jason Lemkin &nbsp;&nbsp; Dealroom",
+      "title": "THE POSTSCRIPT: Swimming With the Sunnies - news-daily.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUI5eHRmaEtNZnhQRVRqcmZZRDJ0Rkp6RkVBWjZfa0h3SloyeXZBRDNLckRoclNGbS1TUXYzTnJYOVN1a3h0b1g4enNyS0Mzei1tb2Z4ZEY5cG55OU1aOVVjRzNCekJscXpYWmFJZVVsOXBfTG1NVEtxY0plaU01b1RtQUYzV2pITVBNd0VDSUpYTVMzcFU2Rm9COXZENC11TnFzUWpFOEJaTWx6Y2xlTVpXVzQ0cUNmUmNvUVpxUjg?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "summary": "THE POSTSCRIPT: Swimming With the Sunnies &nbsp;&nbsp; news-daily.com",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + acquisition",
-      "published_ts": 1785781518.0
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1785135600.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -341,6 +330,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -365,33 +365,11 @@
       "published_ts": 1779951600.0
     },
     {
-      "title": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHhhWXhwREVQbnUzeHhGSDhqdkdKcVc3MjIwazNaRU8xQUc3ZEpLMlZkLTV0YWZ6RVA0cnctUktGOW5DU3JMU1hWM2NFNlg5SFRvQ1ZnTmhrRmRZblU4dUwyUUlldUlIUFFueXBZNm1XbWhJbHhRNjVoUGdyYzVpSUNBQS1jNy0ySy14ZW5HaDh2WUs4SllUMndLUUtST0pCblBQM0EwaXh5LTVGRjJlU2RBam52eTh6YjFfXzRoN1hKbllPVjNDeDJ2MThxUDhNaHhvbjJkcGlQczZ2VXphc0ZWcDkxUktIalJETFBQa2kyUQ?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "Attentive Launches Visibility AI to Improve Deliverability and Revenue Performance for RCS for Business &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1779260400.0
-    },
-    {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1776927600.0
-    },
-    {
-      "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - prnewswire.com",
+      "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHlZRFZzY0Y4dFpnc0ZFNDI4SVd2MnNSN2NfdDc3cVJlMlhRMFF1U3pDMUVyV3FFd2NUdVFwNzBKVWZIUE1uTERzaThhaVF2aFZGcWRwcXo4VUhmQ010UEEtVjlWQTV2Y1U4OFo0YVRMZUFQUjU5WlFCVG1xeE9Xc1Y1WHV4VldGVmpNRzRHVGVIZDRLa0VFU3dGMFllTFlENDlibVZIYUlvb3NZSnpJMEpOaVNhQXlvV0pmdk45YjRidms3YzY1OHkyNUxzUlZIcWJVRWw1SFBvR1kzV1lIU3QyQ3M?oc=5",
       "source": "Google News: Omnisend",
       "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year &nbsp;&nbsp; prnewswire.com",
+      "summary": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -420,15 +398,26 @@
       "published_ts": 1764316800.0
     },
     {
-      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - prnewswire.com",
+      "title": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEtjRVF4ZWRVbVIwWDFMZ0JVbTd2eTlPQm1tNzBSem81LW13UWF6MWYxR1ctVkxSa3RUeFpVYm9oeDNZeDdsdDJpYURvWDBYYzJqQXdkdHk0NFItaTI4N1dIUHI2aEdCdUY4TEdrdGMtck9LY3ZsRDZhWlVSNVlScjdCemhnSktsR1RGNkxwWXprdjlKTW1WX2ZEUk5xSDg0Nlo4Slhzbk1QcG5zY0kwX2lLaDVXR1ZvN0ZTbVpRZFBFdjRVRXphenVOUTF2YUdwWm16MVN4Nk5uZzA?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; prnewswire.com",
+      "summary": "New Narvar Report Finds Two-Thirds of Online Shoppers Feel Anxious After They Click \"Buy\" &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1762416000.0
+    },
+    {
+      "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - wwd.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzhqODhLTE9PRTlaendYM3pUbEF1Uy1Nb0NuMGx2N0U5RnF4eUdvc0JWS1lIdVRBc0d3SnQycnQ5Vi13eVVrLTFZaHM0UTNlVmgxMHVkcDJYX2xFN1FtR19zT2U4Z0RLWURtRE94aW1FOGl0QmZnZE1fQVBuT0V3WG96MXNOS196QXlCTFc1dklRSmlia3hFSmhOUU1jWGlJMVVUUlBISHhWekd3QTZDN2VPMnFISU5xS01FM1EwTGxkbzAzdnB0dldhaVhEaGdUc0E?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 06 Jan 2025 08:00:00 GMT",
+      "summary": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion &nbsp;&nbsp; wwd.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + expansion",
+      "published_ts": 1736150400.0
     },
     {
       "title": "Narvar Revenue 2022: $57M Est. ARR, $315M Valuation - GetLatka",
@@ -442,26 +431,15 @@
       "published_ts": 1734681600.0
     },
     {
-      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - prnewswire.com",
+      "title": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRGSG9LY29odFNYTFBPM2xsVkQzNUV0NFVyUzh2NVUtZEZVT1JfVnRmWHliR19GNzNoTXQwVFBaSW9BeTNTWVJOaVpra1JhN29RdWdXSmVxbjBnWDZiNVcxNlRKQnFjZ0ZoMVhwc1NNWlc0bU1uRnktdXg5RDh5eTlfNU0zdFpiX0dhYVJFYUM4UW10cFMwemYwMHh0UVk1TGg3Tkc1aThiNG5iUmM4TlNoemJoZDJPT2NCN1dNdDQ5VURycVNoQVh3Zw?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 16 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; prnewswire.com",
+      "summary": "Narvar Names Anisa Kumar as CEO to Lead Next Phase of Innovation and Growth &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1729062000.0
-    },
-    {
-      "title": "Post-Purchase Platform Narvar Launches Home Pickup - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObU9CLVlHd1ZFOFRKRTFWUkVmclZGeUozUXp5QW11MFdTOEdEQl96VXNSalliWVJSUTVCZjVWZmJTSG9aT2hCbmF4YnVkUVp4eFByVDNWWWJIbGFMN0wtTXBRUEF5UjhRSENhc1VhS0hNbjZtTkF4U1BkZ1ltOHFpSDhFSnExOGlmS1d3dmxMc3BkZ1FRUEE?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Post-Purchase Platform Narvar Launches Home Pickup &nbsp;&nbsp; PYMNTS.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + launches",
-      "published_ts": 1646640000.0
     },
     {
       "title": "Narvar Acquires Lumi to Aid Over 800 Retail Clients Cut Shipping Costs - Business Insider",
@@ -476,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 43,
-    "opportunities": 23,
-    "threats": 20,
+    "total_fetched": 270,
+    "kept": 41,
+    "opportunities": 24,
+    "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 12.4
   }
 }
