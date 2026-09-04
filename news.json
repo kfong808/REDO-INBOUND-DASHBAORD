@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:08:31.280986+00:00",
+  "updated": "2026-09-04T23:32:08.844890+00:00",
   "items": [
     {
       "title": "Shutting down our public encrypted DNS",
@@ -79,17 +79,6 @@
       "published_ts": 1788438573.0
     },
     {
-      "title": "Anthropic gives retailers blueprint for AI shopping agents - Retail Systems",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFd6aFhWRXNKd0gzUVVrZDRJLXh2cF9WVHFUcTI4QUhmQXNJRV9ZUC1PUW1abW02RnJKUkNDN0d6YzVSNF9URUF6a1M1ejZFY0Z2WGFfb0pTV0ljQzJfOXVTZTlOZmgxcFBlY1NKbGVkcDhmamtGQ0N1bERqVllPaHJYT3FwblQ0WWdfTml4QmZqZXVWQmlMQUdMQl8?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 03 Sep 2026 09:03:11 GMT",
-      "summary": "Anthropic gives retailers blueprint for AI shopping agents &nbsp;&nbsp; Retail Systems",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1788426191.0
-    },
-    {
       "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGhBUjJtQUNfQWo4VGkxam1oOVNRaUhOUHBHeGVpd2JSZW5zdk5jakFIdDJYcHRxc2E1UDU0b2tadFBYSFBnTHN0RFV5dl96QWN3U3JBUG1HUENIN1daM2JZdHBVS2lta0ROdkxoajR0Nkx6VXRnbWxzMkUyNGVQdEJWNGVtMU1JZzdTSG9tWFdtcG03bXNjctIBngFBVV95cUxNb1Z4NWJOTzRvNS00Ti0zVW9wRkhPdXJKZ1YzSDdQc1hfUWZwRGQ2NDh0Y0tKejNlQkRUV0dPblM1azFjS19YMkZCVjhMTkxqOE5wSHM3RzlITER4MmpjTXU5enZvbVVTT3ZPTHZHMnpndFBaUnpncFJ1X2p4WEFQbWNPYzZ0UDluNXllemZTQ3kyN2dYMm0tMzBScmNoQQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -145,15 +134,26 @@
       "published_ts": 1788354516.0
     },
     {
-      "title": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails - forbes.com",
+      "title": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHBYYlZ6Q2JTUHNQcmRlQ3NYSVFodW5ZbFg1MFppOF95ZW15Vi1nX1Y5dDdTdU5BZm9zRXFOYWJJSlhKLU41NTBrVDNtbXdCQVJSOGJnME5ndm9YSzNQNmtYOC1tSnYtRlBZc3Q0eFhpbEQxSE5DWmU1dEMxNC12NF9jTzJHSk95eG9QZ05JX3lCVzNtSHoweGlPM0R3TGJPYzhkcXNHWlZlTVFVX2kxdGEwcEdSelYtNkJyQ3dBSEQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "summary": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails &nbsp;&nbsp; forbes.com",
+      "summary": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1788350400.0
+    },
+    {
+      "title": "10 Best Post-Purchase Experience Platforms for DTC Brands in 2026 - ClickPost",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYm5GYlVpM0FteVdIcXpPSmN3dTlub0N2OHFjeGJsRmRtazAxNDU2elZiQ2x0SE5rczFTbU94bVBnOVBscjl2UnJlMkE1VDNWMkdfS20tS2lncnZ5Q0NUTGxiZi1SNEIzV0HSAXpBVV95cUxOcm9naWxvanZTdVVNem9vaHBySVFnSHZlMFYtM0JNQkthWWtDRjc3MVRiZmdPRkJ0bUhSUWpURDRLdVFXOTNXc3YtSVJKZDJhSzVWbXFMOUppeXd3aWw0cS02ZGpoMERCT0VDUDhvYnVBOEY0anJQWEpEQQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 02 Sep 2026 10:32:21 GMT",
+      "summary": "10 Best Post-Purchase Experience Platforms for DTC Brands in 2026 &nbsp;&nbsp; ClickPost",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1788345141.0
     },
     {
       "title": "Spreedly Sees Good Bots Becoming an Agentic Commerce Channel - PYMNTS.com",
@@ -178,15 +178,15 @@
       "published_ts": 1788289344.0
     },
     {
-      "title": "EMVCo’s Effort to Reinforce Trust in Card-Based Agentic Commerce - Digital Transactions",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1hHc1dhRmxKT0JuZ1ZnUHJaWGRnaFBMRG4zUVB4NzNFdVZWVkVRUW9CNGxuQTNpVHFzNE5TSzVHU3VDR0RQcDRSdURoRXJCYnlJUlV0NDhVamlIVEZidllreU9yMl9ac2x4TlFzdTlhR2h4S0ZaNURQaW9iR0NyRjBfNEJNZVBOTEJieGRoeDdQSzVVaWZTcmkyWUtlMFYtTHc?oc=5",
+      "title": "Can agentic commerce make in-store payments unsafe? - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOURBNml1VEZHV090Q1ctNzVhM2Q0dGFYSkg2aDRQX1BsRWVlUFVWUjFSamlIaUZFWlhXb1FUZ0JoY2VXa25aeFo3RUtNWXVCVnRpRklKQWJSZFM0a2xWNkg3MTgwNzUyUDdodlNmNi1qMDduZzA3Y2V3V0I2SUdDdUJoT0ZoMnpWZkZaMlNEUlRvWDFrRnd0di0wWmpGckU?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 01 Sep 2026 15:14:02 GMT",
-      "summary": "EMVCo’s Effort to Reinforce Trust in Card-Based Agentic Commerce &nbsp;&nbsp; Digital Transactions",
+      "published": "Mon, 31 Aug 2026 19:51:00 GMT",
+      "summary": "Can agentic commerce make in-store payments unsafe? &nbsp;&nbsp; American Banker",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788275642.0
+      "published_ts": 1788205860.0
     },
     {
       "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - VisionMonday.com",
@@ -222,17 +222,6 @@
       "published_ts": 1787488021.0
     },
     {
-      "title": "Best 10 Post-Purchase Experience Platforms in 2026 - ClickPost",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRX1NFSHN5WVpYYzRGLXZwaW5zSnNZN192VnQzT18xZzlPS2NoWjQ3aXJ5dFVNMmNFOFc5MEZHaHJmNnlNSDd3Zkl4aWpyMnBJZXNNY2FRdEp4cVdQWXVnS2hB?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "Best 10 Post-Purchase Experience Platforms in 2026 &nbsp;&nbsp; ClickPost",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1784876400.0
-    },
-    {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
@@ -266,15 +255,26 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - forbes.com",
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 20 Jun 2024 07:00:00 GMT",
-      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; forbes.com",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
+    },
+    {
+      "title": "Asos promotes other merchants post-purchase - Ecommerce News - Europe",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnRFZKRVBoU2g4dDZQME1hdjhtMFlfZnB3UVdXT1RtZjUtSjg4WTVBZnZ1LUVPS2owdEE3czdZdzgtajUycXFrZGRZTTI3T0JSOFpTTU9zMFpkZVJkenp2T1ZfUFVUb2VjMElkTHdNN0k2VkM2aW9OaA?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 03 Aug 2023 07:00:00 GMT",
+      "summary": "Asos promotes other merchants post-purchase &nbsp;&nbsp; Ecommerce News - Europe",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1691046000.0
     },
     {
       "title": "New CMC president: ‘Be attentive, be discerning, be adventurous’ - Claremont COURIER",
@@ -330,17 +330,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + ipo",
       "published_ts": 1788339123.0
-    },
-    {
-      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdC1qdTFzSjNQM3NxSy04RnVRaHE4SXFodmp5ZUcweUYwS2VmZEhTVTc4b0lwRGw0QU42ekl3dWs1VzNNRE1HcEdXTHhrZFNUb0ZlWjBJbGNEQVJzRGo5emUtQVZwaHBQU05OM1JNdHAwREZMV1IxQ0lTV28tdXFrNWg2d0VVZWRBNkx5a1k5RktGMFlMbm94TnotV29aUzA?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Tue, 25 Aug 2026 19:31:18 GMT",
-      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; Chain Drug Review",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1787686278.0
     },
     {
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
@@ -409,6 +398,17 @@
       "published_ts": 1773817200.0
     },
     {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1772179200.0
+    },
+    {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
       "source": "Google News: Narvar",
@@ -431,22 +431,11 @@
       "published_ts": 1764316800.0
     },
     {
-      "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - WWD",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzhqODhLTE9PRTlaendYM3pUbEF1Uy1Nb0NuMGx2N0U5RnF4eUdvc0JWS1lIdVRBc0d3SnQycnQ5Vi13eVVrLTFZaHM0UTNlVmgxMHVkcDJYX2xFN1FtR19zT2U4Z0RLWURtRE94aW1FOGl0QmZnZE1fQVBuT0V3WG96MXNOS196QXlCTFc1dklRSmlia3hFSmhOUU1jWGlJMVVUUlBISHhWekd3QTZDN2VPMnFISU5xS01FM1EwTGxkbzAzdnB0dldhaVhEaGdUc0E?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 06 Jan 2025 08:00:00 GMT",
-      "summary": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion &nbsp;&nbsp; WWD",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + expansion",
-      "published_ts": 1736150400.0
-    },
-    {
-      "title": "Narvar names new CEO - ww.fashionnetwork.com",
+      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; ww.fashionnetwork.com",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -477,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
+    "kept": 42,
     "opportunities": 25,
-    "threats": 18,
+    "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 12.0
   }
 }
