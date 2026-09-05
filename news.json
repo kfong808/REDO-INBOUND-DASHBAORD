@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T20:48:44.456999+00:00",
+  "updated": "2026-09-05T22:27:42.654497+00:00",
   "items": [
     {
       "title": "Customer trust and agentic commerce - CX Network",
@@ -101,11 +101,11 @@
       "published_ts": 1788359501.0
     },
     {
-      "title": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails - Forbes",
+      "title": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHBYYlZ6Q2JTUHNQcmRlQ3NYSVFodW5ZbFg1MFppOF95ZW15Vi1nX1Y5dDdTdU5BZm9zRXFOYWJJSlhKLU41NTBrVDNtbXdCQVJSOGJnME5ndm9YSzNQNmtYOC1tSnYtRlBZc3Q0eFhpbEQxSE5DWmU1dEMxNC12NF9jTzJHSk95eG9QZ05JX3lCVzNtSHoweGlPM0R3TGJPYzhkcXNHWlZlTVFVX2kxdGEwcEdSelYtNkJyQ3dBSEQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "summary": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails &nbsp;&nbsp; Forbes",
+      "summary": "Agentic Commerce Is Here As Mastercard Cloudflare And Olas Build Rails &nbsp;&nbsp; forbes.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -154,17 +154,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1788275642.0
-    },
-    {
-      "title": "Can agentic commerce make in-store payments unsafe? - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOURBNml1VEZHV090Q1ctNzVhM2Q0dGFYSkg2aDRQX1BsRWVlUFVWUjFSamlIaUZFWlhXb1FUZ0JoY2VXa25aeFo3RUtNWXVCVnRpRklKQWJSZFM0a2xWNkg3MTgwNzUyUDdodlNmNi1qMDduZzA3Y2V3V0I2SUdDdUJoT0ZoMnpWZkZaMlNEUlRvWDFrRnd0di0wWmpGckU?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 31 Aug 2026 19:51:00 GMT",
-      "summary": "Can agentic commerce make in-store payments unsafe? &nbsp;&nbsp; American Banker",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788205860.0
     },
     {
       "title": "Contribution Margin Guides Ecommerce Growth",
@@ -365,11 +354,11 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
@@ -442,11 +431,11 @@
       "published_ts": 1764316800.0
     },
     {
-      "title": "Narvar names new CEO - FashionNetwork - The World's Fashion Business News",
+      "title": "Narvar names new CEO - ww.fashionnetwork.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wS0FJT0Q0UWtSWlprR1I0OVlTdEJCa1M2cFdzUDQ3WDhNQnFkTW9ETDFWT0RKQUhtTWQxbUt2QmNFQUlCUTRudVhrc2RsSEdEeEFVdUg0Q2I1ejFOTFBDeWFoMG1HbmtKQ3R3YVlLYjdpR2xhMlI0?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "Narvar names new CEO &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
+      "summary": "Narvar names new CEO &nbsp;&nbsp; ww.fashionnetwork.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -488,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 44,
-    "opportunities": 23,
+    "kept": 43,
+    "opportunities": 22,
     "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 10.3
   }
 }
