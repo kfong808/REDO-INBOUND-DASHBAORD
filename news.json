@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T06:28:41.036151+00:00",
+  "updated": "2026-09-05T11:01:05.713704+00:00",
   "items": [
     {
       "title": "Shutting down our public encrypted DNS",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: shutting down",
       "published_ts": 1788547828.0
-    },
-    {
-      "title": "Will agentic commerce push more merchants into marketplaces? - techradar.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnQtS0llV08xSXNSOC1hMlJMaWh5WEFyajRqWkhwXzhYVGZPdnpYZVRTc2pUR0twa2NMVHNRTWZ2bjVXdkVBV0ZKNjNQdDFkeHl1TGl0ay16OGNPbC1ialBGNmU2OEFRN1I3Y2hEcE5OYzBHTWwtTGNGNlp1STZsOURHODdmbm9HSWx0aU1HT1prUXM?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 04 Sep 2026 10:02:28 GMT",
-      "summary": "Will agentic commerce push more merchants into marketplaces? &nbsp;&nbsp; techradar.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788516148.0
     },
     {
       "title": "How AI shopping agents could change the way consumers buy everything online - KRDO",
@@ -57,22 +46,33 @@
       "published_ts": 1788438573.0
     },
     {
-      "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - digitalcommerce360.com",
+      "title": "Anthropic gives retailers blueprint for AI shopping agents - Retail Systems",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkMzN0hMZkRlUVp2SFAyMjN6em9VaExBd2QwTlF4ZVcyNlBicFlENW1nOWdUaHZaUHZJNHBHb3Rxb0N2bnB3QjlvODhxY256dGg4VWh5SE04ZTFHN3VKRUdFQWRYNGVvalVCSWgzZzBjRUFOMzdPMEEzYzlZb0I3RGljWEdTMG12UzNFaWlxT3hmTDEyd2Q0?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 03 Sep 2026 09:03:11 GMT",
+      "summary": "Anthropic gives retailers blueprint for AI shopping agents &nbsp;&nbsp; Retail Systems",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1788426191.0
+    },
+    {
+      "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGhBUjJtQUNfQWo4VGkxam1oOVNRaUhOUHBHeGVpd2JSZW5zdk5jakFIdDJYcHRxc2E1UDU0b2tadFBYSFBnTHN0RFV5dl96QWN3U3JBUG1HUENIN1daM2JZdHBVS2lta0ROdkxoajR0Nkx6VXRnbWxzMkUyNGVQdEJWNGVtMU1JZzdTSG9tWFdtcG03bXNjctIBngFBVV95cUxNb1Z4NWJOTzRvNS00Ti0zVW9wRkhPdXJKZ1YzSDdQc1hfUWZwRGQ2NDh0Y0tKejNlQkRUV0dPblM1azFjS19YMkZCVjhMTkxqOE5wSHM3RzlITER4MmpjTXU5enZvbVVTT3ZPTHZHMnpndFBaUnpncFJ1X2p4WEFQbWNPYzZ0UDluNXllemZTQ3kyN2dYMm0tMzBScmNoQQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 03 Sep 2026 03:00:44 GMT",
-      "summary": "Dr. Squatch drives revenue through post-purchase tracking page adjustments &nbsp;&nbsp; digitalcommerce360.com",
+      "summary": "Dr. Squatch drives revenue through post-purchase tracking page adjustments &nbsp;&nbsp; Digital Commerce 360",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1788404444.0
     },
     {
-      "title": "Anthropic debuts Claude features focused on agentic commerce - digitalcommerce360.com",
+      "title": "Anthropic debuts Claude features focused on agentic commerce - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVF9TNVNRaFVmcHh4RkhHcmdtelItMzBtSllwVXpjVUg2NkRYaGMxZ3JRNE5RcjlyNTVaS1BKZ25CMUJMYTlUTmpCd2NlWVozRnpoRmFLZmN3MjdTODBNbFNNXzVSXzFKT24weDBkT3FvTFNEd0QzRDQ2TGwzb2ZCYlZKR1c4RFpxMFg4anhzeTRwTE4wdFVrUjJ4SDFmV004Q1BXVENHRWFsS2_SAbABQVVfeXFMUGctdEF2Z29RdWxoejM5T2JqOTRDM0E5bHFsVTRMMDZQb2prYkJtczhBVl9VQUdLdThwa1VHYU1IUlFjQkxVMWNsckRLQkFQTmppYWdiNHVBekdERTUtNUFCelJyWEo1bXozVkU5elp0akV0S2xGMWNYNXg5TGNzTEJ0a0VLcllid3NRSEVwVTUtOGo2dWhTcmU5aEhFQ3FuUDdCby04NC1mT3BZT0t3alc?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 02 Sep 2026 22:37:33 GMT",
-      "summary": "Anthropic debuts Claude features focused on agentic commerce &nbsp;&nbsp; digitalcommerce360.com",
+      "summary": "Anthropic debuts Claude features focused on agentic commerce &nbsp;&nbsp; Digital Commerce 360",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -178,6 +178,17 @@
       "published_ts": 1788205860.0
     },
     {
+      "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - VisionMonday.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3l1d1dJbnZ3aVFDZE1LNXZ2WjV6R3kyUGR0dEFhNGg4TW9LMmUwUUpHTVhCVnFWVDJUcjIwN2dSRlNtaFp3YmNrNlYzZk1uS2lNYUV5eDhUSXZuZmM4T2o3WjNDNVpPLTdfcFY1UFYwLXNnSF9oSXVTTVlvWWdJVW5ZM2EtcE5EVjB1SzJld0drQkhyc21tb0ZoZ2tFazFEeVBrbS1jZGI1VkcyZ01nQVY2TUcwR2dzQWMyb2ZZMk5sWVk?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 27 Aug 2026 18:40:00 GMT",
+      "summary": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds &nbsp;&nbsp; VisionMonday.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1787856000.0
+    },
+    {
       "title": "Contribution Margin Guides Ecommerce Growth",
       "url": "https://www.practicalecommerce.com/contribution-margin-guides-ecommerce-growth",
       "source": "Practical Ecommerce",
@@ -198,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1787488021.0
-    },
-    {
-      "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NdWd0dzF1Wjc5cUVCU0RmU0h2VlMzN3psT28xWkYxSDdOTWduSUM3QUNYeDFzRXlRQjJaQ0NSRmZxRWpTNndnLVo1cmZQeUdCdTc5YXNaX294enZjR0N0NlNDVWs3VmNpX214Y0tLSkdOOGlR?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1787122800.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -255,15 +255,15 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises - FedEx newsroom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBwZURRbHQta25uQXg5cGZ0NEtFeFlpR2txd0ZDRzB4TW9xdEtTLVl0SzRZaENnODc2eXhNSlNMQmdtbklrNFEzNVlRQ2U4aEhDcmxObkNpS2V5LUpxWjlrNWhMTjlYdHQzNExKSDg5R3BIUkVMRWRpQUxJaDF0UG9SVjlEdHNrdmtVNUdDa0J3YWpkUU9LaVJ2YllXdXdheUVqT2UxekUtUWdXLUxEQmtvRzN2TmZKVHF4Smg4VFZ0VFlE?oc=5",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "FedEx to Offer Access to AI-Powered Post-Purchase Solutions for Enterprises &nbsp;&nbsp; FedEx newsroom",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1770019200.0
+      "published_ts": 1768464000.0
     },
     {
       "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
@@ -288,6 +288,17 @@
       "published_ts": 1788472365.0
     },
     {
+      "title": "ShipStation LTL Launch: The Time-Saving Play for SMBs - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekRlTjg0MUVGOEUxQW9tNWlwQ2t4TzFvRF9TTEtzR1VSYVM2SU03M25oZ2NJZWJTTG85MThRSWFxVmFyVkh2Qm56QjNpMjdIVVBDMkRKTDRUVGlma1BvSU1mX2xCNjFNMklZUkxsc2lEaUVSZWVsQ0RJOWdaYkZ3Rk1jSGhJemRwZ0dtT1ZScw?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 03 Sep 2026 21:34:37 GMT",
+      "summary": "ShipStation LTL Launch: The Time-Saving Play for SMBs &nbsp;&nbsp; FreightWaves",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788471277.0
+    },
+    {
       "title": "ShipStation Offers New Less-Than-Truckload Capability - Supply & Demand Chain Executive",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZzNPVThyNWVlNzVPOXZFYkdsM3BhakZmR3JYclYzZFNMRjR4Z1d6ODdZcTg5dS1KbG9CSFFaZFp2T0hDZVVnaHdPM1hBMG5LQlM2NTBIa1BCd3lsMEFBQTVITkZwV2xQaGd5bHNEX1ZWYmZGcWFCTXpEeTNXWG9ROHJGck5SRTU0ZEFRSmFpMk4yQWh4ZUV2N0RSZEFhYjNTYWxaTnRwM1lMUGxVQ3hFOW4xR3ZXZlhYUHVDM0k1XzVpWWM?oc=5",
       "source": "Google News: ShipStation",
@@ -299,11 +310,11 @@
       "published_ts": 1788446251.0
     },
     {
-      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
+      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - prnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
       "source": "Google News: ShipStation",
       "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
+      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; prnewswire.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
@@ -365,11 +376,11 @@
       "published_ts": 1785913200.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -387,33 +398,44 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
     },
     {
-      "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1779951600.0
+    },
+    {
+      "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - prnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHlZRFZzY0Y4dFpnc0ZFNDI4SVd2MnNSN2NfdDc3cVJlMlhRMFF1U3pDMUVyV3FFd2NUdVFwNzBKVWZIUE1uTERzaThhaVF2aFZGcWRwcXo4VUhmQ010UEEtVjlWQTV2Y1U4OFo0YVRMZUFQUjU5WlFCVG1xeE9Xc1Y1WHV4VldGVmpNRzRHVGVIZDRLa0VFU3dGMFllTFlENDlibVZIYUlvb3NZSnpJMEpOaVNhQXlvV0pmdk45YjRidms3YzY1OHkyNUxzUlZIcWJVRWw1SFBvR1kzV1lIU3QyQ3M?oc=5",
       "source": "Google News: Omnisend",
       "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year &nbsp;&nbsp; PR Newswire",
+      "summary": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year &nbsp;&nbsp; prnewswire.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
       "published_ts": 1773817200.0
     },
     {
-      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
+      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - prnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
+      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; prnewswire.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
@@ -453,23 +475,34 @@
       "published_ts": 1646640000.0
     },
     {
-      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
+      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - prnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
+      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; prnewswire.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 42,
+    "kept": 45,
     "opportunities": 25,
-    "threats": 17,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 10.1
   }
 }
