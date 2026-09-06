@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T16:33:23.682589+00:00",
+  "updated": "2026-09-06T18:44:02.521213+00:00",
   "items": [
     {
       "title": "The First Dedicated Agentic Commerce Summit Arrives as the Industry Figures Out Who Pays - forkast.news",
@@ -46,17 +46,6 @@
       "published_ts": 1788698545.0
     },
     {
-      "title": "How AI shopping agents could change the way consumers buy everything online - Local News 8",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGlkSGhCOC1PTER2eHlzX2hjRmxZUTBmcHBTbWZGeWpibWRyeDhWNi03ckVzTUoxMFVHT0lZNnVyXy11S2ZkNVRrVXg1NnJjRmUtS0pYQWdNWXBUZzAxeEVjVy1ZbGw1Z1VxU0J1Tl9SaXRNbWdkY25QUmhNbWhMMEQ3QTJ6V2hjTVdKdF9USzRrM3VUY3dfc0ZYSkRUNUF6T1EyV093ZlhKX3lTejFPa2R3Z1plMk84SkZMZi1uRzNVdHZIQ2c?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sun, 06 Sep 2026 06:34:02 GMT",
-      "summary": "How AI shopping agents could change the way consumers buy everything online &nbsp;&nbsp; Local News 8",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1788676442.0
-    },
-    {
       "title": "How businesses should prepare for agentic commerce - EY",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWwzNzZJWEt1TGs1eG1BanVvSFh5R2ZkQlVHTDFSdmphOFZCSVBhXzBRbUZ6cmdKNzFlRVNBYzNETENMZWJxYTI1MjBLZVVZd1IyMzNlODR1MGVOYm5FQUpMYkRJT190bGRpMUk4SUd5dmdiU2R6SDNEazRNSmZtUmhZa05EWkJfZVFMRVZNY3NJS1dKR090dEowcUJIWkZJM0tiOXRfYmcwLWs?oc=5",
       "source": "Google News: agentic commerce",
@@ -88,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1788488477.0
+    },
+    {
+      "title": "How AI shopping agents could change the way consumers buy everything online - KRDO",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1h2N05XNEJMcWlzc2llM1RzMUY0UW55ZDBlSXpseF9CcDFzcUt4dEF5NUpaU0ltTDdOdGx1Q3VKWXNDMUV1cjNkeTFSOGtQM3o0TEJ1cVhydGU3MFNkcG14RlBNVmlha0psZ0RSdkR5Y3puWUtFNGlhQVZUNTJtUGl3Vy02NUx1eldqSm9OVk00VlB0NV95VktCMk9IdUxjd0QxUkVzbjRyNmVsYmVEanJCRWxvbDN0YnItRmN3?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 03 Sep 2026 19:20:29 GMT",
+      "summary": "How AI shopping agents could change the way consumers buy everything online &nbsp;&nbsp; KRDO",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1788463229.0
     },
     {
       "title": "Anthropic’s Merchant Blueprint: A Key Step for Agentic Commerce - PaymentsJournal",
@@ -156,11 +156,11 @@
       "published_ts": 1788382218.0
     },
     {
-      "title": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era - nielseniq.com",
+      "title": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era - NIQ",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONGw5Q1VJOEp4SDU2NWdjckNWeEdHMlBBWmVFODc5U1Y1N1BqOENJUllLN0pZTHl4ek9tX19IZDRWWmE4c1loVkdUMnl5SDlWLUhMS1BabW5NWk1OYUpOb0s3UVFTX1hhX01oc0NEZnhKcnRJOEpxZ0ItLXRXM1Q0bTVNM2tpZk51R2dvTVI2aEdFNkNqbzNWcmVwRTJJSVFpTnItazJKTm9tYlNMdEdTRllHcXk5QWd0aHJxRkNWWl9WUUNuREUwVA?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 02 Sep 2026 14:31:41 GMT",
-      "summary": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era &nbsp;&nbsp; nielseniq.com",
+      "summary": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era &nbsp;&nbsp; NIQ",
       "classification": "opportunity",
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
@@ -233,11 +233,11 @@
       "published_ts": 1787488021.0
     },
     {
-      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
+      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
       "published": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; finance.yahoo.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
@@ -277,11 +277,11 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "title": "Agentic Post-Purchase Services - trendhunter.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -376,11 +376,11 @@
       "published_ts": 1787036400.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - techcrunch.com",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
       "source": "Google News: Klaviyo",
       "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; techcrunch.com",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + acquires",
@@ -409,11 +409,11 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
+      "title": "Postscript: Mark Singer - newyorker.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -464,6 +464,17 @@
       "published_ts": 1778569200.0
     },
     {
+      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
+    },
+    {
       "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHlZRFZzY0Y4dFpnc0ZFNDI4SVd2MnNSN2NfdDc3cVJlMlhRMFF1U3pDMUVyV3FFd2NUdVFwNzBKVWZIUE1uTERzaThhaVF2aFZGcWRwcXo4VUhmQ010UEEtVjlWQTV2Y1U4OFo0YVRMZUFQUjU5WlFCVG1xeE9Xc1Y1WHV4VldGVmpNRzRHVGVIZDRLa0VFU3dGMFllTFlENDlibVZIYUlvb3NZSnpJMEpOaVNhQXlvV0pmdk45YjRidms3YzY1OHkyNUxzUlZIcWJVRWw1SFBvR1kzV1lIU3QyQ3M?oc=5",
       "source": "Google News: Omnisend",
@@ -475,11 +486,11 @@
       "published_ts": 1773817200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -508,6 +519,17 @@
       "published_ts": 1764316800.0
     },
     {
+      "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlBnWklEb2JHNFlJZjIwa1Uydm16VUlvNGhDOGdIY0NvZmNMVlRyTl9SZDBvVHpNTkpkQXZjXzdRQ3lPbmFRU19BTE9oZFdrbFVSNVNtcDI2WmZVanRWYlVCdk5zazJXOGVlcXMzSW5UMUItMzJQbmVsYUlSenVWSjVqbTE3QTBN?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 06 Jan 2025 08:00:00 GMT",
+      "summary": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion &nbsp;&nbsp; finance.yahoo.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + expansion",
+      "published_ts": 1736150400.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -531,11 +553,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 48,
+    "total_fetched": 269,
+    "kept": 50,
     "opportunities": 28,
-    "threats": 20,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 11.3
   }
 }
