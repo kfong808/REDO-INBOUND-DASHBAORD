@@ -1,0 +1,20 @@
+name = "oven-queue"
+main = "src/index.ts"
+compatibility_date = "2025-04-01"
+
+# Public, non-secret config. Change this to your own Venmo link.
+[vars]
+VENMO_URL = "https://venmo.com/u/your-venmo-handle"
+
+# ADMIN_KEY is a secret, not a var. Set it with:
+#   npx wrangler secret put ADMIN_KEY
+# or in the Cloudflare dashboard: Workers & Pages -> oven-queue -> Settings ->
+# Variables and Secrets -> Add (type: Secret).
+
+[[durable_objects.bindings]]
+name = "QUEUE"
+class_name = "Queue"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Queue"]
