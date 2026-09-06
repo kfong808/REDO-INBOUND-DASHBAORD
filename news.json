@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:44:02.521213+00:00",
+  "updated": "2026-09-06T20:56:16.591716+00:00",
   "items": [
     {
       "title": "The First Dedicated Agentic Commerce Summit Arrives as the Industry Figures Out Who Pays - forkast.news",
@@ -277,11 +277,11 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - trendhunter.com",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -330,6 +330,17 @@
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
       "published_ts": 1788436800.0
+    },
+    {
+      "title": "Bank of New York Mellon Corp Takes $8.66 Million Position in Klaviyo, Inc. $KVYO - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnVlMkptT3NuSkZkLWdKc1NxTUM0WnB4WjdlN2szeGtZODY4akZTTVBpalBQaC05VzRHbnlRSmRla0FmbDAzd3N4dGlFeG9ZSlNtNUFaUFBsMnc1c0kzNjZSUVF5RmZSSjFCb21aTDJBX1UzOFM4T3VFOXRsSlhnTUhwbnU2TVRVbW5DNEdHdWdXd1p6X2k0Y1NZc2VPUzU1eEo0MTRIMmdFWEJVZS1lZlNDTWJrTFNndkxGVjZPd1RzNGdoTmduSTVOMEFLdk1qemc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 03 Sep 2026 07:16:15 GMT",
+      "summary": "Bank of New York Mellon Corp Takes $8.66 Million Position in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1788419775.0
     },
     {
       "title": "Klaviyo inks 10-year deal for Dublin hub - Green Street News",
@@ -409,22 +420,22 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Postscript: Mark Singer - newyorker.com",
+      "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1782716400.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
@@ -464,17 +475,6 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - thedailytexan.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; thedailytexan.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1776927600.0
-    },
-    {
       "title": "Omnisend Study: 80% of U.S. Shoppers Okay with AI Completing Online Purchases; Up from 34% Last Year - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHlZRFZzY0Y4dFpnc0ZFNDI4SVd2MnNSN2NfdDc3cVJlMlhRMFF1U3pDMUVyV3FFd2NUdVFwNzBKVWZIUE1uTERzaThhaVF2aFZGcWRwcXo4VUhmQ010UEEtVjlWQTV2Y1U4OFo0YVRMZUFQUjU5WlFCVG1xeE9Xc1Y1WHV4VldGVmpNRzRHVGVIZDRLa0VFU3dGMFllTFlENDlibVZIYUlvb3NZSnpJMEpOaVNhQXlvV0pmdk45YjRidms3YzY1OHkyNUxzUlZIcWJVRWw1SFBvR1kzV1lIU3QyQ3M?oc=5",
       "source": "Google News: Omnisend",
@@ -486,11 +486,11 @@
       "published_ts": 1773817200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -558,6 +558,6 @@
     "opportunities": 28,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 12.6
   }
 }
