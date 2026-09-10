@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-10T16:44:06.678608+00:00",
+  "updated": "2026-09-10T19:20:21.968212+00:00",
   "items": [
     {
-      "title": "FUTR Corp. Hits Record CA$810K June Revenue on Agentic Commerce Push - streetwisereports.com",
+      "title": "FUTR Corp. Hits Record CA$810K June Revenue on Agentic Commerce Push - Streetwise Reports",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObDcxb0ZNelVFdFZPai03Y0pPYUNab0VGdmlwMFpIOTduRGtjbnhtbnVnNXl5aXh1QmszTHhOeDluTTh3a3ZzOGdPNEpMT1J6ZlhoeGN5UFF2a2xHTTNSeVpOalFPSXdhNV8zeDRhOXVkbGpxNUt1UkF4a19iZjg2NU4tYV9YalI0Y2I0Z3FlazVwdlhDczVLRUR1d0h0WjBTbzF6V282MzFlVTkySGI3aEZueEhqQzBpWnh1aXNLdzNOVGc?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Thu, 10 Sep 2026 16:31:21 GMT",
-      "summary": "FUTR Corp. Hits Record CA$810K June Revenue on Agentic Commerce Push &nbsp;&nbsp; streetwisereports.com",
+      "summary": "FUTR Corp. Hits Record CA$810K June Revenue on Agentic Commerce Push &nbsp;&nbsp; Streetwise Reports",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -14,21 +14,21 @@
     },
     {
       "title": "Can Visa's KYA Push Accelerate Agentic Commerce Adoption? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHZ1RmdidzFoek9CLVZGb09fZXhDOFZPempQRExWU0V5TE9Uc0I5ZFVLMXZacTlPSDY3Zmg3LXRwYUJBZ0lzaXNoWW1lMmpDclV5WjM2cjZXY2ZpQlJLR0thNGxMZVdOSlUxWTZ4S1h0LTZDaUloNzRxNEZvZ0h5Q0dtQ0tibHdzTUVNN19icHlhemtVeE1UMlMzWUJwOE1tdS01VTFSLWxhbEh5VnFuWkRrSFVXZDhZSEN3aTlNLXRJQlNCUENlYTRweXZmSFdXa2NkcnVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlJ1ZWFtakhPaHd5NVBuVy16VGRPcDQtMXlqbzltb1llM3ljV3ZJc0xIOHRPaFo4MTVteXNRUnNFS1JySXlfWjR6Vlc0Y0JTMEhtRTdZSHF3U1lKZ2hWcTFVVjhOYksyQVlVTk9OclJyTTlaMURQSWJuM1FyWWdwSUhjZU5abzlKYW1KdWt5ZHBsWmpjZjBJNV9Rby1mc2tYNzQ1MDBQQjFXWE5QM1VXNHN5bVNIWlNoQzdsN2hqRk41VFRIUWtkai05YXlVakdianpr?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 10 Sep 2026 16:07:49 GMT",
+      "published": "Thu, 10 Sep 2026 16:05:03 GMT",
       "summary": "Can Visa's KYA Push Accelerate Agentic Commerce Adoption? &nbsp;&nbsp; The Globe and Mail",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789056469.0
+      "published_ts": 1789056303.0
     },
     {
       "title": "Shopify's Catalog Mapping feature is fake?",
       "url": "https://www.reddit.com/r/shopify/comments/1wcn6q4/shopifys_catalog_mapping_feature_is_fake/",
       "source": "r/shopify",
       "published": "2026-09-10T15:56:36+00:00",
-      "summary": "In their Agentic Dashboard sales channel, you can remap what Shopify Catalog sends to AI shopping assistants like ChatGPT. Instead of your product description it can pull from a metafield. The thinking is you replace the normal human-focused product description with an alternate description for AI agents stored in a metafield. I've done this one two stores, at the end of August... and no result. It does nothing. 14 days later, still nothing. Every day I check the catalog record through the UCP A",
+      "summary": "In their Agentic Dashboard sales channel, you can remap what Shopify Catalog sends to AI shopping assistants like ChatGPT. Instead of your product description it can pull from a metafield. The thinking is you replace the normal human-focused product description with an alternate description for AI agents stored in a metafield. I've done this one two stores, at the end of August... and no result. It does nothing. Every day I check the catalog record through the UCP API. 14 days later, still nothi",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1789053369.0
+    },
+    {
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3lYbi1PU1ZWSkRsT3B5ZXRnRlpEejB6SFJMbC1Pb0xBaHBzVGRvTDRWQXVwdWFXelRkZGlSbURfdkl3NTNQdXFfZEhLSzRTOGZoaUd3dVFwaTQwanNleHczQi01RTRJejJGZ2ZnZWlSQVBkbk1PMlNjb3FfdHloclZxNUczLWl5U0Z2R294RjBGaTNEenVfaTFnaFFFVmZuRm9Jbg?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 10 Sep 2026 13:26:20 GMT",
+      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; Bain & Company",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789046780.0
     },
     {
       "title": "Ant, Mastercard and Visa collaborate on KYA to scale agentic commerce - Yahoo Finance",
@@ -68,6 +79,17 @@
       "published_ts": 1789002000.0
     },
     {
+      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 09 Sep 2026 22:45:32 GMT",
+      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1788993932.0
+    },
+    {
       "title": "How Fraud Defences Must Evolve to Protect Agentic Commerce - FICO",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGZZSzhMR2V5MmI5a2RzcXlyOXlaakg1dk41RXNLclRuejVNZGlqNm5WV2FHLTJPa3BGVmVsR3NaajRBMDBmSzlyM2xscWpUSVpXbUJ5VURuVFJlX0RkcmU4NGhFQzBfMkRQdTlqSlVOaDZBX2NvdVhhWnNvYnozak5IaTEwNGJ3NGc?oc=5",
       "source": "Google News: agentic commerce",
@@ -90,22 +112,22 @@
       "published_ts": 1788929230.0
     },
     {
-      "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots - retaildive.com",
+      "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2ZjZWFzdFdzWXVPZkpLclJwZ3hnNDFvdTY3OFJIU1ViTlk2Tjh6aXFOTkgySmlNZnVYR1JVRWhlcW9rTGxacGNtOUVndEo1aS1lWENWUTVBVXpHSFljWEhtSzItZ0pvdkNmZkdrN0oxbl9DXzNueWJud3gya243cmdNV0drU21RaGZoWUg5OEdpS1J1WU8zZDZUM0dSTUQyWEs3Q00xSEs1UE9sUklCbVNFLXd2dw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 08 Sep 2026 09:00:13 GMT",
-      "summary": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots &nbsp;&nbsp; retaildive.com",
+      "summary": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots &nbsp;&nbsp; Retail Dive",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1788858013.0
     },
     {
-      "title": "The Race to Own AI Shopping - practicalecommerce.com",
+      "title": "The Race to Own AI Shopping - Practical Ecommerce",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGeU9ickhhUUthUVZtZ1hnRndhRTMxeU85ODM5RWZuNDZta0tOV3NBUmJQdk1IRF9uM2xHb1J6eWl0Vm1MamV0NlRTdVlIN1hIV3pyWjhuN083VVFqaGtlNUVVTHI3SVNFQUgxN1JJZw?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Sun, 06 Sep 2026 12:43:57 GMT",
-      "summary": "The Race to Own AI Shopping &nbsp;&nbsp; practicalecommerce.com",
+      "summary": "The Race to Own AI Shopping &nbsp;&nbsp; Practical Ecommerce",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -189,11 +211,11 @@
       "published_ts": 1783839600.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -242,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "Whetstone Capital Advisors LLC Purchases New Stake in Klaviyo, Inc. $KVYO - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGlzcUV4em5JV1B6NUlPWUQxTkp0S19XMGxDZlcxa2FnRUFzcjRrSy1NWGhqYVFIWGRfMkRsdDV5WE53Smc0X0RXREhqQkF6MWFHX0x5dVltNjdFeUtIajREeHY0LU1FWFhLRDl0VXU2clpvQ196ZmZWSl9WRWRFRWhOcTQza2xLS09ldk9tblV1cTVPQlJ6eFpsV01jRnlGekh2b2k2TEV4NzhNbjV3Ujd6UFVGM1k1YjVVQ0toVzBhVHhTVHM4bWl1SQ?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 10 Sep 2026 10:08:33 GMT",
-      "summary": "Whetstone Capital Advisors LLC Purchases New Stake in Klaviyo, Inc. $KVYO &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1789034913.0
     },
     {
       "title": "The New Sports Sponsorship Audience: More Aware and More Attentive - RTR Sports Marketing",
@@ -310,11 +321,11 @@
       "published_ts": 1788332400.0
     },
     {
-      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - chaindrugreview.com",
+      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdC1qdTFzSjNQM3NxSy04RnVRaHE4SXFodmp5ZUcweUYwS2VmZEhTVTc4b0lwRGw0QU42ekl3dWs1VzNNRE1HcEdXTHhrZFNUb0ZlWjBJbGNEQVJzRGo5emUtQVZwaHBQU05OM1JNdHAwREZMV1IxQ0lTV28tdXFrNWg2d0VVZWRBNkx5a1k5RktGMFlMbm94TnotV29aUzA?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 25 Aug 2026 19:31:18 GMT",
-      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; chaindrugreview.com",
+      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; Chain Drug Review",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -409,11 +420,22 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
+    },
+    {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -495,25 +517,14 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
-    },
-    {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 46,
-    "opportunities": 22,
-    "threats": 24,
+    "total_fetched": 269,
+    "kept": 47,
+    "opportunities": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.5
+    "runtime_seconds": 11.6
   }
 }
