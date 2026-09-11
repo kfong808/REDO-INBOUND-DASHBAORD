@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T20:28:09.145539+00:00",
+  "updated": "2026-09-11T22:52:15.329893+00:00",
   "items": [
     {
       "title": "ChatGPT helped me find a problem I didn’t know I had",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1789138839.0
-    },
-    {
-      "title": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xcU9UWWdtOUZFRUxDSTNwSzJQZzU0WXhBREh0TTVNb1RQazgyZmU5WTZRQkpkSDdja0VuT1pMOUhzZDQ0WXRlSmpoYTA1RnJxSTlxOHU1ZUoxVjZXSEZ0aE0wMk81cXFNWnVBSWZyNHE1V29LUFlKY2JQMTFUNzQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 11 Sep 2026 13:05:42 GMT",
-      "summary": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is &nbsp;&nbsp; AOL.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789131942.0
     },
     {
       "title": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is - 24/7 Wall St.",
@@ -79,6 +68,17 @@
       "published_ts": 1789055796.0
     },
     {
+      "title": "Mastercard Adds Tools to Ease Agentic Commerce for Merchants - Digital Transactions",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGlzclJVMHF1dzVBSVRMQUVnLWdmY3RxRHdjR0FNZm5qRGttM1dLUU1FU2E5MjZzdVd5eV8zeElZX0JyOHc4OVpRLXpIcWFxTzhERjgzb1FsdnhycHU5Wk54WlppNFFfVGw3N0dIajhVazBhci1Xbi1jZGh2d1FSN1JDX3pDaEd4ZWxoaGc3eF96SDl4VEhDSk5Vd21LUQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 10 Sep 2026 15:16:09 GMT",
+      "summary": "Mastercard Adds Tools to Ease Agentic Commerce for Merchants &nbsp;&nbsp; Digital Transactions",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789053369.0
+    },
+    {
       "title": "How Fraud Defences Must Evolve to Protect Agentic Commerce - FICO",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGZZSzhMR2V5MmI5a2RzcXlyOXlaakg1dk41RXNLclRuejVNZGlqNm5WV2FHLTJPa3BGVmVsR3NaajRBMDBmSzlyM2xscWpUSVpXbUJ5VURuVFJlX0RkcmU4NGhFQzBfMkRQdTlqSlVOaDZBX2NvdVhhWnNvYnozak5IaTEwNGJ3NGc?oc=5",
       "source": "Google News: agentic commerce",
@@ -134,11 +134,11 @@
       "published_ts": 1788698545.0
     },
     {
-      "title": "How AI shopping agents could change the way consumers buy everything online - localnews8.com",
+      "title": "How AI shopping agents could change the way consumers buy everything online - Local News 8",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGlkSGhCOC1PTER2eHlzX2hjRmxZUTBmcHBTbWZGeWpibWRyeDhWNi03ckVzTUoxMFVHT0lZNnVyXy11S2ZkNVRrVXg1NnJjRmUtS0pYQWdNWXBUZzAxeEVjVy1ZbGw1Z1VxU0J1Tl9SaXRNbWdkY25QUmhNbWhMMEQ3QTJ6V2hjTVdKdF9USzRrM3VUY3dfc0ZYSkRUNUF6T1EyV093ZlhKX3lTejFPa2R3Z1plMk84SkZMZi1uRzNVdHZIQ2c?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Sun, 06 Sep 2026 06:34:02 GMT",
-      "summary": "How AI shopping agents could change the way consumers buy everything online &nbsp;&nbsp; localnews8.com",
+      "summary": "How AI shopping agents could change the way consumers buy everything online &nbsp;&nbsp; Local News 8",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -192,12 +192,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783753200.0
+      "published_ts": 1783839600.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -233,11 +233,11 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "title": "Agentic Post-Purchase Services - trendhunter.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -319,6 +319,17 @@
       "confidence": "medium",
       "reasoning": "Attentive + valuation",
       "published_ts": 1788332400.0
+    },
+    {
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 25 Aug 2026 22:43:27 GMT",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1787697807.0
     },
     {
       "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
@@ -464,11 +475,11 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - adexchanger.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
       "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; adexchanger.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + acquires",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
+    "kept": 47,
     "opportunities": 23,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 11.0
   }
 }
