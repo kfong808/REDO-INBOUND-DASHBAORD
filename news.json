@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T05:13:45.916680+00:00",
+  "updated": "2026-09-12T09:44:59.043676+00:00",
   "items": [
     {
       "title": "ChatGPT helped me find a problem I didn’t know I had",
@@ -35,22 +35,22 @@
       "published_ts": 1789125683.0
     },
     {
-      "title": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents - Startup Fortune",
+      "title": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents - startupfortune.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd2R0VEZBRmFDeXFTOWdldmNFZS1maGdRNXRVbXdDSnJKQVJFeDNMNkRRenFiSW91aGxUQ01uZUdZdTRPaDhqRUtCQUVFTmh4cnhBYlQ4U1dKWVZjdlA0d09KUEplVzkxdEJON0x4WEZOWThPN3FMZWlkWEdzeWlmVzBTNWVYTFhydHBnUEthOThTTWliZkhaWUdaVVdxT1F0eFBGYQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Fri, 11 Sep 2026 03:44:19 GMT",
-      "summary": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents &nbsp;&nbsp; Startup Fortune",
+      "summary": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents &nbsp;&nbsp; startupfortune.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1789098259.0
     },
     {
-      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - Bain & Company",
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - bain.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3lYbi1PU1ZWSkRsT3B5ZXRnRlpEejB6SFJMbC1Pb0xBaHBzVGRvTDRWQXVwdWFXelRkZGlSbURfdkl3NTNQdXFfZEhLSzRTOGZoaUd3dVFwaTQwanNleHczQi01RTRJejJGZ2ZnZWlSQVBkbk1PMlNjb3FfdHloclZxNUczLWl5U0Z2R294RjBGaTNEenVfaTFnaFFFVmZuRm9Jbg?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 11 Sep 2026 00:53:09 GMT",
-      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; Bain & Company",
+      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; bain.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -156,6 +156,17 @@
       "published_ts": 1788404444.0
     },
     {
+      "title": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era - NIQ",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONGw5Q1VJOEp4SDU2NWdjckNWeEdHMlBBWmVFODc5U1Y1N1BqOENJUllLN0pZTHl4ek9tX19IZDRWWmE4c1loVkdUMnl5SDlWLUhMS1BabW5NWk1OYUpOb0s3UVFTX1hhX01oc0NEZnhKcnRJOEpxZ0ItLXRXM1Q0bTVNM2tpZk51R2dvTVI2aEdFNkNqbzNWcmVwRTJJSVFpTnItazJKTm9tYlNMdEdTRllHcXk5QWd0aHJxRkNWWl9WUUNuREUwVA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 02 Sep 2026 10:45:00 GMT",
+      "summary": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era &nbsp;&nbsp; NIQ",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1788345900.0
+    },
+    {
       "title": "Contribution Margin Guides Ecommerce Growth",
       "url": "https://www.practicalecommerce.com/contribution-margin-guides-ecommerce-growth",
       "source": "Practical Ecommerce",
@@ -245,25 +256,14 @@
     },
     {
       "title": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9yTGZQTW5aMDZzUXRFcXZ3bFNNSUxhWTlQd08tU01fNUQ1bGZaSTU3NHNBN3NfbnlXN0g5VlpoeG5KdGdCaVE0NXhYdGFLTXFWbkpBVHFZWTFlRzVZYjlTTGZEdzN0TzNLczM2VDVhUFdmdWVyVW5xU0ZCSnBLdnJ6a05mWUFqbURsMVM5M0FtbFRWWVRTTHNBMXdjSlRubE1kbmVyaUs0Q3RXbUVUUTd6YkZvX0pqQnBtRnk4QW9ZQdIBxwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR0gHHAUFVX3lxTFBOeXFFeVk0ZFNpd211TkIydFdJanZwTlJRNGdmbTBvMzNjemhtM2d4WVFhb09ZVGNBV0FvMEhSSVo1Z0JPb25jLXlrT0R0QkxpMTc5SkxRTEFuNkVkdzEzdGczNF9ZdEF2TXNycXNGcGVuczNXaldrOUhUd215NDVBbE5JQ3I1bnMwaGxJcFhTXzlxckpGLXdCc3dLWFpGX2F2dnFEbVhCVGptbk80OFl1ZzExREU2bXRVcVNZRVJkd2s1QmJxZ1E?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 12 Sep 2026 01:34:13 GMT",
+      "published": "Sat, 12 Sep 2026 01:34:14 GMT",
       "summary": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
-      "published_ts": 1789176853.0
-    },
-    {
-      "title": "The New Sports Sponsorship Audience: More Aware and More Attentive - RTR Sports Marketing",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV9tQjN0YVBxQTRIN1J1eldSQ1FpT0kzUEVHN3BjbklXb1F2WFd5czkyV1ZfdFppeW5kOXpoTG9YalFVREJUZlVHemZqTFJmbnFrVHY4ZFdDWDhkTlAxVFVvVEhDbXZQd2djaTZaQlBMWUNhalAyM3YwRjVQYmg2Mjdadm9xaUZURjBfbjhZemlIVU9LbVJTeW9Ja2I?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 08 Sep 2026 14:50:07 GMT",
-      "summary": "The New Sports Sponsorship Audience: More Aware and More Attentive &nbsp;&nbsp; RTR Sports Marketing",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1788879007.0
+      "published_ts": 1789176854.0
     },
     {
       "title": "E-commerce facilitator ShipStation eyes major global expansion - Yahoo Finance",
@@ -308,6 +308,17 @@
       "confidence": "medium",
       "reasoning": "Attentive + valuation",
       "published_ts": 1788332400.0
+    },
+    {
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 25 Aug 2026 22:43:27 GMT",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + funding round",
+      "published_ts": 1787697807.0
     },
     {
       "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
@@ -398,11 +409,11 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -420,11 +431,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - newsfilecorp.com",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjJZMXNuYTNrZjN2UVNfd2htVDhWRmZDMWh6cFZvZ2Z0OXlOaXozckhTWldzWG5tdWY4aVZQV0tibl9yMENFUmsxMk96WG9RdDBlaWFkdDJyTE4yNUNZRXVLaUR2ZXZIVjF5ZElJY3hUcnZFVWZLSW1HcERWRWdQck5GcXpERTQ3RGtscFA4ZElZNk1IOG5RU3pxOTVpMHVucGI5M1FRU1pHeUU1Z1RJOHhOYmc1U0FuYVpYNmln?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; newsfilecorp.com",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -488,10 +499,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 22,
+    "kept": 45,
+    "opportunities": 23,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 10.2
   }
 }
