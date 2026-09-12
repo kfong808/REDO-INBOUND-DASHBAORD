@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T18:50:53.847150+00:00",
+  "updated": "2026-09-12T21:04:52.606534+00:00",
   "items": [
     {
       "title": "ChatGPT helped me find a problem I didn’t know I had",
@@ -13,22 +13,33 @@
       "published_ts": 1789138839.0
     },
     {
-      "title": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is - 247wallst.com",
+      "title": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0FGc1NaT2lNV0NId0FQXzdIa1VheFNYTVFhcGREOFFtdlhIemo4Q2NtWF80Qk5aSFNCR1JRQnpNUVpkUkhueThickRvcmpUTUYwcDFTWmk2clc0VlBzZGNlZlY0S3praFp5VG9xRDFHQmloRTJlUTliZUM3LUJQTmdDbmtmbEQ1R1k5cm9xWXdXQlNlcXBYR3hVOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 11 Sep 2026 13:05:42 GMT",
+      "summary": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789131942.0
+    },
+    {
+      "title": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUktSMG9JNG10X3lmV1JjQmtzMDF3a1JsYXhWMHpMbkpobzBDZ3llaDYyYWUtcGRKU0JhQ0VtbURaaGRfOU5XUnVhQkI1cVZaWmJWa1JxR3NIZFVXcEdOOE10OVpZS3VJZUh1NkRYTUFTSzhTTF83MGNZVW5LQmh2Q3A5ZlhLTVZDdmVxVVVoWG93ZmEtXzJPNzdHU3ZXeHFZLWlhQk5lWnRPeTg0ZktXZ3cxY0RDWm8?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 11 Sep 2026 13:05:00 GMT",
-      "summary": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is &nbsp;&nbsp; 247wallst.com",
+      "summary": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is &nbsp;&nbsp; 24/7 Wall St.",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1789131900.0
     },
     {
-      "title": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents - Startup Fortune",
+      "title": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents - startupfortune.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd2R0VEZBRmFDeXFTOWdldmNFZS1maGdRNXRVbXdDSnJKQVJFeDNMNkRRenFiSW91aGxUQ01uZUdZdTRPaDhqRUtCQUVFTmh4cnhBYlQ4U1dKWVZjdlA0d09KUEplVzkxdEJON0x4WEZOWThPN3FMZWlkWEdzeWlmVzBTNWVYTFhydHBnUEthOThTTWliZkhaWUdaVVdxT1F0eFBGYQ?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Fri, 11 Sep 2026 03:44:19 GMT",
-      "summary": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents &nbsp;&nbsp; Startup Fortune",
+      "summary": "Visa, Mastercard and Ant International Team Up to Verify AI Shopping Agents &nbsp;&nbsp; startupfortune.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1789087989.0
-    },
-    {
-      "title": "Visa, Mastercard, Ant Group band together for agentic commerce framework - thestack.technology",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDluM0h2cmV0RTVNZTVORDhzbEVNeXhVRksxQkNGRkFXVXRwSVdTSkZTeVViYmRQYVF3U2J1UXh1UExWZE9ZbWtLY2NxZEpHdlFkeUJFZ2FXLUVfb2JsbGZoeGFtRk9QeTZxU29HckRKemVxLVJyNWRneXdUbHp3TUowTFZCU2Y2Y1RjeUdR?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 10 Sep 2026 17:10:56 GMT",
-      "summary": "Visa, Mastercard, Ant Group band together for agentic commerce framework &nbsp;&nbsp; thestack.technology",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789060256.0
     },
     {
       "title": "Shopify's Catalog Mapping feature is fake?",
@@ -167,11 +167,11 @@
       "published_ts": 1788345900.0
     },
     {
-      "title": "Anthropic Gives Retailers Blueprint for AI Shopping Agents - PYMNTS.com",
+      "title": "Anthropic Gives Retailers Blueprint for AI Shopping Agents - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalA4cjZfODdITEUyU1hnbGdlRjFsRG52akhqQTg4WmZ3Y20tUjN0TjhpVEU4bzN0UmNrR2dnZXRoaUlRZEdKWUtpX1JCRTExNVFqUUgzUHI5aGEyWHVPYzFxQzY5UDh1VTZ5UzZXMkZicUVBRVZPeVVSbXlQS3BOQ0JXNGRVaW1JMWlGdkVGWUtJRkNtcjhCS1BKRmFMM0hNV2RCb3lOQ1NuSFZ6Y3JEdE51SGxxTWs?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Anthropic Gives Retailers Blueprint for AI Shopping Agents &nbsp;&nbsp; PYMNTS.com",
+      "summary": "Anthropic Gives Retailers Blueprint for AI Shopping Agents &nbsp;&nbsp; pymnts.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -222,11 +222,11 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - businesswire.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; businesswire.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -267,14 +267,25 @@
     },
     {
       "title": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9yTGZQTW5aMDZzUXRFcXZ3bFNNSUxhWTlQd08tU01fNUQ1bGZaSTU3NHNBN3NfbnlXN0g5VlpoeG5KdGdCaVE0NXhYdGFLTXFWbkpBVHFZWTFlRzVZYjlTTGZEdzN0TzNLczM2VDVhUFdmdWVyVW5xU0ZCSnBLdnJ6a05mWUFqbURsMVM5M0FtbFRWWVRTTHNBMXdjSlRubE1kbmVyaUs0Q3RXbUVUUTd6YkZvX0pqQnBtRnk4QW9ZQdIBxwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR0gHHAUFVX3lxTFBOeXFFeVk0ZFNpd211TkIydFdJanZwTlJRNGdmbTBvMzNjemhtM2d4WVFhb09ZVGNBV0FvMEhSSVo1Z0JPb25jLXlrT0R0QkxpMTc5SkxRTEFuNkVkdzEzdGczNF9ZdEF2TXNycXNGcGVuczNXaldrOUhUd215NDVBbE5JQ3I1bnMwaGxJcFhTXzlxckpGLXdCc3dLWFpGX2F2dnFEbVhCVGptbk80OFl1ZzExREU2bXRVcVNZRVJkd2s1QmJxZ1E?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 12 Sep 2026 01:34:13 GMT",
+      "published": "Sat, 12 Sep 2026 01:34:14 GMT",
       "summary": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
-      "published_ts": 1789176853.0
+      "published_ts": 1789176854.0
+    },
+    {
+      "title": "The New Sports Sponsorship Audience: More Aware and More Attentive - RTR Sports Marketing",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV9tQjN0YVBxQTRIN1J1eldSQ1FpT0kzUEVHN3BjbklXb1F2WFd5czkyV1ZfdFppeW5kOXpoTG9YalFVREJUZlVHemZqTFJmbnFrVHY4ZFdDWDhkTlAxVFVvVEhDbXZQd2djaTZaQlBMWUNhalAyM3YwRjVQYmg2Mjdadm9xaUZURjBfbjhZemlIVU9LbVJTeW9Ja2I?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 08 Sep 2026 14:50:07 GMT",
+      "summary": "The New Sports Sponsorship Audience: More Aware and More Attentive &nbsp;&nbsp; RTR Sports Marketing",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1788879007.0
     },
     {
       "title": "E-commerce facilitator ShipStation eyes major global expansion - Yahoo Finance",
@@ -321,11 +332,11 @@
       "published_ts": 1788332400.0
     },
     {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
       "source": "Google News: Attentive",
       "published": "Tue, 25 Aug 2026 22:43:27 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + funding round",
@@ -343,11 +354,11 @@
       "published_ts": 1787686278.0
     },
     {
-      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - businesswire.com",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
       "source": "Google News: Attentive",
       "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; businesswire.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + launches",
@@ -365,11 +376,11 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -510,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
+    "kept": 47,
     "opportunities": 24,
-    "threats": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 11.4
   }
 }
