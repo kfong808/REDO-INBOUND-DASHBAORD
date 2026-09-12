@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:13:07.536489+00:00",
+  "updated": "2026-09-12T16:36:08.771234+00:00",
   "items": [
     {
       "title": "ChatGPT helped me find a problem I didn’t know I had",
@@ -46,6 +46,17 @@
       "published_ts": 1789087989.0
     },
     {
+      "title": "Visa, Mastercard, Ant Group band together for agentic commerce framework - thestack.technology",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDluM0h2cmV0RTVNZTVORDhzbEVNeXhVRksxQkNGRkFXVXRwSVdTSkZTeVViYmRQYVF3U2J1UXh1UExWZE9ZbWtLY2NxZEpHdlFkeUJFZ2FXLUVfb2JsbGZoeGFtRk9QeTZxU29HckRKemVxLVJyNWRneXdUbHp3TUowTFZCU2Y2Y1RjeUdR?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 10 Sep 2026 17:10:56 GMT",
+      "summary": "Visa, Mastercard, Ant Group band together for agentic commerce framework &nbsp;&nbsp; thestack.technology",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789060256.0
+    },
+    {
       "title": "Shopify's Catalog Mapping feature is fake?",
       "url": "https://www.reddit.com/r/shopify/comments/1wcn6q4/shopifys_catalog_mapping_feature_is_fake/",
       "source": "r/shopify",
@@ -66,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1789053369.0
-    },
-    {
-      "title": "How JD Sports and Braze Are Building The Future of Agentic Commerce - WWD",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2lFdmttUVh6V3o3UXduV1hUaHdPNVlSTk51M0FZbWpEZlVEclg3MnRtS1Q1WC04UmZIbkg5SS01dFdnR0VrcXRyZkVVU3ItN2pzam9aUWtJSkFnZUw5RTBBYTN6OUktbXZybFV3VFBMNGtSTkd3ejB4UFJMN05LQ0ZWeEF5RnhEaC1mNTdnVHRwb3VIdnh1TGktVlRUUVFMR09MenFULWZOZmFNRFF5Tk54LXl6aXF6?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 09 Sep 2026 22:45:32 GMT",
-      "summary": "How JD Sports and Braze Are Building The Future of Agentic Commerce &nbsp;&nbsp; WWD",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1788993932.0
     },
     {
       "title": "How Fraud Defences Must Evolve to Protect Agentic Commerce - FICO",
@@ -156,11 +156,11 @@
       "published_ts": 1788404444.0
     },
     {
-      "title": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era - NIQ",
+      "title": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era - nielseniq.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONGw5Q1VJOEp4SDU2NWdjckNWeEdHMlBBWmVFODc5U1Y1N1BqOENJUllLN0pZTHl4ek9tX19IZDRWWmE4c1loVkdUMnl5SDlWLUhMS1BabW5NWk1OYUpOb0s3UVFTX1hhX01oc0NEZnhKcnRJOEpxZ0ItLXRXM1Q0bTVNM2tpZk51R2dvTVI2aEdFNkNqbzNWcmVwRTJJSVFpTnItazJKTm9tYlNMdEdTRllHcXk5QWd0aHJxRkNWWl9WUUNuREUwVA?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 02 Sep 2026 10:45:00 GMT",
-      "summary": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era &nbsp;&nbsp; NIQ",
+      "summary": "NIQ and Similarweb Advance Agentic Commerce Measurement for the AI Shopping Era &nbsp;&nbsp; nielseniq.com",
       "classification": "opportunity",
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
@@ -267,14 +267,14 @@
     },
     {
       "title": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR0gHHAUFVX3lxTFBOeXFFeVk0ZFNpd211TkIydFdJanZwTlJRNGdmbTBvMzNjemhtM2d4WVFhb09ZVGNBV0FvMEhSSVo1Z0JPb25jLXlrT0R0QkxpMTc5SkxRTEFuNkVkdzEzdGczNF9ZdEF2TXNycXNGcGVuczNXaldrOUhUd215NDVBbE5JQ3I1bnMwaGxJcFhTXzlxckpGLXdCc3dLWFpGX2F2dnFEbVhCVGptbk80OFl1ZzExREU2bXRVcVNZRVJkd2s1QmJxZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9yTGZQTW5aMDZzUXRFcXZ3bFNNSUxhWTlQd08tU01fNUQ1bGZaSTU3NHNBN3NfbnlXN0g5VlpoeG5KdGdCaVE0NXhYdGFLTXFWbkpBVHFZWTFlRzVZYjlTTGZEdzN0TzNLczM2VDVhUFdmdWVyVW5xU0ZCSnBLdnJ6a05mWUFqbURsMVM5M0FtbFRWWVRTTHNBMXdjSlRubE1kbmVyaUs0Q3RXbUVUUTd6YkZvX0pqQnBtRnk4QW9ZQdIBxwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 12 Sep 2026 01:34:14 GMT",
+      "published": "Sat, 12 Sep 2026 01:34:13 GMT",
       "summary": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
-      "published_ts": 1789176854.0
+      "published_ts": 1789176853.0
     },
     {
       "title": "The New Sports Sponsorship Audience: More Aware and More Attentive - RTR Sports Marketing",
@@ -332,22 +332,22 @@
       "published_ts": 1788332400.0
     },
     {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - tracxn.com",
+      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
       "source": "Google News: Attentive",
       "published": "Tue, 25 Aug 2026 22:43:27 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
+      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + funding round",
       "published_ts": 1787697807.0
     },
     {
-      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - chaindrugreview.com",
+      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdC1qdTFzSjNQM3NxSy04RnVRaHE4SXFodmp5ZUcweUYwS2VmZEhTVTc4b0lwRGw0QU42ekl3dWs1VzNNRE1HcEdXTHhrZFNUb0ZlWjBJbGNEQVJzRGo5emUtQVZwaHBQU05OM1JNdHAwREZMV1IxQ0lTV28tdXFrNWg2d0VVZWRBNkx5a1k5RktGMFlMbm94TnotV29aUzA?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 25 Aug 2026 19:31:18 GMT",
-      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; chaindrugreview.com",
+      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; Chain Drug Review",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -376,15 +376,26 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
+    },
+    {
+      "title": "Postscript: Mark Singer - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -407,6 +418,17 @@
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
       "published_ts": 1779951600.0
+    },
+    {
+      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEc4Y2JSMF9qU2ZaaXpmWjBqeHNVeFQxcDRSMzN6SG5rSWEzVDcwLThLQzFXLUNjc3E5VkV1U2J0d2hscFhnZGk5b204X3FlNmVaZFJjQVFxMjhTTWo0aUJDMHpZc3RxYS1IMl9XV29tZ2VvZ2V3UDJhNEZudkpraTdsNmt5SzdHRWp6OGR5ZWEzcjhVbVRyWHdNVnBOcHotUzVPVGgtZk02U2dkM2RVLXI2eGZScWVRS004?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
+    "kept": 48,
     "opportunities": 24,
-    "threats": 22,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 10.8
   }
 }
