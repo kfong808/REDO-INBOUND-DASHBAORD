@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T00:46:36.861615+00:00",
+  "updated": "2026-09-12T05:13:45.916680+00:00",
   "items": [
     {
       "title": "ChatGPT helped me find a problem I didn’t know I had",
@@ -46,11 +46,11 @@
       "published_ts": 1789098259.0
     },
     {
-      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - bain.com",
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - Bain & Company",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3lYbi1PU1ZWSkRsT3B5ZXRnRlpEejB6SFJMbC1Pb0xBaHBzVGRvTDRWQXVwdWFXelRkZGlSbURfdkl3NTNQdXFfZEhLSzRTOGZoaUd3dVFwaTQwanNleHczQi01RTRJejJGZ2ZnZWlSQVBkbk1PMlNjb3FfdHloclZxNUczLWl5U0Z2R294RjBGaTNEenVfaTFnaFFFVmZuRm9Jbg?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 11 Sep 2026 00:53:09 GMT",
-      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; bain.com",
+      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; Bain & Company",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -181,12 +181,12 @@
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783839600.0
+      "published_ts": 1783753200.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -244,6 +244,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9yTGZQTW5aMDZzUXRFcXZ3bFNNSUxhWTlQd08tU01fNUQ1bGZaSTU3NHNBN3NfbnlXN0g5VlpoeG5KdGdCaVE0NXhYdGFLTXFWbkpBVHFZWTFlRzVZYjlTTGZEdzN0TzNLczM2VDVhUFdmdWVyVW5xU0ZCSnBLdnJ6a05mWUFqbURsMVM5M0FtbFRWWVRTTHNBMXdjSlRubE1kbmVyaUs0Q3RXbUVUUTd6YkZvX0pqQnBtRnk4QW9ZQdIBxwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 12 Sep 2026 01:34:13 GMT",
+      "summary": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + valuation",
+      "published_ts": 1789176853.0
+    },
+    {
       "title": "The New Sports Sponsorship Audience: More Aware and More Attentive - RTR Sports Marketing",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV9tQjN0YVBxQTRIN1J1eldSQ1FpT0kzUEVHN3BjbklXb1F2WFd5czkyV1ZfdFppeW5kOXpoTG9YalFVREJUZlVHemZqTFJmbnFrVHY4ZFdDWDhkTlAxVFVvVEhDbXZQd2djaTZaQlBMWUNhalAyM3YwRjVQYmg2Mjdadm9xaUZURjBfbjhZemlIVU9LbVJTeW9Ja2I?oc=5",
       "source": "Google News: Attentive",
@@ -264,17 +275,6 @@
       "confidence": "medium",
       "reasoning": "Shipstation + expansion",
       "published_ts": 1788876495.0
-    },
-    {
-      "title": "New CMC president: ‘Be attentive, be discerning, be adventurous’ - Claremont COURIER",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUR5Y1J5ZG1MUkZTdHJTXzBJR0Q5dmpCSmJ3UEdBMEdZRjRfbFRINjV0Umt3bU80dnJvRkhpVzY4djhkakNFd0VJRjhuM25SMzl0WERsNHdhQnNZU1JOZWliT1IyaHFWWEFMRmRqZ3RRWlZQMlM4bnVRaGRwYUpxcWFjUW5qR3pRWnlCZWpqQUg0NEFReGFtM0taTWE3RzhxZmg0amxn?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 03 Sep 2026 21:52:45 GMT",
-      "summary": "New CMC president: ‘Be attentive, be discerning, be adventurous’ &nbsp;&nbsp; Claremont COURIER",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1788472365.0
     },
     {
       "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
@@ -332,11 +332,11 @@
       "published_ts": 1787036400.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -352,17 +352,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
-    },
-    {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -431,11 +420,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - TMX Newsfile",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - newsfilecorp.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjJZMXNuYTNrZjN2UVNfd2htVDhWRmZDMWh6cFZvZ2Z0OXlOaXozckhTWldzWG5tdWY4aVZQV0tibl9yMENFUmsxMk96WG9RdDBlaWFkdDJyTE4yNUNZRXVLaUR2ZXZIVjF5ZElJY3hUcnZFVWZLSW1HcERWRWdQck5GcXpERTQ3RGtscFA4ZElZNk1IOG5RU3pxOTVpMHVucGI5M1FRU1pHeUU1Z1RJOHhOYmc1U0FuYVpYNmln?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; TMX Newsfile",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; newsfilecorp.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -499,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 45,
+    "kept": 44,
     "opportunities": 22,
-    "threats": 23,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.1
+    "runtime_seconds": 10.4
   }
 }
