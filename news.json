@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-12T23:32:35.862572+00:00",
+  "updated": "2026-09-13T01:56:26.463603+00:00",
   "items": [
     {
       "title": "Agentic commerce: Is Payments the winner this time? - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1IzN3hoQkVQZWRMbGtCVVUxWUhydE1SYVVkd3lqaHlBYU5WUlhnR3hha3R5bUd3T2lXOVpnemY2ZExPUHRGS1ZrdnpNU2ktd0hNSk5mSzB1U3pMZkJMa0otUFlVbTRna0V2bDhtdVJsbnpJSUpWcEpubk1mR052b2JHR05HWjh5SXlkby1xRklqTlBJaVl1SGZuVHhfWGQtbDg4UWV2V2JQM1NWUmhhTlVucF8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXNkeXV4dzVmTWNmalVOaTNINUMya2duY19MN01ZcjRoX0dKMzRsMU12bi1QZERNbVNydjlFWG9GV2laNVNxUUFFRjI5NkJxcXpkRXdrN3ZuVllBdzNOa240QVBYS3dpeHFYcENCZEQxSkN2LWdjeDY2NkNZWmpFVHhnRnlOQTEwWDdITjZFbUZ4aXVWcXRzQ2dZekxNWlNkblBacFBlN0pFZw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Sat, 12 Sep 2026 21:03:00 GMT",
+      "published": "Sat, 12 Sep 2026 21:06:13 GMT",
       "summary": "Agentic commerce: Is Payments the winner this time? &nbsp;&nbsp; Investing.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789246980.0
+      "published_ts": 1789247173.0
     },
     {
       "title": "ChatGPT helped me find a problem I didn’t know I had",
@@ -57,26 +57,15 @@
       "published_ts": 1789098259.0
     },
     {
-      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - bain.com",
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - Bain & Company",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3lYbi1PU1ZWSkRsT3B5ZXRnRlpEejB6SFJMbC1Pb0xBaHBzVGRvTDRWQXVwdWFXelRkZGlSbURfdkl3NTNQdXFfZEhLSzRTOGZoaUd3dVFwaTQwanNleHczQi01RTRJejJGZ2ZnZWlSQVBkbk1PMlNjb3FfdHloclZxNUczLWl5U0Z2R294RjBGaTNEenVfaTFnaFFFVmZuRm9Jbg?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 11 Sep 2026 00:53:09 GMT",
-      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; bain.com",
+      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; Bain & Company",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1789087989.0
-    },
-    {
-      "title": "Shopify's Catalog Mapping feature is fake?",
-      "url": "https://www.reddit.com/r/shopify/comments/1wcn6q4/shopifys_catalog_mapping_feature_is_fake/",
-      "source": "r/shopify",
-      "published": "2026-09-10T15:56:36+00:00",
-      "summary": "In their Agentic Dashboard sales channel, you can remap what Shopify Catalog sends to AI shopping assistants like ChatGPT. Instead of your product description it can pull from a metafield. The thinking is you replace the normal human-focused product description with an alternate description for AI agents stored in a metafield. I've done this on two stores, at the end of August... and no result. It does nothing. Every day I check the catalog record through the UCP API. 14 days later, still nothin",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1789055796.0
     },
     {
       "title": "Mastercard Adds Tools to Ease Agentic Commerce for Merchants - Digital Transactions",
@@ -112,11 +101,11 @@
       "published_ts": 1788858013.0
     },
     {
-      "title": "How AI shopping agents could change the way consumers buy everything online - abc17news.com",
+      "title": "How AI shopping agents could change the way consumers buy everything online - ABC17NEWS",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORU5BVk9vdUp0UTBRcXl5VVNibDh0T09majRYdkkxRl91WFljTUJwRDRwUFdXR3hLdXhyRjVKM1ZPdktOdk5GcF9Mdm5tbUpDSGQ4NXF4eGRndWZGNWVGdlQ2SzJ3YnBOSURTbkRtOFNURG9NVjZtMEtXVTFhaXJYOGRRSkFSSEpmQXM3cEJFcnRISnRXbF9NZnBxcGtPNGg0YWw1VDFRa1hLVWJoQVhuMkRQMHhXRXNvYnlGc3dfZXJRc283?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Sun, 06 Sep 2026 17:03:35 GMT",
-      "summary": "How AI shopping agents could change the way consumers buy everything online &nbsp;&nbsp; abc17news.com",
+      "summary": "How AI shopping agents could change the way consumers buy everything online &nbsp;&nbsp; ABC17NEWS",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -233,22 +222,22 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "title": "Agentic Post-Purchase Services - trendhunter.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1773730800.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -256,21 +245,32 @@
     },
     {
       "title": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR0gHHAUFVX3lxTFBOeXFFeVk0ZFNpd211TkIydFdJanZwTlJRNGdmbTBvMzNjemhtM2d4WVFhb09ZVGNBV0FvMEhSSVo1Z0JPb25jLXlrT0R0QkxpMTc5SkxRTEFuNkVkdzEzdGczNF9ZdEF2TXNycXNGcGVuczNXaldrOUhUd215NDVBbE5JQ3I1bnMwaGxJcFhTXzlxckpGLXdCc3dLWFpGX2F2dnFEbVhCVGptbk80OFl1ZzExREU2bXRVcVNZRVJkd2s1QmJxZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9yTGZQTW5aMDZzUXRFcXZ3bFNNSUxhWTlQd08tU01fNUQ1bGZaSTU3NHNBN3NfbnlXN0g5VlpoeG5KdGdCaVE0NXhYdGFLTXFWbkpBVHFZWTFlRzVZYjlTTGZEdzN0TzNLczM2VDVhUFdmdWVyVW5xU0ZCSnBLdnJ6a05mWUFqbURsMVM5M0FtbFRWWVRTTHNBMXdjSlRubE1kbmVyaUs0Q3RXbUVUUTd6YkZvX0pqQnBtRnk4QW9ZQdIBxwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 12 Sep 2026 01:34:14 GMT",
+      "published": "Sat, 12 Sep 2026 01:34:13 GMT",
       "summary": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
-      "published_ts": 1789176854.0
+      "published_ts": 1789176853.0
     },
     {
-      "title": "E-commerce facilitator ShipStation eyes major global expansion - FreightWaves",
+      "title": "The New Sports Sponsorship Audience: More Aware and More Attentive - RTR Sports Marketing",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV9tQjN0YVBxQTRIN1J1eldSQ1FpT0kzUEVHN3BjbklXb1F2WFd5czkyV1ZfdFppeW5kOXpoTG9YalFVREJUZlVHemZqTFJmbnFrVHY4ZFdDWDhkTlAxVFVvVEhDbXZQd2djaTZaQlBMWUNhalAyM3YwRjVQYmg2Mjdadm9xaUZURjBfbjhZemlIVU9LbVJTeW9Ja2I?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 08 Sep 2026 14:50:07 GMT",
+      "summary": "The New Sports Sponsorship Audience: More Aware and More Attentive &nbsp;&nbsp; RTR Sports Marketing",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1788879007.0
+    },
+    {
+      "title": "E-commerce facilitator ShipStation eyes major global expansion - freightwaves.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxzMk9JYUFlMnhPY3RkR1B1LXphOUYxZS10TXE1RmowcmZsS2NydXlMQlNWbHZQSEhOVWE0ME9KYVdOYUl1U29VOTIzWUNfS0tCYk5GbnNLMzRmYXA1RFdLdzhza1dDdlBzWWJYWVQ4eXVNY3hzUzlmXzNUNnR5VnZzT3hIdnN2MTNIWXlPQTY3ZEdBNVppelllOGU?oc=5",
       "source": "Google News: ShipStation",
       "published": "Tue, 08 Sep 2026 14:08:15 GMT",
-      "summary": "E-commerce facilitator ShipStation eyes major global expansion &nbsp;&nbsp; FreightWaves",
+      "summary": "E-commerce facilitator ShipStation eyes major global expansion &nbsp;&nbsp; freightwaves.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Shipstation + expansion",
@@ -308,17 +308,6 @@
       "confidence": "medium",
       "reasoning": "Attentive + valuation",
       "published_ts": 1788332400.0
-    },
-    {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 25 Aug 2026 22:43:27 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1787697807.0
     },
     {
       "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
@@ -365,15 +354,26 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -409,11 +409,11 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -500,8 +500,8 @@
   "stats": {
     "total_fetched": 270,
     "kept": 45,
-    "opportunities": 23,
-    "threats": 22,
+    "opportunities": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
     "runtime_seconds": 10.6
   }
