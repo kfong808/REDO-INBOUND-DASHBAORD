@@ -1,6 +1,17 @@
 {
-  "updated": "2026-09-14T15:23:12.303547+00:00",
+  "updated": "2026-09-14T20:01:14.910661+00:00",
   "items": [
+    {
+      "title": "Agentic commerce is loosening the grocery aisle’s grip on the shopper - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwbDk5UlNqWnZuSGVObUZCc2x4QmNWQ2dCS2hSTmxDS25iQ29tNDM0N0VRVXFqc3o5RXc2VzMtZC11RkhXcE5XTkhsdGJLNjZlQm9hSjFYaklTN0YxY2hkT1E4TlNnT0d2OFh5bWl3?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 14 Sep 2026 18:10:57 GMT",
+      "summary": "Agentic commerce is loosening the grocery aisle’s grip on the shopper &nbsp;&nbsp; The Next Web",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789409457.0
+    },
     {
       "title": "Visa, Mastercard and Ant want to check an AI shopping agent's ID before it pays - WION",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkRWbHpvUmZGai0xX3lEb2xfemozN2lkdXZnMGt6ZVRWWWpQTUhvdkd4WFJSYmM2NzhvVUdNdjRZeHljUWV2NEhLSGtDNnpqazBTUHBzT09oT3ROZllXN281UnQxWjByV2hqako3ZWlnN194allEV1l5dXV5Tld0T1U3ZlZSbmRjMUI4cTVDTnVmTExNQmVxVTdWaHdDMFRSNEJGRW05MjZTb1BuMXhXa2sxMkcwM1Nyd0tNVVV1NNIBxAFBVV95cUxPX1hfdzlNdlB2V254UDd5QW9Pc0tQRzBjNXEtS3Z0TjBtS2c3d3dCeFZHNG9rZU9qdjdHVFhLR2JfTURac1FFR2x2UFJCeTBwREpCSzhBV3BtUEtSbUtsYVdqUGs0SVVxOWxtT3lQZjNWU0tPdEdncXZlTmU2bnlSWXUzSXRVNnZrdlVBZWplSTNfOFVZVTExcVJfVFlnb1QxRmdVWlBITDAzZFR1b0JYamxFaU9CS2pYaVhVRGI5YjMxMzJS?oc=5",
@@ -35,11 +46,11 @@
       "published_ts": 1789392063.0
     },
     {
-      "title": "Worldline enables agentic commerce payments via Universal Commerce Protocol capabilities - worldline.com",
+      "title": "Worldline enables agentic commerce payments via Universal Commerce Protocol capabilities - Worldline",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTZKYjRiQk5uNE1INjh3ajNkY0tmTnNkYlNvY0xDdFRaR00zdTNvXzkwelpTclBaSTY3WjcyTU9MOEpBV0ZHeVRkdWZOSk9RUXdzZU1ORWZ4WWJwUlhlV2NhMmZrUGJkREd6bzVPYjRUcV9aZ3hBRDVHcHFzTDFMNE1Bb1hwa1A5Z0l2amRqZ19FVllGQnc?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 14 Sep 2026 06:54:38 GMT",
-      "summary": "Worldline enables agentic commerce payments via Universal Commerce Protocol capabilities &nbsp;&nbsp; worldline.com",
+      "summary": "Worldline enables agentic commerce payments via Universal Commerce Protocol capabilities &nbsp;&nbsp; Worldline",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -68,11 +79,11 @@
       "published_ts": 1789327683.0
     },
     {
-      "title": "Amazon loses injunction blocking Perplexity's AI shopping agent - ppc.land",
+      "title": "Amazon loses injunction blocking Perplexity's AI shopping agent - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTF5Yi12a1pnTUt2UEV3bldjdERpZzRtT2Iya2ZBRmVaYWQ5UnpoVU9sNWVzdWs1aU9HT3NkY1ItUFp5OXg5T2FmTXhWc3FiR21uNWtUU2JQZUVlbWFQSWF2cV94YlVNMVh5NEFxS3ZBaWJfM3UzN2swb2NtenViRkNiSWRJVE0?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Sun, 13 Sep 2026 16:56:23 GMT",
-      "summary": "Amazon loses injunction blocking Perplexity's AI shopping agent &nbsp;&nbsp; ppc.land",
+      "summary": "Amazon loses injunction blocking Perplexity's AI shopping agent &nbsp;&nbsp; PPC Land",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -88,17 +99,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1789247173.0
-    },
-    {
-      "title": "ChatGPT helped me find a problem I didn’t know I had",
-      "url": "https://www.reddit.com/r/shopify/comments/1wdiply/chatgpt_helped_me_find_a_problem_i_didnt_know_i/",
-      "source": "r/shopify",
-      "published": "2026-09-11T15:00:39+00:00",
-      "summary": "I run a small store and don’t really know much about how ChatGPT works. A customer came in recently asking about a product we stopped selling months ago. I asked where they saw it and they said ChatGPT recommended it. So I checked ChatGPT myself and yep, it was still recommending the old product. I told it the product was discontinued and asked why it was still recommending it. I figured that would do it. Nope. Still there. That made me wonder if this was just a ChatGPT problem, so I used Pallas",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: discontinued",
-      "published_ts": 1789138839.0
     },
     {
       "title": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is - 24/7 Wall St.",
@@ -121,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1789098259.0
-    },
-    {
-      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce - bain.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3lYbi1PU1ZWSkRsT3B5ZXRnRlpEejB6SFJMbC1Pb0xBaHBzVGRvTDRWQXVwdWFXelRkZGlSbURfdkl3NTNQdXFfZEhLSzRTOGZoaUd3dVFwaTQwanNleHczQi01RTRJejJGZ2ZnZWlSQVBkbk1PMlNjb3FfdHloclZxNUczLWl5U0Z2R294RjBGaTNEenVfaTFnaFFFVmZuRm9Jbg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 11 Sep 2026 00:53:09 GMT",
-      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce &nbsp;&nbsp; bain.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789087989.0
     },
     {
       "title": "How AI shopping agents could change the way consumers buy everything online - ABC17NEWS",
@@ -176,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1788404444.0
-    },
-    {
-      "title": "Anthropic Gives Retailers Blueprint for AI Shopping Agents - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalA4cjZfODdITEUyU1hnbGdlRjFsRG52akhqQTg4WmZ3Y20tUjN0TjhpVEU4bzN0UmNrR2dnZXRoaUlRZEdKWUtpX1JCRTExNVFqUUgzUHI5aGEyWHVPYzFxQzY5UDh1VTZ5UzZXMkZicUVBRVZPeVVSbXlQS3BOQ0JXNGRVaW1JMWlGdkVGWUtJRkNtcjhCS1BKRmFMM0hNV2RCb3lOQ1NuSFZ6Y3JEdE51SGxxTWs?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Anthropic Gives Retailers Blueprint for AI Shopping Agents &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1788332400.0
     },
     {
       "title": "Contribution Margin Guides Ecommerce Growth",
@@ -278,36 +256,25 @@
     },
     {
       "title": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9yTGZQTW5aMDZzUXRFcXZ3bFNNSUxhWTlQd08tU01fNUQ1bGZaSTU3NHNBN3NfbnlXN0g5VlpoeG5KdGdCaVE0NXhYdGFLTXFWbkpBVHFZWTFlRzVZYjlTTGZEdzN0TzNLczM2VDVhUFdmdWVyVW5xU0ZCSnBLdnJ6a05mWUFqbURsMVM5M0FtbFRWWVRTTHNBMXdjSlRubE1kbmVyaUs0Q3RXbUVUUTd6YkZvX0pqQnBtRnk4QW9ZQdIBxwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnlxRXlZNGRTaXdtdU5CMnRXSWp2cE5SUTRnZm0wbzMzY3pobTNneFlRYW9PWVRjQVdBbzBIUklaNWdCT29uYy15a09EdEJMaTE3OUpMUUxBbjZFZHcxM3RnMzRfWXRBdk1zcnFzRnBlbnMzV2pXazlIVHdteTQ1QWxOSUNyNW5zMGhsSXBYU185cXJKRi13QnN3S1haRl9hdnZxRG1YQlRqbW5PNDhZdWcxMURFNm10VXFTWUVSZHdrNUJicWdR0gHHAUFVX3lxTFBOeXFFeVk0ZFNpd211TkIydFdJanZwTlJRNGdmbTBvMzNjemhtM2d4WVFhb09ZVGNBV0FvMEhSSVo1Z0JPb25jLXlrT0R0QkxpMTc5SkxRTEFuNkVkdzEzdGczNF9ZdEF2TXNycXNGcGVuczNXaldrOUhUd215NDVBbE5JQ3I1bnMwaGxJcFhTXzlxckpGLXdCc3dLWFpGX2F2dnFEbVhCVGptbk80OFl1ZzExREU2bXRVcVNZRVJkd2s1QmJxZ1E?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 12 Sep 2026 01:34:13 GMT",
+      "published": "Sat, 12 Sep 2026 01:34:14 GMT",
       "summary": "Can Klaviyo (KVYO) Justify Its Valuation After Its CRM Overhaul And MNTN Tie Up? &nbsp;&nbsp; simplywall.st",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Klaviyo + valuation",
-      "published_ts": 1789176853.0
+      "published_ts": 1789176854.0
     },
     {
-      "title": "E-commerce facilitator ShipStation eyes major global expansion - FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxzMk9JYUFlMnhPY3RkR1B1LXphOUYxZS10TXE1RmowcmZsS2NydXlMQlNWbHZQSEhOVWE0ME9KYVdOYUl1U29VOTIzWUNfS0tCYk5GbnNLMzRmYXA1RFdLdzhza1dDdlBzWWJYWVQ4eXVNY3hzUzlmXzNUNnR5VnZzT3hIdnN2MTNIWXlPQTY3ZEdBNVppelllOGU?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 08 Sep 2026 14:08:15 GMT",
-      "summary": "E-commerce facilitator ShipStation eyes major global expansion &nbsp;&nbsp; FreightWaves",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + expansion",
-      "published_ts": 1788876495.0
-    },
-    {
-      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation - getlatka.com",
+      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - getlatka.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation &nbsp;&nbsp; getlatka.com",
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) &nbsp;&nbsp; getlatka.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
-      "published_ts": 1788332400.0
+      "published_ts": 1789023600.0
     },
     {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - getlatka.com",
@@ -321,11 +288,11 @@
       "published_ts": 1788332400.0
     },
     {
-      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - chaindrugreview.com",
+      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdC1qdTFzSjNQM3NxSy04RnVRaHE4SXFodmp5ZUcweUYwS2VmZEhTVTc4b0lwRGw0QU42ekl3dWs1VzNNRE1HcEdXTHhrZFNUb0ZlWjBJbGNEQVJzRGo5emUtQVZwaHBQU05OM1JNdHAwREZMV1IxQ0lTV28tdXFrNWg2d0VVZWRBNkx5a1k5RktGMFlMbm94TnotV29aUzA?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 25 Aug 2026 19:31:18 GMT",
-      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; chaindrugreview.com",
+      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; Chain Drug Review",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -403,17 +370,6 @@
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
-    },
-    {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; tradingview.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -498,11 +454,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 290,
-    "kept": 45,
-    "opportunities": 25,
-    "threats": 20,
+    "total_fetched": 270,
+    "kept": 41,
+    "opportunities": 23,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.6
+    "runtime_seconds": 13.2
   }
 }
