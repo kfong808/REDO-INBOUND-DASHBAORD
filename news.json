@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-15T13:57:04.128833+00:00",
+  "updated": "2026-09-15T17:52:59.353747+00:00",
   "items": [
     {
-      "title": "Podcast: Demystifying agentic commerce with Lionel Grosclaude - FinTech Futures",
+      "title": "Podcast: Demystifying agentic commerce with Lionel Grosclaude - fintechfutures.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVmJhUVUxMEVkS1g0QU5JSTlpUW4xbC1RV0YzdTEtSG8xTEx6eWVaUkxxSEwySDBLN0NLODE0emozQkhaeUVCbUM3c000OENnTzl0MGNBR2wwNmhFWF9rdGduaXU2N0FuWmhhYXlac2ZYbExzdUNEUFNUV1d1aVNVQUtyZThXazBvTE1nR0dPXzF0bDFUeFF2cTFqaXpCRTd4TTZ6LWtYNnpvUXJ2UkhiR2hubFZWdnJ1Q1hLXzVjcmd4a2E2Sk5wejB1azhlaTNkUE5qaHdwYldhb2xfM3VMRw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 15 Sep 2026 08:38:43 GMT",
-      "summary": "Podcast: Demystifying agentic commerce with Lionel Grosclaude &nbsp;&nbsp; FinTech Futures",
+      "summary": "Podcast: Demystifying agentic commerce with Lionel Grosclaude &nbsp;&nbsp; fintechfutures.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -57,11 +57,11 @@
       "published_ts": 1789392063.0
     },
     {
-      "title": "Amazon loses injunction blocking Perplexity's AI shopping agent - ppc.land",
+      "title": "Amazon loses injunction blocking Perplexity's AI shopping agent - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTF5Yi12a1pnTUt2UEV3bldjdERpZzRtT2Iya2ZBRmVaYWQ5UnpoVU9sNWVzdWs1aU9HT3NkY1ItUFp5OXg5T2FmTXhWc3FiR21uNWtUU2JQZUVlbWFQSWF2cV94YlVNMVh5NEFxS3ZBaWJfM3UzN2swb2NtenViRkNiSWRJVE0?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Sun, 13 Sep 2026 16:56:23 GMT",
-      "summary": "Amazon loses injunction blocking Perplexity's AI shopping agent &nbsp;&nbsp; ppc.land",
+      "summary": "Amazon loses injunction blocking Perplexity's AI shopping agent &nbsp;&nbsp; PPC Land",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -167,17 +167,6 @@
       "published_ts": 1787838459.0
     },
     {
-      "title": "Double-Digit Ecommerce Growth Returns",
-      "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
-      "source": "Practical Ecommerce",
-      "published": "Sun, 23 Aug 2026 12:27:01 +0000",
-      "summary": "Does 2026 signal a lasting acceleration in U.S. ecommerce spending, or is it an outlier? The post Double-Digit Ecommerce Growth Returns appeared first on Practical Ecommerce .",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1787488021.0
-    },
-    {
       "title": "Best 10 Post-Purchase Experience Platforms in 2026 - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRX1NFSHN5WVpYYzRGLXZwaW5zSnNZN192VnQzT18xZzlPS2NoWjQ3aXJ5dFVNMmNFOFc5MEZHaHJmNnlNSDd3Zkl4aWpyMnBJZXNNY2FRdEp4cVdQWXVnS2hB?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -233,6 +222,17 @@
       "published_ts": 1775051648.0
     },
     {
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1773730800.0
+    },
+    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -266,6 +266,17 @@
       "published_ts": 1789023600.0
     },
     {
+      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788418800.0
+    },
+    {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
       "source": "Google News: Attentive",
@@ -275,17 +286,6 @@
       "confidence": "medium",
       "reasoning": "Attentive + valuation",
       "published_ts": 1788332400.0
-    },
-    {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 25 Aug 2026 22:43:27 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1787697807.0
     },
     {
       "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
@@ -352,6 +352,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
     },
     {
       "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
@@ -475,11 +486,22 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
+      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
+      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
       "source": "Google News: Narvar",
       "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + raises",
@@ -488,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 44,
+    "kept": 46,
     "opportunities": 22,
-    "threats": 22,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 12.1
   }
 }
