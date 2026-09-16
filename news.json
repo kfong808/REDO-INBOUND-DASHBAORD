@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:35:59.016876+00:00",
+  "updated": "2026-09-16T23:22:08.548197+00:00",
   "items": [
     {
       "title": "Circle Debuts Agentic Commerce-Focused Blockchain Arc - PYMNTS.com",
@@ -13,11 +13,11 @@
       "published_ts": 1789571992.0
     },
     {
-      "title": "Mastercard and Trip.com pave the way for agentic commerce in the travel sector - Mastercard",
+      "title": "Mastercard and Trip.com pave the way for agentic commerce in the travel sector - mastercard.com",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVExjWFludUozdUpTdl9id3JkX1VGa0pvUUM1Vzhrb05jSnNfZ2wxNG15b3NCLWZ5NDZNTlBhcG9NWnZPTUJzbC1laVZQMDlPb1RjWGduaWJKN1lWY0FFUkl3UllacTE1Sm9BNm0wMkVsbm5Nd19EaDRkVEc5bUdWWlRhcmhEN0VPUlRQazVQN3BmUHBaYXRsRkYxcEZXQnNXLVloeExhTEptbGo5a2ptZzNPUWlZOHItMm9kdXBuZVdMeEFTN0xrbFVqMWRiSkR5TThZWm45SEdxSzN1a3BzVjZlVFRmdExHdWktYXBFSVh0VGRv?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 16 Sep 2026 14:27:01 GMT",
-      "summary": "Mastercard and Trip.com pave the way for agentic commerce in the travel sector &nbsp;&nbsp; Mastercard",
+      "summary": "Mastercard and Trip.com pave the way for agentic commerce in the travel sector &nbsp;&nbsp; mastercard.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -46,11 +46,11 @@
       "published_ts": 1789557975.0
     },
     {
-      "title": "AI shopping agents are moving from recommendations to transactions - CEO Magazyn",
+      "title": "AI shopping agents are moving from recommendations to transactions - ceo.com.pl",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRENQc2wtaE1qZnZJTlBjLWk5c19vZmxPT3lvc1RqcExFZ21hU1VpeG1Ta0d3YU1aS2JRM0QzRDBxbWZWUjRmNi1sY0x2cTItblVyUXRWNUlxa2YzcGlCWGZGN3B5aWhNWnlTM1dHaU1Na0FORGlma2NYal91YV93WTlTSjdZQ3FRd1Nn?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 16 Sep 2026 10:40:03 GMT",
-      "summary": "AI shopping agents are moving from recommendations to transactions &nbsp;&nbsp; CEO Magazyn",
+      "summary": "AI shopping agents are moving from recommendations to transactions &nbsp;&nbsp; ceo.com.pl",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -222,6 +222,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience - WWD",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGVzTERtckV5cGVsT1NMUlJMMWhBNzNOY1o2NjFJZnpJT3NJV3JfeWFYdHcxZkc5R2YwODFKZ2J2MVF0Wmd0ZmNJdlhsb2MtR1BPUFBUT0FkeGdyaW5QR0laMHprRUh5WklGMl84ZTExcGVZRTRHaThRa2pob0RBZUNYWlJMV0ZIMmhlbzhnaWMxcGtZWWVyTk9tWmc4UTFSdDZyNVg3bmc2TDhCaGlpNWRmdEowNEpRRG5KNGlJTS1NbGFMV2dtQU02QUp6dFJUM2JiQmVTeTI?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1729062000.0
+    },
+    {
       "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - AutoRacing1.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2dfa3g4bVpLTlI3TWpfWWVDLUlJNlFSRlFHUjlqbjd0UXJiTHpwc1pEQlNoSThhSVFudF9TcTRSTHhldXlXUlphSDBSUmFWdjdJUXVyY0xYQW9YTTItWGhNQkR4Y3RfeVpsdWRnWk1SSHp1VDdoWjhReVFnRzY5akpCczliTlBFR19qZ2hjMm5EaVp1ZVE?oc=5",
       "source": "Google News: Postscript",
@@ -288,17 +299,6 @@
       "published_ts": 1788332400.0
     },
     {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - tracxn.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 25 Aug 2026 22:43:27 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1787697807.0
-    },
-    {
       "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdC1qdTFzSjNQM3NxSy04RnVRaHE4SXFodmp5ZUcweUYwS2VmZEhTVTc4b0lwRGw0QU42ekl3dWs1VzNNRE1HcEdXTHhrZFNUb0ZlWjBJbGNEQVJzRGo5emUtQVZwaHBQU05OM1JNdHAwREZMV1IxQ0lTV28tdXFrNWg2d0VVZWRBNkx5a1k5RktGMFlMbm94TnotV29aUzA?oc=5",
       "source": "Google News: Narvar",
@@ -310,15 +310,15 @@
       "published_ts": 1787686278.0
     },
     {
-      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHBZOFdxaUhnRE8xTGVKTVcyMktEd2xzQVlId3U2a2xpSW13cUtSQjA2VUVYV2RzQk5waFpFUXRaTTNmVHdPb2RxNVFfaS15OERNWjJnUlhTaWFCM1J5ZEFXdUxoU0JIeW41VlFhakhuNHAzQXByMXFrbFBoSWZhb1M2bWNOTU52Z3dIemQySTZsYUFTaUhqWkdxUlltM1loSGctTA?oc=5",
       "source": "Google News: Attentive",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + launches",
-      "published_ts": 1787036400.0
+      "published_ts": 1787122800.0
     },
     {
       "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
@@ -332,22 +332,22 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
+      "title": "Postscript: Mark Singer - newyorker.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -376,11 +376,11 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - tradingview.com",
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; tradingview.com",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -431,17 +431,6 @@
       "published_ts": 1769673600.0
     },
     {
-      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + introduces",
-      "published_ts": 1768204800.0
-    },
-    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -475,23 +464,23 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership - BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmJqTlZxSHdoemRzQ3VjZnNFUURfbXA5OThINmkxNDZYdkUzU0dMOGZJT3pGaVFjR0pKRFFYR2c2aXFuRnJ2UVQzQ0NkSGdwVjl4Y29VRFJUVjFzNjUzN0NIYXdJc0lkNVlNNXU4aXExczdIeDVOYjRVTkFWRDZkN1JaeTc1SUh1M2w3TkkwVDlQRnFERHEyOTdjXy1IV1VkNmVqX21mSVpFNDFmVnRldDVJeTRkb2hOdVphMkVn?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Shopify makes strategic investment in Israeli ecommerce marketing startup Yotpo with new partnership &nbsp;&nbsp; BetaKit",
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 44,
-    "opportunities": 20,
-    "threats": 24,
+    "kept": 43,
+    "opportunities": 21,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.3
+    "runtime_seconds": 11.4
   }
 }
