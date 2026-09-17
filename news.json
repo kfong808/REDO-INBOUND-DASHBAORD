@@ -1,49 +1,38 @@
 {
-  "updated": "2026-09-17T02:17:16.816985+00:00",
+  "updated": "2026-09-17T08:07:20.168551+00:00",
   "items": [
     {
-      "title": "Naver AI Shopping Agent Sees 82% Transaction Surge, Adds Delivery-Based Recommendations - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWElpb0N2RFh6ZE5QN0M0SWE3UVJCX2dHYjZOaEoxYzVGNTRjelZaTkozMGxtUzZrbGd2NHE2dmZIZEtjY2pxbUd4cmNDV29aTm9BYlgwWWswY3plVnZHZXVJbGRRX0JXVzJXWlVsUHk2cGJtdkZfWlBmaGRYRWpCU1RXWjhKREQ1?oc=5",
+      "title": "NAVER AI Shopping Agent Adds Real-Time Delivery Data - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTF9BbXpXMXRNNVRCUVBObnJOLU5ZbUh5WmpxNFI1bEFITTNkSjBVYlhvdHZCVHVCcmhhSk5ldmQ5MUtIcldpWEYzSXBOSDVMM1BXOHhlV1RQa001bFQ5Z2g1RVZzMWNzUXVZaGVPMGtaYndzaFFiY0o2OVR1S1AzUGh6N3FXSTFqUXdQa1NBTW83X3BYT2R4WXBR?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Thu, 17 Sep 2026 00:54:50 GMT",
-      "summary": "Naver AI Shopping Agent Sees 82% Transaction Surge, Adds Delivery-Based Recommendations &nbsp;&nbsp; 조선일보",
+      "published": "Thu, 17 Sep 2026 06:16:57 GMT",
+      "summary": "NAVER AI Shopping Agent Adds Real-Time Delivery Data &nbsp;&nbsp; Seoul Economic Daily",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1789606490.0
+      "published_ts": 1789625817.0
     },
     {
-      "title": "Agentic Commerce Feature Updates: Google Unveils Its AI Performance Insights and UCP Tools - trendhunter.com",
+      "title": "Naver AI Shopping Agent Sees 82% Transaction Surge - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWElpb0N2RFh6ZE5QN0M0SWE3UVJCX2dHYjZOaEoxYzVGNTRjelZaTkozMGxtUzZrbGd2NHE2dmZIZEtjY2pxbUd4cmNDV29aTm9BYlgwWWswY3plVnZHZXVJbGRRX0JXVzJXWlVsUHk2cGJtdkZfWlBmaGRYRWpCU1RXWjhKREQ1?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 17 Sep 2026 03:06:24 GMT",
+      "summary": "Naver AI Shopping Agent Sees 82% Transaction Surge &nbsp;&nbsp; 조선일보",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1789614384.0
+    },
+    {
+      "title": "Agentic Commerce Feature Updates: Google Unveils Its AI Performance Insights and UCP Tools - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwcGZGRHI3ek1KZ2VOeDRjbjlORURUb08tVUl0YWFxeDhycjVFanE2aHhqN094eUhrVTl6bUlfRFp6ZFVZOFBZdnRwcEZtMnhEb0ZtSk9XQ05xRUVxVlJ4VnVldWJEYklJLWk5ZUZIRXhkdk1kdXc?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 16 Sep 2026 23:48:45 GMT",
-      "summary": "Agentic Commerce Feature Updates: Google Unveils Its AI Performance Insights and UCP Tools &nbsp;&nbsp; trendhunter.com",
+      "published": "Wed, 16 Sep 2026 23:49:17 GMT",
+      "summary": "Agentic Commerce Feature Updates: Google Unveils Its AI Performance Insights and UCP Tools &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789602525.0
-    },
-    {
-      "title": "Circle Debuts Agentic Commerce-Focused Blockchain Arc - pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzRjaUNqZXdIZVRMT0ZTZFRIWnlEN2cxUW05LWNsSFBXT0NPUkhNSTdPdm96NXBQbEVqcnRqMnlsdmw2OWpoZVpQTXRucGl0eDJyXzlxYkRTWmJrRU4yMW9rdWxUdlRuVHQ3SUJLSkU3VDExYjFPT2d4eGcycTk4bmYyUE1RRl9OdzlFdF9ReHZSNjZ2N0N1ag?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 16 Sep 2026 15:19:52 GMT",
-      "summary": "Circle Debuts Agentic Commerce-Focused Blockchain Arc &nbsp;&nbsp; pymnts.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789571992.0
-    },
-    {
-      "title": "Mastercard and Trip.com pave the way for agentic commerce in the travel sector - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVExjWFludUozdUpTdl9id3JkX1VGa0pvUUM1Vzhrb05jSnNfZ2wxNG15b3NCLWZ5NDZNTlBhcG9NWnZPTUJzbC1laVZQMDlPb1RjWGduaWJKN1lWY0FFUkl3UllacTE1Sm9BNm0wMkVsbm5Nd19EaDRkVEc5bUdWWlRhcmhEN0VPUlRQazVQN3BmUHBaYXRsRkYxcEZXQnNXLVloeExhTEptbGo5a2ptZzNPUWlZOHItMm9kdXBuZVdMeEFTN0xrbFVqMWRiSkR5TThZWm45SEdxSzN1a3BzVjZlVFRmdExHdWktYXBFSVh0VGRv?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 16 Sep 2026 14:27:01 GMT",
-      "summary": "Mastercard and Trip.com pave the way for agentic commerce in the travel sector &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789568821.0
+      "published_ts": 1789602557.0
     },
     {
       "title": "Boost your holiday sales with these agentic commerce updates - blog.google",
@@ -57,26 +46,15 @@
       "published_ts": 1789568035.0
     },
     {
-      "title": "How AI Shopping Agents Could Change the Way Consumers Buy Everything Online - The Good Men Project",
+      "title": "How AI Shopping Agents Could Change the Way Consumers Buy Everything Online - goodmenproject.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXpESWxZVUFGOXhOTnBURUhjdDBfcWt0eEo4OXpqaVlyZWhzQWtyaWJRZXdMU2swNkpRRHlTbTJoYnpzZzR5V3Qxei1hVWVJbGVuVndfM08wQ2JfOXlmOEVsalRXcE1wM0lmWjRRSzBzeG1iWDRxZmxNNWRTV2pDTG5KQmxRWW5DQTFGT3p2WTdQZEp2NkdfRnRYYi1HM1l4SEM2alFEMEJJbDVsQlNfc3dIb21jWkNwNjVkSg?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 16 Sep 2026 11:26:15 GMT",
-      "summary": "How AI Shopping Agents Could Change the Way Consumers Buy Everything Online &nbsp;&nbsp; The Good Men Project",
+      "summary": "How AI Shopping Agents Could Change the Way Consumers Buy Everything Online &nbsp;&nbsp; goodmenproject.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1789557975.0
-    },
-    {
-      "title": "AI shopping agents are moving from recommendations to transactions - CEO Magazyn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRENQc2wtaE1qZnZJTlBjLWk5c19vZmxPT3lvc1RqcExFZ21hU1VpeG1Ta0d3YU1aS2JRM0QzRDBxbWZWUjRmNi1sY0x2cTItblVyUXRWNUlxa2YzcGlCWGZGN3B5aWhNWnlTM1dHaU1Na0FORGlma2NYal91YV93WTlTSjdZQ3FRd1Nn?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 16 Sep 2026 10:40:03 GMT",
-      "summary": "AI shopping agents are moving from recommendations to transactions &nbsp;&nbsp; CEO Magazyn",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1789555203.0
     },
     {
       "title": "Algolia Unveils Production-Grade MCP for Agentic Commerce - MarTech Cube",
@@ -90,15 +68,15 @@
       "published_ts": 1789551065.0
     },
     {
-      "title": "Podcast: Demystifying agentic commerce with Lionel Grosclaude - FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVmJhUVUxMEVkS1g0QU5JSTlpUW4xbC1RV0YzdTEtSG8xTEx6eWVaUkxxSEwySDBLN0NLODE0emozQkhaeUVCbUM3c000OENnTzl0MGNBR2wwNmhFWF9rdGduaXU2N0FuWmhhYXlac2ZYbExzdUNEUFNUV1d1aVNVQUtyZThXazBvTE1nR0dPXzF0bDFUeFF2cTFqaXpCRTd4TTZ6LWtYNnpvUXJ2UkhiR2hubFZWdnJ1Q1hLXzVjcmd4a2E2Sk5wejB1azhlaTNkUE5qaHdwYldhb2xfM3VMRw?oc=5",
+      "title": "Agentic commerce and AI shopping: How trust will shape the future of retail - mastercard.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJzM0JQb2dOWjBGdk1fRFBETnlycThmNVRUcU56QndtaVphbFEzMENjNUVfeE5Jb2F2OU5NSXhIckRaS19YbWw2XzRCVWtUYk1YTS1PNFI4X1cyeEtCU0FWS193dFVSTFNraWpBMlgyUjVnZ1RBZUlpWmEzZWVSLVpheGN2Z3ByNGhUM2VRaHRLNWFaS1FnVjZvZU55N1drc0FZ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 15 Sep 2026 08:38:43 GMT",
-      "summary": "Podcast: Demystifying agentic commerce with Lionel Grosclaude &nbsp;&nbsp; FinTech Futures",
+      "published": "Tue, 15 Sep 2026 21:02:31 GMT",
+      "summary": "Agentic commerce and AI shopping: How trust will shape the future of retail &nbsp;&nbsp; mastercard.com",
       "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789461523.0
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1789506151.0
     },
     {
       "title": "Agentic commerce is loosening the grocery aisle’s grip on the shopper - The Next Web",
@@ -156,11 +134,11 @@
       "published_ts": 1787838459.0
     },
     {
-      "title": "Best 10 Post-Purchase Experience Platforms in 2026 - ClickPost",
+      "title": "Best 10 Post-Purchase Experience Platforms in 2026 - clickpost.ai",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRX1NFSHN5WVpYYzRGLXZwaW5zSnNZN192VnQzT18xZzlPS2NoWjQ3aXJ5dFVNMmNFOFc5MEZHaHJmNnlNSDd3Zkl4aWpyMnBJZXNNY2FRdEp4cVdQWXVnS2hB?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "Best 10 Post-Purchase Experience Platforms in 2026 &nbsp;&nbsp; ClickPost",
+      "summary": "Best 10 Post-Purchase Experience Platforms in 2026 &nbsp;&nbsp; clickpost.ai",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -211,11 +189,11 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - trendhunter.com",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -255,37 +233,15 @@
       "published_ts": 1729062000.0
     },
     {
-      "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - AutoRacing1.com",
+      "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - autoracing1.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2dfa3g4bVpLTlI3TWpfWWVDLUlJNlFSRlFHUjlqbjd0UXJiTHpwc1pEQlNoSThhSVFudF9TcTRSTHhldXlXUlphSDBSUmFWdjdJUXVyY0xYQW9YTTItWGhNQkR4Y3RfeVpsdWRnWk1SSHp1VDdoWjhReVFnRzY5akpCczliTlBFR19qZ2hjMm5EaVp1ZVE?oc=5",
       "source": "Google News: Postscript",
       "published": "Wed, 16 Sep 2026 16:54:30 GMT",
-      "summary": "Formula 1 News: 2026 Spanish GP at Madring postscript &nbsp;&nbsp; AutoRacing1.com",
+      "summary": "Formula 1 News: 2026 Spanish GP at Madring postscript &nbsp;&nbsp; autoracing1.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
       "published_ts": 1789577670.0
-    },
-    {
-      "title": "Klaviyo launches headless CRM for AI tools & agents - ChannelLife UK",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0VjWHlVbzluby1NYWwzVFN4TW5CVENIcDFtV2N6Q3pFdXo1UUpfOGVLTHlTS2FLWVlvY3dLQ1R6WkgyQ21MV2o5QUNXYnV1TFJDcnNYb2J0dVphWk10UUl1VC1WYkphdnRsYWpvV0tWOVFPTlBVSUFHZENGUE9QYU50eEtpclVC?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 16 Sep 2026 07:45:00 GMT",
-      "summary": "Klaviyo launches headless CRM for AI tools & agents &nbsp;&nbsp; ChannelLife UK",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + launches",
-      "published_ts": 1789544700.0
-    },
-    {
-      "title": "AppMaker joins Shopify, TikTok, Klaviyo for London’s “A New Era ’26” ecommerce event - sociable.co",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHlpRDF4N3dNaEhNQS1ja1RtZ2RtZXdpSXlmMjM0MjQ4dWlJNm5QZW81aDdiR1RIVi0ybTVpeU1JdW8zV0Q5YWJxYWlESjJubEhyT1lHZFpDWUhFN0xZSWVoOFlsX25tb05QOVdya3ltN29NT1BRT2c0MURZRjU4TUU4bGVFV1E0aW1nckN4aFR6NmhidHNka0U0ODR0d1hHaWpGcGd2azB2WDg1?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 15 Sep 2026 19:02:03 GMT",
-      "summary": "AppMaker joins Shopify, TikTok, Klaviyo for London’s “A New Era ’26” ecommerce event &nbsp;&nbsp; sociable.co",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1789498923.0
     },
     {
       "title": "Pilothouse Digital Named Winner of the 2026 Klaviyo Rising Star Americas Partner of the Year - PR Newswire",
@@ -310,37 +266,15 @@
       "published_ts": 1789176853.0
     },
     {
-      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1788418800.0
-    },
-    {
-      "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
+      "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - getlatka.com",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
       "source": "Google News: Attentive",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation &nbsp;&nbsp; GetLatka",
+      "summary": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation &nbsp;&nbsp; getlatka.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + valuation",
       "published_ts": 1788332400.0
-    },
-    {
-      "title": "Attentive Mobile - 2026 Funding Rounds & List of Investors - tracxn.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 25 Aug 2026 22:43:27 GMT",
-      "summary": "Attentive Mobile - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + funding round",
-      "published_ts": 1787697807.0
     },
     {
       "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
@@ -365,6 +299,17 @@
       "published_ts": 1787036400.0
     },
     {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785913200.0
+    },
+    {
       "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -376,11 +321,11 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -420,11 +365,11 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - tradingview.com",
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; tradingview.com",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -521,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 47,
-    "opportunities": 23,
-    "threats": 24,
+    "kept": 42,
+    "opportunities": 21,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 11.6
   }
 }
