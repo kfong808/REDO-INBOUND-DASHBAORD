@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T23:14:01.770400+00:00",
+  "updated": "2026-09-18T02:03:19.682845+00:00",
   "items": [
     {
       "title": "Mastercard, Trip.com pilot agentic commerce for travel - The Paypers",
@@ -35,11 +35,11 @@
       "published_ts": 1789622455.0
     },
     {
-      "title": "Naver AI Shopping Agent Sees 82% Transaction Surge - chosun.com",
+      "title": "Naver AI Shopping Agent Sees 82% Transaction Surge - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWElpb0N2RFh6ZE5QN0M0SWE3UVJCX2dHYjZOaEoxYzVGNTRjelZaTkozMGxtUzZrbGd2NHE2dmZIZEtjY2pxbUd4cmNDV29aTm9BYlgwWWswY3plVnZHZXVJbGRRX0JXVzJXWlVsUHk2cGJtdkZfWlBmaGRYRWpCU1RXWjhKREQ1?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 17 Sep 2026 03:06:24 GMT",
-      "summary": "Naver AI Shopping Agent Sees 82% Transaction Surge &nbsp;&nbsp; chosun.com",
+      "summary": "Naver AI Shopping Agent Sees 82% Transaction Surge &nbsp;&nbsp; 조선일보",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -66,6 +66,17 @@
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
       "published_ts": 1789506151.0
+    },
+    {
+      "title": "Travel Companies Bullish on Agentic Commerce and Not Concerned About Fraud, Says Report - businesstravelexecutive.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDVoc0FNOTg5ODdodVdMME1xM044cU5VZ05VWHVqWmZ3UGlpN3NpSFdTRDZ2djJwMzkyaXV5QjVOS19BT2R5Z1pxNmxBYW1YMXhZOVRvcjdPM1hiM2F3OE5OTzkxMDVmVno5d2RSdmN2dndDbFpBV2d1WjZsam5Rc3ZfalNUel9qZXI5SmRMNkdlRGxIUXJkYUJmUTd0TWZiMjQ5dUF2ZkVLbW8zUGRmZ2dIalZkbTZyeGp3ZkVXeVdKa1hBX3YzRnh6ZkY?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 14 Sep 2026 13:21:03 GMT",
+      "summary": "Travel Companies Bullish on Agentic Commerce and Not Concerned About Fraud, Says Report &nbsp;&nbsp; businesstravelexecutive.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789392063.0
     },
     {
       "title": "The Race to Own AI Shopping",
@@ -123,11 +134,11 @@
       "published_ts": 1784876400.0
     },
     {
-      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - finance.yahoo.com",
+      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
       "published": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; finance.yahoo.com",
+      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
@@ -189,11 +200,11 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - autoracing1.com",
+      "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - AutoRacing1.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2dfa3g4bVpLTlI3TWpfWWVDLUlJNlFSRlFHUjlqbjd0UXJiTHpwc1pEQlNoSThhSVFudF9TcTRSTHhldXlXUlphSDBSUmFWdjdJUXVyY0xYQW9YTTItWGhNQkR4Y3RfeVpsdWRnWk1SSHp1VDdoWjhReVFnRzY5akpCczliTlBFR19qZ2hjMm5EaVp1ZVE?oc=5",
       "source": "Google News: Postscript",
       "published": "Wed, 16 Sep 2026 16:54:30 GMT",
-      "summary": "Formula 1 News: 2026 Spanish GP at Madring postscript &nbsp;&nbsp; autoracing1.com",
+      "summary": "Formula 1 News: 2026 Spanish GP at Madring postscript &nbsp;&nbsp; AutoRacing1.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -264,17 +275,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
-    },
-    {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -401,9 +401,9 @@
   "stats": {
     "total_fetched": 268,
     "kept": 36,
-    "opportunities": 17,
-    "threats": 19,
+    "opportunities": 18,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.1
+    "runtime_seconds": 11.1
   }
 }
