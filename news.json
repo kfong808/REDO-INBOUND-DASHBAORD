@@ -1,27 +1,16 @@
 {
-  "updated": "2026-09-18T12:29:28.217122+00:00",
+  "updated": "2026-09-18T16:47:16.306073+00:00",
   "items": [
     {
       "title": "Google just built the infrastructure for agentic commerce - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzNzamNZVXJNOHAzb21pUWhqMWVtMERJeVZGeUZvVmE4OElJVV9mNFNkZk95Z3QxNGdVcnRldHdKNWhvWUh6SzNUYWRuazhJUUtueU1JaTJmOF9zZHFZU3hPWHZLN0NWRWxVcDBPXzZWUVBia3ppVVJGV3dweGdEWUlkNzJ5ZGJwWElTcDUwVGQ3cHhTSURsQ09B?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 18 Sep 2026 12:10:51 GMT",
+      "published": "Fri, 18 Sep 2026 13:13:44 GMT",
       "summary": "Google just built the infrastructure for agentic commerce &nbsp;&nbsp; Fast Company",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789733451.0
-    },
-    {
-      "title": "Azoma lands investment from dunnhumby ventures to accelerate roadmap for Agentic Commerce platform - retailtechinnovationhub.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd1dvcGk3TDBaSXp6bkpoeXVSU091ODlicFlJQUVXdHZOMEEtWVdxdFgwOUNvY2pzQUFfaHItdnNsR0ZIYi1Ia1h4QWE1NmxuTHdQY0JUcVQ2SnhOblNMOEVIa2hiSVBqWXNFUVlnWFJrckR3X0xCUVZwT3Y2blo4b1BWYlhteU53amZxM09CNk82NEh1QUJyLUtXbFd3dlRlQXlfNlRadUJ3RDZBcWpPSGxVRHc3SXFYWnRUMHkxYlNMdnZ0X3NJdHBlU0tSY3lfOTRCb2JjV0EtVGllUzRVM1NaejFQTVQ1M1VpY2tFN3UwZFJF?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 18 Sep 2026 05:22:45 GMT",
-      "summary": "Azoma lands investment from dunnhumby ventures to accelerate roadmap for Agentic Commerce platform &nbsp;&nbsp; retailtechinnovationhub.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789708965.0
+      "published_ts": 1789737224.0
     },
     {
       "title": "Agentic Commerce Isn’t an AI Problem for Banks. It’s an Authorization Problem - The Financial Brand",
@@ -57,11 +46,11 @@
       "published_ts": 1789568035.0
     },
     {
-      "title": "Agentic commerce and AI shopping: How trust will shape the future of retail - mastercard.com",
+      "title": "Agentic commerce and AI shopping: How trust will shape the future of retail - Mastercard",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJzM0JQb2dOWjBGdk1fRFBETnlycThmNVRUcU56QndtaVphbFEzMENjNUVfeE5Jb2F2OU5NSXhIckRaS19YbWw2XzRCVWtUYk1YTS1PNFI4X1cyeEtCU0FWS193dFVSTFNraWpBMlgyUjVnZ1RBZUlpWmEzZWVSLVpheGN2Z3ByNGhUM2VRaHRLNWFaS1FnVjZvZU55N1drc0FZ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 15 Sep 2026 21:02:31 GMT",
-      "summary": "Agentic commerce and AI shopping: How trust will shape the future of retail &nbsp;&nbsp; mastercard.com",
+      "summary": "Agentic commerce and AI shopping: How trust will shape the future of retail &nbsp;&nbsp; Mastercard",
       "classification": "opportunity",
       "confidence": "high",
       "reasoning": "Matched: agentic commerce, ai shopping",
@@ -88,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1788418800.0
+    },
+    {
+      "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - digitalcommerce360.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGhBUjJtQUNfQWo4VGkxam1oOVNRaUhOUHBHeGVpd2JSZW5zdk5jakFIdDJYcHRxc2E1UDU0b2tadFBYSFBnTHN0RFV5dl96QWN3U3JBUG1HUENIN1daM2JZdHBVS2lta0ROdkxoajR0Nkx6VXRnbWxzMkUyNGVQdEJWNGVtMU1JZzdTSG9tWFdtcG03bXNjctIBngFBVV95cUxNb1Z4NWJOTzRvNS00Ti0zVW9wRkhPdXJKZ1YzSDdQc1hfUWZwRGQ2NDh0Y0tKejNlQkRUV0dPblM1azFjS19YMkZCVjhMTkxqOE5wSHM3RzlITER4MmpjTXU5enZvbVVTT3ZPTHZHMnpndFBaUnpncFJ1X2p4WEFQbWNPYzZ0UDluNXllemZTQ3kyN2dYMm0tMzBScmNoQQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 03 Sep 2026 03:00:44 GMT",
+      "summary": "Dr. Squatch drives revenue through post-purchase tracking page adjustments &nbsp;&nbsp; digitalcommerce360.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1788404444.0
     },
     {
       "title": "Contribution Margin Guides Ecommerce Growth",
@@ -145,26 +145,26 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1775051648.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1772611200.0
+      "published_ts": 1773730800.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -211,17 +211,6 @@
       "published_ts": 1789470300.0
     },
     {
-      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) &nbsp;&nbsp; GetLatka",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Yotpo + valuation",
-      "published_ts": 1789023600.0
-    },
-    {
       "title": "E-commerce facilitator ShipStation eyes major global expansion - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxzMk9JYUFlMnhPY3RkR1B1LXphOUYxZS10TXE1RmowcmZsS2NydXlMQlNWbHZQSEhOVWE0ME9KYVdOYUl1U29VOTIzWUNfS0tCYk5GbnNLMzRmYXA1RFdLdzhza1dDdlBzWWJYWVQ4eXVNY3hzUzlmXzNUNnR5VnZzT3hIdnN2MTNIWXlPQTY3ZEdBNVppelllOGU?oc=5",
       "source": "Google News: ShipStation",
@@ -231,6 +220,17 @@
       "confidence": "medium",
       "reasoning": "Shipstation + expansion",
       "published_ts": 1788850800.0
+    },
+    {
+      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788418800.0
     },
     {
       "title": "Attentive Revenue 2024: $308.7M Est. ARR, $7B Valuation - GetLatka",
@@ -266,15 +266,15 @@
       "published_ts": 1787036400.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
-      "source": "Google News: Loop Returns",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Loop Returns + ipo",
-      "published_ts": 1785394800.0
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785913200.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -321,11 +321,11 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - pezcyclingnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
       "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; pezcyclingnews.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -415,6 +415,6 @@
     "opportunities": 17,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 147.1
+    "runtime_seconds": 12.5
   }
 }
