@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T08:01:14.220994+00:00",
+  "updated": "2026-09-20T13:17:12.397011+00:00",
   "items": [
     {
       "title": "Agentic commerce: what are its immediate implications for e-commerce? - FashionNetwork - The World's Fashion Business News",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1789737224.0
+    },
+    {
+      "title": "Meet Shopper Agent, Now Smarter with Agentic Commerce Search - Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjBnYU5FWHMxd3ZyU3d4YXR1QmgwLTFEYjRlVm5nMlNSTzlJNm9UZ1dyc1lacVZkakdvOF9EeUtJNlVQUGtVeGVwMmpKZS1TaV9WcnZDLTB2MjRqTkJnOENVZ3NEdmxabmkweEpXOG9OLUUxZUU0VzZmWHBueFdhNWxveG1DUUhOZlJUS1E2THlYSy15aDVRYkRVdnV5XzJ0RHNuTUh0cVk0VFVrVHdaVXdKQjI?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 17 Sep 2026 13:54:12 GMT",
+      "summary": "Meet Shopper Agent, Now Smarter with Agentic Commerce Search &nbsp;&nbsp; Salesforce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789653252.0
     },
     {
       "title": "Agentic Commerce Isn’t an AI Problem for Banks. It’s an Authorization Problem - The Financial Brand",
@@ -68,11 +79,11 @@
       "published_ts": 1789568035.0
     },
     {
-      "title": "Agentic Commerce Needs Trust to Scale, Panelists Say - pymnts.com",
+      "title": "Agentic Commerce Needs Trust to Scale, Panelists Say - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUUxLZ3ZCQTVOOGRwUF8yVnRQSVhqMF9CME1mQi1ablRISG1oaHNxTjlwWUNQcnlHZmVnTWpIeVJCZkttOFhUTHBrbHdBQmF5MkM3SWxXSVRZak9FR2FNbXdKYnZXU3JacjBvSGxBU3lRQlpCR2NyNUpXTVFxTXlscGRsRHJtQTV0UmpKRnRSdFhwcDNMSm1vZ01zLVRLZWtRWExZLTVka3FPQWtfbFZzZ29PdFNKc0dqSi12MmdBUm9DZjM3RmE5RVFQODJDUEd6UGZKUU84eHBHcVk?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 16 Sep 2026 01:11:39 GMT",
-      "summary": "Agentic Commerce Needs Trust to Scale, Panelists Say &nbsp;&nbsp; pymnts.com",
+      "summary": "Agentic Commerce Needs Trust to Scale, Panelists Say &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -211,17 +222,6 @@
       "published_ts": 1789577670.0
     },
     {
-      "title": "Pilothouse Digital Named Winner of the 2026 Klaviyo Rising Star Americas Partner of the Year - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORGRLRi12ak9ycjVXd2xVM2lvd3Zhak4yc2Z0aVBGYVdiSjRlV3g1cm9mUDdLYUg3bUphNWVvRWpldTZtYUVCV29JODJMRklTWXBrcjNsRjRWMXB1QnlxVThlemZLZ3NCUnZYSjh0Vmc0U0tIc1BQcTJWa3NMQ3Z5WkpfeUFnSWF4WUVhZHZyZ05XS1NlLWVxNnJpVjlMRFpubnJId0EtbGJMOHQ4RlZTLXdtREYwaUNkZjMzOUh2ZTNxczk5NnplZHN0RkRMOHQwYWFrVThZQkhnamFLQnY1bEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 15 Sep 2026 11:05:00 GMT",
-      "summary": "Pilothouse Digital Named Winner of the 2026 Klaviyo Rising Star Americas Partner of the Year &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1789470300.0
-    },
-    {
       "title": "E-commerce facilitator ShipStation eyes major global expansion - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxzMk9JYUFlMnhPY3RkR1B1LXphOUYxZS10TXE1RmowcmZsS2NydXlMQlNWbHZQSEhOVWE0ME9KYVdOYUl1U29VOTIzWUNfS0tCYk5GbnNLMzRmYXA1RFdLdzhza1dDdlBzWWJYWVQ4eXVNY3hzUzlmXzNUNnR5VnZzT3hIdnN2MTNIWXlPQTY3ZEdBNVppelllOGU?oc=5",
       "source": "Google News: ShipStation",
@@ -233,26 +233,15 @@
       "published_ts": 1788850800.0
     },
     {
-      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1788418800.0
-    },
-    {
-      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHBZOFdxaUhnRE8xTGVKTVcyMktEd2xzQVlId3U2a2xpSW13cUtSQjA2VUVYV2RzQk5waFpFUXRaTTNmVHdPb2RxNVFfaS15OERNWjJnUlhTaWFCM1J5ZEFXdUxoU0JIeW41VlFhakhuNHAzQXByMXFrbFBoSWZhb1M2bWNOTU52Z3dIemQySTZsYUFTaUhqWkdxUlltM1loSGctTA?oc=5",
       "source": "Google News: Attentive",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Attentive + launches",
-      "published_ts": 1787036400.0
+      "published_ts": 1787122800.0
     },
     {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
@@ -266,11 +255,11 @@
       "published_ts": 1785913200.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
+      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -288,26 +277,26 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
-    },
-    {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - CustomerThink",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUdIbUZxUnNoT2h5ZTBjR3R6ZFNVcEhQRk1fem9Vd0ttUkVwZTFEX25mVFJCTWhVTDFObkRGY2JLajNESkh6S1lTS1Y1QTZBTy1DRE9qWkJMei1SNTJtZjFQejlXSzN2U3RRSW51MnpJSTZSd2ZTOVpCWllVWFVZNHh6SFFyR2pWVEVwMGRvdThhOFFf?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; CustomerThink",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
     },
     {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
@@ -341,6 +330,17 @@
       "confidence": "low",
       "reasoning": "Mentions Narvar",
       "published_ts": 1772179200.0
+    },
+    {
+      "title": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm5ncl9qOGJsVVh1akt0V3hEUHFRZGFYM2xOU19OcVhieTFlQlFqc2VFeG9RRTQyVFBWczlsUmVESWlPZTlCV0Myc2VORWhKYXI4bTkyLW1fdE9vc1ptemlpc1RCWEVOemN0YldURjNUZ1NQcFRCNjJhNlU4elNFbkw4ektQU0R0MTBpcERJUC1oU1lWUjVRNEhRSmw4YmhBTWVsVUVHNmtwdlI4WTJSYkktWE9WejdmN2dWb25wYTBEbVdWaVZ2M0dCWlBOVTR3TEhqdzVjbUs5LWZYdV9JS1oycXhBZ2FSaG9rZGhHb293WDJlVldKNElhUUQ3d0UxWDFNeFhB?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Intuit Mailchimp Unlocks a New Era of Profitable Ecommerce Marketing with Advanced, Data-Driven Capabilities &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1770710400.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -398,11 +398,11 @@
       "published_ts": 1736150400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
@@ -418,14 +418,25 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - retaildive.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; retaildive.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 38,
-    "opportunities": 18,
+    "kept": 39,
+    "opportunities": 19,
     "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 10.5
   }
 }
