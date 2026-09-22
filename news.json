@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-22T05:34:51.878581+00:00",
+  "updated": "2026-09-22T10:31:44.148092+00:00",
   "items": [
+    {
+      "title": "Amazon Blocks Meta Muse AI Shopping Agent [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jMUtiM3ByMk02N3pXY3draDlIdFVEVFBSZl9XVlg5eVhEUVV5c3ZKdTdyRDBCb3RnQlFsUmR0UWRvb1VLR3RRMk9vckNfVS1aVkJmZ2MxbEpCVkF4Wm5IcF9ieFk1eFU?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 22 Sep 2026 09:11:15 GMT",
+      "summary": "Amazon Blocks Meta Muse AI Shopping Agent [2026] &nbsp;&nbsp; shattered.io",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790068275.0
+    },
+    {
+      "title": "AI Reshapes Retail Loyalty as Agentic Commerce Changes How Consumers Shop - MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVJSdGtvcHh4RWxCLVBsdkx2RkprelB4clVab3FHQkUyZXNzdWF6LXkyRUpSWEZ1RFJSaU5JaG1TVFJpWjdWbXZrTG9JRUthQmtBRXVHdUUxOFhYSWtnZzYySFhnNFJqTWtsZF96TWlwR3E3SzZNQTZiX3dSOFNjVlhLemhNQVdqamlpbjI1S3VVNmpiWk1jaFJIcTVoYXhkbGdFQw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 22 Sep 2026 07:48:27 GMT",
+      "summary": "AI Reshapes Retail Loyalty as Agentic Commerce Changes How Consumers Shop &nbsp;&nbsp; MarTech Cube",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790063307.0
+    },
     {
       "title": "Dave’s Killer Bread is building a bigger strategy around seasonal products, starting with pumpkin spice bagels",
       "url": "https://www.modernretail.co/operations/daves-killer-bread-is-building-a-bigger-strategy-around-seasonal-products-starting-with-pumpkin-spice-bagels/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -24,11 +46,22 @@
       "published_ts": 1790047987.0
     },
     {
-      "title": "Mastercard, Flybits and Rogers Bank Establish Secure Agentic Commerce Benchmark - thefastmode.com",
+      "title": "Meta announces AI shopping partnership with Shopify - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWg2bzhXWUJrZHA4SndoVWVXX3czSlI1bHFUMjFsUkNrTUZHU2V6VUFUYlp1S1BnczRrS2dnUllRZE11a2RPTkxKVVZ0bU9jUHl5RC10QWxuYWtUb3NBdGNwajBRNHloS244RUxwMFBjNlJJbjJxejdJLW1wR0hlUG1xMGU5bktzLTVnRE1ORjJlc29wcVA2SldrTGdGVlNCTUJfLWJ5OEFTYmE2?oc=5",
+      "source": "Google News: Shopify",
+      "published": "Tue, 22 Sep 2026 03:06:26 GMT",
+      "summary": "Meta announces AI shopping partnership with Shopify &nbsp;&nbsp; Investing.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790046386.0
+    },
+    {
+      "title": "Mastercard, Flybits and Rogers Bank Establish Secure Agentic Commerce Benchmark - The Fast Mode",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdFh4ZnNDalY4WVg1b2p1TzNvM3ZOMVQzNUNCQVRaNktNS0UtLTBjRTcxQnE5eWNrQk84OHY1Q2VjTUJWX2FzdFVsNjdDcDR2Yl9tMjJNN1A1dUtmZkdsQVc4WU5nMnZtaG1CYm1CTkFwSzBoSkJ0cXdEb3ozMWZINkhhMFRLUlBaRVJFd052X2JmMV9yOTd2MjRjWm5WYi0wZDhQMEVXZXFrOVBweUx6WGpOQWdnVlZfMHR6UnVwOFowamZSRXZsUHNZMDAwdw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Mon, 21 Sep 2026 22:46:12 GMT",
-      "summary": "Mastercard, Flybits and Rogers Bank Establish Secure Agentic Commerce Benchmark &nbsp;&nbsp; thefastmode.com",
+      "summary": "Mastercard, Flybits and Rogers Bank Establish Secure Agentic Commerce Benchmark &nbsp;&nbsp; The Fast Mode",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -57,17 +90,6 @@
       "published_ts": 1790022120.0
     },
     {
-      "title": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents - Loyalty360",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYW5TSU9tX253V1hieWxsQzg1UzBBQ2FnajZVNVRLM0dxTUVGeTBJQ29Cakd1YXc0emZ6cWUxUEJzMUJoTzNLSnJBdEhkMFh1TDdudldjXzNPX3BSNDMtWG1tanpqUEdtQ0xFVkxjTlpSeHluU3FlQlhSeWZLUXZmRzhreWlydjZ4MTNaOEpzMFYxQV9lalhIS0JPUHN1eE5DQWZvbFg4end5SWxjbUxZR0hPOWxfQUwxQlp4RGlmM20zVXo4aGV4cE5TeFBLN2xqTmZMVg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 21 Sep 2026 19:46:14 GMT",
-      "summary": "Agentic Commerce Is Here: Salesforce Introduces the Next Generation of AI Shopping Agents &nbsp;&nbsp; Loyalty360",
-      "classification": "opportunity",
-      "confidence": "high",
-      "reasoning": "Matched: agentic commerce, ai shopping",
-      "published_ts": 1790019974.0
-    },
-    {
       "title": "Amazon Blocks Meta’s AI Shopping Agent - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yVWFLNTlvQWtPZWJfR0o5MXhwNW9Fam1nX2dLQ3JfMmVWZTlDRFdkdWZPUDRvVzFZSFJlb2d1cjNUNFViM2tWWXEyTmFmNV9MaGtrZmpQU3ZlZ2ZTdmdIX09lMVJFS2tJcm0wcXZiN01ZbXNOcWg0Rk1B0gF_QVVfeXFMTUhNY2VJY2E4eEZtV1hMQU9TN0dnVXJqdTNPOFN3MDNIYkI3VEhISWxMVjczX3RLemQyZnJvb1VOdVhFNUdSWW1NS0I0MFQtYVRfWVJHZzBsSFc5aXNBZlBUcG40SjN2M19keDZMNGxndHBVQjYyM2hXZ2lseDc2UQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -88,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1790014222.0
-    },
-    {
-      "title": "Amazon Blocks Meta's Muse AI Shopping Agent, Escalating Fight Over Who Controls Online Commerce - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51MDFkdzVaVmM0NVZQVlpQSnJvSHdZT1haZzE4TDZoMkxIVnIwN2VxZUZNamVmY0hRTkpLTklrQWtvTFlKT3Y0QUpmRkdiUVFYMUxJbXJ3RHhQamtlSFRfdHNPRVRzT3lWVE5rVm9hM1k3Z0ZtTlE?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 21 Sep 2026 16:25:00 GMT",
-      "summary": "Amazon Blocks Meta's Muse AI Shopping Agent, Escalating Fight Over Who Controls Online Commerce &nbsp;&nbsp; finance.biggo.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790007900.0
     },
     {
       "title": "Gas price spikes could put a last-minute squeeze on holiday supply chains",
@@ -134,15 +145,15 @@
       "published_ts": 1789997280.0
     },
     {
-      "title": "True Fit and Glance Bring Fit Intelligence to Agentic Commerce for Hundreds of Millions of Shoppers - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGl3cjZMeUNCTGpFTHNKLVl4STkyVXRjMWtHZnJ2UWNFZl83cGIwbU55SjVlbEpIMEZuSWo3LVlnbHU5NEhRT3FKbXk2UXA2ZUYwY1VYZ3NXblhPUGk1aTlDYUoyNlVEUTItWk5lUkZPSU1scGlRR2NGZ29oWjg0Z1JDSVFRYlhmZ1UzN0lVZTUwTzRZVmNlcVM0RnUwOVRmaFdwdUszcGp0NGFETGlyV2hqTGNUWklWckZHR0lRSHQ2cTJJN3BoTlFrNjBGcE9BTHZrekJmRW83bE1keHJhRllnVjBpQ19PZnFMYQ?oc=5",
+      "title": "Google just built the infrastructure for agentic commerce - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzNzamNZVXJNOHAzb21pUWhqMWVtMERJeVZGeUZvVmE4OElJVV9mNFNkZk95Z3QxNGdVcnRldHdKNWhvWUh6SzNUYWRuazhJUUtueU1JaTJmOF9zZHFZU3hPWHZLN0NWRWxVcDBPXzZWUVBia3ppVVJGV3dweGdEWUlkNzJ5ZGJwWElTcDUwVGQ3cHhTSURsQ09B?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Mon, 21 Sep 2026 12:03:00 GMT",
-      "summary": "True Fit and Glance Bring Fit Intelligence to Agentic Commerce for Hundreds of Millions of Shoppers &nbsp;&nbsp; Business Wire",
+      "published": "Fri, 18 Sep 2026 13:13:44 GMT",
+      "summary": "Google just built the infrastructure for agentic commerce &nbsp;&nbsp; Fast Company",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1789992180.0
+      "published_ts": 1789737224.0
     },
     {
       "title": "Boost your holiday sales with these agentic commerce updates - blog.google",
@@ -167,15 +178,15 @@
       "published_ts": 1788698545.0
     },
     {
-      "title": "10 Best Post-Purchase Experience Platforms for DTC Brands in 2026 - ClickPost",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYm5GYlVpM0FteVdIcXpPSmN3dTlub0N2OHFjeGJsRmRtazAxNDU2elZiQ2x0SE5rczFTbU94bVBnOVBscjl2UnJlMkE1VDNWMkdfS20tS2lncnZ5Q0NUTGxiZi1SNEIzV0HSAXpBVV95cUxOcm9naWxvanZTdVVNem9vaHBySVFnSHZlMFYtM0JNQkthWWtDRjc3MVRiZmdPRkJ0bUhSUWpURDRLdVFXOTNXc3YtSVJKZDJhSzVWbXFMOUppeXd3aWw0cS02ZGpoMERCT0VDUDhvYnVBOEY0anJQWEpEQQ?oc=5",
+      "title": "Best 10 Post-Purchase Experience Platforms in 2026 - ClickPost",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRX1NFSHN5WVpYYzRGLXZwaW5zSnNZN192VnQzT18xZzlPS2NoWjQ3aXJ5dFVNMmNFOFc5MEZHaHJmNnlNSDd3Zkl4aWpyMnBJZXNNY2FRdEp4cVdQWXVnS2hB?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 02 Sep 2026 10:32:21 GMT",
-      "summary": "10 Best Post-Purchase Experience Platforms for DTC Brands in 2026 &nbsp;&nbsp; ClickPost",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "summary": "Best 10 Post-Purchase Experience Platforms in 2026 &nbsp;&nbsp; ClickPost",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1788345141.0
+      "published_ts": 1784876400.0
     },
     {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
@@ -211,22 +222,22 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
       "source": "Google News: abandoned cart recovery",
       "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - trendhunter.com",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -266,33 +277,11 @@
       "published_ts": 1789980839.0
     },
     {
-      "title": "Klaviyo (KVYO) Stock Price, News & Analysis - marketbeat.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UWGo4SUc1dUNoaXVzU0dzd3NQYnNMdGc2Wk8zUmxPemlHYW9pZk5qY0lYeVJXa2lFa1AzWmZ1SU5tRlUxeGQ2SkM2VUxnODJKbXAzWGdDdw?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "Klaviyo (KVYO) Stock Price, News & Analysis &nbsp;&nbsp; marketbeat.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1789714800.0
-    },
-    {
-      "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - AutoRacing1.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2dfa3g4bVpLTlI3TWpfWWVDLUlJNlFSRlFHUjlqbjd0UXJiTHpwc1pEQlNoSThhSVFudF9TcTRSTHhldXlXUlphSDBSUmFWdjdJUXVyY0xYQW9YTTItWGhNQkR4Y3RfeVpsdWRnWk1SSHp1VDdoWjhReVFnRzY5akpCczliTlBFR19qZ2hjMm5EaVp1ZVE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Wed, 16 Sep 2026 16:54:30 GMT",
-      "summary": "Formula 1 News: 2026 Spanish GP at Madring postscript &nbsp;&nbsp; AutoRacing1.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1789577670.0
-    },
-    {
-      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - getlatka.com",
+      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) &nbsp;&nbsp; getlatka.com",
+      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) &nbsp;&nbsp; GetLatka",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
@@ -319,6 +308,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1788764400.0
+    },
+    {
+      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788418800.0
     },
     {
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Yahoo Finance",
@@ -354,11 +354,11 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -409,11 +409,11 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; tradingview.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -520,11 +520,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 267,
+    "total_fetched": 257,
     "kept": 47,
-    "opportunities": 23,
-    "threats": 24,
+    "opportunities": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 16.8
   }
 }
