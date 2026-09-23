@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T06:55:17.846491+00:00",
+  "updated": "2026-09-23T12:25:19.088078+00:00",
   "items": [
     {
       "title": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform - Yahoo Finance",
@@ -24,11 +24,11 @@
       "published_ts": 1790106180.0
     },
     {
-      "title": "Global Banks Align to Map Out Agentic Commerce Principles - PaymentsJournal",
+      "title": "Global Banks Align to Map Out Agentic Commerce Principles - paymentsjournal.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdm9JZGN4T2FvMmJqcW1rcUdWUkpyRjVLVEJZUkFaalp1clVHSHVfc0dTRmY0cU90YUxEYTZoWkNqZ3l4SVN5aVBCUzZWMUtDS0JvQV9NWjlvMExPYlZwQ3MybkhXNDA3dnRDbVVMWmJoWFUxVVphbUY2eWhCTnZoc3FseGpEMG9lS2R0R1VBd1hRYnh40gGaAUFVX3lxTFA0WWZjLUhPdVlVR01hLTNDamNIbTdqNmJ0SEdXS1ptRTFtUVl4OVRZeDZlYTBDRVlmU0o1WTBGYV95Y3I2SVM0RVJMYnF0OUxDZTQ1MDYta0hkS0dvUXVJUjBiS3M1RDR0czhESWtZcEt1ci03OThPY3NrREswSW82TXVNb0hfYkZXdnZGZFVQNGp4RVhtbEdMZUE?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 22 Sep 2026 18:00:00 GMT",
-      "summary": "Global Banks Align to Map Out Agentic Commerce Principles &nbsp;&nbsp; PaymentsJournal",
+      "summary": "Global Banks Align to Map Out Agentic Commerce Principles &nbsp;&nbsp; paymentsjournal.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -68,17 +68,6 @@
       "published_ts": 1790090452.0
     },
     {
-      "title": "Major banks warned AI shopping agents are outpacing consumer fraud protections - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMEo4VzJxdVJ4UUR2QkpxaVJ5R2s3TlhOLTJEbk1nMVNPOEFYUW5fYUpaTzdhT1BxZnZyY2gtaEVrZUJQX01PZWdkNHRyRXBqRm1QTUNTLVVURkU5LTg5aWwteFpOTFpxb3VhVFRXa3ZnTkZF?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 22 Sep 2026 13:58:43 GMT",
-      "summary": "Major banks warned AI shopping agents are outpacing consumer fraud protections &nbsp;&nbsp; qz.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790085523.0
-    },
-    {
       "title": "Six banks partner to develop principles for future development of agentic commerce (BAC:NYSE) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHAyZkl1UXJuYlBnQ0RwZVVHU3JuWVJFT193M0pVWW9weldjSVNFUGpDNzUtQ2NISXI1Smc3a2l0WHR1WXVKTTNkS2lTZ2N5bENvS1FIZFpONzlhWGJ2ODJrUEhkWWwwaFh5U0RMdnl3R3NITEJPNGo4b2pGRE1iOGc2RVBYak84S2Rtazc3ZTIxcUFQTlVvOHZmNEVLQUxmeUQtbVFhU3VwNUtianB5ZVZPYVBzbi1GeXBBSg?oc=5",
       "source": "Google News: agentic commerce",
@@ -110,6 +99,28 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1790049600.0
+    },
+    {
+      "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLUh1RE5oSmNKV1gyeFFUVTh6MnlLZnpvTjVESS1TLTBVY3hHVVhSdENpbmpLSUt2Zm15a29CcGU0c0hWTk01N09kNkd2Ri05LWhlbjRxLVdRWURUd0xzRkRwOHk5blJxZDVRNnlPTkZIUDc0MnN5ZXVBUG1XRzFQLVU2V3RySmRzZVN6czNpMTRXNTBWOTZsOUxJeWFyXzlvQ2gxLWI0SWJZaGgybHUwdnVFTjJ1THczd0dVSE5GLXpXNjFxU3ppeQ?oc=5",
+      "source": "Google News: Shopify",
+      "published": "Mon, 21 Sep 2026 20:22:00 GMT",
+      "summary": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping &nbsp;&nbsp; MarketWatch",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790022120.0
+    },
+    {
+      "title": "Amazon cuts off Meta's new AI shopping agent - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGpJLXA4SmhJdFFMZmNNWmdnTGRJZXNUN3pYTDBGZnpzNHJzUmQ3Ul9zdkNxV25XUzNoLXNCYmNlUkJPQ2tWQjVHMFNfV1VIMjhsVmtKWTVRcVd0R2tqRDZNTnRmR2haaWlNcEk2Rl9BRjVQOXl1TDhzdmVGU2JocXoxam9BUTRNQnNjUWJ5aWJmVmM?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 21 Sep 2026 18:10:22 GMT",
+      "summary": "Amazon cuts off Meta's new AI shopping agent &nbsp;&nbsp; LinkedIn",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790014222.0
     },
     {
       "title": "Gas price spikes could put a last-minute squeeze on holiday supply chains",
@@ -255,6 +266,28 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Mailchimp Data Shows Black Friday Is A Customer Acquisition Event, Not Just A Sales One - SMBtech",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2poZE4yYVNlTVdlUjBJcE8wdTFpczZ0RkNmVTMxN2puWDVmcHU5c0dJRUNJMVhmTU9aT1E3U2hjVV9tLUFsS1gtM3hTNXRXb25RM2U0WTFVdVk4NnNhNDc4V0lGTmh6SmMyS080M25zSmthNEcwLVdXeXZSSHkySi1YTEVBcTRsVE1UVTFnQzZkQkpJT1JsTHotUXBxMEo0MnRhT2FxOFJpY0o1eGkycg?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Wed, 23 Sep 2026 08:47:00 GMT",
+      "summary": "Mailchimp Data Shows Black Friday Is A Customer Acquisition Event, Not Just A Sales One &nbsp;&nbsp; SMBtech",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + acquisition",
+      "published_ts": 1790153220.0
+    },
+    {
+      "title": "What Klaviyo (KVYO)'s AI CRM Expansion Means For Shareholders - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakNrTmdia29XRTZrRGtoV0xkaFEwRFdEWjVyM3ZtaDd2M1ZFXzhHdjJFdlJYZGFEVVhhZ1g5eEhyOWNKcENZYVA1OTZSNjNHODRhOVNqUzFPTFRCbUVJelh3WWdUY1lIdVpJX3prNHFIazR0Yk5sM01OYnV6R0x6dm5PcHo0aTZBVExlZWppZ044emx4N1IxU2J4ZWgwejA1LW4zZzc5a2Zkekx2ODZzRWVfRWtMYmM3ekFTWVJwRdIBxAFBVV95cUxNcW9Yel9kMVBoMGJLX1dPbjNMQjZyWExwVGwwSEY5T3Z1Y3RqX2dfN0lfZ2FlQ0xUdjRFZnE4VFNzOVlhdGdjcDJ6c1o3cHhrWmZBOVhTc2E2WGljS2l6d0xKUUZZZ1U4d2w0QWI1bm9Yb2ZRUC1UTzZPVlNaRHFsckJoalY5QklVaWFHaWxJamVKNW1vQm9RMHhJbldsZ0V1UFAxQXZ4RHlqWnM5Ui1yTTVFR096ZlNQMjF3Mmh2LTA3dm8y?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 23 Sep 2026 08:37:46 GMT",
+      "summary": "What Klaviyo (KVYO)'s AI CRM Expansion Means For Shareholders &nbsp;&nbsp; simplywall.st",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + expansion",
+      "published_ts": 1790152666.0
+    },
+    {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
       "source": "Google News: Klaviyo",
@@ -310,17 +343,6 @@
       "published_ts": 1789863808.0
     },
     {
-      "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - AutoRacing1.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2dfa3g4bVpLTlI3TWpfWWVDLUlJNlFSRlFHUjlqbjd0UXJiTHpwc1pEQlNoSThhSVFudF9TcTRSTHhldXlXUlphSDBSUmFWdjdJUXVyY0xYQW9YTTItWGhNQkR4Y3RfeVpsdWRnWk1SSHp1VDdoWjhReVFnRzY5akpCczliTlBFR19qZ2hjMm5EaVp1ZVE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Wed, 16 Sep 2026 16:54:30 GMT",
-      "summary": "Formula 1 News: 2026 Spanish GP at Madring postscript &nbsp;&nbsp; AutoRacing1.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1789577670.0
-    },
-    {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
@@ -343,6 +365,28 @@
       "published_ts": 1788850800.0
     },
     {
+      "title": "Do Games Make Children More Attentive Or More Distractible? | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQnRrSWFPUXI3OHIzWWxseEFCeG1nbzZVaG1FM1lwY1BUT1dwTWsyTEdDUjFBRFJxTGw2T1ViTm1SaDBsajRtNFgzLWh5aWFET3A0VzhRQTN4NVptTGxIeWpvZmNfZnJVNXRWR3RxUXZFVUhZVTkwc0hzTEJwWU1lUWlxeXBCZVlNR3RVbDRQeGpIcHJwUjFr0gGXAUFVX3lxTE5CdGtJYU9Rcjc4cjNZbGx4QUJ4bWdvNlVobUUzWXBjUFRPV3BNazJMR0NSMUFEUnFMbDZPVWJObVJoMGxqNG00WDMtaHlpYURPcDRXOFFBM3g1Wm1MbEh5am9mY19mclU1dFZHdHFRdkVVSFlVOTBzSHNMQnBZTWVRaXF5cEJlWU1HdFVsNFB4akhwcnBSMWs?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "summary": "Do Games Make Children More Attentive Or More Distractible? | Newswise &nbsp;&nbsp; Newswise",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1788764400.0
+    },
+    {
+      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788418800.0
+    },
+    {
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHBZOFdxaUhnRE8xTGVKTVcyMktEd2xzQVlId3U2a2xpSW13cUtSQjA2VUVYV2RzQk5waFpFUXRaTTNmVHdPb2RxNVFfaS15OERNWjJnUlhTaWFCM1J5ZEFXdUxoU0JIeW41VlFhakhuNHAzQXByMXFrbFBoSWZhb1M2bWNOTU52Z3dIemQySTZsYUFTaUhqWkdxUlltM1loSGctTA?oc=5",
       "source": "Google News: Attentive",
@@ -354,17 +398,6 @@
       "published_ts": 1787122800.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1785913200.0
-    },
-    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -374,6 +407,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
+    },
+    {
+      "title": "Postscript: Mark Singer - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -520,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 47,
-    "opportunities": 23,
-    "threats": 24,
+    "total_fetched": 269,
+    "kept": 51,
+    "opportunities": 24,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 11.3
   }
 }
