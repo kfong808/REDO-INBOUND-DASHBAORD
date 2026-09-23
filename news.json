@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:01:51.987301+00:00",
+  "updated": "2026-09-23T06:55:17.846491+00:00",
   "items": [
     {
       "title": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform - Yahoo Finance",
@@ -13,15 +13,15 @@
       "published_ts": 1790111699.0
     },
     {
-      "title": "Amazon kicks out Meta's Muse in split over AI shopping - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBneXZiNEstSy1wY1c4VHMxaE1lYTdCNXlha1JoRnhKYU82VUZFbTFmVGRfMjZmbHBYcDVCdm95b1ZFUk5KazBvSWV2MUN0SUZ5YnVHUnNkaWZOSldyYkRHY3lMd0N3cWZIMmtQLUhCazdzYUtkcjVkeg?oc=5",
+      "title": "Retailers are picking sides on AI shopping agents - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1FUcXNhUUExTzdpLWZFVklnWW1ZQ3E1bGN4cHVwR2RsZm13UmpscTYwN01udlNYTkRMaW9uQUZicVA0WjQ0bEtpczR3MzNLanRlamNyTEUzdnJ3VnlnSTdRc0tZQnB4WHp5U1FRVTVxQmh5b0tIOG5rWFpkcDk3eVF0XzhQSFRLdWFQZVdKb0c4SDdSR3g4?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Tue, 22 Sep 2026 19:35:57 GMT",
-      "summary": "Amazon kicks out Meta's Muse in split over AI shopping &nbsp;&nbsp; Axios",
+      "published": "Tue, 22 Sep 2026 19:43:00 GMT",
+      "summary": "Retailers are picking sides on AI shopping agents &nbsp;&nbsp; Semafor",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1790105757.0
+      "published_ts": 1790106180.0
     },
     {
       "title": "Global Banks Align to Map Out Agentic Commerce Principles - PaymentsJournal",
@@ -35,6 +35,17 @@
       "published_ts": 1790100000.0
     },
     {
+      "title": "Amazon Shuts Out Meta's Muse AI Shopping Agent as Shopify Welcomes It - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnoxOWZXR3NSTmVZOURucjE3a3VnVVNaZjJSR0NUWUlUeU1qZDkxb3k4ZHM2M1hqaWtibkZHcmdmbWJMdUpTejU2SlZ1UHlWNjVqdWtGbV9nalFYWkdzMnNiS05UQ0VIdjhTYTFyaFJEZzlKUnk2enYzbzRMOFE1MmtUV2ZnMnJHV1Z4V2J0YU84OEQ1LW5BLWxZb0k?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 22 Sep 2026 17:15:43 GMT",
+      "summary": "Amazon Shuts Out Meta's Muse AI Shopping Agent as Shopify Welcomes It &nbsp;&nbsp; Startup Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790097343.0
+    },
+    {
       "title": "JD Sports aligns product catalog with agentic commerce - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjVUcndDcFJoeUd6TEVjUWIxMDg4Y2JMUElfa0F5YW5tTnpKdGx0NWxTYkxVTms1a2ZTNF8teHhpYS10TmFHMlNtRzJEdVhQa0dYMElvUjB6Z3BhTFhYNUo3Z3owTkpxc2owejNRT2tRSzMydW9VQ1VHYUlVZUF4WA?oc=5",
       "source": "Google News: agentic commerce",
@@ -46,15 +57,37 @@
       "published_ts": 1790093783.0
     },
     {
-      "title": "Amazon Blocks Meta Muse AI Shopping Agent [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jMUtiM3ByMk02N3pXY3draDlIdFVEVFBSZl9XVlg5eVhEUVV5c3ZKdTdyRDBCb3RnQlFsUmR0UWRvb1VLR3RRMk9vckNfVS1aVkJmZ2MxbEpCVkF4Wm5IcF9ieFk1eFU?oc=5",
+      "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Tue, 22 Sep 2026 10:21:48 GMT",
-      "summary": "Amazon Blocks Meta Muse AI Shopping Agent [2026] &nbsp;&nbsp; shattered.io",
+      "published": "Tue, 22 Sep 2026 15:20:52 GMT",
+      "summary": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks &nbsp;&nbsp; Reuters",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1790072508.0
+      "published_ts": 1790090452.0
+    },
+    {
+      "title": "Major banks warned AI shopping agents are outpacing consumer fraud protections - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMEo4VzJxdVJ4UUR2QkpxaVJ5R2s3TlhOLTJEbk1nMVNPOEFYUW5fYUpaTzdhT1BxZnZyY2gtaEVrZUJQX01PZWdkNHRyRXBqRm1QTUNTLVVURkU5LTg5aWwteFpOTFpxb3VhVFRXa3ZnTkZF?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 22 Sep 2026 13:58:43 GMT",
+      "summary": "Major banks warned AI shopping agents are outpacing consumer fraud protections &nbsp;&nbsp; qz.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790085523.0
+    },
+    {
+      "title": "Six banks partner to develop principles for future development of agentic commerce (BAC:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHAyZkl1UXJuYlBnQ0RwZVVHU3JuWVJFT193M0pVWW9weldjSVNFUGpDNzUtQ2NISXI1Smc3a2l0WHR1WXVKTTNkS2lTZ2N5bENvS1FIZFpONzlhWGJ2ODJrUEhkWWwwaFh5U0RMdnl3R3NITEJPNGo4b2pGRE1iOGc2RVBYak84S2Rtazc3ZTIxcUFQTlVvOHZmNEVLQUxmeUQtbVFhU3VwNUtianB5ZVZPYVBzbi1GeXBBSg?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 22 Sep 2026 13:38:27 GMT",
+      "summary": "Six banks partner to develop principles for future development of agentic commerce (BAC:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790084307.0
     },
     {
       "title": "What Is Agentic Commerce Search? - Salesforce",
@@ -77,39 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1790049600.0
-    },
-    {
-      "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLUh1RE5oSmNKV1gyeFFUVTh6MnlLZnpvTjVESS1TLTBVY3hHVVhSdENpbmpLSUt2Zm15a29CcGU0c0hWTk01N09kNkd2Ri05LWhlbjRxLVdRWURUd0xzRkRwOHk5blJxZDVRNnlPTkZIUDc0MnN5ZXVBUG1XRzFQLVU2V3RySmRzZVN6czNpMTRXNTBWOTZsOUxJeWFyXzlvQ2gxLWI0SWJZaGgybHUwdnVFTjJ1THczd0dVSE5GLXpXNjFxU3ppeQ?oc=5",
-      "source": "Google News: Shopify",
-      "published": "Mon, 21 Sep 2026 20:22:00 GMT",
-      "summary": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping &nbsp;&nbsp; MarketWatch",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790022120.0
-    },
-    {
-      "title": "Amazon Blocks Meta’s AI Shopping Agent - PaymentsJournal",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yVWFLNTlvQWtPZWJfR0o5MXhwNW9Fam1nX2dLQ3JfMmVWZTlDRFdkdWZPUDRvVzFZSFJlb2d1cjNUNFViM2tWWXEyTmFmNV9MaGtrZmpQU3ZlZ2ZTdmdIX09lMVJFS2tJcm0wcXZiN01ZbXNOcWg0Rk1B0gF_QVVfeXFMTUhNY2VJY2E4eEZtV1hMQU9TN0dnVXJqdTNPOFN3MDNIYkI3VEhISWxMVjczX3RLemQyZnJvb1VOdVhFNUdSWW1NS0I0MFQtYVRfWVJHZzBsSFc5aXNBZlBUcG40SjN2M19keDZMNGxndHBVQjYyM2hXZ2lseDc2UQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 21 Sep 2026 19:07:34 GMT",
-      "summary": "Amazon Blocks Meta’s AI Shopping Agent &nbsp;&nbsp; PaymentsJournal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790017654.0
-    },
-    {
-      "title": "Amazon cuts off Meta's new AI shopping agent - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGpJLXA4SmhJdFFMZmNNWmdnTGRJZXNUN3pYTDBGZnpzNHJzUmQ3Ul9zdkNxV25XUzNoLXNCYmNlUkJPQ2tWQjVHMFNfV1VIMjhsVmtKWTVRcVd0R2tqRDZNTnRmR2haaWlNcEk2Rl9BRjVQOXl1TDhzdmVGU2JocXoxam9BUTRNQnNjUWJ5aWJmVmM?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 21 Sep 2026 18:10:22 GMT",
-      "summary": "Amazon cuts off Meta's new AI shopping agent &nbsp;&nbsp; LinkedIn",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790014222.0
     },
     {
       "title": "Gas price spikes could put a last-minute squeeze on holiday supply chains",
@@ -167,6 +167,17 @@
       "published_ts": 1788698545.0
     },
     {
+      "title": "8 Best Post-Purchase Experience Platforms for US DTC (2026) - ClickPost",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYm5GYlVpM0FteVdIcXpPSmN3dTlub0N2OHFjeGJsRmRtazAxNDU2elZiQ2x0SE5rczFTbU94bVBnOVBscjl2UnJlMkE1VDNWMkdfS20tS2lncnZ5Q0NUTGxiZi1SNEIzV0E?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 02 Sep 2026 10:32:21 GMT",
+      "summary": "8 Best Post-Purchase Experience Platforms for US DTC (2026) &nbsp;&nbsp; ClickPost",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1788345141.0
+    },
+    {
       "title": "Best 10 Post-Purchase Experience Platforms in 2026 - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRX1NFSHN5WVpYYzRGLXZwaW5zSnNZN192VnQzT18xZzlPS2NoWjQ3aXJ5dFVNMmNFOFc5MEZHaHJmNnlNSDd3Zkl4aWpyMnBJZXNNY2FRdEp4cVdQWXVnS2hB?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -222,17 +233,6 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
-    },
-    {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -253,6 +253,28 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 23 Sep 2026 01:15:05 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1790126105.0
+    },
+    {
+      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUUt2STFSTVQ5cy1lSkNTbDRkNHlvVUNKLVh1a2pVaUdMRzdmZGstM3otRDQwYnY3bzI2dmdPV3VWTkhtaWdXb0R0TTRIN24tMEJ0cEVLOXk1d2Qza1VSQXp3Zmh2M2VZeThwS2c5WGxob24tWXYwdmNvdkFncm5BbnRyb25ZbnM3QTJqTUoyZTFYaGxTV3FlaDFXZEFCOGVxRHVRdjlkYTdmaW1WQS05QXp6d1UwOGptXzhDT0dfem1TdG4wQlI0eEQ3N3hHMTJPbk8yUmo1M3ozVXlWWkRza0VRdUlFMzJ3Wk9Hb0F5MGJvcTM3VkFHQlNFN21sZEVuZWdQUlFtWThtcWdwVXNyYw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 22 Sep 2026 13:00:00 GMT",
+      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1790082000.0
     },
     {
       "title": "Actress D’Arcy Carden Introduces CRM Klaviyo as “Your Brand’s Best Friend” - Little Black Book | LBBOnline",
@@ -277,17 +299,6 @@
       "published_ts": 1789980839.0
     },
     {
-      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUUt2STFSTVQ5cy1lSkNTbDRkNHlvVUNKLVh1a2pVaUdMRzdmZGstM3otRDQwYnY3bzI2dmdPV3VWTkhtaWdXb0R0TTRIN24tMEJ0cEVLOXk1d2Qza1VSQXp3Zmh2M2VZeThwS2c5WGxob24tWXYwdmNvdkFncm5BbnRyb25ZbnM3QTJqTUoyZTFYaGxTV3FlaDFXZEFCOGVxRHVRdjlkYTdmaW1WQS05QXp6d1UwOGptXzhDT0dfem1TdG4wQlI0eEQ3N3hHMTJPbk8yUmo1M3ozVXlWWkRza0VRdUlFMzJ3Wk9Hb0F5MGJvcTM3VkFHQlNFN21sZEVuZWdQUlFtWThtcWdwVXNyYw?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1789974000.0
-    },
-    {
       "title": "Postscript to the decision of the new code of access to documents in the EU - \"Call for an Open Europe\" to continue indefinitely - Statewatch",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWXVtSEFzQ21YU3U5UUs5cUR1YmNMNXBxbXBXS0JuRHBpWkRiRFVMUmRlZjNrSDVCTENtOGVvcG9uSXFwS01SbkxjUV84Sjc3aGVxLUhEelFaTDMwejk4YU12WEhRM2xWZUhGOFZTMExJRDlzM2VmN0gtUHV2ODRHSS12dlM2a3ZMME5DT1QzM1hUYmUxTFY5b3N0b3kwR0RpOEFBS1VyVC1zV18xek1tLTlTNFVQekZxNVozSHhpcm1lT0RMdmViaWUtYzQxenN3d2pVVE5VMF9PUHdZdEhKNVVRaDh3MDd6aE44aGZHallVdFh6?oc=5",
       "source": "Google News: Postscript",
@@ -299,11 +310,22 @@
       "published_ts": 1789863808.0
     },
     {
-      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - getlatka.com",
+      "title": "Formula 1 News: 2026 Spanish GP at Madring postscript - AutoRacing1.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2dfa3g4bVpLTlI3TWpfWWVDLUlJNlFSRlFHUjlqbjd0UXJiTHpwc1pEQlNoSThhSVFudF9TcTRSTHhldXlXUlphSDBSUmFWdjdJUXVyY0xYQW9YTTItWGhNQkR4Y3RfeVpsdWRnWk1SSHp1VDdoWjhReVFnRzY5akpCczliTlBFR19qZ2hjMm5EaVp1ZVE?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Wed, 16 Sep 2026 16:54:30 GMT",
+      "summary": "Formula 1 News: 2026 Spanish GP at Madring postscript &nbsp;&nbsp; AutoRacing1.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1789577670.0
+    },
+    {
+      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) &nbsp;&nbsp; getlatka.com",
+      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) &nbsp;&nbsp; GetLatka",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + valuation",
@@ -319,17 +341,6 @@
       "confidence": "medium",
       "reasoning": "Shipstation + expansion",
       "published_ts": 1788850800.0
-    },
-    {
-      "title": "Do Games Make Children More Attentive Or More Distractible? | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQnRrSWFPUXI3OHIzWWxseEFCeG1nbzZVaG1FM1lwY1BUT1dwTWsyTEdDUjFBRFJxTGw2T1ViTm1SaDBsajRtNFgzLWh5aWFET3A0VzhRQTN4NVptTGxIeWpvZmNfZnJVNXRWR3RxUXZFVUhZVTkwc0hzTEJwWU1lUWlxeXBCZVlNR3RVbDRQeGpIcHJwUjFr0gGXAUFVX3lxTE5CdGtJYU9Rcjc4cjNZbGx4QUJ4bWdvNlVobUUzWXBjUFRPV3BNazJMR0NSMUFEUnFMbDZPVWJObVJoMGxqNG00WDMtaHlpYURPcDRXOFFBM3g1Wm1MbEh5am9mY19mclU1dFZHdHFRdkVVSFlVOTBzSHNMQnBZTWVRaXF5cEJlWU1HdFVsNFB4akhwcnBSMWs?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "summary": "Do Games Make Children More Attentive Or More Distractible? | Newswise &nbsp;&nbsp; Newswise",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1788764400.0
     },
     {
       "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Yahoo Finance",
@@ -363,17 +374,6 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
-    },
-    {
-      "title": "Postscript: Mark Singer - newyorker.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -431,11 +431,11 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - prnewswire.com",
+      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
       "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; prnewswire.com",
+      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Narvar",
@@ -453,11 +453,11 @@
       "published_ts": 1769673600.0
     },
     {
-      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - prnewswire.com",
+      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; prnewswire.com",
+      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + introduces",
@@ -497,11 +497,11 @@
       "published_ts": 1646640000.0
     },
     {
-      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - prnewswire.com",
+      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
       "source": "Google News: Yotpo",
       "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; prnewswire.com",
+      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
@@ -520,11 +520,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 270,
     "kept": 47,
     "opportunities": 23,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.3
+    "runtime_seconds": 10.3
   }
 }
