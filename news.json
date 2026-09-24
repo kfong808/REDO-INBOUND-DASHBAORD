@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-24T13:00:05.679518+00:00",
+  "updated": "2026-09-24T17:46:48.978528+00:00",
   "items": [
+    {
+      "title": "Tapestry to sell via Google’s Gemini app, AI Mode",
+      "url": "https://www.retaildive.com/news/tapestry-sell-via-google-gemini-app-ai-mode/830890/",
+      "source": "Retail Dive",
+      "published": "Thu, 24 Sep 2026 12:16:00 -0400",
+      "summary": "Coach and Kate Spade items are now available for purchase in Google&rsquo;s AI shopping ecosystem.&nbsp;",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790266560.0
+    },
+    {
+      "title": "Are banks falling behind on agentic commerce standards? Consumers' financial vulnerability hits record high—and more in Bankers' Hours - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnVDMTZyamdUSUc4a1BBNU1xVGFfSTZxbWcxTXV5bzhJcVFLbTNTMHFfVERidmQxNHJEZHpPNlJ5ZVhuakJmaXphOWE5VFpxdEkwM2gzWlJaMHMybE0tZDVCZGRUeWhEdDlXRDNRRWNkMGYtSDZYR185MERKUlJzaTJ1V0JFSk5kRG9jX1lFQ0ZtSmxKa05LcVRn?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 24 Sep 2026 14:03:53 GMT",
+      "summary": "Are banks falling behind on agentic commerce standards? Consumers' financial vulnerability hits record high—and more in Bankers' Hours &nbsp;&nbsp; LinkedIn",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790258633.0
+    },
     {
       "title": "Shopify Opens to Meta Muse; Amazon Balks",
       "url": "https://www.practicalecommerce.com/shopify-opens-to-meta-muse-amazon-balks",
@@ -11,6 +33,28 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790254219.0
+    },
+    {
+      "title": "6 Global banks collaborate on “principles for trusted agentic commerce” - CX Network",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHl1c1hxdU4wRUJ3UXRZcXNWVU8wY0VBTjVGczlzc0diNFhfbml2UWp1UXowSm03WmlQZEFrVzhyWUFRVEU1N0RZUUtqYWNJQUtKQVplWm8wVy1tRDVLZGt5eVlmUU5ucXBZOENxb2xsbWZlcWdnbl9DLTVpek53dUUwNXhKcnFQWVk0Y2pZODNGU21HZ2NrXzFKYnM0TDFfQUtTSExyT3RSaTBmdGtjMjU2ejc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 24 Sep 2026 09:40:34 GMT",
+      "summary": "6 Global banks collaborate on “principles for trusted agentic commerce” &nbsp;&nbsp; CX Network",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790242834.0
+    },
+    {
+      "title": "Global banks establish principles for trusted agentic commerce - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yUWxkSFBYbTNseEtpanF1bi02MXZrcHoxNzVJQlBFS0VIanBoclJubWlzeXhldm9pdW5SQXlsQUUxSUJzcG1HTy1oaDRaMjRsRFN2T3BQak9PUkZIMDlfM3dqMHNtbzlON0syajE1RVNkVXhqN1pLZDRB?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 24 Sep 2026 08:01:34 GMT",
+      "summary": "Global banks establish principles for trusted agentic commerce &nbsp;&nbsp; Digital Watch Observatory",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790236894.0
     },
     {
       "title": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. - The Motley Fool",
@@ -24,11 +68,22 @@
       "published_ts": 1790217480.0
     },
     {
-      "title": "Are banks falling behind on agentic commerce standards? - americanbanker.com",
+      "title": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGV1YlUteEc5ZWt4Wk05Rnl6NWVKcHIweG1ERWtLRkprMXpuN1Fza19ZUktDeDRVQ1F4eE1yTWlGRDFRdXFoNkZwTU9uYWN2YXh4UGRURTEzcWVXX1RUbm9XX1RCY0dKMVAweEpwWlJtR192R3NhUmh1MnZiVUVoQnU4cjktNUdIdnNxVDNYdzNWQ2JCTEljQmxNdHQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 24 Sep 2026 01:58:00 GMT",
+      "summary": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790215080.0
+    },
+    {
+      "title": "Are banks falling behind on agentic commerce standards? - American Banker",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWY4ZE9EenVMYm10cWFTRGc1czhrQlhOUFJUNU04VkVPTzlNc29FOTdodzFrWHh3NWx3VC1JUkh0akR4WTFIWWlfZlZ1dWVBUE1ZTnFjNnk3d2JwRVZ0UFQ2ZWwzX3JvcVc0TkptMTV5eGEyQzJJQVFNQmpmWWVDNG1BOTRJN3p6ZHVGSlprM1pCOS0tWlViZVMwbk5SRzVz?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Wed, 23 Sep 2026 20:05:00 GMT",
-      "summary": "Are banks falling behind on agentic commerce standards? &nbsp;&nbsp; americanbanker.com",
+      "summary": "Are banks falling behind on agentic commerce standards? &nbsp;&nbsp; American Banker",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -55,28 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1790190441.0
-    },
-    {
-      "title": "JD Sports deploys Algolia for agentic commerce strategy - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTE1saklLUU15ajdDbTJ4MlNrQVdfUjItb1o0QUNqZ0EycDZuNG8yc0phelFnaXFOVzV2ZEUyNmZzLXoydk5qNFhaMDJURm1BcWYxYkh2dmFlWG14emlsY01YOW9PR2Q3emQzSDg4VWNlRDdBaUx2RjJwaURBLXpuYnRGNF9mZHBCT0V5bzlGM190YXZmSWxUb19R0gGaAUFVX3lxTE5MTWxqSUtRTXlqN0NtMngyU2tBV19SMi1vWjRBQ2pnQTJwNm40bzJzSmF6UWdpcU5XNXZkRTI2ZnMtejJ2Tmo0WFowMlRGbUFxZjFiSHZ2YWVYbXh6aWxjTVg5b09HZDd6ZDNIODhVY2VEN0FpTHZGMnBpREEtem5idEY0X2ZkcEJPRXlvOUYzX3RhdmZJbFRvX1E?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 23 Sep 2026 17:59:32 GMT",
-      "summary": "JD Sports deploys Algolia for agentic commerce strategy &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790186372.0
-    },
-    {
-      "title": "Agentic Commerce Could Hurt Booking, Intuit While Helping Meta, Microsoft, Joseph Carlson Says - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSHdQQkJYc2I4aG1wVmxJZUpEbEUyc2JLS0tUT1FlNlZFTGJmR0E3TGh1bGtSWlY0OHdEaF9nYVB1NmhMYk5hWmFSRTkyMTlSN1NYN2ZYZVgxd2RVMUdmQVNPSEhyQm42YjVTOF9zczJJZHh1YXZha2ExX1BCa2VabFo2b0k1YmFNdTlHTkt5cEhoZjVKaXZYcGlzRUZvOFB5Z09IX2tCM2ZoSGI1ZG03ZDVtdw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 23 Sep 2026 15:43:28 GMT",
-      "summary": "Agentic Commerce Could Hurt Booking, Intuit While Helping Meta, Microsoft, Joseph Carlson Says &nbsp;&nbsp; Benzinga",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790178208.0
     },
     {
       "title": "New Ecommerce Tools: September 23, 2026",
@@ -178,11 +211,11 @@
       "published_ts": 1789999200.0
     },
     {
-      "title": "Amazon shows Meta's Muse AI shopping agent the door - theregister.com",
+      "title": "Amazon shows Meta's Muse AI shopping agent the door - The Register",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnN5TWd2bl92ekE5TUlNQWNEalBZQUNobDliak1XcjY0YWQzSElEU09JbXc2bFN5UTYyaTg2YWRYYjE5ZVpsV1phTmZKcWhOLVVhTVFKdGtydXNTeFktMmU2U1hhSEhiYXRNNEQ1WGVJR3prYk9lNl9DdXBBVzlYZEJ0cS12U3E3WEdFb215aFZHSGp2ZFJpNHozSERYMFlRZGNmOVlCVzl4aHM?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Mon, 21 Sep 2026 13:28:00 GMT",
-      "summary": "Amazon shows Meta's Muse AI shopping agent the door &nbsp;&nbsp; theregister.com",
+      "summary": "Amazon shows Meta's Muse AI shopping agent the door &nbsp;&nbsp; The Register",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -266,11 +299,11 @@
       "published_ts": 1775051648.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - digitalcommerce360.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; digitalcommerce360.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -286,6 +319,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 24 Sep 2026 08:21:45 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1790238105.0
     },
     {
       "title": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music - Case Western Reserve University",
@@ -321,6 +365,17 @@
       "published_ts": 1790168400.0
     },
     {
+      "title": "Mailchimp Data Shows Black Friday Is A Customer Acquisition Event, Not Just A Sales One - SMBtech",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2poZE4yYVNlTVdlUjBJcE8wdTFpczZ0RkNmVTMxN2puWDVmcHU5c0dJRUNJMVhmTU9aT1E3U2hjVV9tLUFsS1gtM3hTNXRXb25RM2U0WTFVdVk4NnNhNDc4V0lGTmh6SmMyS080M25zSmthNEcwLVdXeXZSSHkySi1YTEVBcTRsVE1UVTFnQzZkQkpJT1JsTHotUXBxMEo0MnRhT2FxOFJpY0o1eGkycg?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Wed, 23 Sep 2026 08:55:53 GMT",
+      "summary": "Mailchimp Data Shows Black Friday Is A Customer Acquisition Event, Not Just A Sales One &nbsp;&nbsp; SMBtech",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + acquisition",
+      "published_ts": 1790153753.0
+    },
+    {
       "title": "What Klaviyo (KVYO)'s AI CRM Expansion Means For Shareholders - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakNrTmdia29XRTZrRGtoV0xkaFEwRFdEWjVyM3ZtaDd2M1ZFXzhHdjJFdlJYZGFEVVhhZ1g5eEhyOWNKcENZYVA1OTZSNjNHODRhOVNqUzFPTFRCbUVJelh3WWdUY1lIdVpJX3prNHFIazR0Yk5sM01OYnV6R0x6dm5PcHo0aTZBVExlZWppZ044emx4N1IxU2J4ZWgwejA1LW4zZzc5a2Zkekx2ODZzRWVfRWtMYmM3ekFTWVJwRdIBxAFBVV95cUxNcW9Yel9kMVBoMGJLX1dPbjNMQjZyWExwVGwwSEY5T3Z1Y3RqX2dfN0lfZ2FlQ0xUdjRFZnE4VFNzOVlhdGdjcDJ6c1o3cHhrWmZBOVhTc2E2WGljS2l6d0xKUUZZZ1U4d2w0QWI1bm9Yb2ZRUC1UTzZPVlNaRHFsckJoalY5QklVaWFHaWxJamVKNW1vQm9RMHhJbldsZ0V1UFAxQXZ4RHlqWnM5Ui1yTTVFR096ZlNQMjF3Mmh2LTA3dm8y?oc=5",
       "source": "Google News: Klaviyo",
@@ -332,17 +387,6 @@
       "published_ts": 1790152666.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdlZUNExDUV9fZkNzMFg3SzUwSXBlanR2bXRmY29ZNGJlWGFadWJtZjhHZGZOVWlRVzBNdXA5T3h2OXhxWEVVUDBUS1lxaW8wQ2c?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 23 Sep 2026 04:09:50 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Australia",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1790136590.0
-    },
-    {
       "title": "Actress D’Arcy Carden Introduces CRM Klaviyo as “Your Brand’s Best Friend” - Little Black Book | LBBOnline",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43NjA3RXQxODZKTGJodW5GbG1uNUxWY0MyQmZGMWY2M19BVVRLNm1Nd0MySDg4TXNTakJ1TFRxejloeXZvazJONUVwcEtBT09PWG5VTndHUnA3LWpoSUtfV0tQZXVtUDBSdHpsaE9ld2FRWFVFWDR3aTBn?oc=5",
       "source": "Google News: Klaviyo",
@@ -352,17 +396,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + introduces",
       "published_ts": 1790072406.0
-    },
-    {
-      "title": "Postscript to the decision of the new code of access to documents in the EU - \"Call for an Open Europe\" to continue indefinitely - Statewatch",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWXVtSEFzQ21YU3U5UUs5cUR1YmNMNXBxbXBXS0JuRHBpWkRiRFVMUmRlZjNrSDVCTENtOGVvcG9uSXFwS01SbkxjUV84Sjc3aGVxLUhEelFaTDMwejk4YU12WEhRM2xWZUhGOFZTMExJRDlzM2VmN0gtUHV2ODRHSS12dlM2a3ZMME5DT1QzM1hUYmUxTFY5b3N0b3kwR0RpOEFBS1VyVC1zV18xek1tLTlTNFVQekZxNVozSHhpcm1lT0RMdmViaWUtYzQxenN3d2pVVE5VMF9PUHdZdEhKNVVRaDh3MDd6aE44aGZHallVdFh6?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Sun, 20 Sep 2026 00:23:28 GMT",
-      "summary": "Postscript to the decision of the new code of access to documents in the EU - \"Call for an Open Europe\" to continue indefinitely &nbsp;&nbsp; Statewatch",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1789863808.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
@@ -387,37 +420,15 @@
       "published_ts": 1788850800.0
     },
     {
-      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1788418800.0
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHBZOFdxaUhnRE8xTGVKTVcyMktEd2xzQVlId3U2a2xpSW13cUtSQjA2VUVYV2RzQk5waFpFUXRaTTNmVHdPb2RxNVFfaS15OERNWjJnUlhTaWFCM1J5ZEFXdUxoU0JIeW41VlFhakhuNHAzQXByMXFrbFBoSWZhb1M2bWNOTU52Z3dIemQySTZsYUFTaUhqWkdxUlltM1loSGctTA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1785913200.0
-    },
-    {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
-      "source": "Google News: Loop Returns",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Loop Returns + ipo",
-      "published_ts": 1785394800.0
+      "reasoning": "Attentive + launches",
+      "published_ts": 1787122800.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -429,6 +440,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
+    },
+    {
+      "title": "Postscript: Mark Singer - newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -484,17 +506,6 @@
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
       "published_ts": 1773817200.0
-    },
-    {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1772179200.0
     },
     {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
@@ -576,10 +587,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 52,
-    "opportunities": 26,
-    "threats": 26,
+    "kept": 53,
+    "opportunities": 29,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 12.4
   }
 }
