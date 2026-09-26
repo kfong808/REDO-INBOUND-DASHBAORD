@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:23:34.003852+00:00",
+  "updated": "2026-09-26T18:49:19.064666+00:00",
   "items": [
     {
       "title": "Block Joins x402 Foundation to Drive Agentic Commerce Standards - PYMNTS.com",
@@ -22,6 +22,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790373367.0
+    },
+    {
+      "title": "Preparing for agentic commerce: What merchants need to do now - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTERDc1c3RlhZVWhqUFdWdlg0NzFELUY1enl6UG1fUnJWczBpOElkR0s5M0xWODFmemlhMVFLOXBSTExIUnU5Uko3TllrRjhVdFVZQTFSdlhicC1EVUNfOFlPSFdfVXJIOUQxV3k4Q1ktS1htalZnYzVJNGJjeXI2dUU1bF90NDlFN2JnQ201VC1QMlVUckdEZDZZV2JwQzVUaWpV?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 25 Sep 2026 15:39:43 GMT",
+      "summary": "Preparing for agentic commerce: What merchants need to do now &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790350783.0
     },
     {
       "title": "Agentic commerce: Enabling agents to understand, anticipate and act - Qualcomm",
@@ -66,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790254219.0
+    },
+    {
+      "title": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcEI5dnRCZ3YweU1JQlZJRGFYS3BGbHJIWnBTMFE5VHRpcGVLQndhOFJId2xpazdnQ1E4WjdNeTJmLTM1aDNaZU91QzRvWWFhNlpYaVR2UWM1eEtmZkZiUTFnYmJRc1NaQ2RYZFZlb21QMk1IZ3RGQlFfNmNiN3prTnJrSy1nQ2t3Uzd0eUVPQWNTNlJOVWd4dURWYVlLNG1OQ2ZTamNfTDllSHdfWDg4N3FJTXM3b0JHYkRxWnBkbThIUldJYjBUR3RJcFR1c0k?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 24 Sep 2026 02:38:00 GMT",
+      "summary": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. &nbsp;&nbsp; The Motley Fool",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790217480.0
     },
     {
       "title": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. - Yahoo Finance",
@@ -134,15 +156,15 @@
       "published_ts": 1790168400.0
     },
     {
-      "title": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGd5ZnEwRmJQZlJlWlNnRHU5RjRadW5wTnVpWXR2N2N0SlpPNFUxMHpfUTltdmhoWkdVTmRuaDZhTHQ0QlJwcTBYOWpsMGlHbEFJY0JNVEc1VTlhZm5VQVBaRjl4UU9IVnJpczUwc0xuZGN3QXNDRlFvVjFMNzRkUWFxOVVnVzVIeDJneDJ3YVFnNVMwM0lz?oc=5",
+      "title": "Retailers are picking sides on AI shopping agents - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0MtVTBCeEJVcDJMOVVaUHlLWHR3RFRiYU5ZOWlhUHFvbk4tc1dXNk51NGtkQWtCaVpuNHloZUJxMVVESFVqUzM1UTdYRkoyQmhvdFpLTDNiRFhqSGtReG5tVnNFM2NndUxfME10cWxrRHRRMEd2dHBGTktyY01ubGdwdjNhVjVJVmtlb3pjTUY2S2E4QmFucnMxRzdIaEdF?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Tue, 22 Sep 2026 21:14:59 GMT",
-      "summary": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform &nbsp;&nbsp; Yahoo Finance",
+      "published": "Tue, 22 Sep 2026 19:43:53 GMT",
+      "summary": "Retailers are picking sides on AI shopping agents &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1790111699.0
+      "published_ts": 1790106233.0
     },
     {
       "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
@@ -156,11 +178,11 @@
       "published_ts": 1790090452.0
     },
     {
-      "title": "What Is Agentic Commerce Search? - Salesforce",
+      "title": "What Is Agentic Commerce Search? - salesforce.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlZTgzUk1aUVB6RThNQWVFTnN4azdyLWEzX2VJdDNtU29pMVg1V3JZeFdveFI1azlGWVo2TGpxbHk3QmJsQ3o2UVBkQ1JYX1NpWFJraWI5S2piQm1BTHI2SDRIYVFTRFpDUGYzMQ?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Tue, 22 Sep 2026 07:27:15 GMT",
-      "summary": "What Is Agentic Commerce Search? &nbsp;&nbsp; Salesforce",
+      "summary": "What Is Agentic Commerce Search? &nbsp;&nbsp; salesforce.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -200,11 +222,11 @@
       "published_ts": 1789997280.0
     },
     {
-      "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - clickpost.ai",
+      "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UmM0b0JXeFJYZU1XanJiSUFFRnVtMlg1WjdmWnExXzFkd0ZFbnIwWG5wa1ZZMHVTaXNLN0VtcF9kWEZzLWppU0ZoWkpWV0pqUGFHdldUQlg3Q0JtXzlCWGlmYXRnNVJh?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "summary": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 &nbsp;&nbsp; clickpost.ai",
+      "summary": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 &nbsp;&nbsp; ClickPost",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -222,11 +244,11 @@
       "published_ts": 1788698545.0
     },
     {
-      "title": "8 Best Post-Purchase Experience Platforms for US DTC (2026) - clickpost.ai",
+      "title": "8 Best Post-Purchase Experience Platforms for US DTC (2026) - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYm5GYlVpM0FteVdIcXpPSmN3dTlub0N2OHFjeGJsRmRtazAxNDU2elZiQ2x0SE5rczFTbU94bVBnOVBscjl2UnJlMkE1VDNWMkdfS20tS2lncnZ5Q0NUTGxiZi1SNEIzV0E?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 02 Sep 2026 10:32:21 GMT",
-      "summary": "8 Best Post-Purchase Experience Platforms for US DTC (2026) &nbsp;&nbsp; clickpost.ai",
+      "summary": "8 Best Post-Purchase Experience Platforms for US DTC (2026) &nbsp;&nbsp; ClickPost",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -387,28 +409,6 @@
       "published_ts": 1788850800.0
     },
     {
-      "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1788418800.0
-    },
-    {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
-      "source": "Google News: Loop Returns",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Loop Returns + ipo",
-      "published_ts": 1785394800.0
-    },
-    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -442,11 +442,22 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - tradingview.com",
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; tradingview.com",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -519,11 +530,11 @@
       "published_ts": 1736150400.0
     },
     {
-      "title": "Returns Tech Company Narvar Launches Pickup Service - businessinsider.com",
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 07 Mar 2022 08:00:00 GMT",
-      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; businessinsider.com",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + launches",
@@ -554,10 +565,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 50,
-    "opportunities": 27,
-    "threats": 23,
+    "kept": 51,
+    "opportunities": 29,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 11.5
   }
 }
