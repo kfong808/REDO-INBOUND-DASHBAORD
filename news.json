@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:01:10.952751+00:00",
+  "updated": "2026-09-27T05:57:46.747570+00:00",
   "items": [
     {
       "title": "Capital One Financial (COF) Joins Banks Warning On AI Shopping Agent Risks - Yahoo Finance",
@@ -46,11 +46,11 @@
       "published_ts": 1790281800.0
     },
     {
-      "title": "Banks warn AI shopping agents could increase risk of scams, fraud and data privacy breaches - foxbusiness.com",
+      "title": "Banks warn AI shopping agents could increase risk of scams, fraud and data privacy breaches - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmRicUpIMHVHMkNScDAtQmhDZ1d4WWxqTjBEV1ZjdlhiaTNXRTdreWRwSG0yZGltRGJsV3JRXzNReXpZcTl5THZfbF9KQlBrSTQxN0tQWVBhTmwyMXk1OFh0Rk1GZDh0dHFTdGhBNGx6U1I5RDdrNDRYQTJVLTBpSmVEQjc0djMxMHdHWmFpYTM1YnUwR2JTUkdGbUtFTXRGcDcyV3p1MXBEZ3AzNFhNazd4c1ZCOE8tdzZZaHk4UdIBxAFBVV95cUxPanFUbklwMklkb3ppRGZ3OVVkLVB0SWNpcGFFaVZGMWUtaGpYWFR2NEtxR2JaMkJ5ZC00b0hNUHZsQ04tQ05QTFBBV0ZXdU9hdUN6RHJNaTBPcVBnT3RETmpOcHZlaTJYZ1ZHd0hPT3cwbGlDT1N4R3hUSUtFVXhFQ0pCbllaY1BZLUVTaFNYUjF0bGJHMWxEY19zQTdWZTBYNHlkTTFSZDlwcFdJWklpOHUwaUFCZ1Zkb0t0dHBhLThfYzJy?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 24 Sep 2026 18:59:00 GMT",
-      "summary": "Banks warn AI shopping agents could increase risk of scams, fraud and data privacy breaches &nbsp;&nbsp; foxbusiness.com",
+      "summary": "Banks warn AI shopping agents could increase risk of scams, fraud and data privacy breaches &nbsp;&nbsp; Fox Business",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -79,26 +79,15 @@
       "published_ts": 1790254219.0
     },
     {
-      "title": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. - fool.com",
+      "title": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcEI5dnRCZ3YweU1JQlZJRGFYS3BGbHJIWnBTMFE5VHRpcGVLQndhOFJId2xpazdnQ1E4WjdNeTJmLTM1aDNaZU91QzRvWWFhNlpYaVR2UWM1eEtmZkZiUTFnYmJRc1NaQ2RYZFZlb21QMk1IZ3RGQlFfNmNiN3prTnJrSy1nQ2t3Uzd0eUVPQWNTNlJOVWd4dURWYVlLNG1OQ2ZTamNfTDllSHdfWDg4N3FJTXM3b0JHYkRxWnBkbThIUldJYjBUR3RJcFR1c0k?oc=5",
-      "source": "Google News: AI shopping agent",
+      "source": "Google News: Shopify",
       "published": "Thu, 24 Sep 2026 02:38:00 GMT",
-      "summary": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. &nbsp;&nbsp; fool.com",
+      "summary": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. &nbsp;&nbsp; The Motley Fool",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1790217480.0
-    },
-    {
-      "title": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGV1YlUteEc5ZWt4Wk05Rnl6NWVKcHIweG1ERWtLRkprMXpuN1Fza19ZUktDeDRVQ1F4eE1yTWlGRDFRdXFoNkZwTU9uYWN2YXh4UGRURTEzcWVXX1RUbm9XX1RCY0dKMVAweEpwWlJtR192R3NhUmh1MnZiVUVoQnU4cjktNUdIdnNxVDNYdzNWQ2JCTEljQmxNdHQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 24 Sep 2026 01:58:00 GMT",
-      "summary": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout. &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790215080.0
     },
     {
       "title": "JD Sports deploys Algolia for agentic commerce strategy - Digital Commerce 360",
@@ -123,17 +112,6 @@
       "published_ts": 1790193900.0
     },
     {
-      "title": "Banks warn AI shopping agents could expose consumers to scams - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3B1WmMxcWJWaE1Ca1dDc0UxcndNN1BTS0J3SmxmbmQ3R3NLbmw4U1UwTjg0aWlEOGhVZkx5RHJ5eGZHRjd5ZlN2UzVUZUdBVlhVb1NLOWU0UmxvbnR6ZExqWU41ZWhJLVBpRW9hVjFudDlaaHhNQXdra01IaG03aTg5NDJXNXlwSGZMSkozZUc0MTlPeGJZTmE5TExMdUsyVjNsRGZKX1Z6bEZCTXIzcUdNU1kwOGM?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 23 Sep 2026 18:23:00 GMT",
-      "summary": "Banks warn AI shopping agents could expose consumers to scams &nbsp;&nbsp; USA Today",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790187780.0
-    },
-    {
       "title": "New Ecommerce Tools: September 23, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-23-2026",
       "source": "Practical Ecommerce",
@@ -154,6 +132,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790168400.0
+    },
+    {
+      "title": "Retailers are picking sides on AI shopping agents - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1FUcXNhUUExTzdpLWZFVklnWW1ZQ3E1bGN4cHVwR2RsZm13UmpscTYwN01udlNYTkRMaW9uQUZicVA0WjQ0bEtpczR3MzNLanRlamNyTEUzdnJ3VnlnSTdRc0tZQnB4WHp5U1FRVTVxQmh5b0tIOG5rWFpkcDk3eVF0XzhQSFRLdWFQZVdKb0c4SDdSR3g4?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 22 Sep 2026 19:43:00 GMT",
+      "summary": "Retailers are picking sides on AI shopping agents &nbsp;&nbsp; Semafor",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790106180.0
     },
     {
       "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
@@ -187,6 +176,28 @@
       "confidence": "medium",
       "reasoning": "Matched: discontinued",
       "published_ts": 1790049600.0
+    },
+    {
+      "title": "Amazon Blocks Meta’s AI Shopping Agent - PaymentsJournal",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yVWFLNTlvQWtPZWJfR0o5MXhwNW9Fam1nX2dLQ3JfMmVWZTlDRFdkdWZPUDRvVzFZSFJlb2d1cjNUNFViM2tWWXEyTmFmNV9MaGtrZmpQU3ZlZ2ZTdmdIX09lMVJFS2tJcm0wcXZiN01ZbXNOcWg0Rk1B0gF_QVVfeXFMTUhNY2VJY2E4eEZtV1hMQU9TN0dnVXJqdTNPOFN3MDNIYkI3VEhISWxMVjczX3RLemQyZnJvb1VOdVhFNUdSWW1NS0I0MFQtYVRfWVJHZzBsSFc5aXNBZlBUcG40SjN2M19keDZMNGxndHBVQjYyM2hXZ2lseDc2UQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 21 Sep 2026 19:07:34 GMT",
+      "summary": "Amazon Blocks Meta’s AI Shopping Agent &nbsp;&nbsp; PaymentsJournal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790017654.0
+    },
+    {
+      "title": "Amazon cuts off Meta's new AI shopping agent - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGpJLXA4SmhJdFFMZmNNWmdnTGRJZXNUN3pYTDBGZnpzNHJzUmQ3Ul9zdkNxV25XUzNoLXNCYmNlUkJPQ2tWQjVHMFNfV1VIMjhsVmtKWTVRcVd0R2tqRDZNTnRmR2haaWlNcEk2Rl9BRjVQOXl1TDhzdmVGU2JocXoxam9BUTRNQnNjUWJ5aWJmVmM?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 21 Sep 2026 18:10:22 GMT",
+      "summary": "Amazon cuts off Meta's new AI shopping agent &nbsp;&nbsp; LinkedIn",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790014222.0
     },
     {
       "title": "Gas price spikes could put a last-minute squeeze on holiday supply chains",
@@ -255,11 +266,11 @@
       "published_ts": 1788345141.0
     },
     {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
+      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - inc42.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; Inc42",
+      "summary": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands &nbsp;&nbsp; inc42.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -286,6 +297,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1775051648.0
+    },
+    {
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1773730800.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -365,17 +387,6 @@
       "published_ts": 1790168400.0
     },
     {
-      "title": "Mailchimp Data Shows Black Friday Is A Customer Acquisition Event, Not Just A Sales One - SMBtech",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2poZE4yYVNlTVdlUjBJcE8wdTFpczZ0RkNmVTMxN2puWDVmcHU5c0dJRUNJMVhmTU9aT1E3U2hjVV9tLUFsS1gtM3hTNXRXb25RM2U0WTFVdVk4NnNhNDc4V0lGTmh6SmMyS080M25zSmthNEcwLVdXeXZSSHkySi1YTEVBcTRsVE1UVTFnQzZkQkpJT1JsTHotUXBxMEo0MnRhT2FxOFJpY0o1eGkycg?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Wed, 23 Sep 2026 08:55:53 GMT",
-      "summary": "Mailchimp Data Shows Black Friday Is A Customer Acquisition Event, Not Just A Sales One &nbsp;&nbsp; SMBtech",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + acquisition",
-      "published_ts": 1790153753.0
-    },
-    {
       "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
       "source": "Google News: Attentive",
@@ -385,28 +396,6 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1790082000.0
-    },
-    {
-      "title": "Actress D’Arcy Carden Introduces CRM Klaviyo as “Your Brand’s Best Friend” - Little Black Book | LBBOnline",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43NjA3RXQxODZKTGJodW5GbG1uNUxWY0MyQmZGMWY2M19BVVRLNm1Nd0MySDg4TXNTakJ1TFRxejloeXZvazJONUVwcEtBT09PWG5VTndHUnA3LWpoSUtfV0tQZXVtUDBSdHpsaE9ld2FRWFVFWDR3aTBn?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 22 Sep 2026 10:20:06 GMT",
-      "summary": "Actress D’Arcy Carden Introduces CRM Klaviyo as “Your Brand’s Best Friend” &nbsp;&nbsp; Little Black Book | LBBOnline",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + introduces",
-      "published_ts": 1790072406.0
-    },
-    {
-      "title": "THE POSTSCRIPT: Face to Face - Tribune Ledger News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWNaRC1zRU5FSGJEX3BLT2pkeHVSRVByd1R1TDh3ZFgzT3A4T2tVcVRIUUtPNXZZbS1JbHZPdVAxcXRaNG1JX0ItejF3cFYzVHF4U3VqYWZMb1BMVkE1S0JBcDFRdkNGeUxSU1ZLVWgtNHpZOVgwbk0wTWVWakYtNFZCQkVqcDl3a3pfVUZfQVN1UlN0MkJlc1NjLVNxcWdDRnlWNnRfNUZ1S0VZRGhNQkIzTGs4STZC?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 21 Sep 2026 08:00:00 GMT",
-      "summary": "THE POSTSCRIPT: Face to Face &nbsp;&nbsp; Tribune Ledger News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1789977600.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
@@ -442,22 +431,22 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
+      "title": "Postscript: Mark Singer - newyorker.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -586,11 +575,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 53,
-    "opportunities": 29,
-    "threats": 24,
+    "total_fetched": 268,
+    "kept": 52,
+    "opportunities": 31,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.6
+    "runtime_seconds": 9.9
   }
 }
