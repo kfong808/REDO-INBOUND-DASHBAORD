@@ -1,27 +1,38 @@
 {
-  "updated": "2026-09-29T21:08:30.772455+00:00",
+  "updated": "2026-09-30T00:51:30.143681+00:00",
   "items": [
     {
-      "title": "Why Amazon Is Shunning Other AI Shopping Agents - bloomberg.com",
+      "title": "Why Amazon Is Shunning Other AI Shopping Agents - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2hXSDd5N3E5MElEbE9vdzdyRHkxWkFJdmtmTUwtTVZBSlV6YjBYa0dzLUJ5TTlxeWtobnU5T0x5T0RPampsQ1VuMDhhTjJUOHFHcUhud2FNcWtmVXJEamJFMFRPYVVqVHVVUzFHcXl2cTAwYXlFbUZOd3NUcFNwNGhwMURuUjR6dDRjWl9rMXNXbFJFWkU4akJhWmhaclppM3I5bFdrbnpnSnFyRGE4?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Tue, 29 Sep 2026 20:24:34 GMT",
-      "summary": "Why Amazon Is Shunning Other AI Shopping Agents &nbsp;&nbsp; bloomberg.com",
+      "published": "Tue, 29 Sep 2026 23:24:34 GMT",
+      "summary": "Why Amazon Is Shunning Other AI Shopping Agents &nbsp;&nbsp; Bloomberg.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1790713474.0
+      "published_ts": 1790724274.0
     },
     {
-      "title": "Beyond omni-channel, brands face the shift towards agentic commerce - FashionNetwork Canada",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeG1JaThzdzZlNEJneDRnb2FGVDJCWHFfX3YwYW83ckY0SUE5b0pVbTBtSkExbHdabm1QVTJJbWFYaWVHYlJfWkkyUnRtTVpDNHRzRVpweFdVa0VwVlJySkxvd0JxOHFPVE0xOHhGYk9MWGE1eHl1Y3FwempTcE5uRWV0TjQzMklaZi1kdXJ0eTZNcUt1bzFncGx3cjBWd1lBQ1BrLWJZLWZFRWN3dU92bXJUR0U?oc=5",
+      "title": "RZLV: AI-driven agentic commerce boosts conversions and revenue, with $130M in H1 2026 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeTJWUVF2ZnpIMWVHdlZ2TDFZeWhkZ05SN1B4ZGdyNGkzTFl5cFRfS3dXVENZdXVHVzRneGswZy1QaEp1OFpYcUY5TUxCOE50YmRIel9FTVhpTXlLNklOdnowVkY1RDhCTFVXOEx4M2l3dzQtUWhsQVE2eTBEbW1UaEZJaGU0VndOY0ZSVzUwYVRPb0R4T3NEOFVHNWN5Q2VXakNLSmJ5bzhVdk1oMXBLMUVLa0h6VVVYcVNQa1JpWUpjZ0VNa3F3STc4dEhiSUpINDVKMEsza2ZsOEpBbUlyQnRvNVBOSU1FSElWUnhoem5hS1Awcmh4OEZyWWJwMWs?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 29 Sep 2026 15:52:32 GMT",
-      "summary": "Beyond omni-channel, brands face the shift towards agentic commerce &nbsp;&nbsp; FashionNetwork Canada",
+      "published": "Tue, 29 Sep 2026 20:50:40 GMT",
+      "summary": "RZLV: AI-driven agentic commerce boosts conversions and revenue, with $130M in H1 2026 &nbsp;&nbsp; TradingView",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790697152.0
+      "published_ts": 1790715040.0
+    },
+    {
+      "title": "Beyond omni-channel, brands face the shift towards agentic commerce - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnhPR3doQy1qeHZoak5iVlQxeXFZRmxrdFA3R0Rmb3lIeHNVVy1naFVEUmEydnA5LXZVRE55T3lpUjFFV0RnNzVvdUJaZXI3dnNmZTN6SnBXVHBkZmI1bDBobFd5TmlXd0JIVFQxSzU5R1YtMmM5SFhBNGdQTFRMd2dLYWNEY243cTBiYmpvRkNSRDU1QnBrR2J2WVI2SmR3Y2haWWdaeDZjQW1wM05QUWlxV2M?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 29 Sep 2026 15:20:09 GMT",
+      "summary": "Beyond omni-channel, brands face the shift towards agentic commerce &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790695209.0
     },
     {
       "title": "Commerce Data Enrichment for BigCommerce and Feedonomics to Power Agentic Commerce - channelx.world",
@@ -70,7 +81,7 @@
     {
       "title": "Shopify has little to fear from AI shopping agents - RBC Capital (SHOP:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkVLX1h1RzR5WUJRTFFFd2hodERhN1lOQXNRRkZadVRMNHJ3WEdRWmRqLWxvZkhMOW9IU3N4YnNxbmFwbzFvY2tMVkdiWWV3WHpEUHNWZ08zSTBwdkFDZWJhYmJMbkJadTA5b3N0X3RYYzhCYVJNdVAxVkRKZXZsYnVKa0JGSHlpbXcyZXNpY0NlOFllcmlBcC1IbGVCSGJvcC1yaA?oc=5",
-      "source": "Google News: AI shopping agent",
+      "source": "Google News: Shopify",
       "published": "Mon, 28 Sep 2026 19:02:23 GMT",
       "summary": "Shopify has little to fear from AI shopping agents - RBC Capital (SHOP:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
       "classification": "opportunity",
@@ -79,11 +90,11 @@
       "published_ts": 1790622143.0
     },
     {
-      "title": "How Retailers Are Rewiring Payment Rails For Agentic Commerce - Forbes",
+      "title": "How Retailers Are Rewiring Payment Rails For Agentic Commerce - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlNBMXFENUlIVm5WTXh2MmVfRk9aOFZ4ZjEtdm9XUmFlVmJYUFdxMDR3aWtzVkhDNTBTUGFEMVdkWktoMmxrc3Bzckt4aWo5bGtxcWtNRE8wN1VBMHRfSENIQWNsUUtuazNveDJYTExsLUNYdGd0VkM4elliMnBEZnBPQzMtR2VLLTlNTUlZcmhIQVVkdlI2Tk45cmxZMmpqNkxSc2lRRm0tZm1pLUpWdFBNYVlmSFNDTncw?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Sun, 27 Sep 2026 20:00:10 GMT",
-      "summary": "How Retailers Are Rewiring Payment Rails For Agentic Commerce &nbsp;&nbsp; Forbes",
+      "summary": "How Retailers Are Rewiring Payment Rails For Agentic Commerce &nbsp;&nbsp; forbes.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -99,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790350783.0
-    },
-    {
-      "title": "Why Building AI Agents Is No Longer the Hardest Part of Agentic Commerce - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzhhUG4yenBnSUd0TFFTaTlONWFneXdVQUJrcGJQaVRSNmtZUFAwRGNWR3dZTDlyMllVLUIxa0d0YzNRSE1zcWpYYWwwdlpUWkR4T2h4UE5KT0hqNGVCNC1PSGVzLUlDRDVEQnh3VWJwOGtMcHJ6bWdJX2RVM08xeGJ6U0NUc0YyMHd5d1pqRzVBMF9tZC05Tnl6UHVvU3FPSHAyVlpUUjZjbEw5Sy1PQ3JaTFptU0FSQzlLbA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 25 Sep 2026 08:06:17 GMT",
-      "summary": "Why Building AI Agents Is No Longer the Hardest Part of Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790323577.0
     },
     {
       "title": "Agentic commerce: Enabling agents to understand, anticipate and act - Qualcomm",
@@ -266,22 +266,11 @@
       "published_ts": 1790333859.0
     },
     {
-      "title": "Postscript Launches Email on a New AI-Native Retention Marketing Platform - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NZTJRRTZGRWowaE9ON2JNYVB3dUFwR1czV2FtdWxBTlg1ek1jLUJzX0l2OGM1UGVDTmRzX09wMkJRX3Z5b29OTVJHcmFuZW1EaTJtX2k0X0FJblhlOUZUbnUxVQ?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "Postscript Launches Email on a New AI-Native Retention Marketing Platform &nbsp;&nbsp; StreetInsider",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Postscript + launches",
-      "published_ts": 1790146800.0
-    },
-    {
-      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - finance.yahoo.com",
+      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
       "source": "Google News: Attentive",
       "published": "Tue, 22 Sep 2026 13:00:00 GMT",
-      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; finance.yahoo.com",
+      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
@@ -321,22 +310,22 @@
       "published_ts": 1788418800.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
+      "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; RiponPress.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
       "published_ts": 1785394800.0
     },
     {
-      "title": "Yotpo - 2026 Funding Rounds & List of Investors - tracxn.com",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; tracxn.com",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
@@ -354,22 +343,44 @@
       "published_ts": 1782716400.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
     },
     {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - tradingview.com",
+      "title": "WWEX Group and Auctane Merge to Create ShipStation Global - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SzF1Mk1Kb2RrclRkSG11QlZKMkJaZVQ5cHZOYmdmWFRzU2RmTEJaVWJhbWhGNFJpRlVNUlM0dlJrdUg1Z01hNDJZQmRpVkhhNG1UOHN5NVJZYno1cE1oNjduNnkwbG8?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "WWEX Group and Auctane Merge to Create ShipStation Global &nbsp;&nbsp; ttnews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1780383600.0
+    },
+    {
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1778742000.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; tradingview.com",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -398,11 +409,11 @@
       "published_ts": 1770278400.0
     },
     {
-      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - finance.yahoo.com",
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
       "source": "Google News: Omnisend",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; finance.yahoo.com",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Omnisend",
@@ -431,26 +442,15 @@
       "published_ts": 1744095600.0
     },
     {
-      "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - finance.yahoo.com",
+      "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlBnWklEb2JHNFlJZjIwa1Uydm16VUlvNGhDOGdIY0NvZmNMVlRyTl9SZDBvVHpNTkpkQXZjXzdRQ3lPbmFRU19BTE9oZFdrbFVSNVNtcDI2WmZVanRWYlVCdk5zazJXOGVlcXMzSW5UMUItMzJQbmVsYUlSenVWSjVqbTE3QTBN?oc=5",
       "source": "Google News: Narvar",
       "published": "Mon, 06 Jan 2025 08:00:00 GMT",
-      "summary": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion &nbsp;&nbsp; finance.yahoo.com",
+      "summary": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Narvar + expansion",
       "published_ts": 1736150400.0
-    },
-    {
-      "title": "Yotpo | Company Overview & News - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DM1JtOUVHMHU3UTlpcXQtdDBKSVFlZ2pYZ0dLRjhsalA4d3ZKSWFyMDZiVWNxOGlXNld5YTlRQlE5Y0VHRnhycEVlclhFeG5P?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Tue, 08 Aug 2023 07:00:00 GMT",
-      "summary": "Yotpo | Company Overview & News &nbsp;&nbsp; Forbes",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1691478000.0
     },
     {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
+    "total_fetched": 269,
     "kept": 44,
     "opportunities": 22,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 15.3
+    "runtime_seconds": 10.8
   }
 }
