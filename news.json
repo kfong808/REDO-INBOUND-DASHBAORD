@@ -1,16 +1,27 @@
 {
-  "updated": "2026-10-02T00:18:21.555108+00:00",
+  "updated": "2026-10-02T06:24:39.061968+00:00",
   "items": [
     {
-      "title": "IHA CHESS 2026 | Day 2: Unlocking the Creator Economy, Agentic Commerce & More - HomePage News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjRQWVBOTlJGVjhoYW5WOWt1ZEJIbWtHTGRLeUhjYWhPbDlubHJEWXJGalZCOTNKV1VhR1BBX3lRMFlmNWFlWVhpTkR2elhqbjFqWVpyT3JHZDZnYXJKY0ZTaDhvTXZMa05sMjYzWUp4N0hEMjFKX09zMEdBemE0aGVwR01PaGwwaXJkZFJLUDg1M2gwUVRqdE9mSTJfaEJhbDNSYTZ3blIySnZBNFlPSXRJNXY?oc=5",
+      "title": "Shopify Is Spending to Win AI Shopping: Is the Stock Still Worth the Price? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaDBCNGN2eG9GeVAwRFJfQjlBc1VDanZXM2RwWnctdXBuOVdkaWs3OEhPU09mQmY0WFdzbUZIWnB6bDNQOW1XeDdFWHQwMXkwVXE4bzZhdEZZMm9yNGZXaW5oUmg1SndCOVVSMElrT0pjbUhFT3hVVnlKX2dCVjlsbktlTGFRTFcwMVpLWHo3VWE1RVVDemFCbFhNNVZrY21QOGtZU0hLQWRCMUR1X1hhZVRNaWE2TmVXQmRrTUhCN0pYM1ljNnI0OG9nX2FNV2hHMEl0VUJSNVRja0ExQks0V3NxYm8xTDg?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 02 Oct 2026 01:10:58 GMT",
+      "summary": "Shopify Is Spending to Win AI Shopping: Is the Stock Still Worth the Price? &nbsp;&nbsp; The Globe and Mail",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790903458.0
+    },
+    {
+      "title": "Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2lPSWxTY0lzc25aeTFPaGFmVHZROG9xdVFLR1lmdDIzUFhTZGlVYmZJdTNCOXJFOV80MGhfZnFQT0xUb3Q3SnMzOG9CcXpWYlFXSzJ5Q2ozUzhlZVk0WWVFUnpUMmJtOG4zdm5WWi1oaURKSUtGLXNVUTNzcUhsNGNHSnVOa1RSUWhoSk1WOGtXdVJDVlVyYkxjR25uMkdVQkdNVQ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 01 Oct 2026 19:45:10 GMT",
-      "summary": "IHA CHESS 2026 | Day 2: Unlocking the Creator Economy, Agentic Commerce & More &nbsp;&nbsp; HomePage News",
+      "published": "Fri, 02 Oct 2026 00:02:00 GMT",
+      "summary": "Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790883910.0
+      "published_ts": 1790899320.0
     },
     {
       "title": "Here’s what consumers want from AI shopping agents - Chain Store Age",
@@ -33,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790865576.0
-    },
-    {
-      "title": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVm9RQVpOY2JOQXg3bFdUaEFXOUZmT3loUFNaRnlkblJMSFR0WHFTN29jZHNCdTVVSnR3M1d4aktJTnRTa19PT0NVZGxja2lHdlJpU2MwcU45d1h5a1F1dXNWaE56NG5nWDA3VlROZ0FOT3Iwc00zZUFxTndmaUY4c0lOLXpRUzlSVm5heA?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 01 Oct 2026 13:05:34 GMT",
-      "summary": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents &nbsp;&nbsp; AOL.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790859934.0
     },
     {
       "title": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents - 24/7 Wall St.",
@@ -90,17 +90,6 @@
       "published_ts": 1790848800.0
     },
     {
-      "title": "Preparing for agentic commerce: What merchants need to do now - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTERDc1c3RlhZVWhqUFdWdlg0NzFELUY1enl6UG1fUnJWczBpOElkR0s5M0xWODFmemlhMVFLOXBSTExIUnU5Uko3TllrRjhVdFVZQTFSdlhicC1EVUNfOFlPSFdfVXJIOUQxV3k4Q1ktS1htalZnYzVJNGJjeXI2dUU1bF90NDlFN2JnQ201VC1QMlVUckdEZDZZV2JwQzVUaWpV?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 01 Oct 2026 04:34:44 GMT",
-      "summary": "Preparing for agentic commerce: What merchants need to do now &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790829284.0
-    },
-    {
       "title": "Stuck at 40k",
       "url": "https://www.reddit.com/r/shopify/comments/1wuq36p/stuck_at_40k/",
       "source": "r/shopify",
@@ -110,6 +99,17 @@
       "confidence": "medium",
       "reasoning": "Matched: too expensive",
       "published_ts": 1790828841.0
+    },
+    {
+      "title": "Agentic Commerce: Strategies That Win in Retail AI - Circana",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5M2hJdHZKTWtLM2d6TEV0QlJzQlpUR3p3VlJlYTAtcHZ0eDBmckdSVXpxWVlrUFhSN0EwSmVhS3JVSVNqSUNBb0hXQ3RWNWxFcUNscHhBNk5oTXdUQVdHVUhhOHdTd2xEdU9MT1NUaWg3S25BZV85ODhVUnZUZw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 30 Sep 2026 16:47:06 GMT",
+      "summary": "Agentic Commerce: Strategies That Win in Retail AI &nbsp;&nbsp; Circana",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790786826.0
     },
     {
       "title": "HM Treasury Consultation on UK Payments Framework Closes Soon, Potentially Impacting Stablecoins and Agentic Commerce - fintechanddigitalassets.com",
@@ -134,17 +134,6 @@
       "published_ts": 1790778792.0
     },
     {
-      "title": "Rosenblatt Says AI Shopping Agents Won't Break Amazon's Ad Model - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUlKT1dYZlRIWnBSeU9KNDdZVnVuUnNTamI2MjRHaGFrakViTmpLaEplU2lISGVQdU80dVgyZlJFRFlwZ0NlaGtzOUkzNnZUSk9ORWxETEprUm5CbmlsZE53MEV4bV9nOGFFZzE2MzBualRwWmc1VHdMdmJTQnl6MGdKaGZzZzhwR09j?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 30 Sep 2026 14:28:40 GMT",
-      "summary": "Rosenblatt Says AI Shopping Agents Won't Break Amazon's Ad Model &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790778520.0
-    },
-    {
       "title": "New Ecommerce Tools: September 30, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-30-2026",
       "source": "Practical Ecommerce",
@@ -154,6 +143,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790775809.0
+    },
+    {
+      "title": "Trust in agentic commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjlZM25BeTRwejJyYzVjSk45d21QeHk3MmlnRnozZWx0d2pOSVNEdXF1S3FzNTBjbzlOU0dVWHh0WjNrR3BfR3ZjelRmSnpQVXFLU3FnMEc2SmdxYjRZZDJmazZaRHhlVG4wRjY0YW1UbmNRV1lLd01DdS1xeWJUOG5tSk5DSFVmMEN0dGZPRExVLWdnaXZaOVcyMW5WVDJkVjliZUNSdjAzWEh0cU02VTVRTVpsaXVU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 30 Sep 2026 13:37:27 GMT",
+      "summary": "Trust in agentic commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790775447.0
     },
     {
       "title": "The Future of AI Shopping Depends on Trust - oxfordeconomics.com",
@@ -167,17 +167,6 @@
       "published_ts": 1790773316.0
     },
     {
-      "title": "Mastercard Advances Agentic Commerce With New Trust and Intelligence Services - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekJVOTFiMnI0VGFzdldxdW5YRTh1V2lLdFY4RWJlOUtnT09CTF9CVVZOR3pfTk9sQWZ6TjZpcTgxNzNtUUplbHdPVG4xaFBPeXJfeEE5UWhRQ2l6bjhxMGhLUTlTb0tDMVBzcHJnNjM0M1l6VVMwZ0xlTVItVUpiZm1rME93dHJOb3NBX1JjWVp2a2ZPd2w4SDVOdkw4dDdjVUQ2bDVJSlBZdw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-      "summary": "Mastercard Advances Agentic Commerce With New Trust and Intelligence Services &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790773200.0
-    },
-    {
       "title": "Why Amazon Is Shunning Other AI Shopping Agents - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2hXSDd5N3E5MElEbE9vdzdyRHkxWkFJdmtmTUwtTVZBSlV6YjBYa0dzLUJ5TTlxeWtobnU5T0x5T0RPampsQ1VuMDhhTjJUOHFHcUhud2FNcWtmVXJEamJFMFRPYVVqVHVVUzFHcXl2cTAwYXlFbUZOd3NUcFNwNGhwMURuUjR6dDRjWl9rMXNXbFJFWkU4akJhWmhaclppM3I5bFdrbnpnSnFyRGE4?oc=5",
       "source": "Google News: AI shopping agent",
@@ -189,9 +178,20 @@
       "published_ts": 1790740474.0
     },
     {
+      "title": "China Already Fought the AI Shopping-Agent War. Europe Is Next. - trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLb0VxODF5aXJ6N0tZbV9leTNRMWFQS194cjh3WkdxRzlEX0RhT1N6Y2NiWHpNZzlFNEp3bDg3UDVnSWpJbWxNV1JxTTNHcGVZUkVYQ2d0bm5GUm9IMkRreGVrSElJU1l2UEVqMDZxWEJuYmM?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 29 Sep 2026 09:00:00 GMT",
+      "summary": "China Already Fought the AI Shopping-Agent War. Europe Is Next. &nbsp;&nbsp; trendingtopics.eu",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790672400.0
+    },
+    {
       "title": "Shopify has little to fear from AI shopping agents - RBC Capital (SHOP:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkVLX1h1RzR5WUJRTFFFd2hodERhN1lOQXNRRkZadVRMNHJ3WEdRWmRqLWxvZkhMOW9IU3N4YnNxbmFwbzFvY2tMVkdiWWV3WHpEUHNWZ08zSTBwdkFDZWJhYmJMbkJadTA5b3N0X3RYYzhCYVJNdVAxVkRKZXZsYnVKa0JGSHlpbXcyZXNpY0NlOFllcmlBcC1IbGVCSGJvcC1yaA?oc=5",
-      "source": "Google News: Shopify",
+      "source": "Google News: AI shopping agent",
       "published": "Mon, 28 Sep 2026 19:02:23 GMT",
       "summary": "Shopify has little to fear from AI shopping agents - RBC Capital (SHOP:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
       "classification": "opportunity",
@@ -222,22 +222,22 @@
       "published_ts": 1790169211.0
     },
     {
-      "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
+      "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - clickpost.ai",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UmM0b0JXeFJYZU1XanJiSUFFRnVtMlg1WjdmWnExXzFkd0ZFbnIwWG5wa1ZZMHVTaXNLN0VtcF9kWEZzLWppU0ZoWkpWV0pqUGFHdldUQlg3Q0JtXzlCWGlmYXRnNVJh?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "summary": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 &nbsp;&nbsp; ClickPost",
+      "summary": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 &nbsp;&nbsp; clickpost.ai",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1789628400.0
     },
     {
-      "title": "Post-purchase experience in 2026: how U.S. ecommerce brands build loyalty with ClickPost - ClickPost",
+      "title": "Post-purchase experience in 2026: how U.S. ecommerce brands build loyalty with ClickPost - clickpost.ai",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iYlhqNzNQSEEwdjhEelEwRVhCWjNfTlBqaEhUU1pLckRCRDJBbXZzSWVaSGNHMGJWZFRDS1FKTk1EZmo4NnJHOEtGTjhhREtHaUd3dFFvMzhGWDRKZUFQNkZnYlpRNzZkQWZMNTd6RjJ5b3R6SDFhOGV3?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "summary": "Post-purchase experience in 2026: how U.S. ecommerce brands build loyalty with ClickPost &nbsp;&nbsp; ClickPost",
+      "summary": "Post-purchase experience in 2026: how U.S. ecommerce brands build loyalty with ClickPost &nbsp;&nbsp; clickpost.ai",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -319,6 +319,17 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1790863180.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdlZUNExDUV9fZkNzMFg3SzUwSXBlanR2bXRmY29ZNGJlWGFadWJtZjhHZGZOVWlRVzBNdXA5T3h2OXhxWEVVUDBUS1lxaW8wQ2c?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 01 Oct 2026 13:44:40 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Australia",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1790862280.0
     },
     {
       "title": "Big CX News from Avaya, SAP, Klaviyo, & Talkdesk - CX Today",
@@ -420,11 +431,11 @@
       "published_ts": 1784271600.0
     },
     {
-      "title": "Postscript: Mark Singer - newyorker.com",
+      "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; newyorker.com",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -530,17 +541,6 @@
       "published_ts": 1736150400.0
     },
     {
-      "title": "Yotpo | Company Overview & News - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DM1JtOUVHMHU3UTlpcXQtdDBKSVFlZ2pYZ0dLRjhsalA4d3ZKSWFyMDZiVWNxOGlXNld5YTlRQlE5Y0VHRnhycEVlclhFeG5P?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Tue, 08 Aug 2023 07:00:00 GMT",
-      "summary": "Yotpo | Company Overview & News &nbsp;&nbsp; Forbes",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1691478000.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -564,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 270,
     "kept": 51,
     "opportunities": 28,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 10.6
   }
 }
