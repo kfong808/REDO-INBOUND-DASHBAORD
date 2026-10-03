@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T19:35:18.217003+00:00",
+  "updated": "2026-10-03T22:31:59.474814+00:00",
   "items": [
     {
       "title": "Meta, Amazon, And The Real Question About Agentic Commerce - Forrester",
@@ -13,22 +13,11 @@
       "published_ts": 1790989426.0
     },
     {
-      "title": "Experian's checks on AI shopping agents gain DataDome behavior monitoring - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcldHNGpKZkYwWmIyOXd0VFpzNzlKN2gzY0Nuc0ZzU004RHRkakYxMVJmZWZpR05iX2xqc3VoaHNSOGJldEV5dWcxQUZsa19RVHdJTkpuUkd0dDJ1STlRQUhOREZsSXJQcUpXME9FdnRfNmFzcGFUVV85SS1kLTdVTlEzR1NRU3JZNEhBN2ZDVGJ3T3VG?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 02 Oct 2026 21:56:33 GMT",
-      "summary": "Experian's checks on AI shopping agents gain DataDome behavior monitoring &nbsp;&nbsp; PPC Land",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790978193.0
-    },
-    {
-      "title": "Consumers favor AI shopping assistants from brands they already use and trust - customerexperiencedive.com",
+      "title": "Consumers favor AI shopping assistants from brands they already use and trust - CX Dive",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDhZaDlMaG9ub3BTVDFybjFVRlYyR0ZPbDVoM0FudzdzLThJV2VTTjhSSXJUa1BhSUN5bFBQamNHMGFWMlVtOWtjS3VVczlNS0RvcTBxM2ZsbEpCVXZTRldZQW9UWmZmLXVQYkJOUjBiQnNCTjJUcjJJd2g2UWtrY3ZERHF4RjhUbUFDVkc2ZEVCNUtvcHVzRzhhT1pKVWp2QzRrZTg4czVZbGZPMlNfeXNuYw?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Fri, 02 Oct 2026 20:43:28 GMT",
-      "summary": "Consumers favor AI shopping assistants from brands they already use and trust &nbsp;&nbsp; customerexperiencedive.com",
+      "summary": "Consumers favor AI shopping assistants from brands they already use and trust &nbsp;&nbsp; CX Dive",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -79,6 +68,17 @@
       "published_ts": 1790866676.0
     },
     {
+      "title": "Agentic Commerce Has A Consumer Trust Problem - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzZKcUR4dzhwUzRKLXluQ1k0QUJPSFJibzVZcllWb0c3aXllYWRlVjVUNXdHdlZnUFNucnBuVDFYZUFSX3RwYndyWkszRVhtbjJrNHlMd1dxSXpCU08zNnRjQi04QUc0aHpyZWhvNTNKZVBRUFdYZGlxRUhTMTdGR05GSTNVSWRkS3V5dE1PbGxxTEtnTkI1QVVFVmhuQnc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 01 Oct 2026 14:39:36 GMT",
+      "summary": "Agentic Commerce Has A Consumer Trust Problem &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790865576.0
+    },
+    {
       "title": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFNPSU9vVC12aDFWeDhITk8xbXFOOWhVc0Z6RjV3QVplbU5MRFM4aGZWXzNJcXhoQURZN3daN0hKREZCYWdRa0pHYTJ3TlhOU0NTb21PSnhtZFZVbEhDd21rYk0wdC11VHdkT1d0Tm83WjNZeUlwLUZkaUtPTTFVdXRSVXdrYTJWLUwtaHpmUGxfWFV2TDdNWDBKdzYyWFhEQzBTQU9UM2Zpc2dsX1NDRDhBNkNPM05oVnl3T295aTE?oc=5",
       "source": "Google News: AI shopping agent",
@@ -123,17 +123,6 @@
       "published_ts": 1790828841.0
     },
     {
-      "title": "Early Optimism Reigns on Agentic Commerce + Personal Agents at the Machine Earning AI Summit - Newcomer | Substack",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UGEyb2kzX0ItZWdOa1pqcm1TRGZuRHZSbXFrTW1tQjNtdllHOFVyT3RMRWNUQk5lUXlnYmdocFVZWk1xUXV3R1ZvbnpBdFc2a1BUZldndTVPaUR1U3JnelpweGw2NDYwTGVqMXV3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 30 Sep 2026 22:22:40 GMT",
-      "summary": "Early Optimism Reigns on Agentic Commerce + Personal Agents at the Machine Earning AI Summit &nbsp;&nbsp; Newcomer | Substack",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790806960.0
-    },
-    {
       "title": "Agentic Commerce: Strategies That Win in Retail AI - Circana",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5M2hJdHZKTWtLM2d6TEV0QlJzQlpUR3p3VlJlYTAtcHZ0eDBmckdSVXpxWVlrUFhSN0EwSmVhS3JVSVNqSUNBb0hXQ3RWNWxFcUNscHhBNk5oTXdUQVdHVUhhOHdTd2xEdU9MT1NUaWg3S25BZV85ODhVUnZUZw?oc=5",
       "source": "Google News: agentic commerce",
@@ -143,17 +132,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790786826.0
-    },
-    {
-      "title": "HM Treasury Consultation on UK Payments Framework Closes Soon, Potentially Impacting Stablecoins and Agentic Commerce - fintechanddigitalassets.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQUFRcUlURW4xcDVETDREVUQ1bzdSZ3VCR0gzci0yQVk2c3RlM29PTHgzSGJFUHdxdWwwb241TnZXSHd5LXgxb2d6aDVLSVB4djZtNHZ3Mm55NzZrVG9BcGRKZ21talVld2VxRHN1b1pPZXMxQjFSVmJwYlJFV2w1NE11QnZTaDZtM2taNEFZanpMZzJ3TE9WeUNWaXdYVk9Gd1BDSzZ0c3ZHZ19BZGFXQTJidXRpRWJyOENLY01XeU9nRDB0anhKQk1GczY5cDZDRllIV0xKRWxXQ1RpZkJGMlN0WXMwcXFRbGtGcDNDRDk1MU56dDdWdQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 30 Sep 2026 15:13:17 GMT",
-      "summary": "HM Treasury Consultation on UK Payments Framework Closes Soon, Potentially Impacting Stablecoins and Agentic Commerce &nbsp;&nbsp; fintechanddigitalassets.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790781197.0
     },
     {
       "title": "AI shopping agents need receipts - Payments Dive",
@@ -255,11 +233,11 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - businesswire.com",
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; businesswire.com",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
@@ -275,17 +253,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1775051648.0
-    },
-    {
-      "title": "Agentic Post-Purchase Services - trendhunter.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; trendhunter.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -354,11 +321,11 @@
       "published_ts": 1790806937.0
     },
     {
-      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - smallbiztrends.com",
+      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Mon, 28 Sep 2026 16:11:00 GMT",
-      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; smallbiztrends.com",
+      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
@@ -374,6 +341,17 @@
       "confidence": "medium",
       "reasoning": "Postscript + launches",
       "published_ts": 1790168400.0
+    },
+    {
+      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1790060400.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
@@ -409,17 +387,6 @@
       "published_ts": 1788418800.0
     },
     {
-      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; businesswire.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1787122800.0
-    },
-    {
       "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -453,22 +420,22 @@
       "published_ts": 1782716400.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
     },
     {
-      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - businesswire.com",
+      "title": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1ZU1qUXVlU2pfXzRkUERqcUROR0sxNVZGTGppSTZVR1d1V3NvTlB6THdtRnZPa0N4WU1kQWR4bHBLZk9SZmQyX29MTExJVlJZaUw3cHhaTjVwblR6cTdqOWJhOXJSd2c5ZlNoUlQwcENZS2NJR0pXVFlSWWFJQVk5NkJDTDVER0lUS19ydWdtTWdVN0lXTjhKck82eTdfT05aczR4eHhqdzFwNkxZajJfSElHekp6M1o5SWM4STM1dTVMWThGYS0zS3U1YnpPdkNlcXVvYmNmSDNm?oc=5",
       "source": "Google News: ShipStation",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; businesswire.com",
+      "summary": "ShipStation® Bridges the Ecommerce Expertise Gap with New Implementation Partner Program &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Shipstation",
@@ -575,11 +542,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 52,
-    "opportunities": 28,
+    "total_fetched": 269,
+    "kept": 49,
+    "opportunities": 25,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 11.3
   }
 }
