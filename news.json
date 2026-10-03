@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-03T07:14:58.850341+00:00",
+  "updated": "2026-10-03T12:50:04.516700+00:00",
   "items": [
     {
-      "title": "Meta, Amazon, And The Real Question About Agentic Commerce - forrester.com",
+      "title": "Meta, Amazon, And The Real Question About Agentic Commerce - Forrester",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0I0QW1JS21fS3VQU18yaFN0Q0FHYkxmRjBjbldaMkt3a0VYUHNyRVcwSFU2ejhtdnlRRkdTR1BGeUlVWk9BWHdJYmtkWmlGSVNMbGVONHIwSkZEajVQQW9jUW5ndXIxZVVUQXNNQTBIVTVxTmVwVDVOWW9QNkxFT212T2VCTHhKZHFwdXFTQzdpeWM?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Sat, 03 Oct 2026 01:03:46 GMT",
-      "summary": "Meta, Amazon, And The Real Question About Agentic Commerce &nbsp;&nbsp; forrester.com",
+      "summary": "Meta, Amazon, And The Real Question About Agentic Commerce &nbsp;&nbsp; Forrester",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -24,6 +24,17 @@
       "published_ts": 1790978193.0
     },
     {
+      "title": "Consumers favor AI shopping assistants from brands they already use and trust - CX Dive",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDhZaDlMaG9ub3BTVDFybjFVRlYyR0ZPbDVoM0FudzdzLThJV2VTTjhSSXJUa1BhSUN5bFBQamNHMGFWMlVtOWtjS3VVczlNS0RvcTBxM2ZsbEpCVXZTRldZQW9UWmZmLXVQYkJOUjBiQnNCTjJUcjJJd2g2UWtrY3ZERHF4RjhUbUFDVkc2ZEVCNUtvcHVzRzhhT1pKVWp2QzRrZTg4czVZbGZPMlNfeXNuYw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 02 Oct 2026 20:43:28 GMT",
+      "summary": "Consumers favor AI shopping assistants from brands they already use and trust &nbsp;&nbsp; CX Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790973808.0
+    },
+    {
       "title": "Are Shoppers Ready for Muse AI Agentic Commerce? - Retail TouchPoints",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWoycm1YYUY4R3lnbFJ3c3llOFFrbV9Ja0NTWVdsVkNJX1hZRmtQNTlvUVdCVXRXS1RaUmotbjgwWFB1NWM2N0ZTMUc1SUd6Qk94R2w4bzVFREVqVEZxUjd6YjlHRGR1R1FueDRMT2NoVEVNeWUtZkRBd0djUjFaNWZXWVlIM3VoWk1RejA5Q2s3dUQyZHdEb0dxZ2dnUFk?oc=5",
       "source": "Google News: agentic commerce",
@@ -33,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790968017.0
-    },
-    {
-      "title": "MACH X - now the checkout is on social media - what agentic commerce means for brands - diginomica",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzZObkRBVnBnbjAtTWgzb09VekJtS1o5N3ZxZElfUTZXOU9xRUdZVXBZRFJKYlJYUDlDYjdmaFFiaGxBVWdrUjFwUzEyOVBDVURkRnVRTjB0SDhsY0lPVnhyMmpMVktSU3FkQzM5QVdrMDBLR285d0NaTm1DamFaVy01ZXFHUGRna0dDbnMzZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 02 Oct 2026 14:23:04 GMT",
-      "summary": "MACH X - now the checkout is on social media - what agentic commerce means for brands &nbsp;&nbsp; diginomica",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790950984.0
     },
     {
       "title": "The next phase of payments: Preparing for the rise of agentic commerce - FinTech Futures",
@@ -68,11 +68,11 @@
       "published_ts": 1790943300.0
     },
     {
-      "title": "Here’s what consumers want from AI shopping agents - chainstoreage.com",
+      "title": "Here’s what consumers want from AI shopping agents - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iN3NLcnJfNzMzRk5ZQkN2T2ZOMGVJaE1yNlUzT3ZWWHZ0Tk4yb3BRcWcxdGQybHNwaFNBakttRGJHcXN1d0c5V0xMZURvVHp6ZWVaOTlUYjA3Mm5zbzRKNTA5eUtrLThkaTIyeG9Ca3pnWUVULS1GQU9n?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 01 Oct 2026 14:57:56 GMT",
-      "summary": "Here’s what consumers want from AI shopping agents &nbsp;&nbsp; chainstoreage.com",
+      "summary": "Here’s what consumers want from AI shopping agents &nbsp;&nbsp; Chain Store Age",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -110,6 +110,17 @@
       "confidence": "medium",
       "reasoning": "Matched: too expensive",
       "published_ts": 1790828841.0
+    },
+    {
+      "title": "Early Optimism Reigns on Agentic Commerce + Personal Agents at the Machine Earning AI Summit - Newcomer | Substack",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UGEyb2kzX0ItZWdOa1pqcm1TRGZuRHZSbXFrTW1tQjNtdllHOFVyT3RMRWNUQk5lUXlnYmdocFVZWk1xUXV3R1ZvbnpBdFc2a1BUZldndTVPaUR1U3JnelpweGw2NDYwTGVqMXV3?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 30 Sep 2026 22:22:40 GMT",
+      "summary": "Early Optimism Reigns on Agentic Commerce + Personal Agents at the Machine Earning AI Summit &nbsp;&nbsp; Newcomer | Substack",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790806960.0
     },
     {
       "title": "Agentic Commerce: Strategies That Win in Retail AI - Circana",
@@ -167,11 +178,11 @@
       "published_ts": 1790775447.0
     },
     {
-      "title": "The Future of AI Shopping Depends on Trust - oxfordeconomics.com",
+      "title": "The Future of AI Shopping Depends on Trust - Oxford Economics",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnFXbDJIcWl5dUlCaUk2d3VuRWZ0RHAwQV9MODUtMk4tYXpVSURvOGxRVjVPa2doejUyek80SDFkNWliS0RjZFhQelA5LVhHWm1tb3I5MFhtWWk2TC1OVnBZaWVmTFJKeWxNTXRxRWR5c05TYzRzMFJHUm5MaVlEOFZPdXFSdmhjZHNuYg?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 30 Sep 2026 13:01:56 GMT",
-      "summary": "The Future of AI Shopping Depends on Trust &nbsp;&nbsp; oxfordeconomics.com",
+      "summary": "The Future of AI Shopping Depends on Trust &nbsp;&nbsp; Oxford Economics",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -277,15 +288,26 @@
       "published_ts": 1772611200.0
     },
     {
-      "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
+      "title": "PinchAI develops an ecommerce post-purchase risk operating system - freightwaves.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; FreightWaves",
+      "summary": "PinchAI develops an ecommerce post-purchase risk operating system &nbsp;&nbsp; freightwaves.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 03 Oct 2026 08:44:39 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; ca.finance.yahoo.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1791017079.0
     },
     {
       "title": "Tom Cruise, Attentive Even to Fans Above [★Photo] - starnewskorea.com",
@@ -297,17 +319,6 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1790924756.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 02 Oct 2026 03:11:22 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1790910682.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
@@ -387,6 +398,17 @@
       "published_ts": 1788418800.0
     },
     {
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1787122800.0
+    },
+    {
       "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -407,6 +429,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1784271600.0
+    },
+    {
+      "title": "Postscript: Mark Singer - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1782716400.0
     },
     {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
@@ -436,17 +469,6 @@
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; CustomerThink",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
-    },
-    {
-      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -554,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 50,
-    "opportunities": 26,
-    "threats": 24,
+    "kept": 52,
+    "opportunities": 27,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 15.0
+    "runtime_seconds": 10.8
   }
 }
