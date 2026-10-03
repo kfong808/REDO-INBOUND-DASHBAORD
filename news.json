@@ -1,16 +1,27 @@
 {
-  "updated": "2026-10-03T01:32:31.700640+00:00",
+  "updated": "2026-10-03T07:14:58.850341+00:00",
   "items": [
+    {
+      "title": "Meta, Amazon, And The Real Question About Agentic Commerce - forrester.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0I0QW1JS21fS3VQU18yaFN0Q0FHYkxmRjBjbldaMkt3a0VYUHNyRVcwSFU2ejhtdnlRRkdTR1BGeUlVWk9BWHdJYmtkWmlGSVNMbGVONHIwSkZEajVQQW9jUW5ndXIxZVVUQXNNQTBIVTVxTmVwVDVOWW9QNkxFT212T2VCTHhKZHFwdXFTQzdpeWM?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sat, 03 Oct 2026 01:03:46 GMT",
+      "summary": "Meta, Amazon, And The Real Question About Agentic Commerce &nbsp;&nbsp; forrester.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790989426.0
+    },
     {
       "title": "Experian's checks on AI shopping agents gain DataDome behavior monitoring - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcldHNGpKZkYwWmIyOXd0VFpzNzlKN2gzY0Nuc0ZzU004RHRkakYxMVJmZWZpR05iX2xqc3VoaHNSOGJldEV5dWcxQUZsa19RVHdJTkpuUkd0dDJ1STlRQUhOREZsSXJQcUpXME9FdnRfNmFzcGFUVV85SS1kLTdVTlEzR1NRU3JZNEhBN2ZDVGJ3T3VG?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Fri, 02 Oct 2026 21:41:51 GMT",
+      "published": "Fri, 02 Oct 2026 21:56:33 GMT",
       "summary": "Experian's checks on AI shopping agents gain DataDome behavior monitoring &nbsp;&nbsp; PPC Land",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1790977311.0
+      "published_ts": 1790978193.0
     },
     {
       "title": "Are Shoppers Ready for Muse AI Agentic Commerce? - Retail TouchPoints",
@@ -46,26 +57,26 @@
       "published_ts": 1790945579.0
     },
     {
-      "title": "Here’s what consumers want from AI shopping agents - Chain Store Age",
+      "title": "Mastercard Expands Agentic Commerce With New Trust Services - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS200U0hjaE85ZU1rdFVJbGMxdG0xcGRzOVB2dTcyNS1hVlZMckNGaGRlNkREVjA1bWdJSzFzdFJEcS1tTmloWk5GZHdXMmhXZ19ON1BOelpQdEhHbmczTzdJR2FGUEphQ254RUdCTS1ZdU5yNnV0OEkwNXVoeVNUR29BTlJ2SFRqZE9YMndEQTBrb00tYUh1Qnhyem5RWUFMNkNXaVFsTHk?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 02 Oct 2026 12:15:00 GMT",
+      "summary": "Mastercard Expands Agentic Commerce With New Trust Services &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790943300.0
+    },
+    {
+      "title": "Here’s what consumers want from AI shopping agents - chainstoreage.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iN3NLcnJfNzMzRk5ZQkN2T2ZOMGVJaE1yNlUzT3ZWWHZ0Tk4yb3BRcWcxdGQybHNwaFNBakttRGJHcXN1d0c5V0xMZURvVHp6ZWVaOTlUYjA3Mm5zbzRKNTA5eUtrLThkaTIyeG9Ca3pnWUVULS1GQU9n?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 01 Oct 2026 14:57:56 GMT",
-      "summary": "Here’s what consumers want from AI shopping agents &nbsp;&nbsp; Chain Store Age",
+      "summary": "Here’s what consumers want from AI shopping agents &nbsp;&nbsp; chainstoreage.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1790866676.0
-    },
-    {
-      "title": "Agentic Commerce Has A Consumer Trust Problem - forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzZKcUR4dzhwUzRKLXluQ1k0QUJPSFJibzVZcllWb0c3aXllYWRlVjVUNXdHdlZnUFNucnBuVDFYZUFSX3RwYndyWkszRVhtbjJrNHlMd1dxSXpCU08zNnRjQi04QUc0aHpyZWhvNTNKZVBRUFdYZGlxRUhTMTdGR05GSTNVSWRkS3V5dE1PbGxxTEtnTkI1QVVFVmhuQnc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 01 Oct 2026 14:39:36 GMT",
-      "summary": "Agentic Commerce Has A Consumer Trust Problem &nbsp;&nbsp; forbes.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790865576.0
     },
     {
       "title": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents - 24/7 Wall St.",
@@ -90,17 +101,6 @@
       "published_ts": 1790858052.0
     },
     {
-      "title": "Preparing for agentic commerce: What merchants need to do now - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTERDc1c3RlhZVWhqUFdWdlg0NzFELUY1enl6UG1fUnJWczBpOElkR0s5M0xWODFmemlhMVFLOXBSTExIUnU5Uko3TllrRjhVdFVZQTFSdlhicC1EVUNfOFlPSFdfVXJIOUQxV3k4Q1ktS1htalZnYzVJNGJjeXI2dUU1bF90NDlFN2JnQ201VC1QMlVUckdEZDZZV2JwQzVUaWpV?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 01 Oct 2026 04:34:44 GMT",
-      "summary": "Preparing for agentic commerce: What merchants need to do now &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790829284.0
-    },
-    {
       "title": "Stuck at 40k",
       "url": "https://www.reddit.com/r/shopify/comments/1wuq36p/stuck_at_40k/",
       "source": "r/shopify",
@@ -110,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: too expensive",
       "published_ts": 1790828841.0
-    },
-    {
-      "title": "Early Optimism Reigns on Agentic Commerce + Personal Agents at the Machine Earning AI Summit - Newcomer | Substack",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UGEyb2kzX0ItZWdOa1pqcm1TRGZuRHZSbXFrTW1tQjNtdllHOFVyT3RMRWNUQk5lUXlnYmdocFVZWk1xUXV3R1ZvbnpBdFc2a1BUZldndTVPaUR1U3JnelpweGw2NDYwTGVqMXV3?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 30 Sep 2026 22:22:40 GMT",
-      "summary": "Early Optimism Reigns on Agentic Commerce + Personal Agents at the Machine Earning AI Summit &nbsp;&nbsp; Newcomer | Substack",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790806960.0
     },
     {
       "title": "Agentic Commerce: Strategies That Win in Retail AI - Circana",
@@ -167,26 +156,26 @@
       "published_ts": 1790775809.0
     },
     {
-      "title": "The Future of AI Shopping Depends on Trust - Oxford Economics",
+      "title": "Trust in agentic commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjlZM25BeTRwejJyYzVjSk45d21QeHk3MmlnRnozZWx0d2pOSVNEdXF1S3FzNTBjbzlOU0dVWHh0WjNrR3BfR3ZjelRmSnpQVXFLU3FnMEc2SmdxYjRZZDJmazZaRHhlVG4wRjY0YW1UbmNRV1lLd01DdS1xeWJUOG5tSk5DSFVmMEN0dGZPRExVLWdnaXZaOVcyMW5WVDJkVjliZUNSdjAzWEh0cU02VTVRTVpsaXVU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 30 Sep 2026 13:37:27 GMT",
+      "summary": "Trust in agentic commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790775447.0
+    },
+    {
+      "title": "The Future of AI Shopping Depends on Trust - oxfordeconomics.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnFXbDJIcWl5dUlCaUk2d3VuRWZ0RHAwQV9MODUtMk4tYXpVSURvOGxRVjVPa2doejUyek80SDFkNWliS0RjZFhQelA5LVhHWm1tb3I5MFhtWWk2TC1OVnBZaWVmTFJKeWxNTXRxRWR5c05TYzRzMFJHUm5MaVlEOFZPdXFSdmhjZHNuYg?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 30 Sep 2026 13:01:56 GMT",
-      "summary": "The Future of AI Shopping Depends on Trust &nbsp;&nbsp; Oxford Economics",
+      "summary": "The Future of AI Shopping Depends on Trust &nbsp;&nbsp; oxfordeconomics.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1790773316.0
-    },
-    {
-      "title": "Mastercard Advances Agentic Commerce With New Trust and Intelligence Services - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekJVOTFiMnI0VGFzdldxdW5YRTh1V2lLdFY4RWJlOUtnT09CTF9CVVZOR3pfTk9sQWZ6TjZpcTgxNzNtUUplbHdPVG4xaFBPeXJfeEE5UWhRQ2l6bjhxMGhLUTlTb0tDMVBzcHJnNjM0M1l6VVMwZ0xlTVItVUpiZm1rME93dHJOb3NBX1JjWVp2a2ZPd2w4SDVOdkw4dDdjVUQ2bDVJSlBZdw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-      "summary": "Mastercard Advances Agentic Commerce With New Trust and Intelligence Services &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790773200.0
     },
     {
       "title": "Shopify Opens to Meta Muse; Amazon Balks",
@@ -313,23 +302,23 @@
       "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Fri, 02 Oct 2026 03:43:20 GMT",
+      "published": "Fri, 02 Oct 2026 03:11:22 GMT",
       "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1790912600.0
+      "published_ts": 1790910682.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdlZUNExDUV9fZkNzMFg3SzUwSXBlanR2bXRmY29ZNGJlWGFadWJtZjhHZGZOVWlRVzBNdXA5T3h2OXhxWEVVUDBUS1lxaW8wQ2c?oc=5",
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Thu, 01 Oct 2026 13:44:40 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Australia",
+      "published": "Fri, 02 Oct 2026 01:15:36 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1790862280.0
+      "published_ts": 1790903736.0
     },
     {
       "title": "Big CX News from Avaya, SAP, Klaviyo, & Talkdesk - CX Today",
@@ -343,11 +332,11 @@
       "published_ts": 1790806937.0
     },
     {
-      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - smallbiztrends.com",
+      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Mon, 28 Sep 2026 16:11:00 GMT",
-      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; smallbiztrends.com",
+      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
@@ -363,17 +352,6 @@
       "confidence": "medium",
       "reasoning": "Postscript + launches",
       "published_ts": 1790168400.0
-    },
-    {
-      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1790060400.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
@@ -561,14 +539,25 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Ecommerce marketing startup Yotpo raises $230m, hits $1.4 billion valuation - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmwwc29hUjRLaVdXTWFXS2lTYTRWM2ZzZ1RTSGRMYkZaRHlVbm82d3J4UEtmTTlYNlVBSHBVeGl4Y1l6ZWM5LU4wYlNQTlBSanhGSkI0bjZqY1FlNmpranZ3WTA5Vmp4ME9vWHZYWjFQTS1Kck9nYmRlUVJTT2lva0o3SmhucFdSY0FDaDJKNDhUZzQ3QWlNWFNVMWVZREx0RFgyMWRB0gGrAUFVX3lxTE9EX3ZxMFlpYWFBRlRwS1c3bXVVZm9oZVhLbVRMdl80LUYtZFoySFNHdnVOT2VhNmdaVW41azJiNlJLRkhLWmFxeVBwS0hLNjViRjlKbkhvSmlycHdTdXJKdTVsUi1pa2hGTDFORklHNWRwYzFzSWdBUkQ2Vkg4cURLWlJHM1FRUlVvbGFuSVBvTC1WNll6ZGpfZHlVTXFYWmFONnJvMnNBSTdJWQ?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Thu, 18 Mar 2021 07:00:00 GMT",
+      "summary": "Ecommerce marketing startup Yotpo raises $230m, hits $1.4 billion valuation &nbsp;&nbsp; The Times of Israel",
+      "classification": "threat",
+      "confidence": "high",
+      "reasoning": "Yotpo + raises, valuation",
+      "published_ts": 1616050800.0
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 51,
-    "opportunities": 27,
+    "total_fetched": 268,
+    "kept": 50,
+    "opportunities": 26,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 15.0
   }
 }
