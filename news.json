@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T08:56:40.338505+00:00",
+  "updated": "2026-10-04T14:32:43.200569+00:00",
   "items": [
     {
       "title": "Meta, Amazon, And The Real Question About Agentic Commerce - Forrester",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790989426.0
+    },
+    {
+      "title": "Consumers favor AI shopping assistants from brands they already use and trust - CX Dive",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDhZaDlMaG9ub3BTVDFybjFVRlYyR0ZPbDVoM0FudzdzLThJV2VTTjhSSXJUa1BhSUN5bFBQamNHMGFWMlVtOWtjS3VVczlNS0RvcTBxM2ZsbEpCVXZTRldZQW9UWmZmLXVQYkJOUjBiQnNCTjJUcjJJd2g2UWtrY3ZERHF4RjhUbUFDVkc2ZEVCNUtvcHVzRzhhT1pKVWp2QzRrZTg4czVZbGZPMlNfeXNuYw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 02 Oct 2026 20:43:28 GMT",
+      "summary": "Consumers favor AI shopping assistants from brands they already use and trust &nbsp;&nbsp; CX Dive",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790973808.0
     },
     {
       "title": "Are Shoppers Ready for Muse AI Agentic Commerce? - Retail TouchPoints",
@@ -57,11 +68,11 @@
       "published_ts": 1790866676.0
     },
     {
-      "title": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents - 24/7 Wall St.",
+      "title": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents - 247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFNPSU9vVC12aDFWeDhITk8xbXFOOWhVc0Z6RjV3QVplbU5MRFM4aGZWXzNJcXhoQURZN3daN0hKREZCYWdRa0pHYTJ3TlhOU0NTb21PSnhtZFZVbEhDd21rYk0wdC11VHdkT1d0Tm83WjNZeUlwLUZkaUtPTTFVdXRSVXdrYTJWLUwtaHpmUGxfWFV2TDdNWDBKdzYyWFhEQzBTQU9UM2Zpc2dsX1NDRDhBNkNPM05oVnl3T295aTE?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 01 Oct 2026 13:05:00 GMT",
-      "summary": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents &nbsp;&nbsp; 24/7 Wall St.",
+      "summary": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents &nbsp;&nbsp; 247wallst.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -112,11 +123,11 @@
       "published_ts": 1790786826.0
     },
     {
-      "title": "AI shopping agents need receipts - Payments Dive",
+      "title": "AI shopping agents need receipts - paymentsdive.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wZExqX0NyRWRqMDFSWk5NdlE1a3lpZ001VkYtRC1kNWJxeUJEMldMRTZvaVZiTFVBbmhrOTIxT3VYNVlxcnV2Z2VVXzF3RGdZcENlb1IyNGctRGZJdTFIYXlWU2lHaWNsMXRrWjl4UXVSVThobmlyUEQ3cXJQUG8?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Wed, 30 Sep 2026 14:33:12 GMT",
-      "summary": "AI shopping agents need receipts &nbsp;&nbsp; Payments Dive",
+      "summary": "AI shopping agents need receipts &nbsp;&nbsp; paymentsdive.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -143,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790775447.0
+    },
+    {
+      "title": "The Future of AI Shopping Depends on Trust - Oxford Economics",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnFXbDJIcWl5dUlCaUk2d3VuRWZ0RHAwQV9MODUtMk4tYXpVSURvOGxRVjVPa2doejUyek80SDFkNWliS0RjZFhQelA5LVhHWm1tb3I5MFhtWWk2TC1OVnBZaWVmTFJKeWxNTXRxRWR5c05TYzRzMFJHUm5MaVlEOFZPdXFSdmhjZHNuYg?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 30 Sep 2026 13:01:56 GMT",
+      "summary": "The Future of AI Shopping Depends on Trust &nbsp;&nbsp; Oxford Economics",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790773316.0
     },
     {
       "title": "Shopify Opens to Meta Muse; Amazon Balks",
@@ -211,17 +233,6 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - retailbrew.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
-      "source": "Google News: abandoned cart recovery",
-      "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; retailbrew.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1775051648.0
-    },
-    {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -288,11 +299,11 @@
       "published_ts": 1790806937.0
     },
     {
-      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - smallbiztrends.com",
+      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
       "source": "Google News: Mailchimp",
       "published": "Mon, 28 Sep 2026 16:11:00 GMT",
-      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; smallbiztrends.com",
+      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
@@ -308,6 +319,17 @@
       "confidence": "medium",
       "reasoning": "Postscript + launches",
       "published_ts": 1790168400.0
+    },
+    {
+      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1790060400.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - getlatka.com",
@@ -354,11 +376,11 @@
       "published_ts": 1787295600.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - riponpress.com",
+      "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; riponpress.com",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; RiponPress.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -387,11 +409,11 @@
       "published_ts": 1782716400.0
     },
     {
-      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
+      "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; Fortune",
+      "summary": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind &nbsp;&nbsp; fortune.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
@@ -509,11 +531,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 46,
-    "opportunities": 22,
-    "threats": 24,
+    "total_fetched": 269,
+    "kept": 48,
+    "opportunities": 23,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.3
+    "runtime_seconds": 16.0
   }
 }
