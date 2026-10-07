@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-07T07:52:29.589244+00:00",
+  "updated": "2026-10-07T14:52:27.494477+00:00",
   "items": [
+    {
+      "title": "Shopware Brings Clarity to Agentic Commerce with Agentic Commerce Maturity Index - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenBhTXVaMm0xcmtMcS00RGVGeVE1dWNZUm5Db2Y2WjBrS3VsV3RmRDRmOFhBRE0ySGhHSGV2cHJpS3FvNHBCNHBLdERXRWxKWUZqM19aRzhvYzVDblhsa0hHcXBsaGJhcWlIZU81UVpUME9GWEk1Ul9ORVE0VDV0WGNYUUtJZzhSQi1SbWF3TXJ0V2FfMUFBUV9mOGFvcEhGSnFLeFZ3bW9xTGs?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 07 Oct 2026 13:52:30 GMT",
+      "summary": "Shopware Brings Clarity to Agentic Commerce with Agentic Commerce Maturity Index &nbsp;&nbsp; Macau Business",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791381150.0
+    },
     {
       "title": "Meta Wants to Write the Industry Standards for Safe Agentic Commerce, Report Says - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVd4dXRMV3NzOFA3UXo5NVkwM3hqSWdyRHlPajQzNkVEVjZ4WUFTazN2WFZFcTE2LXRjSHJiMTNUOXdLOV93d0xwdUFxOTU5cmNaUllaY2wyWDlHY29sQ1JESWFUanQ5OFNiOVhWMFZwZlVRWE05T25WaXQzdXE4ZTVISEV1RVhValJ2NE93MWdTME5pel9uWng1Tm1KdzMzTEtKb0NiVXhnMnp4b3NIQg?oc=5",
@@ -44,28 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1791321731.0
-    },
-    {
-      "title": "TikTok debuts agentic commerce tools to let users chat and buy directly in feed - Marketing4eCommerce",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zY0Z6Qno4VXAyajR2eG41Z1daWFVHNmRxa08zNlY4ZjVzU0M4Z0JzMmtONzhqUDlLbkNUOEoxMEkwVmtBbnJFN2E1bmR1SEVSY19UalMtNG1rYU5pMXJVTFBmRDc0SXlyNEE3YUVRSzI0bkk?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 06 Oct 2026 16:48:35 GMT",
-      "summary": "TikTok debuts agentic commerce tools to let users chat and buy directly in feed &nbsp;&nbsp; Marketing4eCommerce",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791305315.0
-    },
-    {
-      "title": "Shopify (SHOP) Can Benefit from Every Winner in Agentic Commerce - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXBVTnNjd0hoOVJMODlOM1ZGd3REdHFTNklwQVhnbUl4cHFSOUhfakV0MURlUlRsbVFhUVpDUGI0MUdoTlUyRHpqTkJHeGpUc2ZyckM5cFVWYmxDeHdtZUg4WFFOUk9aT2tvYkJHaXV3anJKTlFpOS1VcVlQNHltS0RDWVl1R1drQVJhbzJzckFGT001enpR?oc=5",
-      "source": "Google News: Shopify",
-      "published": "Tue, 06 Oct 2026 12:40:06 GMT",
-      "summary": "Shopify (SHOP) Can Benefit from Every Winner in Agentic Commerce &nbsp;&nbsp; TipRanks",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791290406.0
     },
     {
       "title": "Rezolve Ai Showcases Agentic Commerce Platform at Nasdaq Investor Day and Publishes U.S. AI Visibility Study - Rezolve Ai",
@@ -121,6 +110,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1790989426.0
+    },
+    {
+      "title": "Here’s what consumers want from AI shopping agents - Chain Store Age",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iN3NLcnJfNzMzRk5ZQkN2T2ZOMGVJaE1yNlUzT3ZWWHZ0Tk4yb3BRcWcxdGQybHNwaFNBakttRGJHcXN1d0c5V0xMZURvVHp6ZWVaOTlUYjA3Mm5zbzRKNTA5eUtrLThkaTIyeG9Ca3pnWUVULS1GQU9n?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 01 Oct 2026 14:57:56 GMT",
+      "summary": "Here’s what consumers want from AI shopping agents &nbsp;&nbsp; Chain Store Age",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790866676.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -420,17 +420,6 @@
       "published_ts": 1778742000.0
     },
     {
-      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - CustomerThink",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUdIbUZxUnNoT2h5ZTBjR3R6ZFNVcEhQRk1fem9Vd0ttUkVwZTFEX25mVFJCTWhVTDFObkRGY2JLajNESkh6S1lTS1Y1QTZBTy1DRE9qWkJMei1SNTJtZjFQejlXSzN2U3RRSW51MnpJSTZSd2ZTOVpCWllVWFVZNHh6SFFyR2pWVEVwMGRvdThhOFFf?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; CustomerThink",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
@@ -521,10 +510,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 47,
+    "kept": 46,
     "opportunities": 23,
-    "threats": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.0
+    "runtime_seconds": 11.9
   }
 }
