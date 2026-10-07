@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T01:06:16.728943+00:00",
+  "updated": "2026-10-07T07:52:29.589244+00:00",
   "items": [
     {
       "title": "Meta Wants to Write the Industry Standards for Safe Agentic Commerce, Report Says - Gizmodo",
@@ -35,6 +35,17 @@
       "published_ts": 1791322044.0
     },
     {
+      "title": "Payment providers can build merchant trust by reducing agentic commerce risks - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFgtN01QRFdnMjFHLTE1Ynl6ajFpY2pFZmZoQmRjSW10eS1qZWFIUWVpTGVTT0xUVF8xM0ZuQ0lmZWJhVXFZT2pnUDVoaXUzNnBSSHhCdEFnem1JMEpvSjRGdmg0MGdkSmRvSjd1YlNXM1E0Rm1NWGpMbWtuSk1sVjlQeXN2QjlsQXZjQWVzZ25mRWVIYVl4eTA3STk5ajA4SjV1Q0tXVlpZcE0?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 06 Oct 2026 21:22:11 GMT",
+      "summary": "Payment providers can build merchant trust by reducing agentic commerce risks &nbsp;&nbsp; eMarketer",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791321731.0
+    },
+    {
       "title": "TikTok debuts agentic commerce tools to let users chat and buy directly in feed - Marketing4eCommerce",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zY0Z6Qno4VXAyajR2eG41Z1daWFVHNmRxa08zNlY4ZjVzU0M4Z0JzMmtONzhqUDlLbkNUOEoxMEkwVmtBbnJFN2E1bmR1SEVSY19UalMtNG1rYU5pMXJVTFBmRDc0SXlyNEE3YUVRSzI0bkk?oc=5",
       "source": "Google News: agentic commerce",
@@ -68,17 +79,6 @@
       "published_ts": 1791288238.0
     },
     {
-      "title": "Agentic Checkout Paths: Constructor Lets Shoppers Pay Inside the AI Shopping Agent - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Wk9Ec1pPNUlzY1l4VnIzcTBUYkFYa1VsM2NremFFZ1lzT01QbU0wYktmZERxSkdnNWtfb3RxWWlxYUNJWlA1bm90WkpSVEJMSGt6TFdGQ0Qya3FRaEljcnRfNEVJNjdX?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 06 Oct 2026 09:47:04 GMT",
-      "summary": "Agentic Checkout Paths: Constructor Lets Shoppers Pay Inside the AI Shopping Agent &nbsp;&nbsp; Trend Hunter",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1791280024.0
-    },
-    {
       "title": "Turn TikTok Scrolls into Sales: Inside Our New Agentic Commerce Partnership - Salesforce",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jLXdVanE5cDJPM2RCMEN0a1c1aGRFenU3LWE5Wm9aZ090aEI2cXJHajMzYWkxOHhMYjg2OVhzTnFpQ3BicXZMUTNzbDF0YWRRR3JBaW5zUlZ4MTV5NTlzWUEtclJQVTN3WHRSMUpNX21ndUFm?oc=5",
       "source": "Google News: agentic commerce",
@@ -90,15 +90,26 @@
       "published_ts": 1791244083.0
     },
     {
+      "title": "Fed’s Waller discusses AI in payments and agentic commerce - JDSupra",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGRpSUFGQXY1dVJqNnhweUMyakpEaHdnQ0dGYW5qSW5BN29rLURkMUR1ZHAxeFJybDNMa0FkOTNHT0VZZm5iREVmQ3VzQ0MyV1VpdVdOU2tQWlZQN3ZLN1Q2d0FvTXVPTGZjRlNxSjBFcUUtVDZoVlJLWXVHVXlDMVQ3dHZrczQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 05 Oct 2026 20:49:45 GMT",
+      "summary": "Fed’s Waller discusses AI in payments and agentic commerce &nbsp;&nbsp; JDSupra",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791233385.0
+    },
+    {
       "title": "Why retailers are divided over AI shopping agents - Marketing Tech News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbUxzNmRGNEN6blVnMTJyVUc2cXpYSmdadldoai1nMU9CWUx4S1dlcnRHdzlQNVk2aWNvVWVxS0tVX3hLN0RhZkRFSk44OWRySmVxeURJMlN3TE92MnkyWUZsdUZNdlp5SWc2QVA5MFlXSGljZWs0?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Mon, 05 Oct 2026 16:56:35 GMT",
+      "published": "Mon, 05 Oct 2026 09:49:28 GMT",
       "summary": "Why retailers are divided over AI shopping agents &nbsp;&nbsp; Marketing Tech News",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1791219395.0
+      "published_ts": 1791193768.0
     },
     {
       "title": "Meta, Amazon, And The Real Question About Agentic Commerce - Forrester",
@@ -244,6 +255,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Klaviyo, Inc. $KVYO Shares Acquired by Congress Asset Management Co. - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjk1aktlMVcwRW9XWHFvOVdPSDUzcjhIdW1QVXRqc3dPMEtqLU9WSllVejdtMzFhc3did1U3R3BQNDlXU05wbWp1Q05zM3VkMUtpSGsxb2E4N29KVjFQRzF6TnVmVEJScDAtdUdHRVhTUk00cm05LXJKZ0hyWUFhdlZiaGFndEh0OVRlMmtGUEZHbzZUZG1xZzlCSFVJWnRLYjV4TmdPZ0tLd0w2bXV2RVVDdHd4R0Y5cHJsRk1MQmF2MTA?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 07 Oct 2026 07:24:41 GMT",
+      "summary": "Klaviyo, Inc. $KVYO Shares Acquired by Congress Asset Management Co. &nbsp;&nbsp; MarketBeat",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquired",
+      "published_ts": 1791357881.0
+    },
+    {
       "title": "ShipStation launches Ship with Walmart - Mass Market Retailers",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Wc2hqVkIyTENrUmpLdXh2TExpX0V2MHBIYkZkai05QldROExZT0ptSENRUmxJbDZEYW12QUpGaFBhdGo2ZkpHRzgxNFV3b3hBd0hfY1FmclRxVjhlN2psR1daX25kMnhjVllNNi11VG1fb0Z0Q2hFQkdJYw?oc=5",
       "source": "Google News: ShipStation",
@@ -269,12 +291,12 @@
       "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Mon, 05 Oct 2026 13:27:20 GMT",
+      "published": "Mon, 05 Oct 2026 01:44:57 GMT",
       "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1791206840.0
+      "published_ts": 1791164697.0
     },
     {
       "title": "Postscript Launches Email on a New AI-Native Retention Marketing Platform - PR Web",
@@ -288,11 +310,11 @@
       "published_ts": 1790168400.0
     },
     {
-      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
+      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUUt2STFSTVQ5cy1lSkNTbDRkNHlvVUNKLVh1a2pVaUdMRzdmZGstM3otRDQwYnY3bzI2dmdPV3VWTkhtaWdXb0R0TTRIN24tMEJ0cEVLOXk1d2Qza1VSQXp3Zmh2M2VZeThwS2c5WGxob24tWXYwdmNvdkFncm5BbnRyb25ZbnM3QTJqTUoyZTFYaGxTV3FlaDFXZEFCOGVxRHVRdjlkYTdmaW1WQS05QXp6d1UwOGptXzhDT0dfem1TdG4wQlI0eEQ3N3hHMTJPbk8yUmo1M3ozVXlWWkRza0VRdUlFMzJ3Wk9Hb0F5MGJvcTM3VkFHQlNFN21sZEVuZWdQUlFtWThtcWdwVXNyYw?oc=5",
       "source": "Google News: Attentive",
       "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Business Wire",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
@@ -499,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 45,
-    "opportunities": 22,
-    "threats": 23,
+    "kept": 47,
+    "opportunities": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.8
+    "runtime_seconds": 12.0
   }
 }
