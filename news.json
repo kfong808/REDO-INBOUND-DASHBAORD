@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T23:40:07.841269+00:00",
+  "updated": "2026-10-10T03:13:15.527290+00:00",
   "items": [
     {
       "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
@@ -343,17 +343,6 @@
       "published_ts": 1789196400.0
     },
     {
-      "title": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) - GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "Yotpo Revenue 2024: $213M Est. ARR, $1.4B Valuation (2021) &nbsp;&nbsp; GetLatka",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Yotpo + valuation",
-      "published_ts": 1789023600.0
-    },
-    {
       "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
       "source": "Google News: ShipStation",
@@ -528,6 +517,17 @@
       "confidence": "high",
       "reasoning": "Yotpo + raises, valuation",
       "published_ts": 1616050800.0
+    },
+    {
+      "title": "Yotpo Revenue 2024: $213M Est., $436M Raised - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWWVId0ZETnA1ZFkyaE5DSjYybnJQVFNjbWxIZG9OdkNrbHBFSW5MUVNfUHctSm9nc2hCT3piQ0t3OXRJNngwelFTTkQ?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Sat, 05 Oct 2019 01:39:03 GMT",
+      "summary": "Yotpo Revenue 2024: $213M Est., $436M Raised &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + raised",
+      "published_ts": 1570239543.0
     }
   ],
   "stats": {
@@ -536,6 +536,6 @@
     "opportunities": 26,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 11.1
   }
 }
