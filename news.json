@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-11T02:45:51.453927+00:00",
+  "updated": "2026-10-11T09:27:06.273611+00:00",
   "items": [
+    {
+      "title": "Deep Dive: Personal Agent Protocol and Agentic Commerce: By Sam Boboev - Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFIzbndLc3ZLbGxlcWVUVzhKU1NHRVNfRGxLbFBVaHRlQU5qTlNRMTFnQnJHbzBOZVhWZ1pMX0YyaGlxdjd2Tm1nNXVqaXZwNjFGMDR5WEJXcTZqN0d4Rll1YkN3MUdMd1F2YXRLZkU4S3J3aG91STctd0FFamJtdXFoRE1EalFjeUFMS1RPYW9qV3ZBdlUxNDAxb180dw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sun, 11 Oct 2026 08:24:59 GMT",
+      "summary": "Deep Dive: Personal Agent Protocol and Agentic Commerce: By Sam Boboev &nbsp;&nbsp; Finextra Research",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791707099.0
+    },
     {
       "title": "Alternatives to Shopify Card",
       "url": "https://www.reddit.com/r/shopify/comments/1x2cevo/alternatives_to_shopify_card/",
@@ -112,6 +123,17 @@
       "published_ts": 1791442800.0
     },
     {
+      "title": "Meta discusses protocols for agentic commerce - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0lpNXRiT29jdDBWZnkweEdua2R5MnJxQUplaUw5QmIxaEJwbnAxcDFDdEdGdEstMDBFM2J0ZFota092TEZiUGpocWoyNmxuVThSYkVyQnMwUmpxUnNkNV9WMDRVeVBwS1RrMi1mVDBUSm5rWXE4OTJVaGkyd0toNGpDUUw2YUdBU3dzOUxzRWFrUUQ4aHc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 07 Oct 2026 23:27:07 GMT",
+      "summary": "Meta discusses protocols for agentic commerce &nbsp;&nbsp; Social Media Today",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791415627.0
+    },
+    {
       "title": "How agentic commerce helps brands like Willy Chavarria optimize for BFCM - Modern Retail",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjhKSXhvSm1yeXIwX3EyMVUtRFV2M25RVkZGYm4tUjUxZFhEZjBIWVhaSU45R0o5NnpGWlU0MmxMRGVsZFpCOVo4cl9JNXJnZkFmXzBpRmRocUYtWWpTNmtkS3AtV0x6X1lIQW1VVUwzblNVMldVaDZxMVNpbFIzR25JOUVBcE1pSlJGT21LeXhCUUVaRHd4MTlNV0tBV2JkTjJIMDY4eDlYaFluelVOTw?oc=5",
       "source": "Google News: agentic commerce",
@@ -198,17 +220,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1790492400.0
-    },
-    {
-      "title": "Agentic commerce: Enabling agents to understand, anticipate and act - Qualcomm",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS01QbkljNzc1aktldDNQN0Myb09lY1R0bXZnTWVJbVl1NDNOVHhnS1pCQ3c1SHloRXNWcjc2VVJoSEpyNzZVWmR6b2lfc2NqTllyNmQ3MlhMTTFNcmhGb0xoaVltWGVDa0VxOUVfa3ZSN18yeE9wR3dYR3RSMmNJZXh0Rk0yQQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 24 Sep 2026 20:30:00 GMT",
-      "summary": "Agentic commerce: Enabling agents to understand, anticipate and act &nbsp;&nbsp; Qualcomm",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790281800.0
     },
     {
       "title": "Shopify Opens to Meta Muse; Amazon Balks",
@@ -376,6 +387,17 @@
       "published_ts": 1789196400.0
     },
     {
+      "title": "Attentive Revenue 2024: $308.7M Est., $7B Valuation (2023) - GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlBhLS0zUlVWUkdvSjdfMmVyV2RRUFpHVjU0bmZIVFJpZVJKUTBheDV6U1ZHM2kyeDctVVFiTFB2aEJiRzZVSWtmV0VtbTNFcTVqSA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "summary": "Attentive Revenue 2024: $308.7M Est., $7B Valuation (2023) &nbsp;&nbsp; GetLatka",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + valuation",
+      "published_ts": 1789023600.0
+    },
+    {
       "title": "Lightspeed and ShipStation Partner to Unify In-Store and Online Fulfillment - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2FpVkZHRllXdUppSmNOaU03eHhEeWU3WDBFbWZvQkFpbDAxc1NBU1prY3VRTThQcXIybVkySDVZbUl4elViTFlONGl4djRvaHlfMXdfVXlLMlpCc1JGRldjekF3QXJldkpPLXJQVjZ5T3hTTkd4NHlic0dHRlJUSlBUOEpUX2xZQlNyanlIMW82TkZpSy1NYk1FNTdFTzhjcHZUaTU4SGdpNkhZY1hxaDBycHpRT1d1SVU3OXlJbktXTUFQaGxpUUp1Yw?oc=5",
       "source": "Google News: ShipStation",
@@ -541,15 +563,15 @@
       "published_ts": 1631170800.0
     },
     {
-      "title": "Ecommerce marketing startup Yotpo raises $230m, hits $1.4 billion valuation - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmwwc29hUjRLaVdXTWFXS2lTYTRWM2ZzZ1RTSGRMYkZaRHlVbm82d3J4UEtmTTlYNlVBSHBVeGl4Y1l6ZWM5LU4wYlNQTlBSanhGSkI0bjZqY1FlNmpranZ3WTA5Vmp4ME9vWHZYWjFQTS1Kck9nYmRlUVJTT2lva0o3SmhucFdSY0FDaDJKNDhUZzQ3QWlNWFNVMWVZREx0RFgyMWRB0gGrAUFVX3lxTE9EX3ZxMFlpYWFBRlRwS1c3bXVVZm9oZVhLbVRMdl80LUYtZFoySFNHdnVOT2VhNmdaVW41azJiNlJLRkhLWmFxeVBwS0hLNjViRjlKbkhvSmlycHdTdXJKdTVsUi1pa2hGTDFORklHNWRwYzFzSWdBUkQ2Vkg4cURLWlJHM1FRUlVvbGFuSVBvTC1WNll6ZGpfZHlVTXFYWmFONnJvMnNBSTdJWQ?oc=5",
+      "title": "Yotpo launches new partner programme - - Enterprise Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOal9PVllKZ0FvSHNDY0RTQk9fcjdZaVJzX3lCejRKR081a25IY1J3V0RiYkNVVDRnOTFqWHFqV2pEV3FXNGxLZUhSMnBibEVGdjVrLXU4X3N0SmtqV0NOR18xT0pFdFFDbzloQzYtcGgzSUFDV3pUY0Q1ZGU2RThOSEVGOEF3cWtEZ3c?oc=5",
       "source": "Google News: Yotpo",
-      "published": "Thu, 18 Mar 2021 07:00:00 GMT",
-      "summary": "Ecommerce marketing startup Yotpo raises $230m, hits $1.4 billion valuation &nbsp;&nbsp; The Times of Israel",
+      "published": "Fri, 21 May 2021 07:00:00 GMT",
+      "summary": "Yotpo launches new partner programme - &nbsp;&nbsp; Enterprise Times",
       "classification": "threat",
-      "confidence": "high",
-      "reasoning": "Yotpo + raises, valuation",
-      "published_ts": 1616050800.0
+      "confidence": "medium",
+      "reasoning": "Yotpo + launches",
+      "published_ts": 1621580400.0
     },
     {
       "title": "Yotpo Revenue 2024: $213M Est., $436M Raised - GetLatka",
@@ -565,10 +587,10 @@
   ],
   "stats": {
     "total_fetched": 267,
-    "kept": 51,
-    "opportunities": 29,
-    "threats": 22,
+    "kept": 53,
+    "opportunities": 30,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.5
+    "runtime_seconds": 11.9
   }
 }
