@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T00:05:02.255314+00:00",
+  "updated": "2026-10-12T06:43:46.584463+00:00",
   "items": [
     {
       "title": "Deep Dive: Personal Agent Protocol and Agentic Commerce: By Sam Boboev - Finextra Research",
@@ -58,14 +58,14 @@
     },
     {
       "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHNsU0ZKRTlQSmd3LUIyUHVFRERSMUxFTDlCSk9KNmIzNlo5eHE2dW4wRloyRU85Sm1rNERUampVSHJTeU9YcjdBYXRUdGJBWGVtd0pHZE5vWURTMkQ3OGlnZl9zQ1hSaEd3WkpTWThZa3lQUGpWcTNzckhBeDhZNVY3cW5OOF82MkhxdWVZdHoxeTc4YWfSAZYBQVVfeXFMTnBzbFNGSkU5UEpndy1CMlB1RUREUjFMRUw5QkpPSjZiMzZaOXhxNnVuMEZaMkVPOUptazREVGpqVUhyU3lPWHI3QWF0VHRiQVhlbXdKR2ROb1lEUzJENzhpZ2Zfc0NYUmhHd1pKU1k4WWt5UFBqVnEzc3JIQXg4WTVWN3FuTjhfNjJIcXVlWXR6MXk3OGFn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBSWnpRNHg4MXdmUGw4SjBCNzN2N2ZDdjVLN3JhRlNhZ1dEZ2FhaUZmbU81VVE4U2hvS3RhQW1rQTJpRzNCZXVJMGxJaVczLVNKUkxsSG1FcEhNWTh2SGdrUzVHaVlxSXVESndvLWdkaGVnQmJyN1FaVXRpeTJIRWpPYk4zUm9QTXd1VF9fMVDSAZYBQVVfeXFMTnBzbFNGSkU5UEpndy1CMlB1RUREUjFMRUw5QkpPSjZiMzZaOXhxNnVuMEZaMkVPOUptazREVGpqVUhyU3lPWHI3QWF0VHRiQVhlbXdKR2ROb1lEUzJENzhpZ2Zfc0NYUmhHd1pKU1k4WWt5UFBqVnEzc3JIQXg4WTVWN3FuTjhfNjJIcXVlWXR6MXk3OGFn?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Fri, 09 Oct 2026 17:33:22 GMT",
+      "published": "Fri, 09 Oct 2026 19:20:07 GMT",
       "summary": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales &nbsp;&nbsp; Digital Commerce 360",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1791567202.0
+      "published_ts": 1791573607.0
     },
     {
       "title": "AI Shopping Agents Like Muse Reshape Retail Stock Landscape - The Tech Buzz",
@@ -88,6 +88,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1791547200.0
+    },
+    {
+      "title": "Six Banks Just Published Agentic Commerce Guardrails — But They’re Voluntary - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVBsaldrLWtab1MzeWR6cHgyblBMdkp0b3h4TldfTUZMR004c3l6U19zS0dRZjh0UXNmeFQzcHZjcUVCNlFvZ3dfbmhMMmtoMnJIQ3dNMGhnR3V3bmdydTE5RmxwV2tOVG0wNzZPZmdnUnRvYm9Scy14Wm9YMS1vc2dEcE84dklSMkFrcHB0blpyV1d0OVcybkt3N00?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 09 Oct 2026 11:27:13 GMT",
+      "summary": "Six Banks Just Published Agentic Commerce Guardrails — But They’re Voluntary &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791545233.0
     },
     {
       "title": "Who’s behind the AI agent? Solving the identity challenge in agentic commerce - Mastercard",
@@ -121,6 +132,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1791466106.0
+    },
+    {
+      "title": "The RealReal expands AI shopping agent to all members - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGJYQlNDY0pMS0NmY2NwbjBySUNja2kwc3dCSGluMk50cERsdlBsUk5Yc0VEUjhVWm94Y2NWSDlNVE1GN09VN3dGWHo5YmlLMk1KM1R3NGFtLUNuOE5ETVRYVkZ3cVZGZWczaE5UNVNoTUc1YXo0WWhoTzVQRUUwOHpPZmZ2YkxzWE84VHMwVW1hOTZoSkNvbW9SVkVOUDRaQllGbDNONmdjd2o1NU9V?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 08 Oct 2026 12:17:21 GMT",
+      "summary": "The RealReal expands AI shopping agent to all members &nbsp;&nbsp; Investing.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1791461841.0
     },
     {
       "title": "The RealReal Expands Ask TRR AI Shopping Agent With Google Cloud's Gemini Enterprise - PR Newswire",
@@ -277,6 +299,17 @@
       "published_ts": 1779260400.0
     },
     {
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
+      "source": "Google News: abandoned cart recovery",
+      "published": "Wed, 01 Apr 2026 13:54:08 GMT",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1775051648.0
+    },
+    {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -387,6 +420,17 @@
       "published_ts": 1787295600.0
     },
     {
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1787122800.0
+    },
+    {
       "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -425,6 +469,17 @@
       "source": "Google News: Omnisend",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; CustomerThink",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
@@ -499,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 267,
-    "kept": 45,
-    "opportunities": 28,
-    "threats": 17,
+    "kept": 50,
+    "opportunities": 31,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.8
+    "runtime_seconds": 11.9
   }
 }
