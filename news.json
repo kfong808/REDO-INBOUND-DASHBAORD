@@ -1,16 +1,38 @@
 {
-  "updated": "2026-10-12T06:43:46.584463+00:00",
+  "updated": "2026-10-12T16:16:29.765478+00:00",
   "items": [
     {
-      "title": "Deep Dive: Personal Agent Protocol and Agentic Commerce: By Sam Boboev - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFIzbndLc3ZLbGxlcWVUVzhKU1NHRVNfRGxLbFBVaHRlQU5qTlNRMTFnQnJHbzBOZVhWZ1pMX0YyaGlxdjd2Tm1nNXVqaXZwNjFGMDR5WEJXcTZqN0d4Rll1YkN3MUdMd1F2YXRLZkU4S3J3aG91STctd0FFamJtdXFoRE1EalFjeUFMS1RPYW9qV3ZBdlUxNDAxb180dw?oc=5",
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+      "source": "Hacker News",
+      "published": "Mon, 12 Oct 2026 15:36:21 +0000",
+      "summary": "Comments",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: shutdown",
+      "published_ts": 1791819381.0
+    },
+    {
+      "title": "Banks Share Principles for Agentic Commerce - FintechNews CH",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVNPSHpsZUI0Z2hiLW9uOG5Ob0FTWXF5YXhFMzM0a05VRFBFbmZENnBaOFBLZENmdFluUnJCQ0xsbElaQmJrYVI0cnVKNE9FVG84ZXBBZmh4NWZkcXNtVnhhLTVjQ0lDYk9YaUVpVmFWQVpPODExRHhUSndUWFltY2tRd291eEUzZ3Vj?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Sun, 11 Oct 2026 09:20:42 GMT",
-      "summary": "Deep Dive: Personal Agent Protocol and Agentic Commerce: By Sam Boboev &nbsp;&nbsp; Finextra Research",
+      "published": "Mon, 12 Oct 2026 08:00:47 GMT",
+      "summary": "Banks Share Principles for Agentic Commerce &nbsp;&nbsp; FintechNews CH",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791710442.0
+      "published_ts": 1791792047.0
+    },
+    {
+      "title": "From E to A: Agentic Commerce and the Impact on Logistics Real Estate - DWS Asset Management",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPampVS3Y0VXR2aGdmWDBfeDljQ1R0Z3AtbGVRNDROaGQ5UjNNekRRSEZiaTRJVnJSOExVRk9BX0ZaQmVNTVJpVGhpcnJLRV9YMDN4WnF1RjFvZzRXNmdWeXd0NUkwTXZFbTZFS2dEaGFSS0hBRW5ubTE4eW9wbGZ2LU1kc1BldU9ON0I1WXZGYi1VVGpoUVM5VGN2aTlpQ0gtN1hwZkRBYkIwVHRRU3J1MHd6NG5MdFBrM00xRDU3QTlocDJTVE5oU1Fn?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sun, 11 Oct 2026 10:52:12 GMT",
+      "summary": "From E to A: Agentic Commerce and the Impact on Logistics Real Estate &nbsp;&nbsp; DWS Asset Management",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791715932.0
     },
     {
       "title": "From Attention to Intention: Why Agentic Commerce Demands a New Security Architecture - Cybersecurity Insiders",
@@ -24,17 +46,6 @@
       "published_ts": 1791709657.0
     },
     {
-      "title": "From E to A: Agentic Commerce and the Impact on Logistics Real Estate - DWS Asset Management",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTQzOXNEaWFqZXh5cmJnR3REVFFzVW1CdW5ibFJsZHR2MmZhMlg1QWRReUVaS041QlpBNi15N1p3SnRCR3A0empRQ0dzekpPMGtld01lQ2w0VTVNRDBpUzBBTTZnYk1famVmbENtbjZPQlVrb3M3QlY0QVJiWXJUTTlOY1d5bnNldkFzajVDcnJlcm5sOF9ULVJzZW5jVFd4cnpxUGhiRFViZmZEblhnSTh6WmdjbC1EbFVRUzU1RnhjM2M5VHhlZjBB?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sat, 10 Oct 2026 19:39:12 GMT",
-      "summary": "From E to A: Agentic Commerce and the Impact on Logistics Real Estate &nbsp;&nbsp; DWS Asset Management",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791661152.0
-    },
-    {
       "title": "Alternatives to Shopify Card",
       "url": "https://www.reddit.com/r/shopify/comments/1x2cevo/alternatives_to_shopify_card/",
       "source": "r/shopify",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: alternatives to",
       "published_ts": 1791629799.0
-    },
-    {
-      "title": "Agentic commerce and enterprise AI at Cannes - Think with Google AU & NZ - Google Business Profile",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNSGwza2trVVR6VkIwT045ZXlYVng4bUVHZFl2MzQtZXdETVpDT3M3aEp2M3ZnVFo0ZVlLOWp2TG43ckpDMU1mTVFkaG5zTE51cTI5UlNrMWZETURWWUVTREFOR2M2VHp1UHFaVVNkSFFwZ2ZHNE5ORUFsNWkwMjgwVk1ianJBSDJOdVl4QU9WVVpnLU96VE5LaFJ3aFlMV1M1VU52ZUZpM1ZrS2FvQ25lTndUVVRjazVrcW9BX0RxRGJSSllMTkU0d2kzTVNLcERySnJlWHpLUTN0SGNKX21XRTlNTUJ6d05XMldsYUtIWXc2dzU4ZFRRSFZxcXVsbTd2SmpGSWtRdF9JUTV3YnRKd1c5T1c4N0pNX0NzRnpHUjkxc0FuVTFZbXlUclBXak9Nak5kbHM5ZjdwYlZyaHpybVlaREJLNkswTHNHVWphZjlVa0FYZGJ5Z1VVZHluWW5xQnBYMVVTTXB0RG5rT3hvOVZDTGJFRU5YY19rVXloeGJCa2dHVnZybUxGVUx0SUlMeTlYUkR0cjNHYy1ha1BsalZSRmJXNWo5eE9BLUQ4cDE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Sat, 10 Oct 2026 06:59:24 GMT",
-      "summary": "Agentic commerce and enterprise AI at Cannes - Think with Google AU & NZ &nbsp;&nbsp; Google Business Profile",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791615564.0
     },
     {
       "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
@@ -134,17 +134,6 @@
       "published_ts": 1791466106.0
     },
     {
-      "title": "The RealReal expands AI shopping agent to all members - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGJYQlNDY0pMS0NmY2NwbjBySUNja2kwc3dCSGluMk50cERsdlBsUk5Yc0VEUjhVWm94Y2NWSDlNVE1GN09VN3dGWHo5YmlLMk1KM1R3NGFtLUNuOE5ETVRYVkZ3cVZGZWczaE5UNVNoTUc1YXo0WWhoTzVQRUUwOHpPZmZ2YkxzWE84VHMwVW1hOTZoSkNvbW9SVkVOUDRaQllGbDNONmdjd2o1NU9V?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 08 Oct 2026 12:17:21 GMT",
-      "summary": "The RealReal expands AI shopping agent to all members &nbsp;&nbsp; Investing.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1791461841.0
-    },
-    {
       "title": "The RealReal Expands Ask TRR AI Shopping Agent With Google Cloud's Gemini Enterprise - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEM0dk1Qcml2OGtENkdLeklxb1pDb3I2UmJvWHdHZ3hmQU5OeXV6Wl9BdlluZjR5RmRBelVjNHFpc0VNejZZQ2VZOFZWSF9VWVJKZnFBaHNuRTdicmJ5OEpkblNPbHBoaXpSV0dhT0FSeW5lRkNCUUo5TW5DQXdlY0J1RFh1ZjdKQllPdzdDYmFyOWl6ZDVmaE85SGFmdzc3N3BXNDVfOFhRYjhyWUxyNnRPRkVnVmFUQzduRUMxbFRsdUp6X1lLR0dSWlM1YjNmY2hXVGtn?oc=5",
       "source": "Google News: AI shopping agent",
@@ -176,28 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1791402677.0
-    },
-    {
-      "title": "Agentic Commerce Is Starting to Leave a Trail | - Opus Research |",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUpnc1FTQjYwaHJFV1daT3FPTjhtRDFXT3FQb1RpRHNvSHd6dUhob3IzY0Y5OVFYUUpLZ0pienZPNnZQZ1BheHdJX2xhSl9jcElMR2pCWVNJaE44bVo4UVBlUVNNWVVCTnI2TEVOYTk2RzhPbHowdEN6Sy16QjQ2RW5pZGJlZWhtdkE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 07 Oct 2026 14:47:04 GMT",
-      "summary": "Agentic Commerce Is Starting to Leave a Trail | &nbsp;&nbsp; Opus Research |",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791384424.0
-    },
-    {
-      "title": "Meta Wants to Write the Industry Standards for Safe Agentic Commerce, Report Says - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVd4dXRMV3NzOFA3UXo5NVkwM3hqSWdyRHlPajQzNkVEVjZ4WUFTazN2WFZFcTE2LXRjSHJiMTNUOXdLOV93d0xwdUFxOTU5cmNaUllaY2wyWDlHY29sQ1JESWFUanQ5OFNiOVhWMFZwZlVRWE05T25WaXQzdXE4ZTVISEV1RVhValJ2NE93MWdTME5pel9uWng1Tm1KdzMzTEtKb0NiVXhnMnp4b3NIQg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 06 Oct 2026 23:26:58 GMT",
-      "summary": "Meta Wants to Write the Industry Standards for Safe Agentic Commerce, Report Says &nbsp;&nbsp; Gizmodo",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791329218.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -297,17 +264,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1779260400.0
-    },
-    {
-      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
-      "source": "Google News: abandoned cart recovery",
-      "published": "Wed, 01 Apr 2026 13:54:08 GMT",
-      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1775051648.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -464,17 +420,6 @@
       "published_ts": 1780988400.0
     },
     {
-      "title": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT - CustomerThink",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUdIbUZxUnNoT2h5ZTBjR3R6ZFNVcEhQRk1fem9Vd0ttUkVwZTFEX25mVFJCTWhVTDFObkRGY2JLajNESkh6S1lTS1Y1QTZBTy1DRE9qWkJMei1SNTJtZjFQejlXSzN2U3RRSW51MnpJSTZSd2ZTOVpCWllVWFVZNHh6SFFyR2pWVEVwMGRvdThhOFFf?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Omnisend Launches MCP to Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; CustomerThink",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Omnisend + launches",
-      "published_ts": 1778569200.0
-    },
-    {
       "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
       "source": "Google News: Omnisend",
@@ -554,10 +499,10 @@
   ],
   "stats": {
     "total_fetched": 267,
-    "kept": 50,
-    "opportunities": 31,
-    "threats": 19,
+    "kept": 45,
+    "opportunities": 27,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 12.0
   }
 }
