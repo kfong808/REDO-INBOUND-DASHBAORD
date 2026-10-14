@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:01:44.343406+00:00",
+  "updated": "2026-10-14T22:48:34.752666+00:00",
   "items": [
     {
       "title": "Wall Street Is Ready to Package Agentic Commerce as an Asset Class. The Rails Are Not in the Filing. - Forkast News",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792001259.0
+    },
+    {
+      "title": "Agentic Commerce Transactions on x402 Protocol Are Picking Up - PaymentsJournal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3M2WHRqaGRkQkUzcTR5dlBWeW1DUldQT1YxRHlnNHN5NzFZTU1lWEZmNjlna1d5UlJaaUJQbmUtY05SdklmTnhla0tHWmJVV1RjZjRSWWdiU015SWJvMkJfYlpuZEVrMW1aWXVna09lOEtzZC0ySE9wMFdPcFN4V2NHTjZlaWJZZ0toZmhxYVBIOEJzNU9PbVRn0gGfAUFVX3lxTE9RMVJvTG1rYlN5XzIxRGJRVktmcmwtZ0ozMXdkZWFvNk9MbDBCUFhLWVh0OVRqNGhQWHVLV0JSRTM3bXd5dWU0RG9JT2xuRHlSU0pOa0IxM0tkakZ5VnhvVHV5eUVZMHpZUFF2T1Vaa2RMc2NHSjBuVDJzLVdTWUt4VDl4c19VNENlQ1VmOWlqa2xuVGV4SkRIbzJGVlJKYw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 14 Oct 2026 16:58:39 GMT",
+      "summary": "Agentic Commerce Transactions on x402 Protocol Are Picking Up &nbsp;&nbsp; PaymentsJournal",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791997119.0
     },
     {
       "title": "Target's Agentic Commerce Push Opens New Digital Growth Avenues - Zacks Investment Research",
@@ -143,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1791547200.0
+    },
+    {
+      "title": "Why Is Amazon Blocking AI Shopping Agents? What Paul Graham Sees in It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXVYenV6NnJ6N3haY1RFS1c5LTRyMW1welFsV1lrRi1IVjVJc3BLNk5wYnNhWkpnX3VPMnhFc0hEQWZKbTJ2R2gwdjFYNEtMejFEUURPWDd4TnBsdGhWZ2hhbDJ1Y1U4M01CWWs1aFNWbWFib2NRWWZPQW9xUTFlRy03YWdxbkVfNk5GcDBIQjF6d2I4eVE1am04aw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 08 Oct 2026 13:28:26 GMT",
+      "summary": "Why Is Amazon Blocking AI Shopping Agents? What Paul Graham Sees in It &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1791466106.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -487,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 44,
-    "opportunities": 25,
+    "total_fetched": 269,
+    "kept": 46,
+    "opportunities": 27,
     "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.9
+    "runtime_seconds": 11.1
   }
 }
