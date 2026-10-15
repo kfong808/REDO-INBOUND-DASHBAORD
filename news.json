@@ -1,16 +1,27 @@
 {
-  "updated": "2026-10-15T17:28:13.700271+00:00",
+  "updated": "2026-10-15T20:40:06.780096+00:00",
   "items": [
     {
-      "title": "PayPal and Glance to Integrate Agentic Commerce Services - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeW9xUzBXZGNuWTg1YnJURm5qbGNOQndGQjdVeHRkd2Vfd3RYeDJndzlHanFDUEl5RzR6TkNLV0FPZFM3NVJhTXZ6d3FnNE5GS2otZkd1Rzg2aTY1eFZKelNiVGpidU10WE0xWTd4SFVqTXdzRUtCdWVhbkRHWC10ekFTclBSWUwwNmNtTTFWZGV0bi1aQ2dpVzM1RmlzTGM0dUNUN2Y4V0EydUhYdVE?oc=5",
+      "title": "AI Micropayments Point to Crypto’s Role in Agentic Commerce - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjMyTEk4Nzh4MXM5TGVyQ255bzNaN1JvVVpVMlZPV0h2azM3eXpPWXR6RnNMOG9YR19pWHl4WnhTVzFFRXpJRncxX2NIb0xteGtTZmQ3cERuLXVkeUJkVUpKY0FkRmdhYU9MZm9QLWIzZE5YallQTUcwMHZsT2cxdVZpSmRTRjlFN3lYVE1GR252SjhKUGw3V2lCbFlROG1VWG81Zg?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 15 Oct 2026 16:31:18 GMT",
-      "summary": "PayPal and Glance to Integrate Agentic Commerce Services &nbsp;&nbsp; marketscreener.com",
+      "published": "Thu, 15 Oct 2026 18:49:29 GMT",
+      "summary": "AI Micropayments Point to Crypto’s Role in Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792081878.0
+      "published_ts": 1792090169.0
+    },
+    {
+      "title": "Verified AI Purchase Approvals: American Express Caps What AI Shopping Agents Can Spend - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90M0VMMkg1bUN3aURQeVlRdm9jeWlvTmI0TUNIeVJiM0NHUXBhN3VSa2NrLVBZS1BOSzdLQWRuZG84aEFjal85VWxsRFdJUUg1QWE0VDcyWDhaSjZUVnhHSmRsNzNqaE9xR3BpMzV5N0hYSmc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 15 Oct 2026 18:03:55 GMT",
+      "summary": "Verified AI Purchase Approvals: American Express Caps What AI Shopping Agents Can Spend &nbsp;&nbsp; Trend Hunter",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792087435.0
     },
     {
       "title": "Stripe agentic commerce revs up - Payments Dive",
@@ -35,11 +46,11 @@
       "published_ts": 1792078524.0
     },
     {
-      "title": "Musk floats Amazon rival as AI shopping battle comes into focus - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1pHampQZUtScHI0dHBMZ243VXVSNUd1SlpRYzNmeXdRLTJqekdfb2RpVjAtLVoxdlFURG56NVJBSVYtVDdzblhYeGs5WTQ2WExXNXdKNEdLZTFneW1vYTFQOFFMOFpwNnFuSXp0elB0UkpDYjB4SF9mVXExTmotZ2VB?oc=5",
+      "title": "Musk floats Amazon rival as AI shopping battle comes into focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFlWV1FpN2JUQ2otZE9KTjE5UVpCRmVtSlNsVThESFpVdmpFVGFYd3Y3N2FUX3NBVG1MZ2tNd2VKRTBBSUNQY1QzcWNSM3RiQW8tS3FxbFlOX1BLY2NuWldiTlRuNUxjY1N4alBlVEFLOWY1ZzBtSE9fY1E1YXozUkhLZzMwTEZPbC1JTm9aQ0lmaVJvQ1E?oc=5",
       "source": "Google News: AI shopping agent",
       "published": "Thu, 15 Oct 2026 14:17:47 GMT",
-      "summary": "Musk floats Amazon rival as AI shopping battle comes into focus &nbsp;&nbsp; Yahoo Finance Singapore",
+      "summary": "Musk floats Amazon rival as AI shopping battle comes into focus &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -57,26 +68,15 @@
       "published_ts": 1792041169.0
     },
     {
-      "title": "Agentic Commerce Transactions on x402 Protocol Are Picking Up - PaymentsJournal",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3M2WHRqaGRkQkUzcTR5dlBWeW1DUldQT1YxRHlnNHN5NzFZTU1lWEZmNjlna1d5UlJaaUJQbmUtY05SdklmTnhla0tHWmJVV1RjZjRSWWdiU015SWJvMkJfYlpuZEVrMW1aWXVna09lOEtzZC0ySE9wMFdPcFN4V2NHTjZlaWJZZ0toZmhxYVBIOEJzNU9PbVRn0gGfAUFVX3lxTE9RMVJvTG1rYlN5XzIxRGJRVktmcmwtZ0ozMXdkZWFvNk9MbDBCUFhLWVh0OVRqNGhQWHVLV0JSRTM3bXd5dWU0RG9JT2xuRHlSU0pOa0IxM0tkakZ5VnhvVHV5eUVZMHpZUFF2T1Vaa2RMc2NHSjBuVDJzLVdTWUt4VDl4c19VNENlQ1VmOWlqa2xuVGV4SkRIbzJGVlJKYw?oc=5",
+      "title": "Wall Street Is Ready to Package Agentic Commerce as an Asset Class. The Rails Are Not in the Filing. - Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUFXLV9zZTFQb1ZPVmM5RUpmTFprcGpLTnFqaWRadF9hdng3d1hBSW9QQVBEbkxxc253RkstRW9pZDFfZWVUOFAweUtIUEFyVGJGaDA1NHlaZ3VsMmtILVhWMmlNTXNKcDg3eTB0QjJZb2NIUWJPRXNMTE5NcHlVTHUteThxTnkyb0JybU5TUXFHOXU0SmdfcFN1SldXam5DRUVJb0RlWWZCc0hFVUJIR2l1NjhlQlZNRXA2Ug?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 14 Oct 2026 16:58:39 GMT",
-      "summary": "Agentic Commerce Transactions on x402 Protocol Are Picking Up &nbsp;&nbsp; PaymentsJournal",
+      "published": "Wed, 14 Oct 2026 18:07:39 GMT",
+      "summary": "Wall Street Is Ready to Package Agentic Commerce as an Asset Class. The Rails Are Not in the Filing. &nbsp;&nbsp; Forkast News",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791997119.0
-    },
-    {
-      "title": "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 14 Oct 2026 08:14:36 GMT",
-      "summary": "The Three Key Pillars for Agentic Commerce Are Now in Place &nbsp;&nbsp; Coresight Research",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791965676.0
+      "published_ts": 1792001259.0
     },
     {
       "title": "The Agent Advantage: How Merchants Plan to Win AI Shopping - PYMNTS.com",
@@ -88,6 +88,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1791965051.0
+    },
+    {
+      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV82RkV0ZmszZXpYYUo2WXBpUWVSdkVjektlTzRTMmhUc2hweGlVaEVKV3NxNW1wU01kU3BTaXFRM3BfaU1OemhIN1ZCT215aDE0UEV6UVJEY3lvTFNrZmdnUXlTMm1WTDRWY293dzJkUkthUzdNMTVPcWZ0OTRtY3l3dThTZjc0amwtYVlUUFdVeG1zNDFoLW5xWjhOUk8wSEVkWE9CUmg4LWFpX0ExcU9YNlZyN19oUkE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 13 Oct 2026 17:40:45 GMT",
+      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791913245.0
     },
     {
       "title": "Forter Turns the AI Shopping Agent Surge Into a Secure Revenue Channel for Merchants - PR Newswire",
@@ -114,46 +125,13 @@
     {
       "title": "Shopify (SHOP): Building the Underlying Rails for the Era of Agentic Commerce - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVlHTE16cHFtUEtibk1kMW9BV0daMWlBUF9wMkMyclBSbkp1ZzR3NGdsWkRFOFdDcXZrVlppOTNsY290MjJocXBLZ0hoN01XZFh1UVloemdMTW1idUFjeS1PT2ZFbkNJeW8zTTBnWFNiMEZoWnp1Qm5LTTBINjlfMFRqRlRrTG0xUVZxN1ZTUi1vOFZmcTM3RnB0SDVqMHRpb1lpbWFR?oc=5",
-      "source": "Google News: Shopify",
+      "source": "Google News: agentic commerce",
       "published": "Mon, 12 Oct 2026 14:10:52 GMT",
       "summary": "Shopify (SHOP): Building the Underlying Rails for the Era of Agentic Commerce &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1791814252.0
-    },
-    {
-      "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBSWnpRNHg4MXdmUGw4SjBCNzN2N2ZDdjVLN3JhRlNhZ1dEZ2FhaUZmbU81VVE4U2hvS3RhQW1rQTJpRzNCZXVJMGxJaVczLVNKUkxsSG1FcEhNWTh2SGdrUzVHaVlxSXVESndvLWdkaGVnQmJyN1FaVXRpeTJIRWpPYk4zUm9QTXd1VF9fMVDSAZYBQVVfeXFMTnBzbFNGSkU5UEpndy1CMlB1RUREUjFMRUw5QkpPSjZiMzZaOXhxNnVuMEZaMkVPOUptazREVGpqVUhyU3lPWHI3QWF0VHRiQVhlbXdKR2ROb1lEUzJENzhpZ2Zfc0NYUmhHd1pKU1k4WWt5UFBqVnEzc3JIQXg4WTVWN3FuTjhfNjJIcXVlWXR6MXk3OGFn?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Fri, 09 Oct 2026 19:20:07 GMT",
-      "summary": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1791573607.0
-    },
-    {
-      "title": "Rezolve Ai Opens Retail to Any AI Shopping Agent with - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQnZ2ZTFDdHBoMGVvUEYzS1FxYmhVc1NKQ1M4c094WEpoY1RFT0pSem91dU12OGY2YW4zYnhydi1CSjJORGJWMUVjc1pFRFJkS2tXMXF5b01nOTd1Qnk0ZFpNX2lGLXVESHoyZ0VxVWJ3OTd5bThZQ3h4dWlpS1NwWDF6QUJsUERvR0dfUVV0MHVQS2lKcEY3TWx2Sm1VTFJMQ3RBTFppVjhrOGNvMm42ZGx5dk43Z1dpTFY2UWZ4ZlphV05NQlgyS0VDUU9KdU1LYWlsZlRBcnlER1YyQVVWT1A5NHpHOHJwX2JoUTZ6UUgzRWw5eW11Mm5MVkp5aGU1MlBCTmctV3RWcDlLNDNlSEdCUmlIcGstTTRJ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 09 Oct 2026 12:00:00 GMT",
-      "summary": "Rezolve Ai Opens Retail to Any AI Shopping Agent with &nbsp;&nbsp; GlobeNewswire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1791547200.0
-    },
-    {
-      "title": "The RealReal Expands Ask TRR AI Shopping Agent With Google Cloud's Gemini Enterprise - Google Cloud Press Corner",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOakxya21iS2lPWlQxNHBacDdFbzhXWVZEV3UtVF9nTy0wX3BrWnh1ak9rbFhwYm1EdlVYa195REM1TlB0dUZyZWR0OEc2SVJaZDRxNW5sYjk2N25WNzNVMWRFX3M5VkNhcXRBb2F2RUtYa0lUMnA4QUR5aFdlTldfdWNLYWdKVkd3bS1XbTBhTmJXd1hPYlRKNzRnS0hsZXdQbEU4bldFZnlZMWpUQzZ4QzlZaHVvSTRIZWc2ZEdqZnFTM1A2OEpyTzk1dndSQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 08 Oct 2026 11:57:36 GMT",
-      "summary": "The RealReal Expands Ask TRR AI Shopping Agent With Google Cloud's Gemini Enterprise &nbsp;&nbsp; Google Cloud Press Corner",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1791460656.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -211,6 +189,17 @@
       "published_ts": 1790169211.0
     },
     {
+      "title": "Boost your holiday sales with these agentic commerce updates - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXdfNHRDVmZkUW1nM0hvRGljcjFaTk5vUDJtNF96RnRRMkxILVR3RUNKYnZ0anRkRnJSaDFxa2VsY1RwRmFLa3RyTVFqbnpPNWFZMjlGN1o1Nm5MRUU4eUJjUnl4UVZpaHJsUWo0Xy10R0JOa19BM25oUklVY1hheE1pUHBBZE9hQXVGQUhGS2ZGZFlIYU5GemhTVWhNODQxS3kyeA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "Boost your holiday sales with these agentic commerce updates &nbsp;&nbsp; blog.google",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1789542000.0
+    },
+    {
       "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGhBUjJtQUNfQWo4VGkxam1oOVNRaUhOUHBHeGVpd2JSZW5zdk5jakFIdDJYcHRxc2E1UDU0b2tadFBYSFBnTHN0RFV5dl96QWN3U3JBUG1HUENIN1daM2JZdHBVS2lta0ROdkxoajR0Nkx6VXRnbWxzMkUyNGVQdEJWNGVtMU1JZzdTSG9tWFdtcG03bXNjctIBngFBVV95cUxNb1Z4NWJOTzRvNS00Ti0zVW9wRkhPdXJKZ1YzSDdQc1hfUWZwRGQ2NDh0Y0tKejNlQkRUV0dPblM1azFjS19YMkZCVjhMTkxqOE5wSHM3RzlITER4MmpjTXU5enZvbVVTT3ZPTHZHMnpndFBaUnpncFJ1X2p4WEFQbWNPYzZ0UDluNXllemZTQ3kyN2dYMm0tMzBScmNoQQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -242,6 +231,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787727600.0
+    },
+    {
+      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1783839600.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -330,17 +330,6 @@
       "confidence": "medium",
       "reasoning": "Shipstation + launches",
       "published_ts": 1791291600.0
-    },
-    {
-      "title": "Postscript Launches Email on a New AI-Native Retention Marketing Platform - PRWeb",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFItd29nZmFHOFpFQXRWb0ZwMV9fOVFoZlU1Y3c5QnNkczMzaXRrUk8yVDI3cjAxaTdJNEl6TzRPaU1FQVJPXzZOMVh3LWNuYVEtZjBZSnA5WE4zMFZ2V29PWTh1aHV6TkRKWWpJUXgzb2w2VVpaUHJPQzQ1X0JXYlc4VTFneTk3Z2J1MllJSVNRbDM1SFZDWVhnUWF2cVB3VkN6Slp6LUJ6S3pzb29PUlVIek9yUTFXWllr?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
-      "summary": "Postscript Launches Email on a New AI-Native Retention Marketing Platform &nbsp;&nbsp; PRWeb",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Postscript + launches",
-      "published_ts": 1790168400.0
     },
     {
       "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
@@ -499,10 +488,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
+    "kept": 44,
     "opportunities": 26,
-    "threats": 19,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 12.7
   }
 }
