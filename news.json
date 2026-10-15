@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:40:06.780096+00:00",
+  "updated": "2026-10-15T23:24:06.514499+00:00",
   "items": [
     {
       "title": "AI Micropayments Point to Crypto’s Role in Agentic Commerce - PYMNTS.com",
@@ -112,17 +112,6 @@
       "published_ts": 1791892800.0
     },
     {
-      "title": "Preparing for agentic commerce: What merchants need to do now - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTERDc1c3RlhZVWhqUFdWdlg0NzFELUY1enl6UG1fUnJWczBpOElkR0s5M0xWODFmemlhMVFLOXBSTExIUnU5Uko3TllrRjhVdFVZQTFSdlhicC1EVUNfOFlPSFdfVXJIOUQxV3k4Q1ktS1htalZnYzVJNGJjeXI2dUU1bF90NDlFN2JnQ201VC1QMlVUckdEZDZZV2JwQzVUaWpV?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 13 Oct 2026 06:04:15 GMT",
-      "summary": "Preparing for agentic commerce: What merchants need to do now &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791871455.0
-    },
-    {
       "title": "Shopify (SHOP): Building the Underlying Rails for the Era of Agentic Commerce - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVlHTE16cHFtUEtibk1kMW9BV0daMWlBUF9wMkMyclBSbkp1ZzR3NGdsWkRFOFdDcXZrVlppOTNsY290MjJocXBLZ0hoN01XZFh1UVloemdMTW1idUFjeS1PT2ZFbkNJeW8zTTBnWFNiMEZoWnp1Qm5LTTBINjlfMFRqRlRrTG0xUVZxN1ZTUi1vOFZmcTM3RnB0SDVqMHRpb1lpbWFR?oc=5",
       "source": "Google News: agentic commerce",
@@ -132,6 +121,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1791814252.0
+    },
+    {
+      "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBSWnpRNHg4MXdmUGw4SjBCNzN2N2ZDdjVLN3JhRlNhZ1dEZ2FhaUZmbU81VVE4U2hvS3RhQW1rQTJpRzNCZXVJMGxJaVczLVNKUkxsSG1FcEhNWTh2SGdrUzVHaVlxSXVESndvLWdkaGVnQmJyN1FaVXRpeTJIRWpPYk4zUm9QTXd1VF9fMVDSAZYBQVVfeXFMTnBzbFNGSkU5UEpndy1CMlB1RUREUjFMRUw5QkpPSjZiMzZaOXhxNnVuMEZaMkVPOUptazREVGpqVUhyU3lPWHI3QWF0VHRiQVhlbXdKR2ROb1lEUzJENzhpZ2Zfc0NYUmhHd1pKU1k4WWt5UFBqVnEzc3JIQXg4WTVWN3FuTjhfNjJIcXVlWXR6MXk3OGFn?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Fri, 09 Oct 2026 19:20:07 GMT",
+      "summary": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1791573607.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -231,17 +231,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787727600.0
-    },
-    {
-      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783839600.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -488,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 44,
-    "opportunities": 26,
+    "kept": 43,
+    "opportunities": 25,
     "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.7
+    "runtime_seconds": 11.3
   }
 }
