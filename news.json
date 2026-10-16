@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-16T20:12:55.775746+00:00",
+  "updated": "2026-10-16T23:06:45.620405+00:00",
   "items": [
+    {
+      "title": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf - Raleigh News & Observer",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jeXZrZ2tTQzZHS1lHTEd6Q1BlLTlwaUxhbERHa3puemxHOEhDcEh6Z1RuWjFjNEd6dW92Wkc2V3lzRVdsOWo0XzhXVFlQc3owYmFwS293cGZMVFV1V29Qc2FVcFBEeTBC0gFoQVVfeXFMT0xYV2NzUWpTQVBnNElTSUN2Q2JvdVZQMG9XOGppbTA0cWZlVnUwSTNkNkg3Nm5mV0syX2xlcUxoX0dlNmp4UmJLU2JscDA4OHdzSEQySFZXeXRoSi1nRjVMUTRsNGhObkg?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 16 Oct 2026 20:00:00 GMT",
+      "summary": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf &nbsp;&nbsp; Raleigh News & Observer",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792180800.0
+    },
     {
       "title": "What Is Agentic Ecommerce? A Plain Guide to the AI Shopping Era Already Unfolding - Sacramento Bee",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JNDBpQjhIR2lBX3ZzRUVFczQ5RVA0U3F3NTNqeTJpMkFSdE9Xd3dBbFBoNmZncVBnVWN2RVlaQ1g4RFlWeEZjUGtXUkQxNGlBVzdCc2txNHhKNk1LWUZ0bzRPeUc1N1HSAWdBVV95cUxQNmVxblRhMXIzUW9uOE1HN09aMGQtdDNuazdSMjFMLWx1WWR4Qm9pWUd1MXNUQzBzb2tiWHpoUEdyeGwxcTN2WHBuSGtsTDF4T09wbXdUQ1ZzUXc0RUNMRGJQVWhOQWZB?oc=5",
@@ -22,6 +33,17 @@
       "confidence": "medium",
       "reasoning": "Matched: price hike",
       "published_ts": 1792174844.0
+    },
+    {
+      "title": "Stripe’s President Says Agentic Commerce Went ‘Vertical’ in September. He Has Not Shown the Numbers. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXA1clhXZVRVYUFTWTFySEJqYkVfOUduYzFzVDdfeGlWT1lZTm5uVVZ0dGhsclBLdmNRVlB3b2laWXhuSVFSTWJ4REJEV2tkWjhXNXZmcHlkNFVMV0Z5bnRJVVcwSUFiQUpnc0llS2NWNktwUVhxZlRiWXcweXAyR1pmdWNSYzNReEdrcWdiNG54MGxOV0pZMmRVVHhZNVlRWTNJZg?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 16 Oct 2026 18:10:43 GMT",
+      "summary": "Stripe’s President Says Agentic Commerce Went ‘Vertical’ in September. He Has Not Shown the Numbers. &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792174243.0
     },
     {
       "title": "Ecommerce confronts AI shopping agents ahead of holiday season - Yahoo Finance",
@@ -88,28 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792078524.0
-    },
-    {
-      "title": "Agentic Commerce Transactions on x402 Protocol Are Picking Up - PaymentsJournal",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3M2WHRqaGRkQkUzcTR5dlBWeW1DUldQT1YxRHlnNHN5NzFZTU1lWEZmNjlna1d5UlJaaUJQbmUtY05SdklmTnhla0tHWmJVV1RjZjRSWWdiU015SWJvMkJfYlpuZEVrMW1aWXVna09lOEtzZC0ySE9wMFdPcFN4V2NHTjZlaWJZZ0toZmhxYVBIOEJzNU9PbVRn0gGfAUFVX3lxTE9RMVJvTG1rYlN5XzIxRGJRVktmcmwtZ0ozMXdkZWFvNk9MbDBCUFhLWVh0OVRqNGhQWHVLV0JSRTM3bXd5dWU0RG9JT2xuRHlSU0pOa0IxM0tkakZ5VnhvVHV5eUVZMHpZUFF2T1Vaa2RMc2NHSjBuVDJzLVdTWUt4VDl4c19VNENlQ1VmOWlqa2xuVGV4SkRIbzJGVlJKYw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 14 Oct 2026 16:58:39 GMT",
-      "summary": "Agentic Commerce Transactions on x402 Protocol Are Picking Up &nbsp;&nbsp; PaymentsJournal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791997119.0
-    },
-    {
-      "title": "Target's Agentic Commerce Push Opens New Digital Growth Avenues - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1lnNzNTcUpVQzg5aUdCYmh5UlhLcnIxWHVDRE5VZ25scGRaVWxGWTlkV3VwRDJhbVlPcTh3ZGRZZmZDY3JSRzhYbVRZZVIwYjlIYU5YZlpWUzJPeEtFRWRkSDd3OXBqbHdqYWJsSlk5S0t0TlJnb0pwR2kyWl95Yl9uZnUyd001UTZpMWp4QVVzTXpPc1RTU2VCMWFqVlls?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 14 Oct 2026 14:35:00 GMT",
-      "summary": "Target's Agentic Commerce Push Opens New Digital Growth Avenues &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791988500.0
     },
     {
       "title": "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
@@ -343,17 +343,6 @@
       "published_ts": 1791381324.0
     },
     {
-      "title": "ShipStation launches Ship with Walmart - Mass Market Retailers",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Wc2hqVkIyTENrUmpLdXh2TExpX0V2MHBIYkZkai05QldROExZT0ptSENRUmxJbDZEYW12QUpGaFBhdGo2ZkpHRzgxNFV3b3hBd0hfY1FmclRxVjhlN2psR1daX25kMnhjVllNNi11VG1fb0Z0Q2hFQkdJYw?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 06 Oct 2026 15:17:35 GMT",
-      "summary": "ShipStation launches Ship with Walmart &nbsp;&nbsp; Mass Market Retailers",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1791299855.0
-    },
-    {
       "title": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRWZOY0pobWxVeTY5eFY0WWtXVk9KbXozaXF6RXFyTmJTQ0lVYWVOdElCUkxOTDRlbEl2VUd6cjZvWGhETnkzNnktemtNWkRQbW94ZWRELUJjZUk2WVJMS19NaDYzZTJBeHAwTEpIMi1Razh3ODA3MWxqY0Q0VzF2b0E3cUxoR1J1WFdCd01VemZMbHRiVGtyQXF5NThzbmxPVzk5aEN5OTFIYnJnTHRMQllmV1k2XzN1ajlHX2RkaVZFQ2hfUVVLN0JBenFzcG90UFRvY2wyV2d0YVRDN3R3Ql9wbC11Vk5GbnFuUjNDa1d0MU1odDNUS0ZJWlJmUQ?oc=5",
       "source": "Google News: ShipStation",
@@ -531,11 +520,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 48,
+    "total_fetched": 268,
+    "kept": 47,
     "opportunities": 27,
-    "threats": 21,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.9
+    "runtime_seconds": 17.2
   }
 }
