@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:24:06.514499+00:00",
+  "updated": "2026-10-16T02:07:21.432910+00:00",
   "items": [
     {
       "title": "AI Micropayments Point to Crypto’s Role in Agentic Commerce - PYMNTS.com",
@@ -77,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792001259.0
-    },
-    {
-      "title": "The Agent Advantage: How Merchants Plan to Win AI Shopping - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGVYcmlma2tqQU05LWcxODdZVF8zNDU0SGk3MHBaV2RPYkdYRUFUZUt0ZVloTmRMQWh0bWVnMTVMV1BMb19DSHRoR1IyT3gwNGhFUmFZTV9oMGdHQ2N5Y3dLSkhyeGpWUDlPSzF3ZDROZVZVbDNnOXdNcV96UUpzNnBOLTFUbUJxVm9pWTFIMTI3aWdIYU5Law?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 14 Oct 2026 08:04:11 GMT",
-      "summary": "The Agent Advantage: How Merchants Plan to Win AI Shopping &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1791965051.0
     },
     {
       "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
@@ -477,10 +466,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 43,
-    "opportunities": 25,
+    "kept": 42,
+    "opportunities": 24,
     "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 11.4
   }
 }
