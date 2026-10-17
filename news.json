@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T17:36:17.364694+00:00",
+  "updated": "2026-10-17T19:48:48.464151+00:00",
   "items": [
     {
       "title": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf - Raleigh News & Observer",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: price hike",
       "published_ts": 1792174844.0
-    },
-    {
-      "title": "Stripe’s President Says Agentic Commerce Went ‘Vertical’ in September. He Has Not Shown the Numbers. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXA1clhXZVRVYUFTWTFySEJqYkVfOUduYzFzVDdfeGlWT1lZTm5uVVZ0dGhsclBLdmNRVlB3b2laWXhuSVFSTWJ4REJEV2tkWjhXNXZmcHlkNFVMV0Z5bnRJVVcwSUFiQUpnc0llS2NWNktwUVhxZlRiWXcweXAyR1pmdWNSYzNReEdrcWdiNG54MGxOV0pZMmRVVHhZNVlRWTNJZg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 16 Oct 2026 18:10:43 GMT",
-      "summary": "Stripe’s President Says Agentic Commerce Went ‘Vertical’ in September. He Has Not Shown the Numbers. &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792174243.0
     },
     {
       "title": "Ecommerce confronts AI shopping agents ahead of holiday season - Semafor",
@@ -132,6 +121,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1791989651.0
+    },
+    {
+      "title": "Target's Agentic Commerce Push Opens New Digital Growth Avenues - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1lnNzNTcUpVQzg5aUdCYmh5UlhLcnIxWHVDRE5VZ25scGRaVWxGWTlkV3VwRDJhbVlPcTh3ZGRZZmZDY3JSRzhYbVRZZVIwYjlIYU5YZlpWUzJPeEtFRWRkSDd3OXBqbHdqYWJsSlk5S0t0TlJnb0pwR2kyWl95Yl9uZnUyd001UTZpMWp4QVVzTXpPc1RTU2VCMWFqVlls?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 14 Oct 2026 14:35:00 GMT",
+      "summary": "Target's Agentic Commerce Push Opens New Digital Growth Avenues &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791988500.0
     },
     {
       "title": "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
@@ -453,6 +453,17 @@
       "published_ts": 1787295600.0
     },
     {
+      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1787122800.0
+    },
+    {
       "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -543,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 49,
+    "kept": 50,
     "opportunities": 28,
-    "threats": 21,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 11.9
   }
 }
