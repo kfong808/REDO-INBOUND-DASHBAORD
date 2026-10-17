@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:36:19.178618+00:00",
+  "updated": "2026-10-17T17:36:17.364694+00:00",
   "items": [
     {
       "title": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf - Raleigh News & Observer",
@@ -14,14 +14,14 @@
     },
     {
       "title": "What Is Agentic Ecommerce? A Plain Guide to the AI Shopping Era Already Unfolding - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JNDBpQjhIR2lBX3ZzRUVFczQ5RVA0U3F3NTNqeTJpMkFSdE9Xd3dBbFBoNmZncVBnVWN2RVlaQ1g4RFlWeEZjUGtXUkQxNGlBVzdCc2txNHhKNk1LWUZ0bzRPeUc1N1HSAWdBVV95cUxQNmVxblRhMXIzUW9uOE1HN09aMGQtdDNuazdSMjFMLWx1WWR4Qm9pWUd1MXNUQzBzb2tiWHpoUEdyeGwxcTN2WHBuSGtsTDF4T09wbXdUQ1ZzUXc0RUNMRGJQVWhOQWZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBQmxSMEJFVWlaN0t4dzV5Smx0LUc1NWhFRXlVd29wQ01FVlE3VHpjbWJmOV9RSHNmb3hCdkJhQWZxX2lGRnpld3ROY2lCLXpMMTVPRWdfYWs2QjJfcm54LXJBdGYycVdYcWpKSmhNcmdmeWPSAXNBVV95cUxOeWREZ2l4dkJnQktKZUlDUDA2ZTFEOHBGT3FMell3M2FScW5pcDZHMllQTEd6RlBvdDB6X3hCOG8zVFNMelYxTUMzejBhMVhjSWxiNjhQTFNGb1Vwal95Ti1DU0RUTGJvZFY5V0ZKNlB5UGhj?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 16 Oct 2026 19:02:06 GMT",
+      "published": "Fri, 16 Oct 2026 19:02:00 GMT",
       "summary": "What Is Agentic Ecommerce? A Plain Guide to the AI Shopping Era Already Unfolding &nbsp;&nbsp; Sacramento Bee",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1792177326.0
+      "published_ts": 1792177320.0
     },
     {
       "title": "Shopify Price Hikes Signal Pricing Power as JPMorgan Keeps $200 Bullish Target - Benzinga",
@@ -453,17 +453,6 @@
       "published_ts": 1787295600.0
     },
     {
-      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckc4ZUpYanFxcnpjQnZ1TFlxMTYxV1dtQW9jN3RuWERWdE9saTdQbzlXN2Z1bnAyNXZqTHRTLURMVEVXaVFYVU9UVWJneXduLXctcC0ybHN5cXVVMS1vUWlPS2p6VEIxQ1VldzBxakQyRFZ0Mjg5em9CV3ZSTE00d1R4WTl4Q0xmLWVNMlJ0cUw4aVRTQ0ZNaVh4bVBaMVhkUXI4akZaeHFRZVE5RGVrdWRlb1FmVE01UHJWX25wZ2NlVk91bERvMTZGYkZtNEt6X0lnWFFWNTR1OWZqeFJ4ZERVRHhONVlQZkwtUnBEaDc?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1787122800.0
-    },
-    {
       "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -554,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 50,
+    "kept": 49,
     "opportunities": 28,
-    "threats": 22,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 11.1
   }
 }
