@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:16:29.651073+00:00",
+  "updated": "2026-10-17T11:49:11.706588+00:00",
   "items": [
     {
       "title": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf - Raleigh News & Observer",
@@ -145,15 +145,15 @@
       "published_ts": 1791965676.0
     },
     {
-      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV82RkV0ZmszZXpYYUo2WXBpUWVSdkVjektlTzRTMmhUc2hweGlVaEVKV3NxNW1wU01kU3BTaXFRM3BfaU1OemhIN1ZCT215aDE0UEV6UVJEY3lvTFNrZmdnUXlTMm1WTDRWY293dzJkUkthUzdNMTVPcWZ0OTRtY3l3dThTZjc0amwtYVlUUFdVeG1zNDFoLW5xWjhOUk8wSEVkWE9CUmg4LWFpX0ExcU9YNlZyN19oUkE?oc=5",
+      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWnUyY2pHR3FCZXNlWUFpSEwzWWRtam5RejdybXc4RTRXSDRjOHJ5WENiR2d5LVZaajMyT1pUOW1Ha1REZUNOR0VySzY2NldRRWJ5b2NYVGlGRTYzRGNkSTBWVGhpUnFNODdnaE1EckxTbkJBY3JGUTl6LXpxaUQ1YjVsQy04RzJkU1dQR2s1cmNUWk1xaVBqakU1aHJINngyeG5XdkhRalB1MmJ0bFRmZWlka3c0X29ITGFuQlIwekQ2VzQ2WXVoaERPMF9LUl93UHVYb0phVjcwQQ?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 13 Oct 2026 17:40:45 GMT",
-      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
+      "published": "Tue, 13 Oct 2026 13:30:00 GMT",
+      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791913245.0
+      "published_ts": 1791898200.0
     },
     {
       "title": "Forter Turns the AI Shopping Agent Surge Into a Secure Revenue Channel for Merchants - PR Newswire",
@@ -319,6 +319,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 16 Oct 2026 22:59:50 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1792191590.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
@@ -565,10 +576,10 @@
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 51,
+    "kept": 52,
     "opportunities": 29,
-    "threats": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.4
+    "runtime_seconds": 11.0
   }
 }
