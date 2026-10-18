@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:00:10.922722+00:00",
+  "updated": "2026-10-18T07:03:00.831369+00:00",
   "items": [
     {
       "title": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf - Raleigh News & Observer",
@@ -134,15 +134,26 @@
       "published_ts": 1791965676.0
     },
     {
-      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWnUyY2pHR3FCZXNlWUFpSEwzWWRtam5RejdybXc4RTRXSDRjOHJ5WENiR2d5LVZaajMyT1pUOW1Ha1REZUNOR0VySzY2NldRRWJ5b2NYVGlGRTYzRGNkSTBWVGhpUnFNODdnaE1EckxTbkJBY3JGUTl6LXpxaUQ1YjVsQy04RzJkU1dQR2s1cmNUWk1xaVBqakU1aHJINngyeG5XdkhRalB1MmJ0bFRmZWlka3c0X29ITGFuQlIwekQ2VzQ2WXVoaERPMF9LUl93UHVYb0phVjcwQQ?oc=5",
+      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV82RkV0ZmszZXpYYUo2WXBpUWVSdkVjektlTzRTMmhUc2hweGlVaEVKV3NxNW1wU01kU3BTaXFRM3BfaU1OemhIN1ZCT215aDE0UEV6UVJEY3lvTFNrZmdnUXlTMm1WTDRWY293dzJkUkthUzdNMTVPcWZ0OTRtY3l3dThTZjc0amwtYVlUUFdVeG1zNDFoLW5xWjhOUk8wSEVkWE9CUmg4LWFpX0ExcU9YNlZyN19oUkE?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 13 Oct 2026 13:30:00 GMT",
-      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; Business Wire",
+      "published": "Tue, 13 Oct 2026 17:40:45 GMT",
+      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791898200.0
+      "published_ts": 1791913245.0
+    },
+    {
+      "title": "Forter Turns the AI Shopping Agent Surge Into a Secure Revenue Channel for Merchants - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEJYUHBRNEZlWmo5MHhOeEk1MnU0S3lpTXlfbU1VZUNrS280U3VqSnZKX19TaXpURndObWpDalRaZEJTaFVUdkk1aWxVMEQyRjNTbUxWSnpYRlBlX3VNTm8zTVVRck5hMmhWbV9QWF92OFFoZUFqalRidlpwejZUT0xrR2R2UzlTMkJKTGNzZGxYRzRDZDN6ZzV1VFl0R2RQNmhfdWdrbjhVaklzVlgzSnI5VXk0TEh1aDhHOWVSX3pRN3ZBS3JudE5KSERES080NDI2NVdwaw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "summary": "Forter Turns the AI Shopping Agent Surge Into a Secure Revenue Channel for Merchants &nbsp;&nbsp; PR Newswire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1791892800.0
     },
     {
       "title": "Preparing for agentic commerce: What merchants need to do now - Mastercard",
@@ -231,17 +242,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1788332400.0
-    },
-    {
-      "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - VisionMonday.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3l1d1dJbnZ3aVFDZE1LNXZ2WjV6R3kyUGR0dEFhNGg4TW9LMmUwUUpHTVhCVnFWVDJUcjIwN2dSRlNtaFp3YmNrNlYzZk1uS2lNYUV5eDhUSXZuZmM4T2o3WjNDNVpPLTdfcFY1UFYwLXNnSF9oSXVTTVlvWWdJVW5ZM2EtcE5EVjB1SzJld0drQkhyc21tb0ZoZ2tFazFEeVBrbS1jZGI1VkcyZ01nQVY2TUcwR2dzQWMyb2ZZMk5sWVk?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "summary": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds &nbsp;&nbsp; VisionMonday.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787814000.0
     },
     {
       "title": "Post-purchase experience in 2026: how U.S. ecommerce brands build loyalty with ClickPost - ClickPost",
@@ -528,14 +528,25 @@
       "confidence": "low",
       "reasoning": "Mentions Yotpo",
       "published_ts": 1631170800.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 48,
+    "kept": 49,
     "opportunities": 27,
-    "threats": 21,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.1
+    "runtime_seconds": 10.8
   }
 }
