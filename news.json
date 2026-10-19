@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:01:03.215192+00:00",
+  "updated": "2026-10-19T00:35:14.378994+00:00",
   "items": [
     {
       "title": "Amazon, Yelp and airlines are shutting AI shopping agents out the door - Startup Fortune",
@@ -44,6 +44,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792177320.0
+    },
+    {
+      "title": "Shopify Price Hikes Signal Pricing Power as JPMorgan Keeps $200 Bullish Target - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTWw0T3NZOHRCejhvR2ZZQkNxcUMwYngyRDFvcEM4OUxUcnotVnAtUFBXeFR0bXc3dXVRTVlIbnMxdVEzTnQtYnQta2tUVU9qWWZWNEhEQThZUWdPcVFYaG5tSlhGOGRWZHdfOHpOT0YydEdyNkd5NWdyc3lZUW1GWV9RV1A3Ql9ObmoyQzBWcHd0VEdLa3hFSjhuaUhpZU9lejhCbVBYcHVTZ2NtUG04Uzd5Y1lRbVpLcXVQYXcwUVc3YTFCd0czZUJEa1pLWXdPOERGSEExYTNwbmlLS3hNZmVWdlBxQVpC?oc=5",
+      "source": "Google News: Shopify",
+      "published": "Fri, 16 Oct 2026 18:20:44 GMT",
+      "summary": "Shopify Price Hikes Signal Pricing Power as JPMorgan Keeps $200 Bullish Target &nbsp;&nbsp; Benzinga",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: price hike",
+      "published_ts": 1792174844.0
     },
     {
       "title": "Ecommerce confronts AI shopping agents ahead of holiday season - Semafor",
@@ -112,17 +123,6 @@
       "published_ts": 1791997119.0
     },
     {
-      "title": "From E to A: Agentic Commerce and the Impact on Logistics Real Estate - DWS Asset Management",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUJnUUQ5VDBjNUM1c0ljamU0Q0E4SHl5djZUYkhIZWVmajhHcTgwNnE0S1lCWU5BX2VxWExSV3M2LWtKWW1LQUtaX29VcVowLVhwY05NRHluamh2VFdxaktCQ215ZHd5UXdGaWk4eldlSXh5QkhJUDBtcXhiSER0TUZkM2ppUWpJN0x3RXpURFFPa1NBblpteVQ3Vk9qVmZnTUlrdDBxVkxuMUZRMW9iQm5XWW9iUXE2RmFUYmdUbWlpdw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 14 Oct 2026 14:54:11 GMT",
-      "summary": "From E to A: Agentic Commerce and the Impact on Logistics Real Estate &nbsp;&nbsp; DWS Asset Management",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791989651.0
-    },
-    {
       "title": "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5",
       "source": "Google News: agentic commerce",
@@ -143,17 +143,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1791913245.0
-    },
-    {
-      "title": "Preparing for agentic commerce: What merchants need to do now - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTERDc1c3RlhZVWhqUFdWdlg0NzFELUY1enl6UG1fUnJWczBpOElkR0s5M0xWODFmemlhMVFLOXBSTExIUnU5Uko3TllrRjhVdFVZQTFSdlhicC1EVUNfOFlPSFdfVXJIOUQxV3k4Q1ktS1htalZnYzVJNGJjeXI2dUU1bF90NDlFN2JnQ201VC1QMlVUckdEZDZZV2JwQzVUaWpV?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 13 Oct 2026 06:04:15 GMT",
-      "summary": "Preparing for agentic commerce: What merchants need to do now &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791871455.0
     },
     {
       "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
@@ -299,17 +288,6 @@
       "published_ts": 1792187591.0
     },
     {
-      "title": "Klaviyo, Inc. $KVYO Stock Acquired by Morangie Management LLC - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUQwNGdHR3FrdG5fa2ZjNDgzeUxOQTZFNmFmamNRNjR5d1IxSFVXUTA2b3otV2d0bVVTckVkYzA4bUtScENVRzg1akg2NHBHUXpLWUlFMXh2UEhhVzBEWm5OMzBRVC05RmpfcGRFdE1sTmFLU2lzbmJJM215aVl0Wk1Md2FId1ZZZGJiQnVvQnludXpPcW5XeHVyMWpJTWFocTFOOFZjOEtGYnJFTjhHUW54UHhla0h3RzlF?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 16 Oct 2026 10:17:45 GMT",
-      "summary": "Klaviyo, Inc. $KVYO Stock Acquired by Morangie Management LLC &nbsp;&nbsp; MarketBeat",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquired",
-      "published_ts": 1792145865.0
-    },
-    {
       "title": "Shop the Loop returns with student-run businesses and booths - The Echo News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkFBRVBKa2lObnFZYWh4dUdTbmVSXzFlTjI1Y2pTSHdfLVgxakJLSDBvY1JRTS1CZHdsamp5NjhhRDRwYl85eGs4Y1FkVFBjZXVUNWhvNHFLT0dpdUh3TTlTSnYxaF9xOUlrUjNYUmk2cXNlWmVwdVpXNUdvVTUxRWhzYXdfdWtxTWx6dFdyVjdsVFg5cVJjY3V6QUlqZWQzZ3N0T19OMA?oc=5",
       "source": "Google News: Loop Returns",
@@ -387,6 +365,17 @@
       "published_ts": 1788418800.0
     },
     {
+      "title": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers - Chain Drug Review",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdC1qdTFzSjNQM3NxSy04RnVRaHE4SXFodmp5ZUcweUYwS2VmZEhTVTc4b0lwRGw0QU42ekl3dWs1VzNNRE1HcEdXTHhrZFNUb0ZlWjBJbGNEQVJzRGo5emUtQVZwaHBQU05OM1JNdHAwREZMV1IxQ0lTV28tdXFrNWg2d0VVZWRBNkx5a1k5RktGMFlMbm94TnotV29aUzA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "New Narvar data reveals retailers aren’t ready for AI holiday shoppers &nbsp;&nbsp; Chain Drug Review",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1787641200.0
+    },
+    {
       "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWs1TC1pb3J5NFQ4VTlqcXJLdm1uekp6YURUZmF0N0tNb2NwSFFyYjQwYWgyWnd0VlRNRHg0NFJDSm0zdllNVWdNaTJzSXRzTmIyNlA3NFJPWmMxOWhicmp5N1Y5V3laUkhObURRSmpMeWdvZ3hNcUVvRF80RzNaRzBWUlFwVmRPeWRqZEdEaHU?oc=5",
       "source": "Google News: Yotpo",
@@ -431,6 +420,17 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1772179200.0
+    },
+    {
       "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
       "source": "Google News: Narvar",
@@ -473,36 +473,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
-    },
-    {
-      "title": "Yotpo and Shopify Enter Multi-Year Platform Partnership - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHQybFZGdjNLNUExSHhSSnQyckcxX2RjaDlCX296aUZQZUxjTGpjOFBWa3BXbllucjQyMl9HTFprZ1d1aGJDR1g0aXFnYzBkMjJEYjNhZ1VoMDhKR2VzWU1XTTdyNk9FcmtZb0JsbEZycEVRczBzMEFPX3AzaWJ2OTY4NmxoTGxXZ2hUd2gyNFVEMmpwMWtjOW5KSGQ2S1djMUN3dW9OZUt3ZlFHQXktSg?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "summary": "Yotpo and Shopify Enter Multi-Year Platform Partnership &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1631170800.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
     "total_fetched": 267,
-    "kept": 45,
-    "opportunities": 25,
-    "threats": 20,
+    "kept": 43,
+    "opportunities": 24,
+    "threats": 19,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 18.7
   }
 }
