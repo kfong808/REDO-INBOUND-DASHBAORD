@@ -1,16 +1,38 @@
 {
-  "updated": "2026-10-20T05:30:47.744732+00:00",
+  "updated": "2026-10-20T10:37:38.363610+00:00",
   "items": [
     {
-      "title": "post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
+      "title": "Amazon blocks agentic AI shopping. But Walmart is betting big that it's worth saying yes. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV3c0M3pLYnduUGxZWjdfNlFYdGkwbDRkdVNfY05DTXZkMVNqNHNHZ2xLWGpXQlgzbWJYMHFTNXJ5RFdoR3FpSVdxLUU0UDl3VC1KQ0RBTHdoVC1US0VrSFhveFU1eUpHNnd3bjB0MXI0U1N5QkRLQlFYZjFtOFVjdVVZYlp2Vm50cG1iWWhtSmg3UWs0MmJCT2VjLVlwckJ6YTY3TVdodV9JWFVuQk8yOFBQTGplN1AzM2VJUENhWE50Sk1xSEhqR3RCa0x3bGhZUExjZ2ZJRk05WG1CNVdJ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "summary": "Amazon blocks agentic AI shopping. But Walmart is betting big that it's worth saying yes. &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792490400.0
+    },
+    {
+      "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
       "published": "Tue, 20 Oct 2026 04:35:21 GMT",
-      "summary": "post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO &nbsp;&nbsp; Retail Technology Innovation Hub",
+      "summary": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO &nbsp;&nbsp; Retail Technology Innovation Hub",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792470921.0
+    },
+    {
+      "title": "The Intelligent Spend Shift: How Card Platforms Can Prepare for Agentic Commerce - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzU3ZTJxQmhRQWYyVFNRNXprU0RrMlplVU1IenFsbE1yTUx0aVF0SExseEtTOWY2bDRSWmFmbFRNQnBnZ0R3MUlWNzBnMUlMVjNPb2dYeXd4WENjeC14ZDdIN0p3Q1RxWk94Qzg4ME5YX2tibk5YNlplaGUxYTJPUC1xb3M3N0JDTWp1NWlFXzhJU2JGLUpJU2w3bmlKMGVzY1BVR0gzM2M1Uy0ycktZeVJtRG04NFhSS1E?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 19 Oct 2026 20:38:12 GMT",
+      "summary": "The Intelligent Spend Shift: How Card Platforms Can Prepare for Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792442292.0
     },
     {
       "title": "New AI shopping agents promise better bargains. But who pays the price? - The Conversation",
@@ -35,6 +57,17 @@
       "published_ts": 1792436850.0
     },
     {
+      "title": "Skyfire, Forter Enrich Trusted Agentic Commerce Decisions at Checkout - MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEtuRGF1QXhXblVGWjY3bFloRDRYamdDcXhhWGhzSVBOSmp1NlBPOTRHRVBreE54Vm5TQnAwOGFqSElwaWVyOGg2SGxoWG4tMlk3MDA1VG1sNHV6RlUybnJ3c2Jaa0ptSDBMTF9lbE1XbFgxNy1CYmFfMzI1aXRTRm1TQy0tZHdvbVpMQ1FneFJTWW9nNEVpdVktU1g5QQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 19 Oct 2026 18:18:28 GMT",
+      "summary": "Skyfire, Forter Enrich Trusted Agentic Commerce Decisions at Checkout &nbsp;&nbsp; MarTech Cube",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792433908.0
+    },
+    {
       "title": "The Agent Advantage: How Merchants Plan to Win AI Shopping - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWlIeDJSTTg1Q1pYaVliOEthNXI3RGFnTUp6bXJJY1NXWGJSUEZNUlN5Ri10ckdpYkRHb2ZHbGpHcEtMY3MzTVJnamYwR2YzaVgzZTZDUThCcUk0M2E4VGp6X3BnZUVUVHRHU0xkUTExMUViYUctNzgtR0FrZWRIMDFoNmViampoMzJoQ1prOXQ1RlJ3Sm5qYVhR?oc=5",
       "source": "Google News: AI shopping agent",
@@ -46,17 +79,6 @@
       "published_ts": 1792432489.0
     },
     {
-      "title": "Skyfire and Forter Team to Strengthen Agentic Commerce Decisioning - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUNGRDBnOXJYZXh3czBXSHhTYlVLZW56SXNjWWVXbFdodkxjNTNwSXFTX3N2dG5YOExwUWtJVGs2RDNFT1NUQ2N3LWpMVHlQTWZhV2xzcms5OUdtYUNwdmp0aGp3emxMVXpIal9VSVBqV085NGoydHZhQ3A0aTZSU2luNWstbm1qc0Z2dS1IWXg3YWxQNVBRek1JcXA4LXphZG1yQVd5UExRU3du?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 19 Oct 2026 15:38:26 GMT",
-      "summary": "Skyfire and Forter Team to Strengthen Agentic Commerce Decisioning &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792424306.0
-    },
-    {
       "title": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility. - Supply Chain Dive",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzY4QUtkUXhYSVEzM0xFR19tY2tJLS0zRjEwZWNhamhOTmZOOFRFR1E1MDV0OXBGS1VSNG1JSUhUTXlpUzFaRmI3SnQwWV9ZVXN3QWQ0M0FUQkJIWWE0TGg1amNCWlprUFJZdnNXVFd3Si1hMXlrWllJaEl2OEwxZVNMYWh2U0RJZnRPNDJ0V0dNSlVGVGcyQnZoTVhvVFYwN2tSYVRPS29VOGFDMldSMS1mVEg4NFE?oc=5",
       "source": "Google News: agentic commerce",
@@ -66,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792400439.0
-    },
-    {
-      "title": "Skyfire and Forter Enrich Trusted Agentic Commerce Decisions at Checkout - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXpQNHQxbk1CY2VydVB1YWctYm16SXpPbWFrU2pqSU9zME5tc3c5LTJxaUFJSkthWlFyU19XdVlvMmdPYWxYUVhoZENuNEJ0eEY3Y2luVWhaT1lBdXFQZDNVbHE1OXdhc1hjZVFiNFBySklUNElZRlBqUEUtTVJmZWY2SThCTlM5TUx3NmZUckxtUjlHSkxrRmFnTWpUclNGaWh1VjByTlg3eDdoazVXMVlvajFEZ0VTbGhNRGYybHNzSlNSd051Ug?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 19 Oct 2026 09:00:00 GMT",
-      "summary": "Skyfire and Forter Enrich Trusted Agentic Commerce Decisions at Checkout &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792400400.0
     },
     {
       "title": "Amazon, Yelp and airlines are shutting AI shopping agents out the door - Startup Fortune",
@@ -92,24 +103,13 @@
     {
       "title": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf - Raleigh News & Observer",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jeXZrZ2tTQzZHS1lHTEd6Q1BlLTlwaUxhbERHa3puemxHOEhDcEh6Z1RuWjFjNEd6dW92Wkc2V3lzRVdsOWo0XzhXVFlQc3owYmFwS293cGZMVFV1V29Qc2FVcFBEeTBC0gFoQVVfeXFMT0xYV2NzUWpTQVBnNElTSUN2Q2JvdVZQMG9XOGppbTA0cWZlVnUwSTNkNkg3Nm5mV0syX2xlcUxoX0dlNmp4UmJLU2JscDA4OHdzSEQySFZXeXRoSi1nRjVMUTRsNGhObkg?oc=5",
-      "source": "Google News: agentic commerce",
+      "source": "Google News: AI shopping agent",
       "published": "Fri, 16 Oct 2026 20:00:00 GMT",
       "summary": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf &nbsp;&nbsp; Raleigh News & Observer",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792180800.0
-    },
-    {
-      "title": "What Is Agentic Ecommerce? A Plain Guide to the AI Shopping Era Already Unfolding - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBQmxSMEJFVWlaN0t4dzV5Smx0LUc1NWhFRXlVd29wQ01FVlE3VHpjbWJmOV9RSHNmb3hCdkJhQWZxX2lGRnpld3ROY2lCLXpMMTVPRWdfYWs2QjJfcm54LXJBdGYycVdYcWpKSmhNcmdmeWPSAXNBVV95cUxOeWREZ2l4dkJnQktKZUlDUDA2ZTFEOHBGT3FMell3M2FScW5pcDZHMllQTEd6RlBvdDB6X3hCOG8zVFNMelYxTUMzejBhMVhjSWxiNjhQTFNGb1Vwal95Ti1DU0RUTGJvZFY5V0ZKNlB5UGhj?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 16 Oct 2026 19:02:00 GMT",
-      "summary": "What Is Agentic Ecommerce? A Plain Guide to the AI Shopping Era Already Unfolding &nbsp;&nbsp; Sacramento Bee",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792177320.0
     },
     {
       "title": "Ecommerce confronts AI shopping agents ahead of holiday season - Semafor",
@@ -121,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792171500.0
-    },
-    {
-      "title": "What Amazon.com (AMZN)'s AI Shopping Bot Block Means For Shareholders - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3RzSE1RcHBCYklZelpLNUl3U2xiWlJYSEFfZ2E2VHI1aW9qZ0FlTHBtbFdxZGtCdllyNFF4UDhUWkg4NEstRFZiVUxIb1NseUxfN1FxaXJveEtqVGUtbnpsZFpsd2NOWERON05kdmdPTDR0RWgxQmR1OUFQcDRfREF4SUVwRktDYmNFSDllNVBXS21NdFJV?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 16 Oct 2026 07:13:20 GMT",
-      "summary": "What Amazon.com (AMZN)'s AI Shopping Bot Block Means For Shareholders &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792134800.0
     },
     {
       "title": "Stripe agentic commerce revs up - Payments Dive",
@@ -258,12 +247,12 @@
       "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - NewsNation",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGtuamk2cFcyLWgzQXVvSUVnYVk5MVYzd19DRVk2eDBTU1JjYUdST2dnMTZveDhna1pVdE1rQ09fSmt6VnV5ZDk5RGdLQkRUZzAzZlByN2N1ejJ3amdSWkpKNktMSUtXcm1nSWJlX2VGMjJQRVhQWmNMdXF6TG4zdEdhZ2ZlT25lLWdJVTl5a21MSTNJdHfSAZsBQVVfeXFMTWxhS0xIYzhFUUdhZzhYU3hjRzRTT1JFbXlxZ0I4aWlOZEhjWXpoRURrNUl2Y1EzTjlrc190UENjbmRJSEF6dWlIUDR2X0N1YmNWVEE5ekdnS09laGZ5YzU4YXJtX1gtU3RlNVJPWXZqRkU0bXk4TG11R0h0amVwR1ZWU0lqSlBqSFhFeXRlYmxaNEVIamtZU2dQSnM?oc=5",
       "source": "Google News: Postscript",
-      "published": "Tue, 20 Oct 2026 02:42:03 GMT",
+      "published": "Tue, 20 Oct 2026 05:05:24 GMT",
       "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; NewsNation",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
-      "published_ts": 1792464123.0
+      "published_ts": 1792472724.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -308,17 +297,6 @@
       "confidence": "medium",
       "reasoning": "Shipstation + launches",
       "published_ts": 1791270000.0
-    },
-    {
-      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Mon, 28 Sep 2026 16:11:00 GMT",
-      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1790611860.0
     },
     {
       "title": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music - Case Western Reserve University",
@@ -454,11 +432,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 41,
-    "opportunities": 23,
-    "threats": 18,
+    "total_fetched": 270,
+    "kept": 39,
+    "opportunities": 22,
+    "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.6
+    "runtime_seconds": 146.2
   }
 }
