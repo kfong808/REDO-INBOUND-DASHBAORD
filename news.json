@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-21T21:00:09.541411+00:00",
+  "updated": "2026-10-21T23:55:16.592026+00:00",
   "items": [
+    {
+      "title": "Walmart Opens Its Digital Doors to AI Shopping Agents as Amazon Builds Walls - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aOWtNN3Q2dWIzSEFKelUwbUVBQUVvMjJJM2pRbUhGcjMwRm1kTGJITmVNa2IyU2h4ZW1LQjhZaGg2OUVNcURKQl9RSV9STEFlc2lIRXlJOHdFX3NPaHdjRUU4ZTNyelpSdTJ0ZHZabEg3dVFBWkE?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 21 Oct 2026 21:35:00 GMT",
+      "summary": "Walmart Opens Its Digital Doors to AI Shopping Agents as Amazon Builds Walls &nbsp;&nbsp; BigGo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792618500.0
+    },
     {
       "title": "AI shopping wars: Walmart welcomes AI agents while Amazon blocks Muse - Axios",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MYllDTEptMGlaTUdqY3lzUVBJTDFsQVprdkpnRFFQd1VUVV9MMzBvYW8zNmlTbTdMT1FWVXBuNDFsaUJ0b2dMOE9iM3J4cmpQUlRrSjg5emtqQnRVZUxPdUZieGVYeDdHRDAw?oc=5",
@@ -44,6 +55,28 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792598555.0
+    },
+    {
+      "title": "E-Commerce Faces A New Rival: Agentic Commerce - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZnYtWmdNaEtGRjVzNVY5ckJSeGZ2LVNDOGcwRnRMMjl3cFduRVBvNUw5SHBWeUoxRklEd2c5LUY2ekZNekVOajFwODNSbThfZWJaQ1g1Z0tiazVlQVEyTUdHUEpmUTVmTUkwZHJvNGg3azROQUM1SE1RQ2duelk?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 21 Oct 2026 15:32:27 GMT",
+      "summary": "E-Commerce Faces A New Rival: Agentic Commerce &nbsp;&nbsp; Finimize",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792596747.0
+    },
+    {
+      "title": "Is your marketplace agent-ready? What BCG’s new research says about the digital flywheel and agentic commerce - Mirakl",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2lSLUdxWFRTZWpZLVBNeUliS0hZdjVjc3FtU3dqT1lnSkZSN055YzVSOExrSExfbUdJLTNlOTIxYm9hSlFnblBnX1hFQkptdlc0enlqLW04cWZjMy1qbmdhZ01YQUR3Q1gxaEcweTVCc1daeXRqVXF4dXUyMXVBWld6dVpxa21KdThTenp5a29TYzc5T05QS3R1bldDUnFFXzZKN1VQNmlxZ25wZUMyTHpEVV9kblUwdFdwTVZOV21PcUF3UnVzckhBdW13WkVsRjl3T1ZWcmJXV01yekE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 21 Oct 2026 14:25:15 GMT",
+      "summary": "Is your marketplace agent-ready? What BCG’s new research says about the digital flywheel and agentic commerce &nbsp;&nbsp; Mirakl",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792592715.0
     },
     {
       "title": "New Ecommerce Tools: October 21, 2026",
@@ -112,17 +145,6 @@
       "published_ts": 1792564634.0
     },
     {
-      "title": "Lindsay Owens: Who Is Your AI Shopping Agent Working For? - The Lever",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nOWtGclRBX1UyMEdpVGxQanpnS0VnOU5PeG81dlV2YWZ2a0kxREg5bklzTldNZEptZGhaa2JpZWdmYVViN1RtNlRvTm84eUFzeDZiTV9kUUlIcWVUczZtSEVjNEVmVFJOWEppTjRzZ0haUQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 20 Oct 2026 19:58:26 GMT",
-      "summary": "Lindsay Owens: Who Is Your AI Shopping Agent Working For? &nbsp;&nbsp; The Lever",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792526306.0
-    },
-    {
       "title": "Synchrony sees 'big opportunity' in agentic commerce - American Banker",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmRaOGpVMy1RMHdYbzc5RjFGSUJjb3NhV1dtQnlUOWs4eXI5OF9SbDEzU2VfZUtmbWNfQU1VbjFLWjZHRVJVTU1HUTEtZzJyYjd4NGttOFBRdUQ2NWM1NEI3UjI2Rk1iR2E4WVhEX3ZXX01saFU5X1lqT1puQVpzMlVJVnFoV08wS2ItZDJIMA?oc=5",
       "source": "Google News: agentic commerce",
@@ -145,39 +167,6 @@
       "published_ts": 1792518418.0
     },
     {
-      "title": "Survey: Agentic Commerce Has a Payment Trust Problem - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGdwbTVmNmRQejNOZXBFMXVEZUNoZGp2cTZhVWRtODhlOE5vTnVKU3ZsdGRVQktCWV9OQk5hdmpBSkZpLVZ3cjhtRzVGNnZCakpiVWRmOFRqWWkxSHo1RklPX0d4SVNNeEhtYy1nUl9EUkhVTWI2ODRvTlJQV1YwYmk1c2hMU2RSdjktTXExdVhaRUhEQ2dYZWxZWGljRUlEdlRQekxqWmpzOTg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 20 Oct 2026 13:02:00 GMT",
-      "summary": "Survey: Agentic Commerce Has a Payment Trust Problem &nbsp;&nbsp; PR Newswire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792501320.0
-    },
-    {
-      "title": "Agentic Commerce Is Still Hype Ahead of Reality - PaymentsJournal",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkQzeWQ2SzdVa1dST2xpbmtodzA2YkJlNnhJZW4wWHFYdFZlb3pNc1F6NldEUW5vSGpMb1lBOW9nME12S1ZHT3dRRmJDVmxmcklHbWdCbmJMZHdTeUh2X3YtWDhGTTRGTndNYUN1SlRLUld6c09nN2pSaVZsZUd1YnhaUTlfTWfSAYwBQVVfeXFMT05tWk1NcV9OSjZtQ3paN2RhSmFfanJ3ZXJRMUR2VGYya2xXeEpYeEl5ZTZGbnNHc0VKQlJkSG56RWxuejdja1YybjRsUXZFQm5Hb081aGhZc1VNZzJiQk1kcWRGQlpDLVluNGlCRVYwZTdaeldQWlE2Z2liZmJLdmNpS0ZmaVAyRDdKRXU?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 20 Oct 2026 13:00:00 GMT",
-      "summary": "Agentic Commerce Is Still Hype Ahead of Reality &nbsp;&nbsp; PaymentsJournal",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792501200.0
-    },
-    {
-      "title": "Amazon blocks agentic AI shopping. But Walmart is betting big that it's worth saying yes. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV3c0M3pLYnduUGxZWjdfNlFYdGkwbDRkdVNfY05DTXZkMVNqNHNHZ2xLWGpXQlgzbWJYMHFTNXJ5RFdoR3FpSVdxLUU0UDl3VC1KQ0RBTHdoVC1US0VrSFhveFU1eUpHNnd3bjB0MXI0U1N5QkRLQlFYZjFtOFVjdVVZYlp2Vm50cG1iWWhtSmg3UWs0MmJCT2VjLVlwckJ6YTY3TVdodV9JWFVuQk8yOFBQTGplN1AzM2VJUENhWE50Sk1xSEhqR3RCa0x3bGhZUExjZ2ZJRk05WG1CNVdJ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "summary": "Amazon blocks agentic AI shopping. But Walmart is betting big that it's worth saying yes. &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792490400.0
-    },
-    {
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
@@ -189,17 +178,6 @@
       "published_ts": 1792470921.0
     },
     {
-      "title": "New AI shopping agents promise better bargains. But who pays the price? - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTRlVmNmVmlDRlRfclBRSGhNQzZoWndBQlRuSDdQZUtPY0NsOFRTdmhYV2h1VnkxSFBQX0xFLTBwQWxKYXdmdFM2YV84cXF0b2ZXOGRibHJCU1E0NW51WnJ5ejhiZEZxTjd6QWhXbkNzaDM5c1h6eFA0eEowcC1UX1BiQXdjSkpfRWN0cXBTRi1RcDlES0xpZnhMY1JBVzdqQ3FPLXRzcw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 19 Oct 2026 19:15:36 GMT",
-      "summary": "New AI shopping agents promise better bargains. But who pays the price? &nbsp;&nbsp; The Conversation",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792437336.0
-    },
-    {
       "title": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility. - Supply Chain Dive",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzY4QUtkUXhYSVEzM0xFR19tY2tJLS0zRjEwZWNhamhOTmZOOFRFR1E1MDV0OXBGS1VSNG1JSUhUTXlpUzFaRmI3SnQwWV9ZVXN3QWQ0M0FUQkJIWWE0TGg1amNCWlprUFJZdnNXVFd3Si1hMXlrWllJaEl2OEwxZVNMYWh2U0RJZnRPNDJ0V0dNSlVGVGcyQnZoTVhvVFYwN2tSYVRPS29VOGFDMldSMS1mVEg4NFE?oc=5",
       "source": "Google News: agentic commerce",
@@ -209,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792400439.0
+    },
+    {
+      "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBSWnpRNHg4MXdmUGw4SjBCNzN2N2ZDdjVLN3JhRlNhZ1dEZ2FhaUZmbU81VVE4U2hvS3RhQW1rQTJpRzNCZXVJMGxJaVczLVNKUkxsSG1FcEhNWTh2SGdrUzVHaVlxSXVESndvLWdkaGVnQmJyN1FaVXRpeTJIRWpPYk4zUm9QTXd1VF9fMVDSAZYBQVVfeXFMTnBzbFNGSkU5UEpndy1CMlB1RUREUjFMRUw5QkpPSjZiMzZaOXhxNnVuMEZaMkVPOUptazREVGpqVUhyU3lPWHI3QWF0VHRiQVhlbXdKR2ROb1lEUzJENzhpZ2Zfc0NYUmhHd1pKU1k4WWt5UFBqVnEzc3JIQXg4WTVWN3FuTjhfNjJIcXVlWXR6MXk3OGFn?oc=5",
+      "source": "Google News: DTC ecommerce",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ecommerce growth",
+      "published_ts": 1791529200.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -343,15 +332,26 @@
       "published_ts": 1792135681.0
     },
     {
-      "title": "Senator Addabbo Continues to be Attentive to Constituent Concerns with Mobile Office Hours and Java with Joe - The New York State Senate (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVi1WX1pHajBoTTdlTEo2UkU0d1JWaGQ2TU9ySGp6bGpfSkprX3U1dWJGb283eTBfS1hlR2duUWZlTmFELTQ1RGlrTTNkQmJIMldjSFhEblNyX285cGVDcXNWbkp4UHRzUVBlYmVaM0FHU1I0SlE2ekZiZUo2RzJZci1RZ0VzNzZhcjE3NEpucmNMNkk1dnZndmNyM0xKaFhwSDEwX3o0RGFkTUFubFJBUUZBcWw?oc=5",
+      "title": "Senator Addabbo Continues To Be Attentive to Constituent Concerns With Mobile Office Hours and Java with Joe Events - The New York State Senate (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVlZJY01xcEhydnN6MDhnTDJxQmE3YTBLazRTNFpJbEFxcGplVjNidnloX3E1N0YzOUFxb3B5T3UtYjFwV0ZMM1JmVDVyY2JxTFBPSTBnYmQ3eGEtTHVnbTNhd00yTE9rTmZmVGFfazduZlhsMHV2NXFYUFZCbUJjOV9WNFl5NUJ2MExfMVVrN2ZsS1I0T3lJYXctRWl5TFFMREM1bnY4SE5FczY5cWxEOG9Va09oZzVEbmVlOWxFS3MxUQ?oc=5",
       "source": "Google News: Attentive",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "summary": "Senator Addabbo Continues to be Attentive to Constituent Concerns with Mobile Office Hours and Java with Joe &nbsp;&nbsp; The New York State Senate (.gov)",
+      "published": "Wed, 07 Oct 2026 13:55:24 GMT",
+      "summary": "Senator Addabbo Continues To Be Attentive to Constituent Concerns With Mobile Office Hours and Java with Joe Events &nbsp;&nbsp; The New York State Senate (.gov)",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
-      "published_ts": 1791356400.0
+      "published_ts": 1791381324.0
+    },
+    {
+      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1790578800.0
     },
     {
       "title": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music - Case Western Reserve University",
@@ -409,6 +409,17 @@
       "published_ts": 1787122800.0
     },
     {
+      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
+      "source": "Google News: Loop Returns",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; The Outerhaven",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Loop Returns",
+      "published_ts": 1786431600.0
+    },
+    {
       "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -440,17 +451,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
-    },
-    {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1779951600.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -487,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
+    "total_fetched": 268,
     "kept": 44,
-    "opportunities": 27,
-    "threats": 17,
+    "opportunities": 26,
+    "threats": 18,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.6
+    "runtime_seconds": 14.3
   }
 }
