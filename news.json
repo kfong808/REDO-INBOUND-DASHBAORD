@@ -1,16 +1,60 @@
 {
-  "updated": "2026-10-21T06:44:46.882431+00:00",
+  "updated": "2026-10-21T12:32:38.169989+00:00",
   "items": [
+    {
+      "title": "Money20/20 USA 2026: Agentic commerce in the spotlight - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTkxcC02ckVsRWxTV2JaM3ROdUtIM0xBa2Z6X01ZUkx4UlFoOWtGTV94QkdzODFhX0hVekp6YVgtbzhQdHFJZ0NhY0l4NUFFY3o5N3QyUWpreFY0clZuVTlhdjc3dHhiQXZpR0ZBN2lORS1aV1dvYkNBX0FWVm1QajJSeGN2aVNaamJnUHR1Y1BUbzJySTFST3RTTUlsTnNWZ05VSVhhMDVldTdBbXc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 21 Oct 2026 12:26:30 GMT",
+      "summary": "Money20/20 USA 2026: Agentic commerce in the spotlight &nbsp;&nbsp; FinTech Futures",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792585590.0
+    },
+    {
+      "title": "What Amazon's Blocking of Meta’s AI Shopping Agent Reveals About Curre - Infosecurity Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHBqTHNtSHJIakp0TWJhVVBDcl80ZWtGZkduMS1ob0s5b0ljNTdSa1RXYUdiMWM4eGVXdUxSZjlKVE9Zd0swRllvUElGa0t2RWFacm5TUjBNZHNCN0ZrSURqQjJnN2FkRFdoWkpsbmRtd2ZRbUpRYmtzcFdudkFTOHA1UkE?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "summary": "What Amazon's Blocking of Meta’s AI Shopping Agent Reveals About Curre &nbsp;&nbsp; Infosecurity Magazine",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792584000.0
+    },
+    {
+      "title": "Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzBsTXktaVgtWEdzbmp5Z0RzdzktYWlVR2lNTlRCWGdYaWZ4WTE5eHRhR0VvMUtmdGlhVkMtMXFnQXNobkdCUzdEdVQwVlZzY1oyREkySjlvQU1JY0hWSUZPRzRDaWJVaVp3VXl1S1RuOV8xM1NGemNUSGVGWkhLMWx3LWlfYi16T1BjWTJyclA5QUFQZVVtcDR1Szc?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "summary": "Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million. &nbsp;&nbsp; Business Insider",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792584000.0
+    },
+    {
+      "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Zk05c0Y5cjVYVUYyVTV3ZGs3M0JzX29FN2lLVVZ2YTVMNTc1VHZ3aTU4LXVxNlRUS29SMEd4VGpTNGFaaEpRRzRHdFlDc0lycVkxZE5CeDc2OGRycUR2Ti1xT01fWE5EYWZuREtyZXFYSnprRnhGTmlB?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 21 Oct 2026 06:37:14 GMT",
+      "summary": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce &nbsp;&nbsp; Boston Consulting Group",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792564634.0
+    },
     {
       "title": "Meta, Sierra, Walmart, Stripe and Shopify Back a Shared Standard for AI Shopping Agents. Here Is What Businesses Should Do Now - Times Square Chronicles",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYm8xZTJGR0Rzd2paTG5semlHeV8tYXlfbmh0WWtxYmM0bldZQVNnbnRHQnI5S0tYdGFuRlpENjJ2QW95b2FjSUdqXy0ydWNpQlQ0ZFlQWVNBQVU1VlFzMGMtcjRfa3dVbEw0OHBnQ3hLc0dsQnMzTDJfRy1aTjdlZmhCcmx6cUlPQTdhRUtya0ZSX2pWdHBGNDJMbVNFbWhmcEJzQXM0WVJETEtFZUZyWm8xRWY4S240VUhmYlJaSWd0V0RGcHhoNlM3YkdZLU1kWkh5alVZQ2FzeTlDT3c?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Wed, 21 Oct 2026 04:02:05 GMT",
+      "published": "Wed, 21 Oct 2026 06:18:02 GMT",
       "summary": "Meta, Sierra, Walmart, Stripe and Shopify Back a Shared Standard for AI Shopping Agents. Here Is What Businesses Should Do Now &nbsp;&nbsp; Times Square Chronicles",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1792555325.0
+      "published_ts": 1792563482.0
     },
     {
       "title": "Lindsay Owens: Who Is Your AI Shopping Agent Working For? - The Lever",
@@ -44,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792518418.0
-    },
-    {
-      "title": "COSIMO Venture Partners Signs Letter Of Intent To Contribute Agentic Commerce Assets To Silver Scott Mines (OTC: SILS) - Voice of Alexandria",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMU1Va3M4SFBjdXRVMnVRZzVYQTNnaXlwSGZEOUhVZE5YMXlzMHd0RXN0dUlSRTJsakkxb3Etb09oY3hzalFwd2Z0cTF5dDhOVmdmLWxLYnUxdjRUUVRIZjZKVHNtRTNIVEhST1ZoZmtTbktSN25YY2Y5eWY1cW9HRE1lRDBPRG5EZWZMM2VVLVAxNDZWSzlIUkxxVW84bzBjRlFIUEp5Qzg2V0Iyc3cyd2VqNHZoU1ZRY2paNXlIVUtaOHpRNlJIRUhhU1IwemJnTUlWM3JNSWdfVEk5Qi1uRnZfTmNCc0g3OFhxQTJudjE0SzBDX1laUjBPQ3BvVzZ3Tkw1MDIzV0swYmx6UTItUGRkMG10elVFbjRMQk1YNEU0RHpMaFdTd21uT2JwQjFKQUNvaGhuSQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 20 Oct 2026 17:34:23 GMT",
-      "summary": "COSIMO Venture Partners Signs Letter Of Intent To Contribute Agentic Commerce Assets To Silver Scott Mines (OTC: SILS) &nbsp;&nbsp; Voice of Alexandria",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792517663.0
     },
     {
       "title": "Survey: Agentic Commerce Has a Payment Trust Problem - PR Newswire",
@@ -134,17 +167,6 @@
       "published_ts": 1792400439.0
     },
     {
-      "title": "Amazon, Yelp and airlines are shutting AI shopping agents out the door - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRE9GMkw4cVpqTTJBYUJuR3lFcEpiaUxKNjVFV016aTdEVGtyM0liT2x4UWhacjJNQ25OZkdxaDhvYkFlelRCXzhxMVRJbXFjQWtwSlc5Tklud2drRlFldzZhbjhGNmxIVTJUaDFsTWlrS0ZZWXRDY0N5NHdDU2t3SVNGSTVBZ3FtN0M4Z3ZLNEZyU055WjlmakhZOU9Gdw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sun, 18 Oct 2026 20:09:53 GMT",
-      "summary": "Amazon, Yelp and airlines are shutting AI shopping agents out the door &nbsp;&nbsp; Startup Fortune",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792354193.0
-    },
-    {
       "title": "What AI Shopping Agents Actually Do When They Start Buying Products on Your Behalf - Raleigh News & Observer",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jeXZrZ2tTQzZHS1lHTEd6Q1BlLTlwaUxhbERHa3puemxHOEhDcEh6Z1RuWjFjNEd6dW92Wkc2V3lzRVdsOWo0XzhXVFlQc3owYmFwS293cGZMVFV1V29Qc2FVcFBEeTBC0gFoQVVfeXFMT0xYV2NzUWpTQVBnNElTSUN2Q2JvdVZQMG9XOGppbTA0cWZlVnUwSTNkNkg3Nm5mV0syX2xlcUxoX0dlNmp4UmJLU2JscDA4OHdzSEQySFZXeXRoSi1nRjVMUTRsNGhObkg?oc=5",
       "source": "Google News: AI shopping agent",
@@ -154,28 +176,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792180800.0
-    },
-    {
-      "title": "Ecommerce confronts AI shopping agents ahead of holiday season - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUZfNVlCOEZsdzdoTHdTY1ZxZGdpcjg5RTFVdUxkQlFiSVhSVnh4cWpmeW1mM1FWUW51eEZFc0JES0tzaDRDVlNrTEh5UE83S1VzX3R5ZEktaVdJbHRZMUhrTFFTcmJmT05MSmpXbHgxQWo4c2FTdDZ1Q3hXMTJ0TEVFdVBuclNEbWlvOUF2N1htOGtWeUR1NmVSUXZnYUFTTmVlaVFNR3A?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 16 Oct 2026 17:25:00 GMT",
-      "summary": "Ecommerce confronts AI shopping agents ahead of holiday season &nbsp;&nbsp; Semafor",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792171500.0
-    },
-    {
-      "title": "AI Shopping Agents Force Retailers to Rethink Customer Access and Payment Controls - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFZrNThCdFR0bGxSMXBxV2tLbXRWM0tINmRjSk95V0xaejZOZzN3bEVOODlTWDJPSUJFR1hIVXJ1MVFMWjQyQl9tdjZSSURZNlQ3TzlhMGRQeHE1Nk5FczdMX3FoTExGWTR4M1pJT0FJT3ViTkhLTkVCRTJGZmxGUDRPSGJoMzdwTzJSeFk4a1duRUVYQzNpRFY1S3VCR1hRZlk5elVteFhCVF8tdzFvQWstYkRJeFBDaXBaLWMwMUs?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 16 Oct 2026 15:39:31 GMT",
-      "summary": "AI Shopping Agents Force Retailers to Rethink Customer Access and Payment Controls &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792165171.0
     },
     {
       "title": "Stripe agentic commerce revs up - Payments Dive",
@@ -255,17 +255,6 @@
       "published_ts": 1788332400.0
     },
     {
-      "title": "Optimize Your E-Commerce Post-Purchase Logistics - ClickPost",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2IwY3ZiZkJJQ01WT0NIWGFNbjNBS1BNV1FldFVBYW1xcnRlclJDLTZFN0tSMk5ubVlmRFQ2UkY2Y0VPN1J0aS1NM2p0VWdxVVJUNGstUk04QTB1MjhSNVlwSGdpVGZOb2xUQkVKSWplY25vaTRmNmFnSExMYnhRTmlVN3U?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-      "summary": "Optimize Your E-Commerce Post-Purchase Logistics &nbsp;&nbsp; ClickPost",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1786777200.0
-    },
-    {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGxIVEwwRFcwREs4UUhlY2N6ZlVyeTJ0T0EyNEdvR1diZjZwYVk3T1dkRGZFZXNUX3ItSjNkR2IyQlB5bkhCU0Zyd2dSRG84OTlGcjdOTjk1eTRjMTJBdUFSZ29mZ3l6UjdBQ3ozUWVYZWwzM1BleVpvSDE2VThQUVlKdkJZU1pEcVRHVlNaN3ZQbExXYzJZWVdCTUJEYmtSYnVKbGgzeVRpLXM?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -288,15 +277,15 @@
       "published_ts": 1779260400.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
+      "published_ts": 1772611200.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -310,15 +299,15 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How to set up post-purchase email automation in Hostinger Reach - Hostinger",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3lMZTYzNGxjVDRTQzlhdHdhb0NvV3FZY0J4ZXhPUzNUQ09HcFEzLVAwU1FHMnhBdVN4YkJvN0d2MlR5Mk1YZmhIWkI3M0E5cjdwZ2p5MGVnaW9VcVlkaWRHcTk2Z1NHS3JXSUFuUVc2cXdNYWhSU0JEMnpMWjB6V2wtdWlhVVBOQndrZUlsNFFLUU4wUzlaYTN0ZHNTV2s?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 27 Nov 2025 07:24:46 GMT",
-      "summary": "How to set up post-purchase email automation in Hostinger Reach &nbsp;&nbsp; Hostinger",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1764228286.0
+      "title": "Narvar Returns Portal Market Analysis Report Examining Demand Patterns and Competitive Landscape - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdlBhMnIxbTcxTTdQTDBoMlp5XzNoV2tGbnZIN1ZfQS1GWGRfd0NVMGVDYng4aGtsaTA2dXhNZk5pUjZDSDNIbWZLazNuQ0VOQnFYdHpRMXJpaHJZS1JXZGttWmJLZHZJSHVhS0w1aFA1RTFTaTN1RE9odXlvR0pUZllVQjBBT0RvVUplSGlodmFIOVh1STR0dWpXMWIwTmRybjQzR2Fmc3VLOFBjVksySWhsd3ZYZTFENnNXRUlXT0EyeVdnN1JkSkFyT183ZWgybnNWbg?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 21 Oct 2026 00:45:00 GMT",
+      "summary": "Narvar Returns Portal Market Analysis Report Examining Demand Patterns and Competitive Landscape &nbsp;&nbsp; EIN News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1792543500.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
@@ -354,15 +343,15 @@
       "published_ts": 1792135681.0
     },
     {
-      "title": "Senator Addabbo Continues to be Attentive to Constituent Concerns with Mobile Office Hours and Java with Joe - The New York State Senate (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVi1WX1pHajBoTTdlTEo2UkU0d1JWaGQ2TU9ySGp6bGpfSkprX3U1dWJGb283eTBfS1hlR2duUWZlTmFELTQ1RGlrTTNkQmJIMldjSFhEblNyX285cGVDcXNWbkp4UHRzUVBlYmVaM0FHU1I0SlE2ekZiZUo2RzJZci1RZ0VzNzZhcjE3NEpucmNMNkk1dnZndmNyM0xKaFhwSDEwX3o0RGFkTUFubFJBUUZBcWw?oc=5",
+      "title": "Senator Addabbo Continues To Be Attentive to Constituent Concerns With Mobile Office Hours and Java with Joe Events - The New York State Senate (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVlZJY01xcEhydnN6MDhnTDJxQmE3YTBLazRTNFpJbEFxcGplVjNidnloX3E1N0YzOUFxb3B5T3UtYjFwV0ZMM1JmVDVyY2JxTFBPSTBnYmQ3eGEtTHVnbTNhd00yTE9rTmZmVGFfazduZlhsMHV2NXFYUFZCbUJjOV9WNFl5NUJ2MExfMVVrN2ZsS1I0T3lJYXctRWl5TFFMREM1bnY4SE5FczY5cWxEOG9Va09oZzVEbmVlOWxFS3MxUQ?oc=5",
       "source": "Google News: Attentive",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "summary": "Senator Addabbo Continues to be Attentive to Constituent Concerns with Mobile Office Hours and Java with Joe &nbsp;&nbsp; The New York State Senate (.gov)",
+      "published": "Wed, 07 Oct 2026 13:55:24 GMT",
+      "summary": "Senator Addabbo Continues To Be Attentive to Constituent Concerns With Mobile Office Hours and Java with Joe Events &nbsp;&nbsp; The New York State Senate (.gov)",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
-      "published_ts": 1791356400.0
+      "published_ts": 1791381324.0
     },
     {
       "title": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music - Case Western Reserve University",
@@ -475,17 +464,6 @@
       "published_ts": 1768204800.0
     },
     {
-      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Yotpo + acquires",
-      "published_ts": 1744095600.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -495,25 +473,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
-    },
-    {
-      "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Sun, 15 Oct 2017 07:00:00 GMT",
-      "summary": "Postscript: A high school reunion and the struggle to fit in &nbsp;&nbsp; MPR News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1508050800.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 46,
-    "opportunities": 29,
-    "threats": 17,
+    "kept": 43,
+    "opportunities": 27,
+    "threats": 16,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.8
+    "runtime_seconds": 10.2
   }
 }
