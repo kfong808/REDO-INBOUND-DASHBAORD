@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-22T02:21:06.380836+00:00",
+  "updated": "2026-10-22T08:04:52.198333+00:00",
   "items": [
+    {
+      "title": "AI shopping wars: Walmart welcomes AI agents while Amazon blocks Muse - Axios",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MYllDTEptMGlaTUdqY3lzUVBJTDFsQVprdkpnRFFQd1VUVV9MMzBvYW8zNmlTbTdMT1FWVXBuNDFsaUJ0b2dMOE9iM3J4cmpQUlRrSjg5emtqQnRVZUxPdUZieGVYeDdHRDAw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Thu, 22 Oct 2026 03:55:12 GMT",
+      "summary": "AI shopping wars: Walmart welcomes AI agents while Amazon blocks Muse &nbsp;&nbsp; Axios",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792641312.0
+    },
+    {
+      "title": "Agentic Commerce | AI Shopping Agents, Payments, & Risks - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56UlFIUFFscE5Sb1ZRd3drMVE2VWxBd2ZsQ2Z5OFBZLWVFRFI2SUg3dGgyb1RSbjdpeU41b05ncDhqVUo2RldHZHM5bXU3T0k1ckZWeUFoSERRRzZHYUE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 22 Oct 2026 02:31:31 GMT",
+      "summary": "Agentic Commerce | AI Shopping Agents, Payments, & Risks &nbsp;&nbsp; Britannica",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1792636291.0
+    },
     {
       "title": "Proof and Circle Demonstrate End-to-End Agentic Commerce: The x401/x402 Handshake - Forkast News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2FXbThmSmlJSGdjZ3ZQMWIzcmliVHJobkZGcjlwMmF6NWJYVGtQSHFlcTJqTGYzODkzOTdzY0hKVDdzcElSaDFFZWNfS0JFeUxvd1J5QjNjZGpzVU05YndYeDVRZy1KUVpTMm81NzQwSUVXNEtESDF0RmpoQjE5aFZSQ1NtaVowUGw1cURSQURQZm9FUFF5Ull3TTFHX3VaQTJqWQ?oc=5",
@@ -13,17 +35,6 @@
       "published_ts": 1792626912.0
     },
     {
-      "title": "AI shopping wars: Walmart welcomes AI agents while Amazon blocks Muse - Axios",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MYllDTEptMGlaTUdqY3lzUVBJTDFsQVprdkpnRFFQd1VUVV9MMzBvYW8zNmlTbTdMT1FWVXBuNDFsaUJ0b2dMOE9iM3J4cmpQUlRrSjg5emtqQnRVZUxPdUZieGVYeDdHRDAw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 21 Oct 2026 20:55:12 GMT",
-      "summary": "AI shopping wars: Walmart welcomes AI agents while Amazon blocks Muse &nbsp;&nbsp; Axios",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792616112.0
-    },
-    {
       "title": "Walmart Opens Doors to AI Shopping Agents as Amazon Slams Them Shut - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJQdU9ZYWJQZm5fM0ZyREhuaGRqWXByRzcxOGVMQk1zeFB3VFZWa3MydnZCR3VZZ0Jvai04QU9kanZ4aDMtUndxMmlfbVJmcXNMZU0wSzBSUGtfMlJBNkpEY0pEYURHMlNxc3VsNmpQanZzQmNuQXdvUm1weWxPN1BGMUdrdHRMWHlfelJfT084Mk8zV3lrRXNqblFvc3l5NVE?oc=5",
       "source": "Google News: AI shopping agent",
@@ -33,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792611480.0
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "source": "Hacker News",
-      "published": "Wed, 21 Oct 2026 17:29:33 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: shutting down",
-      "published_ts": 1792603773.0
     },
     {
       "title": "Is your marketplace agent-ready? What BCG’s new research says about the digital flywheel and agentic commerce - Mirakl",
@@ -90,17 +90,6 @@
       "published_ts": 1792584000.0
     },
     {
-      "title": "Agentic commerce & AI payments: Elevate your checkout strategy - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaktkU2QyRUJrWTdsMDdFTkw0dFdnZHRHb25neVVsYW1OM2x0Um93SGN0QXNTMzE0WU9iU1lWQ0I0NHBTSTBBbmk4Q2tCUXpEY3pMUWcwTktiUkFrajlzcUJUNEhCN1hwd01KMGNXb0tuek55SDRRRnEyUlBkS21RdTJJNXVlSTRzY0tucnNfakdrYmt6UWFlQldudXNIMU9wZExKb0ZWZVliSklaRW80?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 21 Oct 2026 07:29:19 GMT",
-      "summary": "Agentic commerce & AI payments: Elevate your checkout strategy &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792567759.0
-    },
-    {
       "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Zk05c0Y5cjVYVUYyVTV3ZGs3M0JzX29FN2lLVVZ2YTVMNTc1VHZ3aTU4LXVxNlRUS29SMEd4VGpTNGFaaEpRRzRHdFlDc0lycVkxZE5CeDc2OGRycUR2Ti1xT01fWE5EYWZuREtyZXFYSnprRnhGTmlB?oc=5",
       "source": "Google News: agentic commerce",
@@ -143,28 +132,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792470921.0
-    },
-    {
-      "title": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility. - Supply Chain Dive",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzY4QUtkUXhYSVEzM0xFR19tY2tJLS0zRjEwZWNhamhOTmZOOFRFR1E1MDV0OXBGS1VSNG1JSUhUTXlpUzFaRmI3SnQwWV9ZVXN3QWQ0M0FUQkJIWWE0TGg1amNCWlprUFJZdnNXVFd3Si1hMXlrWllJaEl2OEwxZVNMYWh2U0RJZnRPNDJ0V0dNSlVGVGcyQnZoTVhvVFYwN2tSYVRPS29VOGFDMldSMS1mVEg4NFE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 19 Oct 2026 09:00:39 GMT",
-      "summary": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility. &nbsp;&nbsp; Supply Chain Dive",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792400439.0
-    },
-    {
-      "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBSWnpRNHg4MXdmUGw4SjBCNzN2N2ZDdjVLN3JhRlNhZ1dEZ2FhaUZmbU81VVE4U2hvS3RhQW1rQTJpRzNCZXVJMGxJaVczLVNKUkxsSG1FcEhNWTh2SGdrUzVHaVlxSXVESndvLWdkaGVnQmJyN1FaVXRpeTJIRWpPYk4zUm9QTXd1VF9fMVDSAZYBQVVfeXFMTnBzbFNGSkU5UEpndy1CMlB1RUREUjFMRUw5QkpPSjZiMzZaOXhxNnVuMEZaMkVPOUptazREVGpqVUhyU3lPWHI3QWF0VHRiQVhlbXdKR2ROb1lEUzJENzhpZ2Zfc0NYUmhHd1pKU1k4WWt5UFBqVnEzc3JIQXg4WTVWN3FuTjhfNjJIcXVlWXR6MXk3OGFn?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1791529200.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -255,15 +222,15 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdlZUNExDUV9fZkNzMFg3SzUwSXBlanR2bXRmY29ZNGJlWGFadWJtZjhHZGZOVWlRVzBNdXA5T3h2OXhxWEVVUDBUS1lxaW8wQ2c?oc=5",
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Wed, 21 Oct 2026 04:08:44 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Australia",
+      "published": "Wed, 21 Oct 2026 02:38:55 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Singapore",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1792555724.0
+      "published_ts": 1792550335.0
     },
     {
       "title": "Narvar Returns Portal Market Analysis Report Examining Demand Patterns and Competitive Landscape - EIN News",
@@ -299,37 +266,26 @@
       "published_ts": 1792135681.0
     },
     {
-      "title": "Senator Addabbo Continues To Be Attentive to Constituent Concerns With Mobile Office Hours and Java with Joe Events - The New York State Senate (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVlZJY01xcEhydnN6MDhnTDJxQmE3YTBLazRTNFpJbEFxcGplVjNidnloX3E1N0YzOUFxb3B5T3UtYjFwV0ZMM1JmVDVyY2JxTFBPSTBnYmQ3eGEtTHVnbTNhd00yTE9rTmZmVGFfazduZlhsMHV2NXFYUFZCbUJjOV9WNFl5NUJ2MExfMVVrN2ZsS1I0T3lJYXctRWl5TFFMREM1bnY4SE5FczY5cWxEOG9Va09oZzVEbmVlOWxFS3MxUQ?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 07 Oct 2026 13:55:24 GMT",
-      "summary": "Senator Addabbo Continues To Be Attentive to Constituent Concerns With Mobile Office Hours and Java with Joe Events &nbsp;&nbsp; The New York State Senate (.gov)",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1791381324.0
-    },
-    {
       "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Mon, 28 Sep 2026 16:11:00 GMT",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
       "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
-      "published_ts": 1790611860.0
+      "published_ts": 1790578800.0
     },
     {
-      "title": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music - Case Western Reserve University",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91N1BveEVRMk9IakdKYU43S0hVQ2pHWVlfRHNrcVdZdHFrbjRxQ3lrbVdqdkhvOVBtdTFqU0pNYkVBd3F3dmVXS2RDWFBfVFVHVHFUUzJYU0dJQUZyOEp6emdZQ0plQ0dLUTNFR1hrMGdtelRpYmc?oc=5",
+      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
       "source": "Google News: Attentive",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music &nbsp;&nbsp; Case Western Reserve University",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
-      "published_ts": 1790146800.0
+      "published_ts": 1790060400.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -385,6 +341,17 @@
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
       "published_ts": 1785394800.0
+    },
+    {
+      "title": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3ZPZ1lXODNHTkNTREpIbzNqVWpXUi15QmVDUm5uT0RCb2xnX0JxaEtPcXJRQlA0b0M0LTRfbkZnd3FERnZfS05NM0MyRTROYmpkR3BKSlZLNXV6dVZtZlJreHdoR01vRFBCM2FXUERfSzNBemZJNnlRQ2Z0c0VqTGpuRUZ3R0gyekdXbGxJd1M2UFNRNkFPLVQ3TUIwM292TGt0ZzBhVDRaSWtYZUU3cl9zZW4tc1E1QXlKRG0wcXNrSTE4Yk5URE9tMTZ3a2hhRlU2Q2V6aWNLSGdxOGZKWDNnU2ZNMjFsX0E4?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Attentive Launches Brand Voice 2.0 to Give Marketers More Control Over How AI Reflects Their Brand &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1782802800.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -443,11 +410,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 40,
-    "opportunities": 23,
+    "total_fetched": 267,
+    "kept": 37,
+    "opportunities": 20,
     "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.2
+    "runtime_seconds": 10.7
   }
 }
