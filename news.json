@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-21T23:55:16.592026+00:00",
+  "updated": "2026-10-22T02:21:06.380836+00:00",
   "items": [
     {
-      "title": "Walmart Opens Its Digital Doors to AI Shopping Agents as Amazon Builds Walls - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aOWtNN3Q2dWIzSEFKelUwbUVBQUVvMjJJM2pRbUhGcjMwRm1kTGJITmVNa2IyU2h4ZW1LQjhZaGg2OUVNcURKQl9RSV9STEFlc2lIRXlJOHdFX3NPaHdjRUU4ZTNyelpSdTJ0ZHZabEg3dVFBWkE?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 21 Oct 2026 21:35:00 GMT",
-      "summary": "Walmart Opens Its Digital Doors to AI Shopping Agents as Amazon Builds Walls &nbsp;&nbsp; BigGo Finance",
+      "title": "Proof and Circle Demonstrate End-to-End Agentic Commerce: The x401/x402 Handshake - Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2FXbThmSmlJSGdjZ3ZQMWIzcmliVHJobkZGcjlwMmF6NWJYVGtQSHFlcTJqTGYzODkzOTdzY0hKVDdzcElSaDFFZWNfS0JFeUxvd1J5QjNjZGpzVU05YndYeDVRZy1KUVpTMm81NzQwSUVXNEtESDF0RmpoQjE5aFZSQ1NtaVowUGw1cURSQURQZm9FUFF5Ull3TTFHX3VaQTJqWQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 21 Oct 2026 23:55:12 GMT",
+      "summary": "Proof and Circle Demonstrate End-to-End Agentic Commerce: The x401/x402 Handshake &nbsp;&nbsp; Forkast News",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792618500.0
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792626912.0
     },
     {
       "title": "AI shopping wars: Walmart welcomes AI agents while Amazon blocks Muse - Axios",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MYllDTEptMGlaTUdqY3lzUVBJTDFsQVprdkpnRFFQd1VUVV9MMzBvYW8zNmlTbTdMT1FWVXBuNDFsaUJ0b2dMOE9iM3J4cmpQUlRrSjg5emtqQnRVZUxPdUZieGVYeDdHRDAw?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Wed, 21 Oct 2026 19:55:12 GMT",
+      "published": "Wed, 21 Oct 2026 20:55:12 GMT",
       "summary": "AI shopping wars: Walmart welcomes AI agents while Amazon blocks Muse &nbsp;&nbsp; Axios",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1792612512.0
+      "published_ts": 1792616112.0
     },
     {
       "title": "Walmart Opens Doors to AI Shopping Agents as Amazon Slams Them Shut - The Tech Buzz",
@@ -44,28 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: shutting down",
       "published_ts": 1792603773.0
-    },
-    {
-      "title": "Spreedly Appoints Darren Bounds As CFO As It Scales Payments Infrastructure For Agentic Commerce - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHlYYVgyenY1T2tVeE0wZU10aVk1T0dYampFVkxHZHdaUjRyZUViczhEejBWR1piczdndEJveUVLMEZIbjljR1pKeER0OEVJTlRBdURCdlZteG5qZ1doajhSUERNMXA5alBNYnF3NFB3VTBwVVJpbUJ4bG10ZFBQV2NLclc0bkpQTG1HSEVVNENSejJERDgwNjZ4T1RoSHp3Q1VybUtxdFdWa2xCa3I4ZVhYcWJsNDA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 21 Oct 2026 16:02:35 GMT",
-      "summary": "Spreedly Appoints Darren Bounds As CFO As It Scales Payments Infrastructure For Agentic Commerce &nbsp;&nbsp; Pulse 2.0",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792598555.0
-    },
-    {
-      "title": "E-Commerce Faces A New Rival: Agentic Commerce - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZnYtWmdNaEtGRjVzNVY5ckJSeGZ2LVNDOGcwRnRMMjl3cFduRVBvNUw5SHBWeUoxRklEd2c5LUY2ekZNekVOajFwODNSbThfZWJaQ1g1Z0tiazVlQVEyTUdHUEpmUTVmTUkwZHJvNGg3azROQUM1SE1RQ2duelk?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 21 Oct 2026 15:32:27 GMT",
-      "summary": "E-Commerce Faces A New Rival: Agentic Commerce &nbsp;&nbsp; Finimize",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792596747.0
     },
     {
       "title": "Is your marketplace agent-ready? What BCG’s new research says about the digital flywheel and agentic commerce - Mirakl",
@@ -106,17 +84,6 @@
       "source": "Google News: AI shopping agent",
       "published": "Wed, 21 Oct 2026 12:00:00 GMT",
       "summary": "What Amazon's Blocking of Meta’s AI Shopping Agent Reveals About Current Identity Protocols &nbsp;&nbsp; Infosecurity Magazine",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792584000.0
-    },
-    {
-      "title": "Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzBsTXktaVgtWEdzbmp5Z0RzdzktYWlVR2lNTlRCWGdYaWZ4WTE5eHRhR0VvMUtmdGlhVkMtMXFnQXNobkdCUzdEdVQwVlZzY1oyREkySjlvQU1JY0hWSUZPRzRDaWJVaVp3VXl1S1RuOV8xM1NGemNUSGVGWkhLMWx3LWlfYi16T1BjWTJyclA5QUFQZVVtcDR1Szc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 21 Oct 2026 12:00:00 GMT",
-      "summary": "Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million. &nbsp;&nbsp; Business Insider",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
@@ -346,12 +313,12 @@
       "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
       "source": "Google News: Mailchimp",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "published": "Mon, 28 Sep 2026 16:11:00 GMT",
       "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Mailchimp + launches",
-      "published_ts": 1790578800.0
+      "published_ts": 1790611860.0
     },
     {
       "title": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music - Case Western Reserve University",
@@ -407,17 +374,6 @@
       "confidence": "medium",
       "reasoning": "Attentive + launches",
       "published_ts": 1787122800.0
-    },
-    {
-      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
-      "source": "Google News: Loop Returns",
-      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; The Outerhaven",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Loop Returns",
-      "published_ts": 1786431600.0
     },
     {
       "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
@@ -487,11 +443,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 44,
-    "opportunities": 26,
-    "threats": 18,
+    "total_fetched": 269,
+    "kept": 40,
+    "opportunities": 23,
+    "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 14.3
+    "runtime_seconds": 12.2
   }
 }
