@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:45:53.363748+00:00",
+  "updated": "2026-10-23T23:38:26.542728+00:00",
   "items": [
     {
       "title": "Any apps for group discounts across separate orders?",
@@ -220,6 +220,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
+    },
+    {
+      "title": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping - Retail Brew",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS1RTWlFlSlpjZjhDLVRKc3NjT3FPLXFSUFBKaGpvaEhmNHp3eHQ4MmpKZW5pRGJZcl80MzNVZ0ctbEJmR2pqQ1pubVpsNE5QaWJwdVJycC1NRWpvZVNnUGFjMGd5elR5WHRvX1dMd0JWY0UxWjQ2MjZYSjk?oc=5",
+      "source": "Google News: abandoned cart recovery",
+      "published": "Wed, 01 Apr 2026 13:54:08 GMT",
+      "summary": "From Abandoned Cart to Checking Out: Agentic Commerce and the Playbook for Frictionless Shopping &nbsp;&nbsp; Retail Brew",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1775051648.0
     },
     {
       "title": "Agentic Post-Purchase Services - Trend Hunter",
@@ -444,10 +455,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 40,
-    "opportunities": 23,
+    "kept": 41,
+    "opportunities": 24,
     "threats": 17,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 11.3
   }
 }
