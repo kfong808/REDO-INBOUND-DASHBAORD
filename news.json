@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T10:20:40.455740+00:00",
+  "updated": "2026-10-25T14:39:37.603667+00:00",
   "items": [
     {
       "title": "Has anyone tried any on-site AI conversion agents?",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792773750.0
-    },
-    {
-      "title": "Shopify Inc. (SHOP) Could Benefit From AI-Driven Agentic Commerce, Says Polen Focus Growth Strategy - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWFKenhoUENOSnFKaDNLS2RFd3l1T1V3MnJ1Zlp0RHdzV3ZsVnlmWlpsNG01cGdkQUpnTGdnTFYtcDQzSllFNmw5Z1hLLXQzS3VRREZPVWtHUDY3S0x2Vng1WE9Kb2htSmcxT0ZBdWlBYy15dVVmUGtxOGZ1SmhrSlVjYnBQUFpReE1DX0lpQjdzODBoM3hZQmoxYw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 23 Oct 2026 15:04:14 GMT",
-      "summary": "Shopify Inc. (SHOP) Could Benefit From AI-Driven Agentic Commerce, Says Polen Focus Growth Strategy &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792767854.0
     },
     {
       "title": "From Search to Sale: What Agentic Commerce Means for Main Street - U.S. Chamber of Commerce",
@@ -81,7 +70,7 @@
     {
       "title": "Agentic Commerce | AI Shopping Agents, Payments, & Risks - Britannica",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56UlFIUFFscE5Sb1ZRd3drMVE2VWxBd2ZsQ2Z5OFBZLWVFRFI2SUg3dGgyb1RSbjdpeU41b05ncDhqVUo2RldHZHM5bXU3T0k1ckZWeUFoSERRRzZHYUE?oc=5",
-      "source": "Google News: AI shopping agent",
+      "source": "Google News: agentic commerce",
       "published": "Thu, 22 Oct 2026 02:31:31 GMT",
       "summary": "Agentic Commerce | AI Shopping Agents, Payments, & Risks &nbsp;&nbsp; Britannica",
       "classification": "opportunity",
@@ -332,6 +321,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 24 Oct 2026 12:01:45 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1792843305.0
+    },
+    {
       "title": "Klaviyo, Inc. Series A Estimates – NYSE:KVYO - TradingView",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sY2cyS2o5djNlNm5hcEV0WVhjWHN3eHdRTjd2c1BfWGM0LVRnMHFCc19ucnJVc2k5bEhQR19HM2xRN2F3V2hFQTBrUTFLYzZJU28xQnZCdTluc0FmQk40THNsX1o0Tzh4cFlyMW9BTDBNenJqWHc?oc=5",
       "source": "Google News: Klaviyo",
@@ -376,15 +376,15 @@
       "published_ts": 1792543500.0
     },
     {
-      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGtuamk2cFcyLWgzQXVvSUVnYVk5MVYzd19DRVk2eDBTU1JjYUdST2dnMTZveDhna1pVdE1rQ09fSmt6VnV5ZDk5RGdLQkRUZzAzZlByN2N1ejJ3amdSWkpKNktMSUtXcm1nSWJlX2VGMjJQRVhQWmNMdXF6TG4zdEdhZ2ZlT25lLWdJVTl5a21MSTNJdHfSAZsBQVVfeXFMTWxhS0xIYzhFUUdhZzhYU3hjRzRTT1JFbXlxZ0I4aWlOZEhjWXpoRURrNUl2Y1EzTjlrc190UENjbmRJSEF6dWlIUDR2X0N1YmNWVEE5ekdnS09laGZ5YzU4YXJtX1gtU3RlNVJPWXZqRkU0bXk4TG11R0h0amVwR1ZWU0lqSlBqSFhFeXRlYmxaNEVIamtZU2dQSnM?oc=5",
+      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - CW39 Houston",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONXJnZ0RacWZWeTZmQU5lVkk2eERqOFpiUFAzelE5T2Jaa0RaMnZTdkpiVXlxSVhweE5FNkpfaVNINkVkOGo4UVo5VkswaTZqYk9zZUlrd19GWVNyZmtvZHZvUHJ2SFRNTHFZQVBmV2VhUXd2eEZNUmRqckMtMENyRTNNZmx4Qmowb0JrNQ?oc=5",
       "source": "Google News: Postscript",
-      "published": "Mon, 19 Oct 2026 16:07:31 GMT",
-      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; NewsNation",
+      "published": "Tue, 20 Oct 2026 11:45:11 GMT",
+      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; CW39 Houston",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
-      "published_ts": 1792426051.0
+      "published_ts": 1792496711.0
     },
     {
       "title": "Shop the Loop returns with student-run businesses and booths - The Echo News",
@@ -431,15 +431,15 @@
       "published_ts": 1789196400.0
     },
     {
-      "title": "E-commerce facilitator ShipStation eyes major global expansion - FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxzMk9JYUFlMnhPY3RkR1B1LXphOUYxZS10TXE1RmowcmZsS2NydXlMQlNWbHZQSEhOVWE0ME9KYVdOYUl1U29VOTIzWUNfS0tCYk5GbnNLMzRmYXA1RFdLdzhza1dDdlBzWWJYWVQ4eXVNY3hzUzlmXzNUNnR5VnZzT3hIdnN2MTNIWXlPQTY3ZEdBNVppelllOGU?oc=5",
+      "title": "ShipStation LTL Launch: The Time-Saving Play for SMBs - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekRlTjg0MUVGOEUxQW9tNWlwQ2t4TzFvRF9TTEtzR1VSYVM2SU03M25oZ2NJZWJTTG85MThRSWFxVmFyVkh2Qm56QjNpMjdIVVBDMkRKTDRUVGlma1BvSU1mX2xCNjFNMklZUkxsc2lEaUVSZWVsQ0RJOWdaYkZ3Rk1jSGhJemRwZ0dtT1ZScw?oc=5",
       "source": "Google News: ShipStation",
-      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "summary": "E-commerce facilitator ShipStation eyes major global expansion &nbsp;&nbsp; FreightWaves",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "summary": "ShipStation LTL Launch: The Time-Saving Play for SMBs &nbsp;&nbsp; FreightWaves",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + expansion",
-      "published_ts": 1788850800.0
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788418800.0
     },
     {
       "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
@@ -519,17 +519,6 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1776927600.0
-    },
-    {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WNIBzgFBVV95cUxOb1U0djVIS2xLZTJUbWdPb044b2FSS2EyYUs1eGtDZnYta1NiRG5uNmhZektHazlNVDM2cExfbG9ILXRiTjU5djZJUExaWVhvbDE1N3FIQ3lOYXJlcHBKMUlEdDBsM3duZnFwNGtOWnFCbllOMnZjbnNSdnRUZDZaMEZfMlQ0T2tyWHlKU0JCUndIeHY0RDVxNERpSmhGQkVUTGdhQ1BZRmh3em9vTlIxbXN6X2RoTDl3YTM4cnRDeDQ2dWZoNWNVZmlmU1dNUQ?oc=5",
       "source": "Google News: Narvar",
@@ -572,14 +561,25 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
+    },
+    {
+      "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Sun, 15 Oct 2017 07:00:00 GMT",
+      "summary": "Postscript: A high school reunion and the struggle to fit in &nbsp;&nbsp; MPR News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1508050800.0
     }
   ],
   "stats": {
     "total_fetched": 269,
     "kept": 52,
-    "opportunities": 30,
-    "threats": 22,
+    "opportunities": 29,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 12.2
+    "runtime_seconds": 11.4
   }
 }
