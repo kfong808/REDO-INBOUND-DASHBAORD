@@ -1,17 +1,6 @@
 {
-  "updated": "2026-10-25T17:57:24.875550+00:00",
+  "updated": "2026-10-25T20:18:12.785623+00:00",
   "items": [
-    {
-      "title": "😺 Walmart announces AI shopping controls - The Neuron",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQMWhaU3BVek1Cb0VrdlNyS1h2Uk8wdm5rdHF6ekhzMjd4cVloQmJONE9MUS1EaF9NU0hGbUQybUhPVUZCNzBhU1NtR2NmVHBGaTl0ZU1kYnM3cmlvek5pRXlCY2NEQnZMLWJSNHpjcHl4YW5SZk00V2NXTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sun, 25 Oct 2026 17:32:45 GMT",
-      "summary": "😺 Walmart announces AI shopping controls &nbsp;&nbsp; The Neuron",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792949565.0
-    },
     {
       "title": "Has anyone tried any on-site AI conversion agents?",
       "url": "https://www.reddit.com/r/shopify/comments/1xea3ib/has_anyone_tried_any_onsite_ai_conversion_agents/",
@@ -22,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792852120.0
+    },
+    {
+      "title": "Money 20/20, AI agents, agentic commerce and stablecoins - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXpFVmpqSW9aempHNm1fdDV6RjhmT05kMERralFjVkJtN04wLU5jZTlydGxjdS1reE40SC1CWUhjMmF6dU9wZkk0bjZYTWZaai1qQWI1Umh1dXhGTFBxRFIzcEM3U1JtUG9vWVhaUGFHOWpoUjhkQTRDaTRrXzhGWV9aRDVTUFY2TC03UEluTGViRTJScmpPajIweEtnV1NwT3I1UUdR?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sat, 24 Oct 2026 00:08:56 GMT",
+      "summary": "Money 20/20, AI agents, agentic commerce and stablecoins &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792800536.0
     },
     {
       "title": "Any apps for group discounts across separate orders?",
@@ -35,15 +35,37 @@
       "published_ts": 1792773750.0
     },
     {
-      "title": "Walmart builds a gateway for agentic commerce - Mass Market Retailers",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkd4X09GMFBQcjJDbTlLRlFpWENJdEZTZmpHUmt6V0JsajNnWjFxZzFybTJpbDNqejJMQnlmVXJHVXcyRER0U0lsbW9DeXJhUjNkaHYyNkF4RFBUWHBRd2xnQTJrd2NvUWt3STJiNmRua2JnT2NXeTZObWNKSHhWSVpOQzY?oc=5",
+      "title": "Shopify Inc. (SHOP) Could Benefit From AI-Driven Agentic Commerce, Says Polen Focus Growth Strategy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWFKenhoUENOSnFKaDNLS2RFd3l1T1V3MnJ1Zlp0RHdzV3ZsVnlmWlpsNG01cGdkQUpnTGdnTFYtcDQzSllFNmw5Z1hLLXQzS3VRREZPVWtHUDY3S0x2Vng1WE9Kb2htSmcxT0ZBdWlBYy15dVVmUGtxOGZ1SmhrSlVjYnBQUFpReE1DX0lpQjdzODBoM3hZQmoxYw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Thu, 22 Oct 2026 19:32:09 GMT",
-      "summary": "Walmart builds a gateway for agentic commerce &nbsp;&nbsp; Mass Market Retailers",
+      "published": "Fri, 23 Oct 2026 15:04:14 GMT",
+      "summary": "Shopify Inc. (SHOP) Could Benefit From AI-Driven Agentic Commerce, Says Polen Focus Growth Strategy &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792697529.0
+      "published_ts": 1792767854.0
+    },
+    {
+      "title": "From Search to Sale: What Agentic Commerce Means for Main Street - U.S. Chamber of Commerce",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0hnRm9HMFlNUUVycVdJUXNNMjAzeldqZ2lEalVNQnEteWVfVl9aRkFFT2JCOUZUWk95aFg5Y2gwVmI2Umk2Vm1YUTRheVpJUldjVzVrZlFWLTM4Uy1FTGsxeENMdHJoQXlDS3BZMHh5YlRWYUFsbWhsSXBxNUNJOHdMUlJKaElzZ19iZXNGcTZQRE4xbE92aVhBTWczeXB6dktBT3VfNHc0cVNw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 22 Oct 2026 19:53:00 GMT",
+      "summary": "From Search to Sale: What Agentic Commerce Means for Main Street &nbsp;&nbsp; U.S. Chamber of Commerce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792698780.0
+    },
+    {
+      "title": "Walmart builds a gateway for agentic commerce - Chain Drug Review",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sSVI5TXc0Y2poRWx5bDR0Y0lTMmh6a21wUmtiREtZMTFWeFpIZVJwQklESDVEQkFfRURzQXdUeUI1V3Q1UlgyMlFhSk9ucHVwN3l0UjQybEdTeDR2R0l0N3llS2VQUUdPTWRac0t3V3lpOUQ2dXlsSVo5U0hXU0U?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 22 Oct 2026 14:22:15 GMT",
+      "summary": "Walmart builds a gateway for agentic commerce &nbsp;&nbsp; Chain Drug Review",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792678935.0
     },
     {
       "title": "AI Shopping Metrics Considered",
@@ -57,6 +79,28 @@
       "published_ts": 1792676480.0
     },
     {
+      "title": "Agentic Commerce | AI Shopping Agents, Payments, & Risks - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56UlFIUFFscE5Sb1ZRd3drMVE2VWxBd2ZsQ2Z5OFBZLWVFRFI2SUg3dGgyb1RSbjdpeU41b05ncDhqVUo2RldHZHM5bXU3T0k1ckZWeUFoSERRRzZHYUE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 22 Oct 2026 02:31:31 GMT",
+      "summary": "Agentic Commerce | AI Shopping Agents, Payments, & Risks &nbsp;&nbsp; Britannica",
+      "classification": "opportunity",
+      "confidence": "high",
+      "reasoning": "Matched: agentic commerce, ai shopping",
+      "published_ts": 1792636291.0
+    },
+    {
+      "title": "The state of agentic commerce: insights from more than 100 leading global companies - Kearney",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnEtbzNPRjQzcG5UUkhJRVRhdGxvSEkxMFU5Q2JJNzdQc3ZYTVVaTTNmNkRxbFg0c051dHRCUHFoWVpXZEFtQnF3bXBzaGxkSmRibGk4YUgwRXRFbXJPRC1zWHFoQkxlYUJnNk1fWkJGQ1hxNnpUWmlyb25jS2prd0hvRVMxN29tRmlPeEJFay1FOTc4c3A5VlBOdVFhYTE1VHpjUUhPNUxSSkFJSmp5Y21Hc2hiVUU0NHRLU2UzWHZEbnEwcjJaR3FtSW1NTFZlU2xIQUpPOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 21 Oct 2026 15:05:59 GMT",
+      "summary": "The state of agentic commerce: insights from more than 100 leading global companies &nbsp;&nbsp; Kearney",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792595159.0
+    },
+    {
       "title": "New Ecommerce Tools: October 21, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-21-2026",
       "source": "Practical Ecommerce",
@@ -66,17 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792591392.0
-    },
-    {
-      "title": "Money20/20 USA 2026: Agentic commerce takes centre stage on day two - FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTkxcC02ckVsRWxTV2JaM3ROdUtIM0xBa2Z6X01ZUkx4UlFoOWtGTV94QkdzODFhX0hVekp6YVgtbzhQdHFJZ0NhY0l4NUFFY3o5N3QyUWpreFY0clZuVTlhdjc3dHhiQXZpR0ZBN2lORS1aV1dvYkNBX0FWVm1QajJSeGN2aVNaamJnUHR1Y1BUbzJySTFST3RTTUlsTnNWZ05VSVhhMDVldTdBbXc?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 21 Oct 2026 12:26:30 GMT",
-      "summary": "Money20/20 USA 2026: Agentic commerce takes centre stage on day two &nbsp;&nbsp; FinTech Futures",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792585590.0
     },
     {
       "title": "Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million. - Business Insider",
@@ -90,26 +123,15 @@
       "published_ts": 1792584001.0
     },
     {
-      "title": "Synchrony sees 'big opportunity' in agentic commerce - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmRaOGpVMy1RMHdYbzc5RjFGSUJjb3NhV1dtQnlUOWs4eXI5OF9SbDEzU2VfZUtmbWNfQU1VbjFLWjZHRVJVTU1HUTEtZzJyYjd4NGttOFBRdUQ2NWM1NEI3UjI2Rk1iR2E4WVhEX3ZXX01saFU5X1lqT1puQVpzMlVJVnFoV08wS2ItZDJIMA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 20 Oct 2026 19:20:00 GMT",
-      "summary": "Synchrony sees 'big opportunity' in agentic commerce &nbsp;&nbsp; American Banker",
+      "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Zk05c0Y5cjVYVUYyVTV3ZGs3M0JzX29FN2lLVVZ2YTVMNTc1VHZ3aTU4LXVxNlRUS29SMEd4VGpTNGFaaEpRRzRHdFlDc0lycVkxZE5CeDc2OGRycUR2Ti1xT01fWE5EYWZuREtyZXFYSnprRnhGTmlB?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 21 Oct 2026 06:37:14 GMT",
+      "summary": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce &nbsp;&nbsp; Boston Consulting Group",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792524000.0
-    },
-    {
-      "title": "Agentic Commerce, A 15-Year View of a 2-Year-Old Category - Opus Research |",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlRpNjB3dGV5MzJKU2Q3ZzY0RFpnOC1wQ3RyOWgxWFhTMGtrQURYSnhUZDBRREt6NUNsWGd0V3BIdmFSX0hlM2NHMG1SVkZJXzdJejFyS2ZrQkJZQjVpTnRpejJaU2lkYzctaXp3M0JKZlpsalBFeGd4SlplOHkwc1NpVWEwc09EeTVhOUZDaWgtcFdnQm9MN1NiOEROS3I4cXByYTYwZHZNbVUwLTN3OU82Q0M?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 20 Oct 2026 17:46:58 GMT",
-      "summary": "Agentic Commerce, A 15-Year View of a 2-Year-Old Category &nbsp;&nbsp; Opus Research |",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792518418.0
+      "published_ts": 1792564634.0
     },
     {
       "title": "Amazon blocks agentic AI shopping. But Walmart is betting big that it's worth saying yes. - Yahoo Finance",
@@ -132,17 +154,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792437336.0
-    },
-    {
-      "title": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility. - Supply Chain Dive",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzY4QUtkUXhYSVEzM0xFR19tY2tJLS0zRjEwZWNhamhOTmZOOFRFR1E1MDV0OXBGS1VSNG1JSUhUTXlpUzFaRmI3SnQwWV9ZVXN3QWQ0M0FUQkJIWWE0TGg1amNCWlprUFJZdnNXVFd3Si1hMXlrWllJaEl2OEwxZVNMYWh2U0RJZnRPNDJ0V0dNSlVGVGcyQnZoTVhvVFYwN2tSYVRPS29VOGFDMldSMS1mVEg4NFE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 19 Oct 2026 09:00:39 GMT",
-      "summary": "The biggest risk in agentic commerce isn’t easy to see. It’s invisibility. &nbsp;&nbsp; Supply Chain Dive",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792400439.0
     },
     {
       "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
@@ -176,17 +187,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
       "published_ts": 1791529200.0
-    },
-    {
-      "title": "Meta, Amazon, And The Real Question About Agentic Commerce - Forrester",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0I0QW1JS21fS3VQU18yaFN0Q0FHYkxmRjBjbldaMkt3a0VYUHNyRVcwSFU2ejhtdnlRRkdTR1BGeUlVWk9BWHdJYmtkWmlGSVNMbGVONHIwSkZEajVQQW9jUW5ndXIxZVVUQXNNQTBIVTVxTmVwVDVOWW9QNkxFT212T2VCTHhKZHFwdXFTQzdpeWM?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-      "summary": "Meta, Amazon, And The Real Question About Agentic Commerce &nbsp;&nbsp; Forrester",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790924400.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -497,6 +497,17 @@
       "published_ts": 1744095600.0
     },
     {
+      "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlBnWklEb2JHNFlJZjIwa1Uydm16VUlvNGhDOGdIY0NvZmNMVlRyTl9SZDBvVHpNTkpkQXZjXzdRQ3lPbmFRU19BTE9oZFdrbFVSNVNtcDI2WmZVanRWYlVCdk5zazJXOGVlcXMzSW5UMUItMzJQbmVsYUlSenVWSjVqbTE3QTBN?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 06 Jan 2025 08:00:00 GMT",
+      "summary": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + expansion",
+      "published_ts": 1736150400.0
+    },
+    {
       "title": "Yotpo | Company Overview & News - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DM1JtOUVHMHU3UTlpcXQtdDBKSVFlZ2pYZ0dLRjhsalA4d3ZKSWFyMDZiVWNxOGlXNld5YTlRQlE5Y0VHRnhycEVlclhFeG5P?oc=5",
       "source": "Google News: Yotpo",
@@ -520,11 +531,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 47,
+    "total_fetched": 270,
+    "kept": 48,
     "opportunities": 26,
-    "threats": 21,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.2
+    "runtime_seconds": 11.0
   }
 }
