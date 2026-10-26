@@ -1,17 +1,6 @@
 {
-  "updated": "2026-10-25T22:54:35.582918+00:00",
+  "updated": "2026-10-26T00:50:32.903636+00:00",
   "items": [
-    {
-      "title": "😺 Walmart announces AI shopping controls - The Neuron",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQMWhaU3BVek1Cb0VrdlNyS1h2Uk8wdm5rdHF6ekhzMjd4cVloQmJONE9MUS1EaF9NU0hGbUQybUhPVUZCNzBhU1NtR2NmVHBGaTl0ZU1kYnM3cmlvek5pRXlCY2NEQnZMLWJSNHpjcHl4YW5SZk00V2NXTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sun, 25 Oct 2026 17:32:45 GMT",
-      "summary": "😺 Walmart announces AI shopping controls &nbsp;&nbsp; The Neuron",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792949565.0
-    },
     {
       "title": "Has anyone tried any on-site AI conversion agents?",
       "url": "https://www.reddit.com/r/shopify/comments/1xea3ib/has_anyone_tried_any_onsite_ai_conversion_agents/",
@@ -44,6 +33,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792767854.0
+    },
+    {
+      "title": "Walmart Opens Its Store to AI Shopping Agents as Amazon Shuts Them Out - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjZkeEdfVkFnYU03VjBxUWtyMldROGhDTDRsZ2lrX1NGdmczXzFEZUZRTFZnMmt4MTJYOTBoM3dacmxXMk9TcXJSOVlHbEVGRThBZkNzak9tTC1Ham1fSnZBM2prWXZBd1NLNTVFVXdEc3VRejUzNTZmZm54bVJOYndTV2lKVnBZdlJMRXoxYUVzRzFHRHo3N3BaRjBDdzQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 23 Oct 2026 09:04:54 GMT",
+      "summary": "Walmart Opens Its Store to AI Shopping Agents as Amazon Shuts Them Out &nbsp;&nbsp; Startup Fortune",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792746294.0
     },
     {
       "title": "From Search to Sale: What Agentic Commerce Means for Main Street - U.S. Chamber of Commerce",
@@ -288,15 +288,15 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdlZUNExDUV9fZkNzMFg3SzUwSXBlanR2bXRmY29ZNGJlWGFadWJtZjhHZGZOVWlRVzBNdXA5T3h2OXhxWEVVUDBUS1lxaW8wQ2c?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sat, 24 Oct 2026 12:01:45 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+      "published": "Sat, 24 Oct 2026 23:58:32 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Australia",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1792843305.0
+      "published_ts": 1792886312.0
     },
     {
       "title": "This Week in Retail: Zendaya × On Pop-Ups, Omnisend Tracks Holiday Spending, Dwyane Wade Joins REVOLVE, Lacoste’s Foundation Activations, Golden Goose’s Padel Launch, and AMIRI’s Barcelona Wardrobe - RETAILBOSS | Substack",
@@ -365,17 +365,6 @@
       "published_ts": 1791356400.0
     },
     {
-      "title": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI - Small Business Trends",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGdGUlU3aHRmOXdtYXV1ZUZ0elRrN3QwenRXc2VyalNVMUdtYV83VlpuQU9PdUthUUZaRFRfVDZDZm9Pb3FvQ2toelBsMjR6SXk5bjFaSWZjdGZNbVlnTzktX0d3dV9FdS1NRkRkX3hJM0xwUTRJeGV4UlJlelZ4TUYyLW5TR0dnOXA0ZU1sUEhfZmZCQUdxR1RR?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "summary": "Mailchimp Launches New Tools to Boost Ecommerce Efficiency and ROI &nbsp;&nbsp; Small Business Trends",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1790578800.0
-    },
-    {
       "title": "Francesca Brittan Publishes New Book, The Attentive Ear Department of Music - Case Western Reserve University",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91N1BveEVRMk9IakdKYU43S0hVQ2pHWVlfRHNrcVdZdHFrbjRxQ3lrbVdqdkhvOVBtdTFqU0pNYkVBd3F3dmVXS2RDWFBfVFVHVHFUUzJYU0dJQUZyOEp6emdZQ0plQ0dLUTNFR1hrMGdtelRpYmc?oc=5",
       "source": "Google News: Attentive",
@@ -431,11 +420,11 @@
       "published_ts": 1787122800.0
     },
     {
-      "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
+      "title": "Scooping the Loop returns to downtown Ripon - RiponPress.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; Ripon Commonwealth Press",
+      "summary": "Scooping the Loop returns to downtown Ripon &nbsp;&nbsp; RiponPress.com",
       "classification": "threat",
       "confidence": "medium",
       "reasoning": "Loop Returns + ipo",
@@ -532,10 +521,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 48,
+    "kept": 47,
     "opportunities": 26,
-    "threats": 22,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 13.6
+    "runtime_seconds": 10.4
   }
 }
