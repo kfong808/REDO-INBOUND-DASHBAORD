@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:56:15.297580+00:00",
+  "updated": "2026-10-29T23:43:13.146953+00:00",
   "items": [
     {
       "title": "Visa and Tencent ink agentic commerce and cross-border payments MoU - Finextra Research",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1793300220.0
+    },
+    {
+      "title": "Mastercard Backs Tokenized Card Payments for Agentic Commerce - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckZvajBEWXJ4TlhDMHVtX2V5Z0FrX0FEdmZ4bVBZaDlnTkxLUWc2alk1U0V3dkpYaVJwMjdoSTZnWDhvUEFJZ09IbnM3blVzN0d6UjJXVVJ4WkZmUl9oZE1kZG9BODl2UjZLZWd3OGRiY2JIaHJDV1J0TDJ6VnZvTC1jUjNYOTRKaXl2SXpVeWc3NWdham1UYmhkVQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 29 Oct 2026 16:59:51 GMT",
+      "summary": "Mastercard Backs Tokenized Card Payments for Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793293191.0
     },
     {
       "title": "Mastercard’s Plans for a ‘Turning Point’ in Agentic Commerce - Digital Transactions",
@@ -35,11 +46,11 @@
       "published_ts": 1793286060.0
     },
     {
-      "title": "Mirakl exec on how retailers can thrive in agentic commerce - qz.com",
+      "title": "Mirakl exec at Money2020 USA: how retailers can thrive in agentic commerce era - qz.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DT2NpNk81VElMV2FUVVl5UnRCMXBvb21aUGRIQUdScHhDY19zeWtmTEZCcS1aN21wSFA4S3VYc0VDUTZ4VFZMYXZWVHc4b3Ntam5PS083aFFiel90NndndUZtSHZZbm9wb1lXYURZRFg?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Thu, 29 Oct 2026 13:20:47 GMT",
-      "summary": "Mirakl exec on how retailers can thrive in agentic commerce &nbsp;&nbsp; qz.com",
+      "summary": "Mirakl exec at Money2020 USA: how retailers can thrive in agentic commerce era &nbsp;&nbsp; qz.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
@@ -66,6 +77,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1793268263.0
+    },
+    {
+      "title": "6 Best Reclaimit Alternatives for Post-Purchase in 2026 - ClickPost",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DSzN6UGFpWG12QnZBeUhERTJyLW5WVHNJcE9mSGxFbXNROUlHV252Q3d6bTM4LU8zX21WeUdrWnNSLW1OTzVzanpMVFRnWUltZU1oS1dUb2gzTU43eEEtMHlPOA?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 29 Oct 2026 07:37:34 GMT",
+      "summary": "6 Best Reclaimit Alternatives for Post-Purchase in 2026 &nbsp;&nbsp; ClickPost",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1793259454.0
     },
     {
       "title": "Amazon Hedges Against AI Shopping Agents With 250 Million Outside Listings - The Information",
@@ -123,17 +145,6 @@
       "published_ts": 1792676480.0
     },
     {
-      "title": "8 Best Post-Purchase Experience Platforms for US DTC Brands (2026) - ClickPost",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYm5GYlVpM0FteVdIcXpPSmN3dTlub0N2OHFjeGJsRmRtazAxNDU2elZiQ2x0SE5rczFTbU94bVBnOVBscjl2UnJlMkE1VDNWMkdfS20tS2lncnZ5Q0NUTGxiZi1SNEIzV0E?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "summary": "8 Best Post-Purchase Experience Platforms for US DTC Brands (2026) &nbsp;&nbsp; ClickPost",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1792652400.0
-    },
-    {
       "title": "New Ecommerce Tools: October 21, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-21-2026",
       "source": "Practical Ecommerce",
@@ -154,28 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1792564634.0
-    },
-    {
-      "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UmM0b0JXeFJYZU1XanJiSUFFRnVtMlg1WjdmWnExXzFkd0ZFbnIwWG5wa1ZZMHVTaXNLN0VtcF9kWEZzLWppU0ZoWkpWV0pqUGFHdldUQlg3Q0JtXzlCWGlmYXRnNVJh?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "summary": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 &nbsp;&nbsp; ClickPost",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1792134000.0
-    },
-    {
-      "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBSWnpRNHg4MXdmUGw4SjBCNzN2N2ZDdjVLN3JhRlNhZ1dEZ2FhaUZmbU81VVE4U2hvS3RhQW1rQTJpRzNCZXVJMGxJaVczLVNKUkxsSG1FcEhNWTh2SGdrUzVHaVlxSXVESndvLWdkaGVnQmJyN1FaVXRpeTJIRWpPYk4zUm9QTXd1VF9fMVDSAZYBQVVfeXFMTnBzbFNGSkU5UEpndy1CMlB1RUREUjFMRUw5QkpPSjZiMzZaOXhxNnVuMEZaMkVPOUptazREVGpqVUhyU3lPWHI3QWF0VHRiQVhlbXdKR2ROb1lEUzJENzhpZ2Zfc0NYUmhHd1pKU1k4WWt5UFBqVnEzc3JIQXg4WTVWN3FuTjhfNjJIcXVlWXR6MXk3OGFn?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1791529200.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -233,15 +222,26 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
+      "published_ts": 1779260400.0
+    },
+    {
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1772611200.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -255,17 +255,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "How to set up post-purchase email automation in Hostinger Reach - Hostinger",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3lMZTYzNGxjVDRTQzlhdHdhb0NvV3FZY0J4ZXhPUzNUQ09HcFEzLVAwU1FHMnhBdVN4YkJvN0d2MlR5Mk1YZmhIWkI3M0E5cjdwZ2p5MGVnaW9VcVlkaWRHcTk2Z1NHS3JXSUFuUVc2cXdNYWhSU0JEMnpMWjB6V2wtdWlhVVBOQndrZUlsNFFLUU4wUzlaYTN0ZHNTV2s?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Thu, 27 Nov 2025 07:24:46 GMT",
-      "summary": "How to set up post-purchase email automation in Hostinger Reach &nbsp;&nbsp; Hostinger",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1764228286.0
-    },
-    {
       "title": "Russell Brand’s wife tells court he is ‘amazingly attentive husband’ - BreakingNews.ie",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEJzTHpvdGVGaEVFWkVZLS1kd2pydVlQYllpbjVpZjNTNDAxOW43aUFzeW1HQ2cwVURYbU9pd0tvUXd5SXFDaUV2NW5UVGpESU1EX3d2TFRJTU41YnJWYnI2ZEVmUFYyUU1rSmQySUFoM0QwUzBDX242WmJDN3hQMWw0TVRiZDFpUko5VUtNa1hyM1YxdXdvanhkVVBRWFNDcDV1TS1kOVlxSTRaLVdGNUxn?oc=5",
       "source": "Google News: Attentive",
@@ -277,15 +266,15 @@
       "published_ts": 1793283611.0
     },
     {
-      "title": "‘I suffered a minor brain haemorrhage’: Dramatic postscript to Simon’s world championship dream - Suffolk News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDB2SFBmS2ptVUxlSXhtcnJzVmhiemVEay1uSDFCOGtKWE5kNzFIWFl3cTR6TG4yRlRlMzFuRnNBcEVFOEliRnp5blZ2Tzctb0gteWxmc1ppWE5QSjFMNjhxa3VHZ2NMbmxmV3g2VGROZGZEVDBGTVZNeUQ0Ri1tNzBWYUxKSGdDYV84UHpSWDlsY3hUSzA4NlFMcmJ6dFdIYUI1Q2hYakpFMFVuOVE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Thu, 29 Oct 2026 05:00:00 GMT",
-      "summary": "‘I suffered a minor brain haemorrhage’: Dramatic postscript to Simon’s world championship dream &nbsp;&nbsp; Suffolk News",
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 28 Oct 2026 17:18:50 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
       "classification": "threat",
       "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1793250000.0
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1793207930.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -297,17 +286,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1793199695.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 28 Oct 2026 12:29:39 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793190579.0
     },
     {
       "title": "Attentive grandchildren - NewsBiscuit",
@@ -354,15 +332,15 @@
       "published_ts": 1792543500.0
     },
     {
-      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - FOX 2",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjFhNkJKV09SUTZzYWhzc1lnQ3J5N0VtcEh3WURmOFE4Z0xGUFVfZjhBVGdsWFhOX0owV0xTY25fa3NDdlkwLWhIcWlCTEM4V0N1Uzg0U212RTRGeHZ3QW5fanJoWjYtRVBzTU9qTkZWby00U3BHVlkyZk05aVpTX2FSUERYWmo2eHIzMFJydmdGcG1rTE9FVEY1UdIBoAFBVV95cUxObnoxYVhnUTg4UnVZQm1KUm5UXzJDSzRENVdHdjhIbFlsenJRUHM1eEZPNUI0YkQ2RzhoWm5jLUFrRFdFR0I5MW5XM1NEWlpXa2QwVGlockhJQ216Q09QTWJIcVh5NldFMVRJNjBheklERG1pTXhqcmJrU0dNR1ZFQmRacy1JR013cG9lT1hUSmloRFFWaWxjallsaXBURl9j?oc=5",
+      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - WKBN.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEpPVlZLMzhhRG1UV0VhY1pMZmc4S1B1VnE5VWhNc3BxSmhBY2NpQjBVQU44OFlETHd4NElXeHdOVEtkSzEtQTVXcmx6OHJWOWVsVlJXRzJwS1o3NjVLdFhYOGtpR3hEX1g5QlJ0ZjNNamR5LTlLXzJyaTFjdWwzbWp6UVN5amhkSElnMFhFeGo1b093SVBVYmppTmdObGJxUUd6V9IBqgFBVV95cUxOZThmV055dlg1aVF1X2tLUGtfcVRYdHBHZkw5eWpHU1k3ZkR2RWdCcnlXMmktcVlReTA0dHdJbGtaXzdTVGtuejZmT21fWk9GVHg1MDhuQUNWLTlyWFJ3QThDVml1UGk3NV9ZSG9lTWZjbEM5elh3U1oxZXRDal9FOVljanozRTZOUUtjLUp2RWZVMXI3NENsT3lRN2xwZUtualRqejk2dGNTUQ?oc=5",
       "source": "Google News: Postscript",
-      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; FOX 2",
+      "published": "Tue, 20 Oct 2026 12:37:44 GMT",
+      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; WKBN.com",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
-      "published_ts": 1792479600.0
+      "published_ts": 1792499864.0
     },
     {
       "title": "Shop the Loop returns with student-run businesses and booths - The Echo News",
@@ -374,6 +352,17 @@
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
       "published_ts": 1792135681.0
+    },
+    {
+      "title": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform; Matt Norman Comments - AndNowUKnow",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa19JaXRaUDNDT0ljZ2o2Y1hPZzhhVGw3VFBZMnh6dXlqS056R2M1Uks0RUZwRW9pNThxNWhzVW1uOU1qX2pJa2tGNjJkZkJ0aVNPRmpTRUNGdlFOMlVTekdRY2V1RGEyanhjYi1iOTY1T3c2cGE1LVdoTHZQM2k2eGo3bzd0ckVvT0g5Ym5uZXQ5WERLNy02NFdKTnF1c0RLTjJyWENndkZTUUN3N01ONkVsRkdUOVh3dUlIa1dVbTE5QlpmVkE?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "summary": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform; Matt Norman Comments &nbsp;&nbsp; AndNowUKnow",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Shipstation + launches",
+      "published_ts": 1791442800.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -409,17 +398,6 @@
       "published_ts": 1787122800.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1785913200.0
-    },
-    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -453,15 +431,15 @@
       "published_ts": 1772179200.0
     },
     {
-      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
+      "title": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWxJbWNoQ2NMS1ozb1RVYXk0RW5wQUJfZzBPX2xXbWJ0TzZjMU9pbm1QaEt4MmVZYl9KemhXUDBrazRsNXNjdWFWdVlzbTY0cFhFZTFBV2tOdU1pN0c5NzdsOFVOV3dOY2hYX3VSYi1mZzRRYURvZXBPOWJLNk42bjZWRk1scVZuOW9tTGxaM0ZRUXpleC10eEJEZXk5VndjWWZubEF3ZlZ3UGhSRmgtcHFPeFpoelkyOHh6VVp2Um5ydVA1WDh3?oc=5",
       "source": "Google News: Narvar",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "summary": "Narvar Introduces NAVI, an Agentic Assistant for Post-Purchase Automation &nbsp;&nbsp; PR Newswire",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1770278400.0
+      "confidence": "medium",
+      "reasoning": "Narvar + introduces",
+      "published_ts": 1768204800.0
     },
     {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
@@ -499,10 +477,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 45,
-    "opportunities": 24,
-    "threats": 21,
+    "kept": 43,
+    "opportunities": 23,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.2
+    "runtime_seconds": 9.7
   }
 }
