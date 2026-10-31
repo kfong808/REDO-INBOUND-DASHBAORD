@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:59:41.308453+00:00",
+  "updated": "2026-10-31T18:16:43.047254+00:00",
   "items": [
     {
       "title": "V Q3 deep dive: value-added services and agentic commerce drive steady growth - Yahoo Finance",
@@ -79,17 +79,6 @@
       "published_ts": 1793145600.0
     },
     {
-      "title": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVkyWkxFTFhkOVg0SkJhU0wyczg3cGFQQ05XSUJnY3dwZU9CMDVkU2lMcGpTWGhFQ3FMXzhmWjZGUkJqV2FYQVpsWF9RcXFSS1BTNzV6emF0djhXQjJJRkxsN1dBUmlsTWo2dUVUc2p1X2NqeWRzR3FROG1BUzZVeTRDZXBybWhPeGM4WVBnbW8xRk0yZmhYZGpYUXFON2cwSm9tTFVIQ2cxTkFPUlJpR3d1MDFlSFlXUHZjbVRR?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 26 Oct 2026 13:49:10 GMT",
-      "summary": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1793022550.0
-    },
-    {
       "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store? - Retail Dive",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzlZdmlTS0VFdVEwLW56LWUyZWxSWjQ4SnFraXkxTk9Lc09kbXJOUnpJWTJMREp6bkRjMWtROXIxdEdmMi13VF84djNxeEt6M3NleDJzUW5RNFEzY0I2TU9ISzJhM2FaUGRQMmdKS195X3JOWXBiNVdTN0hURUFId1lURFRDVnJ3Z2NuZnEtZ3JubXdMM2txcy15R0VLSnY4dU1oQV9pWmtreldRVFRUemR1dw?oc=5",
       "source": "Google News: agentic commerce",
@@ -147,7 +136,7 @@
     {
       "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Zk05c0Y5cjVYVUYyVTV3ZGs3M0JzX29FN2lLVVZ2YTVMNTc1VHZ3aTU4LXVxNlRUS29SMEd4VGpTNGFaaEpRRzRHdFlDc0lycVkxZE5CeDc2OGRycUR2Ti1xT01fWE5EYWZuREtyZXFYSnprRnhGTmlB?oc=5",
-      "source": "Google News: AI shopping agent",
+      "source": "Google News: agentic commerce",
       "published": "Wed, 21 Oct 2026 06:37:14 GMT",
       "summary": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce &nbsp;&nbsp; Boston Consulting Group",
       "classification": "opportunity",
@@ -159,12 +148,23 @@
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
-      "published": "Tue, 20 Oct 2026 04:35:21 GMT",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
       "summary": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO &nbsp;&nbsp; Retail Technology Innovation Hub",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1792470921.0
+      "published_ts": 1792479600.0
+    },
+    {
+      "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UmM0b0JXeFJYZU1XanJiSUFFRnVtMlg1WjdmWnExXzFkd0ZFbnIwWG5wa1ZZMHVTaXNLN0VtcF9kWEZzLWppU0ZoWkpWV0pqUGFHdldUQlg3Q0JtXzlCWGlmYXRnNVJh?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "summary": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 &nbsp;&nbsp; ClickPost",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1792134000.0
     },
     {
       "title": "AI Shopping Could Mean Fewer Returns",
@@ -176,6 +176,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1790858052.0
+    },
+    {
+      "title": "Amazon kicks out Meta's Muse in split over AI shopping - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnU1elk2Y2pGZWZGbmdZTjZKS0pYMXVPZVljSjN3T1R6UEVzbXFqb002WGhZNjVmazU5TFo5ZklxT3BSTWdmOXVKMEJMaU1JTENjTXJYa2xoNHljYVpXdElNaDBPQkRoZVBLcWZFMGZzTWs3OVZtYlVhNGRwYS16UXZsY2ZZMUNfLTluSHFqclh0cVV3QW9nVg?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Amazon kicks out Meta's Muse in split over AI shopping &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1789974000.0
     },
     {
       "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
@@ -222,26 +233,15 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1779260400.0
-    },
-    {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1772611200.0
+      "published_ts": 1773730800.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -255,6 +255,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "How The Post-Purchase Experience Drives Omnichannel Retail Success - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkRDMWFyVWhadVZSOVlRRlFZcldjanBWV2ZKLUsweTdSZjRGSUdtQmhRZlBVdHZiZU9qMWhtMFdDcEU0cldJVHpjSnk1RHBXVjlVN1dDUVFqUWtBSGV4YmEzU1kxNGZ4YTNOZ3RtM0VUOE9tUVA3TUVwQlY3ZFNnbkprNzV6c2wyWHlPRWxCUTlSNFY0b0h6MThUY0ZsM0t2MjZOSEVMd2tKcWxRa0NndlRzSm5EQVdSdUE?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "summary": "How The Post-Purchase Experience Drives Omnichannel Retail Success &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1718866800.0
+    },
+    {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FeW9EN1NDQ1R4VVByalc4dXZpSFMxejVzSV85RVdHT3k3QmF2aHg0aWVMQkV3VHhMeWFXbVBudHN3Q0ttVU9fbWw3WTV4bjhKc0xYR3dDUEMzeTdBdXZ0aFhzbUw4c2xQUjBZQ2FPOWllNnBzd3c?oc=5",
       "source": "Google News: Omnisend",
@@ -266,37 +277,48 @@
       "published_ts": 1793392921.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdlZUNExDUV9fZkNzMFg3SzUwSXBlanR2bXRmY29ZNGJlWGFadWJtZjhHZGZOVWlRVzBNdXA5T3h2OXhxWEVVUDBUS1lxaW8wQ2c?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 30 Oct 2026 10:51:03 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Australia",
+      "title": "‘He’s an amazingly attentive husband’ - Brand’s wife gives evidence | Episode 12 - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVgzeVVWN21yem9hd05vWS14VjZ3WnA1NFFlR0tZQzEyLVJCUGFtbHc4Rko1d0tPY0xuWW1JMm5YWDhwNnhEb1Z0WXNBYmNidEgwQmswMzYxdVBxbm1rZ3dGUjA5YXNzQVZWRnhPcFV6UDJSMjY0d1RLNlh0MWdrM0lOVjVfNFJRLWJ5SHNGcUpjWVJHOXBETzZDV2FuRjYyMjR0SnFPYU0yaldFV1Zr?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 29 Oct 2026 19:38:39 GMT",
+      "summary": "‘He’s an amazingly attentive husband’ - Brand’s wife gives evidence | Episode 12 &nbsp;&nbsp; Sky News",
       "classification": "threat",
       "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793357463.0
-    },
-    {
-      "title": "‘I suffered a minor brain haemorrhage’: Dramatic postscript to Simon’s world championship dream - Suffolk News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDB2SFBmS2ptVUxlSXhtcnJzVmhiemVEay1uSDFCOGtKWE5kNzFIWFl3cTR6TG4yRlRlMzFuRnNBcEVFOEliRnp5blZ2Tzctb0gteWxmc1ppWE5QSjFMNjhxa3VHZ2NMbmxmV3g2VGROZGZEVDBGTVZNeUQ0Ri1tNzBWYUxKSGdDYV84UHpSWDlsY3hUSzA4NlFMcmJ6dFdIYUI1Q2hYakpFMFVuOVE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Thu, 29 Oct 2026 05:00:00 GMT",
-      "summary": "‘I suffered a minor brain haemorrhage’: Dramatic postscript to Simon’s world championship dream &nbsp;&nbsp; Suffolk News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1793250000.0
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1793302719.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Wed, 28 Oct 2026 19:02:08 GMT",
+      "published": "Thu, 29 Oct 2026 10:39:01 GMT",
       "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793214128.0
+      "published_ts": 1793270341.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Thu, 29 Oct 2026 05:36:45 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Singapore",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1793252205.0
+    },
+    {
+      "title": "Attentive grandchildren - NewsBiscuit",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MXA4dGNaNzV1NmU4YzRqcks5djN3cEI1NTlNN0VaX25uSFFfX25uUm9MOFpvMUwzS3JJdzZ4a2I5WUV1a0FaVmN1NHN2azJGdXFza2NKeV9MZkl2a3NraUEyOW0zMzg?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 27 Oct 2026 07:15:57 GMT",
+      "summary": "Attentive grandchildren &nbsp;&nbsp; NewsBiscuit",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1793085357.0
     },
     {
       "title": "This Week in Retail: Zendaya × On Pop-Ups, Omnisend Tracks Holiday Spending, Dwyane Wade Joins REVOLVE, Lacoste’s Foundation Activations, Golden Goose’s Padel Launch, and AMIRI’s Barcelona Wardrobe - RETAILBOSS | Substack",
@@ -332,11 +354,11 @@
       "published_ts": 1792543500.0
     },
     {
-      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - DC News Now",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbllqcmhud3lOMS1BMlNDcjE5a3BaN0dqX3VQOEhQSU1EQzU5TU9LVXlLSTZkVmRWc0ZvbXFRdjl3cmNWZ29xNG1JeWgyMml2SC1zZEo4YXJYMy1pME5qZS1mMU5FaUQtdmc5dkdSNGplR19aSnQ2WjFxZ1lYNHo4bUFDc1V0aGE5cC1PSFBLS21jb29VMlpURjJ0MzFldDdqQjJhVFR6dU5yYUlBMXBiVNIBtgFBVV95cUxQbFNwZnJac1NmYmdZbjFQcDFWUmMwdDhMNmNGM1hXdy1xY1FKZHdqRUdDSmpxLWJVeUF1VHg2YnI5Qmk3TkhqejN5SVg5MzJBMU5zd2czbHpDU0p1V1JwTENvNGJLWm5OZU9YdTkwWlNHZENfc2NVekZQTHdpS1NOS0ViWjZNbVEzQkxtYXo1YWJSRWZ6V01rWE5DSDJ6VUExckNoTEtDVmNtVlJGU1N4SGI1TVhnZw?oc=5",
+      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - WIVB News 4",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0YtRFZ1cU9WQk10b3l1SlFyWlFldDlqOHdDYmstYmNmaWZFMnZzblFSeS05eEdNcTJUdjNLaW0xeUF6VXhZWnNJT3BIRHp2T2k1RGZMUHFUMloyRHBnaDNxN005Ry11UFE2UkJlLXBzUkdzbVY3Y0F4SktsXzNSYVVlWGZ2NlhvdHd5TEFneGN3a05FdUZ1bHZORE7SAaIBQVVfeXFMTl9CT21IZE9XS1dBdmpfRG1Ickh0NVZSX3N3X001RXo2WDdrdmVMX0R2QS1iTmpVOU5iSEFyR3ZUamJxT2huM2tWcURlb1pEekQ5LTEyNGlEbFN0N1VwSjVMVHlCQ3JXWl9VTm51TzlJenI1V0hLeHJkbGRRUUhOSmtHcklFcFNFY0Z1RWdmTVVFYWg3cWJDQVJJOHczYUxTMGpR?oc=5",
       "source": "Google News: Postscript",
       "published": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; DC News Now",
+      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; WIVB News 4",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -354,15 +376,15 @@
       "published_ts": 1792135681.0
     },
     {
-      "title": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform; Matt Norman Comments - AndNowUKnow",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa19JaXRaUDNDT0ljZ2o2Y1hPZzhhVGw3VFBZMnh6dXlqS056R2M1Uks0RUZwRW9pNThxNWhzVW1uOU1qX2pJa2tGNjJkZkJ0aVNPRmpTRUNGdlFOMlVTekdRY2V1RGEyanhjYi1iOTY1T3c2cGE1LVdoTHZQM2k2eGo3bzd0ckVvT0g5Ym5uZXQ5WERLNy02NFdKTnF1c0RLTjJyWENndkZTUUN3N01ONkVsRkdUOVh3dUlIa1dVbTE5QlpmVkE?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "summary": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform; Matt Norman Comments &nbsp;&nbsp; AndNowUKnow",
+      "title": "Senator Addabbo Continues to be Attentive to Constituent Concerns with Mobile Office Hours and Java with Joe - The New York State Senate (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVi1WX1pHajBoTTdlTEo2UkU0d1JWaGQ2TU9ySGp6bGpfSkprX3U1dWJGb283eTBfS1hlR2duUWZlTmFELTQ1RGlrTTNkQmJIMldjSFhEblNyX285cGVDcXNWbkp4UHRzUVBlYmVaM0FHU1I0SlE2ekZiZUo2RzJZci1RZ0VzNzZhcjE3NEpucmNMNkk1dnZndmNyM0xKaFhwSDEwX3o0RGFkTUFubFJBUUZBcWw?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "summary": "Senator Addabbo Continues to be Attentive to Constituent Concerns with Mobile Office Hours and Java with Joe &nbsp;&nbsp; The New York State Senate (.gov)",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1791442800.0
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1791356400.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -398,15 +420,26 @@
       "published_ts": 1787295600.0
     },
     {
-      "title": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHBZOFdxaUhnRE8xTGVKTVcyMktEd2xzQVlId3U2a2xpSW13cUtSQjA2VUVYV2RzQk5waFpFUXRaTTNmVHdPb2RxNVFfaS15OERNWjJnUlhTaWFCM1J5ZEFXdUxoU0JIeW41VlFhakhuNHAzQXByMXFrbFBoSWZhb1M2bWNOTU52Z3dIemQySTZsYUFTaUhqWkdxUlltM1loSGctTA?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Attentive Launches AI Grow to Supercharge List and Revenue Growth at the Start of the Customer Journey &nbsp;&nbsp; Yahoo Finance",
+      "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
+      "source": "Google News: Loop Returns",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series &nbsp;&nbsp; The Outerhaven",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Loop Returns",
+      "published_ts": 1786431600.0
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
       "classification": "threat",
       "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1787122800.0
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785913200.0
     },
     {
       "title": "Postscript: Mark Singer - The New Yorker",
@@ -442,6 +475,17 @@
       "published_ts": 1772179200.0
     },
     {
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1769673600.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -465,11 +509,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 42,
-    "opportunities": 23,
-    "threats": 19,
+    "total_fetched": 268,
+    "kept": 46,
+    "opportunities": 24,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.0
+    "runtime_seconds": 9.9
   }
 }
