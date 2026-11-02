@@ -1,16 +1,27 @@
 {
-  "updated": "2026-11-02T11:47:35.676022+00:00",
+  "updated": "2026-11-02T21:00:01.251012+00:00",
   "items": [
     {
-      "title": "Agentic commerce at scale: Why trust is the new foundation for payments - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTB6M29KNUZpX01HemdRd0Jwc2NpTGxsWkt6aS1zZ3ZCZjZKc2FISERxcktQWlpmN0E2QXItb1pQYklfT0otUXowQUJ5cmNpYkNJWUFCaXpmeWNldjhTbG45d3Rua1VFa3d2NUJFNGk1UzlZTUtNeUdOWEd1TU5TS2czdUNnRXZyVkVPaGowbFJGV09SLUlCZVlVaUk1Z3lXVVVaLW1JcFFuNTM3MVB2N3VWcGR4TlV2c1lTT2JsV3hfVmFjZC10cVpCZlI4OUg4NlktNVIyTQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 02 Nov 2026 11:34:46 GMT",
-      "summary": "Agentic commerce at scale: Why trust is the new foundation for payments &nbsp;&nbsp; Finextra Research",
+      "title": "Add own AI shopping assistant or go all-in on ChatGPT, Muse etc.?",
+      "url": "https://www.reddit.com/r/shopify/comments/1xm84dt/add_own_ai_shopping_assistant_or_go_allin_on/",
+      "source": "r/shopify",
+      "published": "2026-11-02T20:13:11+00:00",
+      "summary": "If you run an online store, I want to know how you are thinking about this trend of shoppers wanting to talk to AI agents instead of digging through site pages, FAQs, return policies, etc. One way to ride this wave is by putting an AI shopping assistant on the store site that helps shoppers find the right products and answers questions that may stop them from buying. But shoppers are also turning to ChatGPT, Muse etc. to decide what to buy. Will they even bother using an AI assistant on your sit",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793619286.0
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1793650391.0
+    },
+    {
+      "title": "Walmart Adds 6 New Features to AI Shopping Agent Sparky - Progressive Grocer",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDJJaTRRVTRjSWR4UjNiQkZPVXRCNENrd1pMT1Baemc0WTYyMldDTEYwY0ZHM3lwTzNocHd2WXdIUjgxcm9NdnRYMDd0Q2lJbXJfMy1kSVJ6aWN0WU5CQ1pXQVhKVDZKajViTDJ0SVk4eHBQR1RXQm1VSUY5QXNQSFBLa214Y0hsdUE?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 02 Nov 2026 17:08:21 GMT",
+      "summary": "Walmart Adds 6 New Features to AI Shopping Agent Sparky &nbsp;&nbsp; Progressive Grocer",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1793639301.0
     },
     {
       "title": "Google, Meta and Amazon race to build AI shopping agents—3 priorities for brands - Ad Age",
@@ -134,15 +145,26 @@
       "published_ts": 1792479600.0
     },
     {
-      "title": "AI Shopping Could Mean Fewer Returns",
-      "url": "https://www.practicalecommerce.com/ai-shopping-could-mean-fewer-returns",
-      "source": "Practical Ecommerce",
-      "published": "Thu, 01 Oct 2026 12:34:12 +0000",
-      "summary": "Better-informed shoppers are more likely to purchase items they will ultimately keep. The post AI Shopping Could Mean Fewer Returns appeared first on Practical Ecommerce .",
+      "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UmM0b0JXeFJYZU1XanJiSUFFRnVtMlg1WjdmWnExXzFkd0ZFbnIwWG5wa1ZZMHVTaXNLN0VtcF9kWEZzLWppU0ZoWkpWV0pqUGFHdldUQlg3Q0JtXzlCWGlmYXRnNVJh?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "summary": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 &nbsp;&nbsp; ClickPost",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1790858052.0
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1792134000.0
+    },
+    {
+      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV82RkV0ZmszZXpYYUo2WXBpUWVSdkVjektlTzRTMmhUc2hweGlVaEVKV3NxNW1wU01kU3BTaXFRM3BfaU1OemhIN1ZCT215aDE0UEV6UVJEY3lvTFNrZmdnUXlTMm1WTDRWY293dzJkUkthUzdNMTVPcWZ0OTRtY3l3dThTZjc0amwtYVlUUFdVeG1zNDFoLW5xWjhOUk8wSEVkWE9CUmg4LWFpX0ExcU9YNlZyN19oUkE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791874800.0
     },
     {
       "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
@@ -211,15 +233,15 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1772611200.0
+      "published_ts": 1773730800.0
     },
     {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
@@ -231,6 +253,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "How to set up post-purchase email automation in Hostinger Reach - Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3lMZTYzNGxjVDRTQzlhdHdhb0NvV3FZY0J4ZXhPUzNUQ09HcFEzLVAwU1FHMnhBdVN4YkJvN0d2MlR5Mk1YZmhIWkI3M0E5cjdwZ2p5MGVnaW9VcVlkaWRHcTk2Z1NHS3JXSUFuUVc2cXdNYWhSU0JEMnpMWjB6V2wtdWlhVVBOQndrZUlsNFFLUU4wUzlaYTN0ZHNTV2s?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Thu, 27 Nov 2025 07:24:46 GMT",
+      "summary": "How to set up post-purchase email automation in Hostinger Reach &nbsp;&nbsp; Hostinger",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1764228286.0
     },
     {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
@@ -299,11 +332,11 @@
       "published_ts": 1792543500.0
     },
     {
-      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - WIVB News 4",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0YtRFZ1cU9WQk10b3l1SlFyWlFldDlqOHdDYmstYmNmaWZFMnZzblFSeS05eEdNcTJUdjNLaW0xeUF6VXhZWnNJT3BIRHp2T2k1RGZMUHFUMloyRHBnaDNxN005Ry11UFE2UkJlLXBzUkdzbVY3Y0F4SktsXzNSYVVlWGZ2NlhvdHd5TEFneGN3a05FdUZ1bHZORE7SAaIBQVVfeXFMTl9CT21IZE9XS1dBdmpfRG1Ickh0NVZSX3N3X001RXo2WDdrdmVMX0R2QS1iTmpVOU5iSEFyR3ZUamJxT2huM2tWcURlb1pEekQ5LTEyNGlEbFN0N1VwSjVMVHlCQ3JXWl9VTm51TzlJenI1V0hLeHJkbGRRUUhOSmtHcklFcFNFY0Z1RWdmTVVFYWg3cWJDQVJJOHczYUxTMGpR?oc=5",
+      "title": "New OJ Simpson revelation an ‘interesting postscript’: Attorney - CW39 Houston",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONXJnZ0RacWZWeTZmQU5lVkk2eERqOFpiUFAzelE5T2Jaa0RaMnZTdkpiVXlxSVhweE5FNkpfaVNINkVkOGo4UVo5VkswaTZqYk9zZUlrd19GWVNyZmtvZHZvUHJ2SFRNTHFZQVBmV2VhUXd2eEZNUmRqckMtMENyRTNNZmx4Qmowb0JrNdIBkgFBVV95cUxOY2twenlLTk01TGtlSC1sS3BaYXFtT3JnOUJmSjhkeDRqY0I5U1BSUTdLd2QtMndkMGhqdDV0Q3lYRjlEMFo1aW9kNklQQUF1Z24wel9oMUVWa29QS3BadGloWENKSGxGTkpNNXBQQ1lDS1dhaGZaalpiQ2tsZ29sbGkwRTJoZkJPMFB5bWhwNkVpdw?oc=5",
       "source": "Google News: Postscript",
       "published": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; WIVB News 4",
+      "summary": "New OJ Simpson revelation an ‘interesting postscript’: Attorney &nbsp;&nbsp; CW39 Houston",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Postscript",
@@ -330,6 +363,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1789196400.0
+    },
+    {
+      "title": "E-commerce facilitator ShipStation eyes major global expansion - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxzMk9JYUFlMnhPY3RkR1B1LXphOUYxZS10TXE1RmowcmZsS2NydXlMQlNWbHZQSEhOVWE0ME9KYVdOYUl1U29VOTIzWUNfS0tCYk5GbnNLMzRmYXA1RFdLdzhza1dDdlBzWWJYWVQ4eXVNY3hzUzlmXzNUNnR5VnZzT3hIdnN2MTNIWXlPQTY3ZEdBNVppelllOGU?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "summary": "E-commerce facilitator ShipStation eyes major global expansion &nbsp;&nbsp; FreightWaves",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Shipstation + expansion",
+      "published_ts": 1788850800.0
     },
     {
       "title": "ShipStation LTL Launch: The Time-Saving Play for SMBs - FreightWaves",
@@ -376,17 +420,6 @@
       "published_ts": 1786431600.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1785913200.0
-    },
-    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -407,6 +440,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Mailchimp + launches",
+      "published_ts": 1779951600.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -454,11 +498,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 270,
-    "kept": 41,
-    "opportunities": 21,
-    "threats": 20,
+    "total_fetched": 269,
+    "kept": 45,
+    "opportunities": 24,
+    "threats": 21,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.4
+    "runtime_seconds": 12.2
   }
 }
