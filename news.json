@@ -1,17 +1,6 @@
 {
-  "updated": "2026-11-05T00:36:11.755300+00:00",
+  "updated": "2026-11-05T07:30:45.532796+00:00",
   "items": [
-    {
-      "title": "Microsoft Clarity Helps Merchants Welcome AI Shopping Agents - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVVFOVE2aHJDd3R6Uk45TFJ2ODhqYzlPUVV6dGJta21YV25MR056Mmx2ZjlqSWlreXFkRFphU0dUaWE1bEtCRHhEY29ob1JpSjZWMWtmMUhxQWtWU0NlRFBPcUNsa19DRTVDT0IySkxscUZ1T1J2ZkpWaVU0UVBWbV9OYnRGbXBLMVBtUXJTcHRoS1hhY2txNVk2WUZ5MFN1d0I5ajVKSjdkQ3E4ZXd2c1ZRZ1M2Smx4Y0E?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 04 Nov 2026 20:54:51 GMT",
-      "summary": "Microsoft Clarity Helps Merchants Welcome AI Shopping Agents &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1793825691.0
-    },
     {
       "title": "As Shoppers Warm to Agentic Commerce, Terms of Use Have to be Clearly Defined - WWD",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDlnMnRfNjk5V0ZsYUpZalY3QklUdC02TG1oeHhFekZjTGlyU0VjZ00zRG5faE1OTklWNkpjZ3JNYXJmazBRZ0E4V0FxMncwQzVISG1ndmhId3N0em00SWo3c2Rmb21tal80Rm96aDNLRlZCR1RJUXV1eFJVRjFnVUx4TUZHYjREVldpRF9zWjZibmZSdUQ0bXo0UjVoOFFsSUEyWnVWR0ZCTXpGQmk0ZmdhRQ?oc=5",
@@ -22,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1793824067.0
+    },
+    {
+      "title": "Post-Purchase Experience Statistics 2026: US Shopper Insights - ClickPost",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQ21HRkstbWlKWGNLaXQ5S0JGVWF0NFM2LWUyS1poajlNYlhDcU5HbVhWUVlycWdMVWMySHMyZXloMElfNjFLUHFfdDJHZTZtaG5tTFNMWi1fZS0zeHNMQS05UW9IMWVFQ3JkM0lJSXJJQmVkZzF5ZWdHbw?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 04 Nov 2026 17:33:15 GMT",
+      "summary": "Post-Purchase Experience Statistics 2026: US Shopper Insights &nbsp;&nbsp; ClickPost",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1793813595.0
     },
     {
       "title": "New Ecommerce Tools: November 4, 2026",
@@ -44,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1793806665.0
-    },
-    {
-      "title": "Agentic commerce trust: Mastercard and Trulioo on KYA - The Paypers",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU1kzOWt6TFdYQ1dNenBETGwzMTdkb2RhdmZiVVg2TUp0aGh1R0lodTVfb05jelVBdXRmSVF5SkZHeUx5N1EtbmNnSV9ENnlvRkg4LW1MNEluLXAwVk9kNmFrZElPUlNTWDc4SEpBc1p6R09Bb1lDTk5GOG1oNGRvWncxb1VyalowY2d4N0w5dE5uSXVuWUN4WlNFZmRaTV9RRmJxbko4dXBjQ1F3Tjg2TmRKMHRQZHZmeUIzYlkyRjRxWVUyVGYtN0ZyemkyZXVXVktTVDZPX214REtIYUdvYw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 04 Nov 2026 13:03:28 GMT",
-      "summary": "Agentic commerce trust: Mastercard and Trulioo on KYA &nbsp;&nbsp; The Paypers",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793797408.0
     },
     {
       "title": "Agentic Commerce Drives Shopify Revenue Up 32% - PYMNTS.com",
@@ -88,17 +77,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1793653020.0
-    },
-    {
-      "title": "Add own AI shopping assistant or go all-in on ChatGPT, Muse etc.?",
-      "url": "https://www.reddit.com/r/shopify/comments/1xm84dt/add_own_ai_shopping_assistant_or_go_allin_on/",
-      "source": "r/shopify",
-      "published": "2026-11-02T20:13:11+00:00",
-      "summary": "If you run an online store, I want to know how you are thinking about this trend of shoppers wanting to talk to AI agents instead of digging through site pages, FAQs, return policies, etc. One way to ride this wave is by putting an AI shopping assistant on the store site that helps shoppers find the right products and answers questions that may stop them from buying. But shoppers are also turning to ChatGPT, Muse etc. to decide what to buy. Will they even bother using an AI assistant on your sit",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1793650391.0
     },
     {
       "title": "Walmart Adds 6 New Features to AI Shopping Agent Sparky - Progressive Grocer",
@@ -143,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1793145600.0
-    },
-    {
-      "title": "Optimize Your E-Commerce Post-Purchase Logistics - ClickPost",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2IwY3ZiZkJJQ01WT0NIWGFNbjNBS1BNV1FldFVBYW1xcnRlclJDLTZFN0tSMk5ubVlmRFQ2UkY2Y0VPN1J0aS1NM2p0VWdxVVJUNGstUk04QTB1MjhSNVlwSGdpVGZOb2xUQkVKSWplY25vaTRmNmFnSExMYnhRTmlVN3U?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "summary": "Optimize Your E-Commerce Post-Purchase Logistics &nbsp;&nbsp; ClickPost",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1793084400.0
     },
     {
       "title": "AI Shopping Metrics Considered",
@@ -222,17 +189,6 @@
       "published_ts": 1787814000.0
     },
     {
-      "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nRXdzWnZvaTN5WGdKZlh0WTZUaF9iVzcwWjc5TXE1SmsxMHhzNmtqR3huUW9yQnRYMFJ5TDdtMU9iMGRBRWJBeVJ4bUswZm9HczkzenR5RUR5aS1WTlh3aHNETF9EYXREX0xMTl91dzNHWWdP?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1787122800.0
-    },
-    {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
@@ -275,28 +231,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
-    },
-    {
-      "title": "IM Digital Named a 2026 Klaviyo Global Partner of the Year - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0tIcUpkQlMzRDVnVnBHXy1yVjNQN1p0ZlVKdlRFa3dfNjVDbDJkLVJ1aDdYVEZfQm1obk1YRm5lbzcwUWNNbW5COWxWN2JuOHBnODQzMmZjeXl0YnVsVkZLNTAzMXRqTEJKZnY1cTU4aTRyREVDYURQTmliQ0VxYUYySmVXcHZSdGt1T09oNzZKaURBU2UzOFloTVl0eTJJSlEwckVPN0Y4X204WC1iVlRQVDc?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 04 Nov 2026 14:45:00 GMT",
-      "summary": "IM Digital Named a 2026 Klaviyo Global Partner of the Year &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793803500.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 04 Nov 2026 06:16:35 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Singapore",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793772995.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -420,17 +354,6 @@
       "published_ts": 1785394800.0
     },
     {
-      "title": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hoQzNDX2pXVVVzd2pTMmlJR29KeU1zSHYybk5OWnhfVkU4djdpbkdBQTFZMUxCMG5WZ3FaaEo5cjg2R0R0dGoyRTNtVWNGdm9BRUhFemRUbkQySm5VaGhwN0ZsbWNOLXo4Z1RjcV9GWlU4RUNDREhRUnR4bXMzdEs3VUttaFVER2xJcXQtOVFfYWdram15SGZsTVpXNjVlNEtYUkpBZE5hYWhKWV9relNselhjcVEybUxtdnVJZzhpVF9yRU1qUEN1MXRKZFN1LV9vU1E0N3FNVXVOMFdQWg?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "Holiday Shopping Starts Earlier, Raising the Stakes for Brands, New Attentive Research Finds &nbsp;&nbsp; Business Wire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1785394800.0
-    },
-    {
       "title": "Postscript: Mark Singer - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
       "source": "Google News: Postscript",
@@ -451,17 +374,6 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
-    },
-    {
-      "title": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXVfNDdSd1g0WVl2ZVhiR1AwaTdOaTJzYUJaSlhsUjRzVlFLN3ZPNEhlc2FpZS05UjJkUDZWWURLNnZ0bUVIT1l2V0hieGtHZzJDdWk5bWVqaDZYMkxUR21vdmFXeGhSZmFlTVB0SUVDTEY3QXlCengxdGZvTVMzQVhlNmE1cG5XYmRBS29COWZwa2dmemtUclN6VFlZbW9kdVQ5TWhpVzhxWnFsM3BBSF9uZmJMUjAwa25OTnlvOG1nNGk5amVSeUU2LTMyUUtyTS1WSkVhLW03VWs4R1pKR1FLNVNJNUVIMVphUHQyU3l2blNMQ1BPNUNQYmt3V21yM2Fnc1EyRDBSUUxjM0ItdmwxX3pkUkJCUW00?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Intuit Mailchimp Launches Analytics AI and Expanded Data Integrations to Give Brands Conversational, Actionable Intelligence &nbsp;&nbsp; Intuit",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Mailchimp + launches",
-      "published_ts": 1779951600.0
     },
     {
       "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
@@ -543,10 +455,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 25,
-    "threats": 24,
+    "kept": 41,
+    "opportunities": 21,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.0
+    "runtime_seconds": 9.3
   }
 }
