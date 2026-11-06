@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T16:27:33.733566+00:00",
+  "updated": "2026-11-06T21:51:22.233707+00:00",
   "items": [
     {
       "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
@@ -55,6 +55,28 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1793906421.0
+    },
+    {
+      "title": "Visa Preps Agentic Commerce Benchmark And Forecasts a 4.5% Holiday Spending Jump - Digital Transactions",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVBOWnF4dmYtXzBwbnFuUHpjcTIxN1o0aVVaakRhaE1OUUF3bUFIbC1VTVNoQVdxdDFwMUEwU3RRd3FLRk5vZTZoRDNseGFLR2lBUzZCTE1rRlNrOWZ6VTZSbXpiUzFvRF9JUFJzYnFHWlpfV3MzOXRNdFRLY3ZGX1BwaVI0RkFvWlZicm9lM01ra3VGb1BPVmtxWEh6RVNWaXo1aDBDUklfc1k2NTJUNHBGNUxQaVE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 05 Nov 2026 16:05:35 GMT",
+      "summary": "Visa Preps Agentic Commerce Benchmark And Forecasts a 4.5% Holiday Spending Jump &nbsp;&nbsp; Digital Transactions",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793894735.0
+    },
+    {
+      "title": "As Shoppers Warm to Agentic Commerce, Terms of Use Have to be Clearly Defined - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDlnMnRfNjk5V0ZsYUpZalY3QklUdC02TG1oeHhFekZjTGlyU0VjZ00zRG5faE1OTklWNkpjZ3JNYXJmazBRZ0E4V0FxMncwQzVISG1ndmhId3N0em00SWo3c2Rmb21tal80Rm96aDNLRlZCR1RJUXV1eFJVRjFnVUx4TUZHYjREVldpRF9zWjZibmZSdUQ0bXo0UjVoOFFsSUEyWnVWR0ZCTXpGQmk0ZmdhRQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 04 Nov 2026 20:29:13 GMT",
+      "summary": "As Shoppers Warm to Agentic Commerce, Terms of Use Have to be Clearly Defined &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793824153.0
     },
     {
       "title": "Post-Purchase Experience Statistics 2026: US Shopper Insights - ClickPost",
@@ -126,12 +148,12 @@
       "title": "Who wins when AI does the shopping? New evidence on agentic commerce - McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWENYYThmT1lvWlNUT25udnNwSWNJLWtEaE42ZjdWalpQZWhhY25yQV92a0VqNW1rd1RaNDF5bW9PTERqYnVUb3Y3NkdwZWJ4bXdUQ2d4dm1zOTNTUkVBTTFqSHF0SmdrTENmUUdkQXJIMWRNT3Z6UU5uMTg2ZXJyTnRsRUo5b2VFWmRqVFJSenhERlpzbF92UDY2czRXdjZ4c2RYai1NRm8yYnNNeG1YZUhYUXNsZjVoNTFhOVRWbGJ4ZklYOWppOFJkeVZnYllLdEJjZlRZQklvOTBSRHc?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "published": "Wed, 28 Oct 2026 07:00:00 GMT",
       "summary": "Who wins when AI does the shopping? New evidence on agentic commerce &nbsp;&nbsp; McKinsey & Company",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793145600.0
+      "published_ts": 1793170800.0
     },
     {
       "title": "AI Shopping Metrics Considered",
@@ -255,28 +277,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Stifel raises Klaviyo stock price target on Q3 beat - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb29iMTNnMldHM21EUThlSzNSV2VBMGlwM0kyNzEzRFBNMXBIWmo1MHg0bjA4SGpxRHE5WlBPYWZBT1dOMEdPZmJZVUZFYkFvaGNkbVliNHZudTBMOG9qXzRZM2tLU1FtVjFhVzR2dDJNdTJub0ttdVhWZnhaamRLazJvTWJ4Szk2NXNPM3U1Mkt3UjQ2bjdCaW41RUxVM1pFMVVMZEZ1VldDX2ZXSTRrWg?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Thu, 05 Nov 2026 16:41:04 GMT",
-      "summary": "Stifel raises Klaviyo stock price target on Q3 beat &nbsp;&nbsp; Investing.com",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1793896864.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Tue, 03 Nov 2026 12:43:35 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793709815.0
-    },
-    {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FeW9EN1NDQ1R4VVByalc4dXZpSFMxejVzSV85RVdHT3k3QmF2aHg0aWVMQkV3VHhMeWFXbVBudHN3Q0ttVU9fbWw3WTV4bjhKc0xYR3dDUEMzeTdBdXZ0aFhzbUw4c2xQUjBZQ2FPOWllNnBzd3c?oc=5",
       "source": "Google News: Omnisend",
@@ -341,6 +341,17 @@
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
       "published_ts": 1792135681.0
+    },
+    {
+      "title": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform; Matt Norman Comments - AndNowUKnow",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa19JaXRaUDNDT0ljZ2o2Y1hPZzhhVGw3VFBZMnh6dXlqS056R2M1Uks0RUZwRW9pNThxNWhzVW1uOU1qX2pJa2tGNjJkZkJ0aVNPRmpTRUNGdlFOMlVTekdRY2V1RGEyanhjYi1iOTY1T3c2cGE1LVdoTHZQM2k2eGo3bzd0ckVvT0g5Ym5uZXQ5WERLNy02NFdKTnF1c0RLTjJyWENndkZTUUN3N01ONkVsRkdUOVh3dUlIa1dVbTE5QlpmVkE?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "summary": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform; Matt Norman Comments &nbsp;&nbsp; AndNowUKnow",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Shipstation + launches",
+      "published_ts": 1791442800.0
     },
     {
       "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
@@ -506,25 +517,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Sun, 15 Oct 2017 07:00:00 GMT",
-      "summary": "Postscript: A high school reunion and the struggle to fit in &nbsp;&nbsp; MPR News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1508050800.0
     }
   ],
   "stats": {
     "total_fetched": 270,
     "kept": 47,
-    "opportunities": 23,
-    "threats": 24,
+    "opportunities": 25,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.1
+    "runtime_seconds": 9.5
   }
 }
