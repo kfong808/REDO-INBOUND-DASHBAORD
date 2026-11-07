@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:10:23.970191+00:00",
+  "updated": "2026-11-07T23:13:09.497101+00:00",
   "items": [
     {
       "title": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents - GeekWire",
@@ -101,17 +101,6 @@
       "published_ts": 1793806665.0
     },
     {
-      "title": "Agentic Commerce Drives Shopify Revenue Up 32% - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFkzT2ktc0U4UDJXQ1FadnZGdWhGc0FTeXV3eE5FZGh0NEZDN2JId1MxTmNERTVNWlF3QjlzTFMxMkZZRnJWNTdsSmdPTjRlOHQxV1lhY1ZFeGt4WWx2YU1CRHlHNUE0bWZHMVdqRWRYMGV3YnZNX2NjdUhBa1ZMUFNDaVFNSkRDd2wtdkIyMmZWc0w1VkxHX3k5cE93WEVUSVFJ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 03 Nov 2026 19:09:50 GMT",
-      "summary": "Agentic Commerce Drives Shopify Revenue Up 32% &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793732990.0
-    },
-    {
       "title": "The holiday season exposes cracks in post-purchase infrastructure. How can retailers close the gaps? - Retail Customer Experience",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUHNVZi1HejZIYnV2blhSeVJKbFh2MnY1Z1djNlNmcGpVVHRYRHh4SXF1dS11b0JUMlJJTG12WVFsMG1mRFA1WV9YcFZoZU5GcU1uaXd1SmJWVTVMU21VX0pmcS04MjBOaDFHTDl0QVNYV2RySnNWRHlPdWpRTUN1WG9EbXo3UmdTSW1kZFNyWHJtZjYzSkxROVpFcDlVbndsbDU1Ymw0VU1ZSTMwVUNXbi1OX2tZUlJKVEtUT0JfdnI5MEJ5RGxWczV5eXhPaWVSd3dxZVBaeWx5Mm5kNTA4?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -121,6 +110,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1793703600.0
+    },
+    {
+      "title": "Mastercard Forms OpenAI and Tencent Partnerships to Drive Agentic Commerce - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR085TUQtTFhyempjMDdaQUlpdzdrOHJ2RGVMUXlMTi1hME1IZVZiRXZLckFkM0hIcjFtT0FrN0p6d28zMzJ6RWEzbHBzY2dnVHNlTGlWa2dEN1Z0TmNaMHFtdW9lR0w2eHhHOE5tMkxETl9oRTA2bVdKNHgtSWVBVTRZRm1qcDY3SG5MMWhFd1J2OGVtYTdHdk1ySFpRMG1LZDFlWUZFVHpTZXF1TU5WUTJDb0pFVEU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 03 Nov 2026 00:19:46 GMT",
+      "summary": "Mastercard Forms OpenAI and Tencent Partnerships to Drive Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793665186.0
     },
     {
       "title": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
@@ -291,12 +291,12 @@
       "title": "Rising car-deer crashes highlight need for attentive driving - Door County Daily News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jVWhmMUdtUnNTM3NCVU9ha05iY3Zzc0JnNFpCOUNfLUhBMlR4aExKUXFrc05NOGs2eXZHdG82WW44Rk5PWmp6TUFyQ0dZcXhvemVZZ0dn?oc=5",
       "source": "Google News: Attentive",
-      "published": "Sat, 07 Nov 2026 14:57:33 GMT",
+      "published": "Sat, 07 Nov 2026 14:57:26 GMT",
       "summary": "Rising car-deer crashes highlight need for attentive driving &nbsp;&nbsp; Door County Daily News",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Attentive",
-      "published_ts": 1794063453.0
+      "published_ts": 1794063446.0
     },
     {
       "title": "Macquarie maintains Klaviyo at Neutral, raises price target to $23 from $19 - TradingView",
@@ -528,14 +528,25 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Sun, 15 Oct 2017 07:00:00 GMT",
+      "summary": "Postscript: A high school reunion and the struggle to fit in &nbsp;&nbsp; MPR News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1508050800.0
     }
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 48,
+    "kept": 49,
     "opportunities": 25,
-    "threats": 23,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 8.9
+    "runtime_seconds": 8.7
   }
 }
