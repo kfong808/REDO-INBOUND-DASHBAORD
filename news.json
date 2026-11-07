@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T07:57:39.427383+00:00",
+  "updated": "2026-11-07T14:37:42.943867+00:00",
   "items": [
     {
       "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
@@ -13,15 +13,15 @@
       "published_ts": 1793981251.0
     },
     {
-      "title": "Who buys into agentic commerce on the buy side? Dedicated followers of fashion, according to ASOS - Diginomica",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczc2MDZkcjFGYzdOTmEtVVExSlFqN3dnbjlJdmpwS0tLOFJNaG9hUF9nWGVKQkVfV3MzNDJ0OEF3X1dQTTgzTFZEQWd1NDl1MUJWQ3ZJeDFFNndha29adnZ6a3VxY3NYYUxmR244ZXZxS2pOSGVrX3NtZ05WR0VNdlREc3d6OFZMSkxIY3d2RFhhd2FOeUdONkdZbFlxajQtRGc?oc=5",
+      "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly - Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFV0SzBWRXI5cFhkcGlKaHY1VXNiZE5zRVR4NXpmUW1KMDlDZHN4RHl1UzVpbTBKNHdNcW1XZ0JEUEx6SnNpVWF6Ymx2TnlRRzNwWjdrdEZnWGM2TFBabzFiRDlKWjRXcGhTNFpyei1IUlhLbm1WU29xZ19vMGtSb1JtWGNPek5DLWQyaTlZdDdXcXQ3TWhtNlFmeTd3ZEUxYjVLUUFBRlpOREE2UEtXRTg3Vm14b2lKdVE?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 06 Nov 2026 09:20:01 GMT",
-      "summary": "Who buys into agentic commerce on the buy side? Dedicated followers of fashion, according to ASOS &nbsp;&nbsp; Diginomica",
+      "published": "Fri, 06 Nov 2026 00:01:00 GMT",
+      "summary": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly &nbsp;&nbsp; Finextra Research",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793956801.0
+      "published_ts": 1793923260.0
     },
     {
       "title": "Amazon Blocked Meta's AI Shopping Agent While Walmart Just Rolled Out the Red Carpet for It - Inc.com",
@@ -90,6 +90,17 @@
       "published_ts": 1793806665.0
     },
     {
+      "title": "Agentic Commerce Drives Shopify Revenue Up 32% - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFkzT2ktc0U4UDJXQ1FadnZGdWhGc0FTeXV3eE5FZGh0NEZDN2JId1MxTmNERTVNWlF3QjlzTFMxMkZZRnJWNTdsSmdPTjRlOHQxV1lhY1ZFeGt4WWx2YU1CRHlHNUE0bWZHMVdqRWRYMGV3YnZNX2NjdUhBa1ZMUFNDaVFNSkRDd2wtdkIyMmZWc0w1VkxHX3k5cE93WEVUSVFJ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 03 Nov 2026 19:09:50 GMT",
+      "summary": "Agentic Commerce Drives Shopify Revenue Up 32% &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793732990.0
+    },
+    {
       "title": "The holiday season exposes cracks in post-purchase infrastructure. How can retailers close the gaps? - Retail Customer Experience",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUHNVZi1HejZIYnV2blhSeVJKbFh2MnY1Z1djNlNmcGpVVHRYRHh4SXF1dS11b0JUMlJJTG12WVFsMG1mRFA1WV9YcFZoZU5GcU1uaXd1SmJWVTVMU21VX0pmcS04MjBOaDFHTDl0QVNYV2RySnNWRHlPdWpRTUN1WG9EbXo3UmdTSW1kZFNyWHJtZjYzSkxROVpFcDlVbndsbDU1Ymw0VU1ZSTMwVUNXbi1OX2tZUlJKVEtUT0JfdnI5MEJ5RGxWczV5eXhPaWVSd3dxZVBaeWx5Mm5kNTA4?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -99,28 +110,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1793703600.0
-    },
-    {
-      "title": "Mastercard Forms OpenAI and Tencent Partnerships to Drive Agentic Commerce - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR085TUQtTFhyempjMDdaQUlpdzdrOHJ2RGVMUXlMTi1hME1IZVZiRXZLckFkM0hIcjFtT0FrN0p6d28zMzJ6RWEzbHBzY2dnVHNlTGlWa2dEN1Z0TmNaMHFtdW9lR0w2eHhHOE5tMkxETl9oRTA2bVdKNHgtSWVBVTRZRm1qcDY3SG5MMWhFd1J2OGVtYTdHdk1ySFpRMG1LZDFlWUZFVHpTZXF1TU5WUTJDb0pFVEU?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 03 Nov 2026 00:19:46 GMT",
-      "summary": "Mastercard Forms OpenAI and Tencent Partnerships to Drive Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793665186.0
-    },
-    {
-      "title": "How agentic commerce is changing the customer experience - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmFlYXpJbnVPb2tzWnBWeEM5bXR0amJ1SlkxbGwtNW1yNjRZXzdObG9CNjhONnJqNlVHWWg5RVRFcFRfbTZROWpGRk9rWVQ4TmJXSWxLeFNqcGpwUU1QbE5pbXpvcF9rVk1lVnNROXFZSndkd1JlNXhCWEQ0ZUQxMGFlZDVzWndlYlRfMjJsWUVDYm5sbEVMUTkzRTd2TFo3ZlhN?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 02 Nov 2026 20:57:00 GMT",
-      "summary": "How agentic commerce is changing the customer experience &nbsp;&nbsp; American Banker",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793653020.0
     },
     {
       "title": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
@@ -200,6 +189,17 @@
       "published_ts": 1792479600.0
     },
     {
+      "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks &nbsp;&nbsp; Reuters",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1790060400.0
+    },
+    {
       "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGhBUjJtQUNfQWo4VGkxam1oOVNRaUhOUHBHeGVpd2JSZW5zdk5jakFIdDJYcHRxc2E1UDU0b2tadFBYSFBnTHN0RFV5dl96QWN3U3JBUG1HUENIN1daM2JZdHBVS2lta0ROdkxoajR0Nkx6VXRnbWxzMkUyNGVQdEJWNGVtMU1JZzdTSG9tWFdtcG03bXNjctIBngFBVV95cUxNb1Z4NWJOTzRvNS00Ti0zVW9wRkhPdXJKZ1YzSDdQc1hfUWZwRGQ2NDh0Y0tKejNlQkRUV0dPblM1azFjS19YMkZCVjhMTkxqOE5wSHM3RzlITER4MmpjTXU5enZvbVVTT3ZPTHZHMnpndFBaUnpncFJ1X2p4WEFQbWNPYzZ0UDluNXllemZTQ3kyN2dYMm0tMzBScmNoQQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -277,6 +277,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Klaviyo (KVYO) Could Be 21% Undervalued Following Earnings And A New Buyback - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFhnYkpLM0thRWhKQXQ5RGd0bUN1azRLS3kzd2RjY2F1dHdHNU5rMkdjUlJ1VzRXcUlfVldWdmxxclBFV2RxSWVrVTRWNTJaa1BMMVNaSlVQeWVITHVzWVlxYkVNa2VPZkZfWjZ2SWdOb2VHQmZJUWdnNzRqUDNYWmQ5TmUxeERwUEE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 07 Nov 2026 14:10:46 GMT",
+      "summary": "Klaviyo (KVYO) Could Be 21% Undervalued Following Earnings And A New Buyback &nbsp;&nbsp; Yahoo Finance Singapore",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1794060646.0
+    },
+    {
       "title": "Macquarie maintains Klaviyo at Neutral, raises price target to $23 from $19 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2FfMlUxZ2dlaXprVy1NNGliS0VxSXRJNUI5bElwbEU5b0Ftc3ZoRDFjc1ZPR015MFp0WFhJN2dDM05VUVZScjVzMllNb1NBUjN5al9hdVM2QVU4bF9GSXFvcEFWRk9mc0pKXzJ0Xy00WlhGWUV6Z2JrR3NidlVuaFhsZDJTYnBUbmtYd2MwRGxTMXBUVy1tUDVqUDNLSjN5LVYwbEJzb1NsRkNEWHVsT3NYQlBhaTVObmdPVEFnY1d0M1ctYm1HWkY3UmJDT3c?oc=5",
       "source": "Google News: Klaviyo",
@@ -352,17 +363,6 @@
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
       "published_ts": 1792135681.0
-    },
-    {
-      "title": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmF4VGo1N2cxY2dzclRfaGo2ZFNqVkJGOTdEOTNuSmZWOGlzOV9yUGk3cHhIeDNwbVJDMW1IVHhra3VNY3dYNkM3ZmtKd2RGM0VBSUJ6Zklwa3FtM1JJMC1zMHNhZGhneGVsSk13NXR1NUNxTFA5d092bXo1NHpMQjZacEhyVHJIeTlSVHNPck9oZUdRUHV6Rzdpek1iX056aDhheXlYaXFMbFU?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "summary": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1791270000.0
     },
     {
       "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
@@ -528,25 +528,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Sun, 15 Oct 2017 07:00:00 GMT",
-      "summary": "Postscript: A high school reunion and the struggle to fit in &nbsp;&nbsp; MPR News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1508050800.0
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 49,
+    "total_fetched": 268,
+    "kept": 48,
     "opportunities": 25,
-    "threats": 24,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.3
+    "runtime_seconds": 8.6
   }
 }
