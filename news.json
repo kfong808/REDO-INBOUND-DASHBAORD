@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:25:16.452707+00:00",
+  "updated": "2026-11-07T07:57:39.427383+00:00",
   "items": [
     {
       "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1793981251.0
-    },
-    {
-      "title": "America’s biggest stores aren’t ready for Agentic Commerce this Black Friday! - Tamebay",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnU3WVBldlE2b3NxTUxFYUZCdmNhTUNZLUNWM3M1WEtybUJud0ZsQk8zLWgtSEIxZGc5T1RmaldnWklJcjN2QVg2YlNiREVQQzFzYzVLT0dxMl9rbW16Z1ZRMlJVS0d1YjVrblZLX3RZb2EtTGVUNXA1ZzYyQzVmcUtybkVsZmN4TUhFbDNJRXBKZUNxc2pWOWg2M3Y2Xy1LQjhlbWtSU0xndw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 06 Nov 2026 13:57:27 GMT",
-      "summary": "America’s biggest stores aren’t ready for Agentic Commerce this Black Friday! &nbsp;&nbsp; Tamebay",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793973447.0
     },
     {
       "title": "Who buys into agentic commerce on the buy side? Dedicated followers of fashion, according to ASOS - Diginomica",
@@ -123,6 +112,17 @@
       "published_ts": 1793665186.0
     },
     {
+      "title": "How agentic commerce is changing the customer experience - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmFlYXpJbnVPb2tzWnBWeEM5bXR0amJ1SlkxbGwtNW1yNjRZXzdObG9CNjhONnJqNlVHWWg5RVRFcFRfbTZROWpGRk9rWVQ4TmJXSWxLeFNqcGpwUU1QbE5pbXpvcF9rVk1lVnNROXFZSndkd1JlNXhCWEQ0ZUQxMGFlZDVzWndlYlRfMjJsWUVDYm5sbEVMUTkzRTd2TFo3ZlhN?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 02 Nov 2026 20:57:00 GMT",
+      "summary": "How agentic commerce is changing the customer experience &nbsp;&nbsp; American Banker",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793653020.0
+    },
+    {
       "title": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2M5c3JjcHhBcjlRUFE0N015cUtYUWRhSGxVYl96WW9wamp4WnJUOGRLNWpsVDFsMEhRSWhIYm5pVjhpRFBoWEtOUnRfQ3dkZTdrMGE2RFIxM2pQeWFubnZZQ0FNVjNJZktkMmJBelVjN2IzcTA3MGdSckN3ekFjSC1VdWg0dUVjd3JXdXhUakVJQ2lMNlB4cHVMWWJVNW93bzd4anJIOUZES1dqQWNV?oc=5",
       "source": "Google News: AI shopping agent",
@@ -154,6 +154,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792676480.0
+    },
+    {
+      "title": "From Search to Sale: What Agentic Commerce Means for Main Street - U.S. Chamber of Commerce",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0hnRm9HMFlNUUVycVdJUXNNMjAzeldqZ2lEalVNQnEteWVfVl9aRkFFT2JCOUZUWk95aFg5Y2gwVmI2Umk2Vm1YUTRheVpJUldjVzVrZlFWLTM4Uy1FTGsxeENMdHJoQXlDS3BZMHh5YlRWYUFsbWhsSXBxNUNJOHdMUlJKaElzZ19iZXNGcTZQRE4xbE92aVhBTWczeXB6dktBT3VfNHc0cVNw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "summary": "From Search to Sale: What Agentic Commerce Means for Main Street &nbsp;&nbsp; U.S. Chamber of Commerce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792652400.0
     },
     {
       "title": "8 Best Post-Purchase Experience Platforms for US DTC Brands (2026) - ClickPost",
@@ -264,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Macquarie maintains Klaviyo at Neutral, raises price target to $23 from $19 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2FfMlUxZ2dlaXprVy1NNGliS0VxSXRJNUI5bElwbEU5b0Ftc3ZoRDFjc1ZPR015MFp0WFhJN2dDM05VUVZScjVzMllNb1NBUjN5al9hdVM2QVU4bF9GSXFvcEFWRk9mc0pKXzJ0Xy00WlhGWUV6Z2JrR3NidlVuaFhsZDJTYnBUbmtYd2MwRGxTMXBUVy1tUDVqUDNLSjN5LVYwbEJzb1NsRkNEWHVsT3NYQlBhaTVObmdPVEFnY1d0M1ctYm1HWkY3UmJDT3c?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 07 Nov 2026 03:27:00 GMT",
+      "summary": "Macquarie maintains Klaviyo at Neutral, raises price target to $23 from $19 &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1794022020.0
     },
     {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
@@ -521,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 47,
-    "opportunities": 24,
-    "threats": 23,
+    "kept": 49,
+    "opportunities": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 8.4
+    "runtime_seconds": 9.3
   }
 }
