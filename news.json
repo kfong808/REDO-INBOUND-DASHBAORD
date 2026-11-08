@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-08T16:50:01.386572+00:00",
+  "updated": "2026-11-08T20:51:40.174128+00:00",
   "items": [
     {
-      "title": "Your AI Shopping Agent Should Never See Your OTP - Cybersecurity Insiders",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVYwWV9NTGlLNEJZMzdadDZ4OS1VZVdBbU9LQTBRZmFaOS1SanBENEphSWMtWEJsbkNWWDVVTXdGWEpBV2EwNzlSRzl2d2NwWnVGUEJYNEl1ZGN2elVaZ1N5NWFvT3Q4ajVmTUcwNUczUV9mRURYVVVyZ0M2VGRjaHB6M0NSQWczUHk5OF9KLTZfUQ?oc=5",
+      "title": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTJodktMdFdheXQtZV9OZjBVVWN4V1l5YlZXMjhxOGpBTDY3RDRjQS02Z0t4NGR1OV9HanMzVFFVRXpucFFlR1hfM01HTTR4RDRISzh2SE5fZXBSdjZEVzZVYVFab0tfOFpoVzVRWHJaV1JMT3pvZ2dVM2tpRlM3NTJzQ0gwOEJfMWNvQ0dKT1BsYWUza29sRHJRVl9vR3VUOWMzWHZSbnpFNE9lX2c?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Sat, 07 Nov 2026 08:23:27 GMT",
-      "summary": "Your AI Shopping Agent Should Never See Your OTP &nbsp;&nbsp; Cybersecurity Insiders",
+      "published": "Sat, 07 Nov 2026 18:23:57 GMT",
+      "summary": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents &nbsp;&nbsp; GeekWire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1794039807.0
+      "published_ts": 1794075837.0
     },
     {
       "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
@@ -132,6 +132,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1793170800.0
+    },
+    {
+      "title": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVkyWkxFTFhkOVg0SkJhU0wyczg3cGFQQ05XSUJnY3dwZU9CMDVkU2lMcGpTWGhFQ3FMXzhmWjZGUkJqV2FYQVpsWF9RcXFSS1BTNzV6emF0djhXQjJJRkxsN1dBUmlsTWo2dUVUc2p1X2NqeWRzR3FROG1BUzZVeTRDZXBybWhPeGM4WVBnbW8xRk0yZmhYZGpYUXFON2cwSm9tTFVIQ2cxTkFPUlJpR3d1MDFlSFlXUHZjbVRR?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "summary": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It &nbsp;&nbsp; Forbes",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1792998000.0
     },
     {
       "title": "AI Shopping Metrics Considered",
@@ -302,12 +313,12 @@
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Fri, 06 Nov 2026 06:22:32 GMT",
+      "published": "Fri, 06 Nov 2026 14:00:54 GMT",
       "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793946152.0
+      "published_ts": 1793973654.0
     },
     {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
@@ -475,17 +486,6 @@
       "published_ts": 1778569200.0
     },
     {
-      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WA?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1772179200.0
-    },
-    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -544,9 +544,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 49,
-    "opportunities": 26,
-    "threats": 23,
+    "opportunities": 27,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.4
+    "runtime_seconds": 8.6
   }
 }
