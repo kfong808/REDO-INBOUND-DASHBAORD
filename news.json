@@ -1,17 +1,6 @@
 {
-  "updated": "2026-11-08T03:12:18.479953+00:00",
+  "updated": "2026-11-08T10:51:51.995531+00:00",
   "items": [
-    {
-      "title": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTJodktMdFdheXQtZV9OZjBVVWN4V1l5YlZXMjhxOGpBTDY3RDRjQS02Z0t4NGR1OV9HanMzVFFVRXpucFFlR1hfM01HTTR4RDRISzh2SE5fZXBSdjZEVzZVYVFab0tfOFpoVzVRWHJaV1JMT3pvZ2dVM2tpRlM3NTJzQ0gwOEJfMWNvQ0dKT1BsYWUza29sRHJRVl9vR3VUOWMzWHZSbnpFNE9lX2c?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Sat, 07 Nov 2026 18:23:57 GMT",
-      "summary": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents &nbsp;&nbsp; GeekWire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794075837.0
-    },
     {
       "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2NYQVZMcW82UDlkR3ZsaExYYWVyT1p1d2E3eEZNS09kallEeDBXVVRxSUZtQnBoUTdSUGNmMld1OXc5ZFBFVEM2NkRUd2hlbllRTFhBdTJmU0k1cU1uY0RtMHNrYnpCekhFUjBLUXZwZmlLblJneWQyLWItM3JGX3dHdkhzTll3NTFKUXU4eFJfOWFxUF9BSVRXWTcwWUwxM0dCSXRrRUlNTE1MTkJPVnY2N0hpdw?oc=5",
@@ -211,6 +200,17 @@
       "published_ts": 1790060400.0
     },
     {
+      "title": "Amazon kicks out Meta's Muse in split over AI shopping - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnU1elk2Y2pGZWZGbmdZTjZKS0pYMXVPZVljSjN3T1R6UEVzbXFqb002WGhZNjVmazU5TFo5ZklxT3BSTWdmOXVKMEJMaU1JTENjTXJYa2xoNHljYVpXdElNaDBPQkRoZVBLcWZFMGZzTWs3OVZtYlVhNGRwYS16UXZsY2ZZMUNfLTluSHFqclh0cVV3QW9nVg?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Amazon kicks out Meta's Muse in split over AI shopping &nbsp;&nbsp; Yahoo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1789974000.0
+    },
+    {
       "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGhBUjJtQUNfQWo4VGkxam1oOVNRaUhOUHBHeGVpd2JSZW5zdk5jakFIdDJYcHRxc2E1UDU0b2tadFBYSFBnTHN0RFV5dl96QWN3U3JBUG1HUENIN1daM2JZdHBVS2lta0ROdkxoajR0Nkx6VXRnbWxzMkUyNGVQdEJWNGVtMU1JZzdTSG9tWFdtcG03bXNjctIBngFBVV95cUxNb1Z4NWJOTzRvNS00Ti0zVW9wRkhPdXJKZ1YzSDdQc1hfUWZwRGQ2NDh0Y0tKejNlQkRUV0dPblM1azFjS19YMkZCVjhMTkxqOE5wSHM3RzlITER4MmpjTXU5enZvbVVTT3ZPTHZHMnpndFBaUnpncFJ1X2p4WEFQbWNPYzZ0UDluNXllemZTQ3kyN2dYMm0tMzBScmNoQQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -233,26 +233,15 @@
       "published_ts": 1787814000.0
     },
     {
-      "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MNmZjRHI5NnBFQjhkdHZhR3ktZ19uRFpRa3hBeTgxT0RUQlVUZW45RmlBUWdmaGRNNHF6QkdmVWxnWkgtNzNnZG5TZUhPQ2E3aVc0VmM1cExrdXJSODNNc293bTg2YTJvWXpFNmZEcGY?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1787122800.0
-    },
-    {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
       "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783839600.0
+      "published_ts": 1783753200.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -321,6 +310,17 @@
       "published_ts": 1794022020.0
     },
     {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 06 Nov 2026 06:22:32 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1793946152.0
+    },
+    {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FeW9EN1NDQ1R4VVByalc4dXZpSFMxejVzSV85RVdHT3k3QmF2aHg0aWVMQkV3VHhMeWFXbVBudHN3Q0ttVU9fbWw3WTV4bjhKc0xYR3dDUEMzeTdBdXZ0aFhzbUw4c2xQUjBZQ2FPOWllNnBzd3c?oc=5",
       "source": "Google News: Omnisend",
@@ -385,6 +385,17 @@
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
       "published_ts": 1792135681.0
+    },
+    {
+      "title": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmF4VGo1N2cxY2dzclRfaGo2ZFNqVkJGOTdEOTNuSmZWOGlzOV9yUGk3cHhIeDNwbVJDMW1IVHhra3VNY3dYNkM3ZmtKd2RGM0VBSUJ6Zklwa3FtM1JJMC1zMHNhZGhneGVsSk13NXR1NUNxTFA5d092bXo1NHpMQjZacEhyVHJIeTlSVHNPck9oZUdRUHV6Rzdpek1iX056aDhheXlYaXFMbFU?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "summary": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Shipstation + launches",
+      "published_ts": 1791270000.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -542,11 +553,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 26,
-    "threats": 23,
+    "total_fetched": 268,
+    "kept": 50,
+    "opportunities": 25,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 8.4
+    "runtime_seconds": 9.4
   }
 }
