@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-08T10:51:51.995531+00:00",
+  "updated": "2026-11-08T16:50:01.386572+00:00",
   "items": [
+    {
+      "title": "Your AI Shopping Agent Should Never See Your OTP - Cybersecurity Insiders",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVYwWV9NTGlLNEJZMzdadDZ4OS1VZVdBbU9LQTBRZmFaOS1SanBENEphSWMtWEJsbkNWWDVVTXdGWEpBV2EwNzlSRzl2d2NwWnVGUEJYNEl1ZGN2elVaZ1N5NWFvT3Q4ajVmTUcwNUczUV9mRURYVVVyZ0M2VGRjaHB6M0NSQWczUHk5OF9KLTZfUQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Sat, 07 Nov 2026 08:23:27 GMT",
+      "summary": "Your AI Shopping Agent Should Never See Your OTP &nbsp;&nbsp; Cybersecurity Insiders",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794039807.0
+    },
     {
       "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2NYQVZMcW82UDlkR3ZsaExYYWVyT1p1d2E3eEZNS09kallEeDBXVVRxSUZtQnBoUTdSUGNmMld1OXc5ZFBFVEM2NkRUd2hlbllRTFhBdTJmU0k1cU1uY0RtMHNrYnpCekhFUjBLUXZwZmlLblJneWQyLWItM3JGX3dHdkhzTll3NTFKUXU4eFJfOWFxUF9BSVRXWTcwWUwxM0dCSXRrRUlNTE1MTkJPVnY2N0hpdw?oc=5",
@@ -81,7 +92,7 @@
     {
       "title": "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWZfYmc3VnVieU56OVF4S1RhMlVMMUhXR2JjZzFhVnVvcnBhLTU0aHFEUDVlN044aThuQWZ4UWpOY1c0cm5wT24xTktkRS1FVjI4VndwLU9WbzFSek1ublFKTmQ2UUxPMTVoam9lcmxnYUM2WGgxdUVOMF9EZ0MyVENMRDU3VUlZQk5yUGd0QXdQWWZUbVo0cVZ2azZFSUFERjhVX1pxaDVOQ0trZ1dRNTR4RFpBenh1QUgyWQ?oc=5",
-      "source": "Google News: agentic commerce",
+      "source": "Google News: AI shopping agent",
       "published": "Wed, 04 Nov 2026 15:37:45 GMT",
       "summary": "AI shopping agents could threaten Amazon and Walmart's ad business &nbsp;&nbsp; Reuters",
       "classification": "opportunity",
@@ -178,6 +189,17 @@
       "published_ts": 1792479600.0
     },
     {
+      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV82RkV0ZmszZXpYYUo2WXBpUWVSdkVjektlTzRTMmhUc2hweGlVaEVKV3NxNW1wU01kU3BTaXFRM3BfaU1OemhIN1ZCT215aDE0UEV6UVJEY3lvTFNrZmdnUXlTMm1WTDRWY293dzJkUkthUzdNMTVPcWZ0OTRtY3l3dThTZjc0amwtYVlUUFdVeG1zNDFoLW5xWjhOUk8wSEVkWE9CUmg4LWFpX0ExcU9YNlZyN19oUkE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1791874800.0
+    },
+    {
       "title": "Trust in agentic commerce - Mastercard",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjlZM25BeTRwejJyYzVjSk45d21QeHk3MmlnRnozZWx0d2pOSVNEdXF1S3FzNTBjbzlOU0dVWHh0WjNrR3BfR3ZjelRmSnpQVXFLU3FnMEc2SmdxYjRZZDJmazZaRHhlVG4wRjY0YW1UbmNRV1lLd01DdS1xeWJUOG5tSk5DSFVmMEN0dGZPRExVLWdnaXZaOVcyMW5WVDJkVjliZUNSdjAzWEh0cU02VTVRTVpsaXVU?oc=5",
       "source": "Google News: agentic commerce",
@@ -198,17 +220,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1790060400.0
-    },
-    {
-      "title": "Amazon kicks out Meta's Muse in split over AI shopping - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnU1elk2Y2pGZWZGbmdZTjZKS0pYMXVPZVljSjN3T1R6UEVzbXFqb002WGhZNjVmazU5TFo5ZklxT3BSTWdmOXVKMEJMaU1JTENjTXJYa2xoNHljYVpXdElNaDBPQkRoZVBLcWZFMGZzTWs3OVZtYlVhNGRwYS16UXZsY2ZZMUNfLTluSHFqclh0cVV3QW9nVg?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Amazon kicks out Meta's Muse in split over AI shopping &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1789974000.0
     },
     {
       "title": "Dr. Squatch drives revenue through post-purchase tracking page adjustments - Digital Commerce 360",
@@ -277,17 +288,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Klaviyo (KVYO) Stock May Be Undervalued On Raised Revenue Guidance - Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWEh3T0ZBWWZVb3VHWXlrRjgwT0dJaFJueUd1N0JWZU9TZTJQQVk1Y2tnV1VRMmpnRmlVeFZLZFozMGMtYXVOdVBMYjR6UzBJeEE2MmdMc2poV25pTzBKUzV5cHlsZ2Z4SkF3ZTEwNGxEMWk3ZUJmMHM0eE1LOWlOUVFYRFRKUmlqalVpdDRxOFg4aFE0ZU5vN0N0dG04V182XzM3ZUlhYU1NQkxQaDRmREk5aUhDSTF6OUwwRjJNU3Bwd9IBxwFBVV95cUxPeEJEb2s1Mll1TDZQWHVFMjNCY3ROYnZ3YU9FYlJYbkpWUlpiVUtaTDY5SGhZbU1ERldNVmQ1V0toSTl5RHE4c0xTS21jZmo1SHpwbE5NdUdyTnZrUHFGNEdEbklVLXV0SEUzQkNXTWlDTkR1c1dTd1h6YnN2bEhDdFd1RmsySGxIam1FV0g2S2tHZDZVVmJTNDV5MmVYSjVCSFRFaE9RUnpGc2RMa05nY0FQbjNxcTBhNVNXYzIzd3MtY0dzem1F?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sat, 07 Nov 2026 17:22:44 GMT",
-      "summary": "Klaviyo (KVYO) Stock May Be Undervalued On Raised Revenue Guidance &nbsp;&nbsp; Simply Wall St",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raised",
-      "published_ts": 1794072164.0
-    },
-    {
       "title": "Rising car-deer crashes highlight need for attentive driving - Door County Daily News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jVWhmMUdtUnNTM3NCVU9ha05iY3Zzc0JnNFpCOUNfLUhBMlR4aExKUXFrc05NOGs2eXZHdG82WW44Rk5PWmp6TUFyQ0dZcXhvemVZZ0dn?oc=5",
       "source": "Google News: Attentive",
@@ -297,17 +297,6 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1794063446.0
-    },
-    {
-      "title": "Macquarie maintains Klaviyo at Neutral, raises price target to $23 from $19 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2FfMlUxZ2dlaXprVy1NNGliS0VxSXRJNUI5bElwbEU5b0Ftc3ZoRDFjc1ZPR015MFp0WFhJN2dDM05VUVZScjVzMllNb1NBUjN5al9hdVM2QVU4bF9GSXFvcEFWRk9mc0pKXzJ0Xy00WlhGWUV6Z2JrR3NidlVuaFhsZDJTYnBUbmtYd2MwRGxTMXBUVy1tUDVqUDNLSjN5LVYwbEJzb1NsRkNEWHVsT3NYQlBhaTVObmdPVEFnY1d0M1ctYm1HWkY3UmJDT3c?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sat, 07 Nov 2026 03:27:00 GMT",
-      "summary": "Macquarie maintains Klaviyo at Neutral, raises price target to $23 from $19 &nbsp;&nbsp; TradingView",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1794022020.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
@@ -324,12 +313,12 @@
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FeW9EN1NDQ1R4VVByalc4dXZpSFMxejVzSV85RVdHT3k3QmF2aHg0aWVMQkV3VHhMeWFXbVBudHN3Q0ttVU9fbWw3WTV4bjhKc0xYR3dDUEMzeTdBdXZ0aFhzbUw4c2xQUjBZQ2FPOWllNnBzd3c?oc=5",
       "source": "Google News: Omnisend",
-      "published": "Fri, 30 Oct 2026 20:42:01 GMT",
+      "published": "Fri, 30 Oct 2026 07:00:00 GMT",
       "summary": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook &nbsp;&nbsp; RETAILBOSS | Substack",
       "classification": "threat",
       "confidence": "high",
       "reasoning": "Omnisend + raises, launches",
-      "published_ts": 1793392921.0
+      "published_ts": 1793343600.0
     },
     {
       "title": "‘He’s an amazingly attentive husband’ - Brand’s wife gives evidence | Episode 12 - Sky News",
@@ -553,10 +542,10 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 50,
-    "opportunities": 25,
-    "threats": 25,
+    "total_fetched": 269,
+    "kept": 49,
+    "opportunities": 26,
+    "threats": 23,
     "classifier_mode": "keyword",
     "runtime_seconds": 9.4
   }
