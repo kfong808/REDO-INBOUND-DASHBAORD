@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-09T00:16:34.958800+00:00",
+  "updated": "2026-11-09T07:23:32.775153+00:00",
   "items": [
+    {
+      "title": "J.Crew brings Stripe in to technology stack as it boosts BNPL options and makes agentic commerce move - Retail Technology Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjFVVjg4ZXdfVjdrSURfMWVEXzQ5aDN5cGJmV1ZNMXFRVVdwanRubXJCM092QmEyWHpUYkpuTTVLVVJPaTQwUFp1MHg4U3ZWYklLZXRoMndaczZlS19Fc2NqSUFkZk9yeTlNN0NjRXpuQkJRVExvUE1xWDRNUzY1RkJFZDdsQUpzb0NHeTY4bXRxRlhOeGdrMmFjcXk4UHBrcVZpN01hWkt3QkFMWklsbGtROUVySzRTcV9UZEFob2pBb1lMN1Vmbk95ajhreWdjbmQ5OGsya0dWaEtGNzhTN0ZPUlpjY1ZnMlB3?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 09 Nov 2026 06:15:06 GMT",
+      "summary": "J.Crew brings Stripe in to technology stack as it boosts BNPL options and makes agentic commerce move &nbsp;&nbsp; Retail Technology Innovation Hub",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1794204906.0
+    },
     {
       "title": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTJodktMdFdheXQtZV9OZjBVVWN4V1l5YlZXMjhxOGpBTDY3RDRjQS02Z0t4NGR1OV9HanMzVFFVRXpucFFlR1hfM01HTTR4RDRISzh2SE5fZXBSdjZEVzZVYVFab0tfOFpoVzVRWHJaV1JMT3pvZ2dVM2tpRlM3NTJzQ0gwOEJfMWNvQ0dKT1BsYWUza29sRHJRVl9vR3VUOWMzWHZSbnpFNE9lX2c?oc=5",
@@ -22,28 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1793981251.0
-    },
-    {
-      "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFV0SzBWRXI5cFhkcGlKaHY1VXNiZE5zRVR4NXpmUW1KMDlDZHN4RHl1UzVpbTBKNHdNcW1XZ0JEUEx6SnNpVWF6Ymx2TnlRRzNwWjdrdEZnWGM2TFBabzFiRDlKWjRXcGhTNFpyei1IUlhLbm1WU29xZ19vMGtSb1JtWGNPek5DLWQyaTlZdDdXcXQ3TWhtNlFmeTd3ZEUxYjVLUUFBRlpOREE2UEtXRTg3Vm14b2lKdVE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 06 Nov 2026 00:01:00 GMT",
-      "summary": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly &nbsp;&nbsp; Finextra Research",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793923260.0
-    },
-    {
-      "title": "Amazon Blocked Meta's AI Shopping Agent While Walmart Just Rolled Out the Red Carpet for It - Inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclhzRFRSNVRzUDlOU0lxaFBMUEM3VjhkTVc4N2xWdG9UaHJUTE5jdTc0XzU4NHF6T1lWdnl2cFg0VGNhSmxTbDA3MWF0WWVtTjh3SW1uS3VzczVCckQ0Ykc5ZFhyTERhdTZTTm1FamxpeG9iazJDZDRnNEp6VTZtS3MybHl5SXdzdEo3V1VRMHJnQjFUd2Z0eWJzNjJwaWJQNHN4ZkhKVE1ZVllLWFJhdC1naw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 05 Nov 2026 19:20:21 GMT",
-      "summary": "Amazon Blocked Meta's AI Shopping Agent While Walmart Just Rolled Out the Red Carpet for It &nbsp;&nbsp; Inc.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1793906421.0
     },
     {
       "title": "Visa Preps Agentic Commerce Benchmark And Forecasts a 4.5% Holiday Spending Jump - Digital Transactions",
@@ -189,17 +178,6 @@
       "published_ts": 1792591392.0
     },
     {
-      "title": "The state of agentic commerce: insights from more than 100 leading global companies - Kearney",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnEtbzNPRjQzcG5UUkhJRVRhdGxvSEkxMFU5Q2JJNzdQc3ZYTVVaTTNmNkRxbFg0c051dHRCUHFoWVpXZEFtQnF3bXBzaGxkSmRibGk4YUgwRXRFbXJPRC1zWHFoQkxlYUJnNk1fWkJGQ1hxNnpUWmlyb25jS2prd0hvRVMxN29tRmlPeEJFay1FOTc4c3A5VlBOdVFhYTE1VHpjUUhPNUxSSkFJSmp5Y21Hc2hiVUU0NHRLU2UzWHZEbnEwcjJaR3FtSW1NTFZlU2xIQUpPOA?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "The state of agentic commerce: insights from more than 100 leading global companies &nbsp;&nbsp; Kearney",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792566000.0
-    },
-    {
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
@@ -211,15 +189,15 @@
       "published_ts": 1792479600.0
     },
     {
-      "title": "Trust in agentic commerce - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjlZM25BeTRwejJyYzVjSk45d21QeHk3MmlnRnozZWx0d2pOSVNEdXF1S3FzNTBjbzlOU0dVWHh0WjNrR3BfR3ZjelRmSnpQVXFLU3FnMEc2SmdxYjRZZDJmazZaRHhlVG4wRjY0YW1UbmNRV1lLd01DdS1xeWJUOG5tSk5DSFVmMEN0dGZPRExVLWdnaXZaOVcyMW5WVDJkVjliZUNSdjAzWEh0cU02VTVRTVpsaXVU?oc=5",
+      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV82RkV0ZmszZXpYYUo2WXBpUWVSdkVjektlTzRTMmhUc2hweGlVaEVKV3NxNW1wU01kU3BTaXFRM3BfaU1OemhIN1ZCT215aDE0UEV6UVJEY3lvTFNrZmdnUXlTMm1WTDRWY293dzJkUkthUzdNMTVPcWZ0OTRtY3l3dThTZjc0amwtYVlUUFdVeG1zNDFoLW5xWjhOUk8wSEVkWE9CUmg4LWFpX0ExcU9YNlZyN19oUkE?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "summary": "Trust in agentic commerce &nbsp;&nbsp; Mastercard",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790751600.0
+      "published_ts": 1791874800.0
     },
     {
       "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
@@ -297,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo (KVYO) Could Be 21% Undervalued Following Earnings And A New Buyback - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFhnYkpLM0thRWhKQXQ5RGd0bUN1azRLS3kzd2RjY2F1dHdHNU5rMkdjUlJ1VzRXcUlfVldWdmxxclBFV2RxSWVrVTRWNTJaa1BMMVNaSlVQeWVITHVzWVlxYkVNa2VPZkZfWjZ2SWdOb2VHQmZJUWdnNzRqUDNYWmQ5TmUxeERwUEE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 07 Nov 2026 14:10:46 GMT",
+      "summary": "Klaviyo (KVYO) Could Be 21% Undervalued Following Earnings And A New Buyback &nbsp;&nbsp; Yahoo Finance Singapore",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1794060646.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
@@ -542,11 +531,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 27,
-    "threats": 22,
+    "total_fetched": 270,
+    "kept": 48,
+    "opportunities": 25,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.3
+    "runtime_seconds": 9.5
   }
 }
