@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:51:40.174128+00:00",
+  "updated": "2026-11-09T00:16:34.958800+00:00",
   "items": [
     {
       "title": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents - GeekWire",
@@ -189,6 +189,17 @@
       "published_ts": 1792591392.0
     },
     {
+      "title": "The state of agentic commerce: insights from more than 100 leading global companies - Kearney",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnEtbzNPRjQzcG5UUkhJRVRhdGxvSEkxMFU5Q2JJNzdQc3ZYTVVaTTNmNkRxbFg0c051dHRCUHFoWVpXZEFtQnF3bXBzaGxkSmRibGk4YUgwRXRFbXJPRC1zWHFoQkxlYUJnNk1fWkJGQ1hxNnpUWmlyb25jS2prd0hvRVMxN29tRmlPeEJFay1FOTc4c3A5VlBOdVFhYTE1VHpjUUhPNUxSSkFJSmp5Y21Hc2hiVUU0NHRLU2UzWHZEbnEwcjJaR3FtSW1NTFZlU2xIQUpPOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "The state of agentic commerce: insights from more than 100 leading global companies &nbsp;&nbsp; Kearney",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792566000.0
+    },
+    {
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
@@ -198,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792479600.0
-    },
-    {
-      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV82RkV0ZmszZXpYYUo2WXBpUWVSdkVjektlTzRTMmhUc2hweGlVaEVKV3NxNW1wU01kU3BTaXFRM3BfaU1OemhIN1ZCT215aDE0UEV6UVJEY3lvTFNrZmdnUXlTMm1WTDRWY293dzJkUkthUzdNMTVPcWZ0OTRtY3l3dThTZjc0amwtYVlUUFdVeG1zNDFoLW5xWjhOUk8wSEVkWE9CUmg4LWFpX0ExcU9YNlZyN19oUkE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791874800.0
     },
     {
       "title": "Trust in agentic commerce - Mastercard",
@@ -299,17 +299,6 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Rising car-deer crashes highlight need for attentive driving - Door County Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jVWhmMUdtUnNTM3NCVU9ha05iY3Zzc0JnNFpCOUNfLUhBMlR4aExKUXFrc05NOGs2eXZHdG82WW44Rk5PWmp6TUFyQ0dZcXhvemVZZ0dn?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Sat, 07 Nov 2026 14:57:26 GMT",
-      "summary": "Rising car-deer crashes highlight need for attentive driving &nbsp;&nbsp; Door County Daily News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1794063446.0
-    },
-    {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
       "source": "Google News: Klaviyo",
@@ -396,6 +385,17 @@
       "confidence": "medium",
       "reasoning": "Shipstation + launches",
       "published_ts": 1791270000.0
+    },
+    {
+      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1790060400.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -547,6 +547,6 @@
     "opportunities": 27,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 8.6
+    "runtime_seconds": 11.3
   }
 }
