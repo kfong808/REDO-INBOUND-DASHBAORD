@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T17:56:34.369419+00:00",
+  "updated": "2026-11-10T01:01:23.617253+00:00",
   "items": [
     {
       "title": "Feedvisor Expands Agentic Commerce Platform to Target Growing Amazon Business Demand - WWD",
@@ -33,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1794222000.0
-    },
-    {
-      "title": "AI shopping agents are taking over. Who do they work for? - Quartz",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82MXRqekp3aWh3R0hKQ3ptcElHNExnVDQ0dU4ycElkaTNVMjktTmVIcFlQNXQ1ck5reXNCMmxTTTVkejh2cE1hakFmYndyUUc2S1dXMU4ydkpkcWtfd1FMY0FVZ2UzaTA?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 09 Nov 2026 10:27:41 GMT",
-      "summary": "AI shopping agents are taking over. Who do they work for? &nbsp;&nbsp; Quartz",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794220061.0
     },
     {
       "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
@@ -90,6 +79,17 @@
       "published_ts": 1793894735.0
     },
     {
+      "title": "Merchant group joins agentic commerce effort - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTljU254VXlwRl93eWkwUXZuWi0xQzczOFNBNkpCWDZ1RWVZR0dYcUxaUHJuek52MW85RW5jN3FtQ2pnczdDNWdNVXJrbHNETXYxNDJ5V2ExT0JhSXVpOVNINjNHZ2MzZVdIN2R5bGtFM0ZybUZ0d3NiMW9HM2xoQTRFaktQNGJZMFZrLVp1YW0wOUJ6SmZBOEJkRW9wQTNMamRHakROX1R6Z2tSX2c?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 05 Nov 2026 12:30:27 GMT",
+      "summary": "Merchant group joins agentic commerce effort &nbsp;&nbsp; The Paypers",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793881827.0
+    },
+    {
       "title": "Post-Purchase Experience Statistics 2026: US Shopper Insights - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQ21HRkstbWlKWGNLaXQ5S0JGVWF0NFM2LWUyS1poajlNYlhDcU5HbVhWUVlycWdMVWMySHMyZXloMElfNjFLUHFfdDJHZTZtaG5tTFNMWi1fZS0zeHNMQS05UW9IMWVFQ3JkM0lJSXJJQmVkZzF5ZWdHbw?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -121,17 +121,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1793806665.0
-    },
-    {
-      "title": "Agentic Commerce Drives Shopify Revenue Up 32% - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFkzT2ktc0U4UDJXQ1FadnZGdWhGc0FTeXV3eE5FZGh0NEZDN2JId1MxTmNERTVNWlF3QjlzTFMxMkZZRnJWNTdsSmdPTjRlOHQxV1lhY1ZFeGt4WWx2YU1CRHlHNUE0bWZHMVdqRWRYMGV3YnZNX2NjdUhBa1ZMUFNDaVFNSkRDd2wtdkIyMmZWc0w1VkxHX3k5cE93WEVUSVFJ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 03 Nov 2026 19:09:50 GMT",
-      "summary": "Agentic Commerce Drives Shopify Revenue Up 32% &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793732990.0
     },
     {
       "title": "The holiday season exposes cracks in post-purchase infrastructure. How can retailers close the gaps? - Retail Customer Experience",
@@ -341,17 +330,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1794060646.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 06 Nov 2026 14:00:54 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1793973654.0
     },
     {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
@@ -576,10 +554,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 52,
-    "opportunities": 29,
-    "threats": 23,
+    "kept": 50,
+    "opportunities": 28,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.8
+    "runtime_seconds": 8.4
   }
 }
