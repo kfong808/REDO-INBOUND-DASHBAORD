@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T16:40:30.448564+00:00",
+  "updated": "2026-11-10T22:01:11.362644+00:00",
   "items": [
     {
       "title": "Consumer Intelligence in the Age of Agentic Commerce - Mexico Business News",
@@ -55,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1794295440.0
-    },
-    {
-      "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
-      "url": "https://www.retaildive.com/spons/how-enterprise-brands-are-retooling-commerce-platforms-to-capture-ai-shoppe/873905/",
-      "source": "Retail Dive",
-      "published": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "summary": "Whether your brand surfaces in agentic commerce hinges on the systems behind your storefront.",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794218400.0
     },
     {
       "title": "JPMorgan and Mastercard back Seattle startup Firmly’s bet on AI shopping agents - GeekWire",
@@ -222,17 +211,6 @@
       "published_ts": 1788332400.0
     },
     {
-      "title": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds - VisionMonday.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3l1d1dJbnZ3aVFDZE1LNXZ2WjV6R3kyUGR0dEFhNGg4TW9LMmUwUUpHTVhCVnFWVDJUcjIwN2dSRlNtaFp3YmNrNlYzZk1uS2lNYUV5eDhUSXZuZmM4T2o3WjNDNVpPLTdfcFY1UFYwLXNnSF9oSXVTTVlvWWdJVW5ZM2EtcE5EVjB1SzJld0drQkhyc21tb0ZoZ2tFazFEeVBrbS1jZGI1VkcyZ01nQVY2TUcwR2dzQWMyb2ZZMk5sWVk?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "summary": "AI Shopping Outpaces Retailer Readiness, Narvar Survey Finds &nbsp;&nbsp; VisionMonday.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1787814000.0
-    },
-    {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
@@ -266,6 +244,17 @@
       "published_ts": 1773730800.0
     },
     {
+      "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnR6YnFHSVR1d1prSUo5ZFpHamFfTXlSVmlJTEVNbzk2dHo2dTlHNGhfeS00NktkTmFUdkhTY255UWdTUHpzaUFnWDNYU1dLWFpBQmVnRndITVpoc2JrclJOWG9WV19aT29XVlQ2OV9KRFVqQlZZei1xZFpzb0dJaXpSOUplcHVJR2xFeDZ5UmQzZEFlREtYaNIBngFBVV95cUxQQi16dHNrV2VNS3Bnb05wT2tITjhieUpUSzBUd2toNVkxMmhwV2U5bmRZVHRNNkN4MWNIMG1CUk40YjloT2VmR0VMbXVHbkZGcm9GT3M0ZHk2SnV0R09CV0lGQlRtTkRSMkdIM0hNcGwxWGxSU0lDZnVBbUhHY3hzbDlud3dyb2pOVkhiVXBCems5c3BiR3ZON2Vub3ZQUQ?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Authentic Brands to use Seel’s agentic AI for post-purchase processes &nbsp;&nbsp; Digital Commerce 360",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1772611200.0
+    },
+    {
       "title": "PinchAI develops an ecommerce post-purchase risk operating system - FreightWaves",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM3pTYUI0amhxdFB6UmZqQUZuM2RMaHhfQUJRTDdLMzdQd19BWFAxZlhwNDdOMzN4U0trV1FpSUZqdi1iczF2enBqRndMTG8?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -275,6 +264,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience - WWD",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGVzTERtckV5cGVsT1NMUlJMMWhBNzNOY1o2NjFJZnpJT3NJV3JfeWFYdHcxZkc5R2YwODFKZ2J2MVF0Wmd0ZmNJdlhsb2MtR1BPUFBUT0FkeGdyaW5QR0laMHprRUh5WklGMl84ZTExcGVZRTRHaThRa2pob0RBZUNYWlJMV0ZIMmhlbzhnaWMxcGtZWWVyTk9tWmc4UTFSdDZyNVg3bmc2TDhCaGlpNWRmdEowNEpRRG5KNGlJTS1NbGFMV2dtQU02QUp6dFJUM2JiQmVTeTI?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "summary": "Anisa Kumar, Narvar CEO, Seeks to Pioneer the Future of Retail With AI-driven Post-purchase Experience &nbsp;&nbsp; WWD",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1729062000.0
     },
     {
       "title": "Attentive's New CEO Eric Miao Sets New Vision to Transform How Brands Market to Consumers - Business Wire",
@@ -297,6 +297,17 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1794063446.0
+    },
+    {
+      "title": "Klaviyo (KVYO) Could Be 21% Undervalued Following Earnings And A New Buyback - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFhnYkpLM0thRWhKQXQ5RGd0bUN1azRLS3kzd2RjY2F1dHdHNU5rMkdjUlJ1VzRXcUlfVldWdmxxclBFV2RxSWVrVTRWNTJaa1BMMVNaSlVQeWVITHVzWVlxYkVNa2VPZkZfWjZ2SWdOb2VHQmZJUWdnNzRqUDNYWmQ5TmUxeERwUEE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 07 Nov 2026 14:10:46 GMT",
+      "summary": "Klaviyo (KVYO) Could Be 21% Undervalued Following Earnings And A New Buyback &nbsp;&nbsp; Yahoo Finance Singapore",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1794060646.0
     },
     {
       "title": "This Week in Retail: Dior Presents Atelier of Dreams, CHANEL Unveils Holiday Beauty, Omnisend Launches Social Capture, Burberry Opens Seoul Pop-Up, Unilever Raises Its Outlook - RETAILBOSS | Substack",
@@ -442,6 +453,17 @@
       "published_ts": 1778569200.0
     },
     {
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
+    },
+    {
       "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
       "source": "Google News: Narvar",
@@ -510,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 270,
-    "kept": 46,
+    "kept": 48,
     "opportunities": 25,
-    "threats": 21,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 8.7
+    "runtime_seconds": 10.3
   }
 }
