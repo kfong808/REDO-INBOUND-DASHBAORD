@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-13T10:17:03.479230+00:00",
+  "updated": "2026-11-13T18:15:43.896214+00:00",
   "items": [
+    {
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 13 Nov 2026 17:28:57 GMT",
+      "summary": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents &nbsp;&nbsp; Reuters",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794590937.0
+    },
+    {
+      "title": "Agentic commerce - PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DakVOMldRbVctMW93MGNMb1FhckppdlRJUXVmcDBNdkwxT1NJNTNORmg0MjZ2d1dDZFltMV94cjNOYjJkNGJZRVlB?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 13 Nov 2026 13:01:49 GMT",
+      "summary": "Agentic commerce &nbsp;&nbsp; PPC Land",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1794574909.0
+    },
+    {
+      "title": "Consumers face higher grocery prices",
+      "url": "https://www.retaildive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874599/",
+      "source": "Retail Dive",
+      "published": "Thu, 12 Nov 2026 11:01:00 -0500",
+      "summary": "Grocery inflation rose in October, as fuel price increases pushed up the costs of many foods.",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: price increase",
+      "published_ts": 1794499260.0
+    },
     {
       "title": "Agentic Commerce: Are AI Agents Actually Buying? - insights4vc | Substack",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sMkJkS2ItV0pGdmIyS1BjOU13LUJDYmpPOGFlLURoRmZRYzFpMm1ISXF0T0otaVVjZGNITnJCYXZyVml4R25oSkF2eUxPZVVOdlJyWUlvbWRhWFl6VVRILTgteVJzeVowUm96b2tPS0RvSVFhaEtrSXQyRjdoMzg?oc=5",
@@ -11,17 +44,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1794485372.0
-    },
-    {
-      "title": "Sally Beauty Will Launch an AI Shopping Agent Next Year. E-Commerce Grew 18% This Year. - AIM Media House",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHpmR21OM0V4T19Pb3dlaTdwaUNUTThlLTRpX19vdmQwS0VrcnNJOUI1N1hOaVgzVlhhdVJ5Sndfc25tR2kyS1BoMzE4d1ZyR0w4TENuUzk2RDAwT2hKUVhySmtXa1JkTGNpaktMQzB1aDNBLWZRUzBZb0NvQXFmRXZ0SDloRnFrV01kSlpiWlZOTHowXzRnOUc3bUJLNHFVckZycjJjdmdmdGp1R2RPSTI3NjVPc1NS?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Thu, 12 Nov 2026 05:44:43 GMT",
-      "summary": "Sally Beauty Will Launch an AI Shopping Agent Next Year. E-Commerce Grew 18% This Year. &nbsp;&nbsp; AIM Media House",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794462283.0
     },
     {
       "title": "AI Shopping Agents: Uber Reports Four Rides and About 500 Eats Orders - TechRepublic",
@@ -66,17 +88,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1794320144.0
-    },
-    {
-      "title": "Agentic Commerce Means Companies Have to Relearn Their Audiences - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13X1VXS2kwdHVmSkR2enNQZ19WNndaaGtobjN6LWdhbThCdks1a1UzNFhIWVBFWkUwSWppcjNqbXBkN3ZOQmhWQWp1M3B0dTZfNUtFZE5FQ2JBLXN5Ty1sM3NfYl9MNmVyU2NNTlhRc1dyVFE1Z251eQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 10 Nov 2026 11:06:01 GMT",
-      "summary": "Agentic Commerce Means Companies Have to Relearn Their Audiences &nbsp;&nbsp; International Business Times",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794308761.0
     },
     {
       "title": "Agentic Commerce in Mexico: AI Visibility and Retail Growth - Mexico Business News",
@@ -134,6 +145,17 @@
       "published_ts": 1793779200.0
     },
     {
+      "title": "The holiday season exposes cracks in post-purchase infrastructure. How can retailers close the gaps? - Retail Customer Experience",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUHNVZi1HejZIYnV2blhSeVJKbFh2MnY1Z1djNlNmcGpVVHRYRHh4SXF1dS11b0JUMlJJTG12WVFsMG1mRFA1WV9YcFZoZU5GcU1uaXd1SmJWVTVMU21VX0pmcS04MjBOaDFHTDl0QVNYV2RySnNWRHlPdWpRTUN1WG9EbXo3UmdTSW1kZFNyWHJtZjYzSkxROVpFcDlVbndsbDU1Ymw0VU1ZSTMwVUNXbi1OX2tZUlJKVEtUT0JfdnI5MEJ5RGxWczV5eXhPaWVSd3dxZVBaeWx5Mm5kNTA4?oc=5",
+      "source": "Google News: post-purchase ecommerce",
+      "published": "Tue, 03 Nov 2026 11:00:00 GMT",
+      "summary": "The holiday season exposes cracks in post-purchase infrastructure. How can retailers close the gaps? &nbsp;&nbsp; Retail Customer Experience",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1793703600.0
+    },
+    {
       "title": "Who wins when AI does the shopping? New evidence on agentic commerce - McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWENYYThmT1lvWlNUT25udnNwSWNJLWtEaE42ZjdWalpQZWhhY25yQV92a0VqNW1rd1RaNDF5bW9PTERqYnVUb3Y3NkdwZWJ4bXdUQ2d4dm1zOTNTUkVBTTFqSHF0SmdrTENmUUdkQXJIMWRNT3Z6UU5uMTg2ZXJyTnRsRUo5b2VFWmRqVFJSenhERlpzbF92UDY2czRXdjZ4c2RYai1NRm8yYnNNeG1YZUhYUXNsZjVoNTFhOVRWbGJ4ZklYOWppOFJkeVZnYllLdEJjZlRZQklvOTBSRHc?oc=5",
       "source": "Google News: agentic commerce",
@@ -178,17 +200,6 @@
       "published_ts": 1792652400.0
     },
     {
-      "title": "New Ecommerce Tools: October 21, 2026",
-      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-21-2026",
-      "source": "Practical Ecommerce",
-      "published": "Wed, 21 Oct 2026 14:03:12 +0000",
-      "summary": "New services this week include AI-powered marketing, agentic commerce, return platforms, dropshipping, cross-border commerce, sales tax management, and more. The post New Ecommerce Tools: October 21, 2026 appeared first on Practical Ecommerce .",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792591392.0
-    },
-    {
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
@@ -231,17 +242,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1782111600.0
-    },
-    {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1779260400.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -497,6 +497,17 @@
       "published_ts": 1736150400.0
     },
     {
+      "title": "Yotpo | Company Overview & News - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DM1JtOUVHMHU3UTlpcXQtdDBKSVFlZ2pYZ0dLRjhsalA4d3ZKSWFyMDZiVWNxOGlXNld5YTlRQlE5Y0VHRnhycEVlclhFeG5P?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 08 Aug 2023 07:00:00 GMT",
+      "summary": "Yotpo | Company Overview & News &nbsp;&nbsp; Forbes",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1691478000.0
+    },
+    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -520,11 +531,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 269,
-    "kept": 47,
+    "total_fetched": 268,
+    "kept": 48,
     "opportunities": 25,
-    "threats": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 7.9
+    "runtime_seconds": 9.0
   }
 }
