@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T21:13:58.971030+00:00",
+  "updated": "2026-11-13T02:15:27.118594+00:00",
   "items": [
     {
       "title": "Agentic Commerce: Are AI Agents Actually Buying? - insights4vc | Substack",
@@ -46,15 +46,15 @@
       "published_ts": 1794361625.0
     },
     {
-      "title": "Agentic commerce is slow to catch on - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHdqTjhBcFhvd2MweEtQQWhQczVOMEVqei1FbXdhTEtOSEQxdXduXzJRQXN2Yk5TcWcwSWZPb2xaV19Nd2tyREZ5U1hUM1pkS25UVlFmZUxmREd1M2IxLWd4Q3hfQzd6bmw1QjRWbVc5OWdxSGp3bzJkZ0JOamRoNklJWEctZw?oc=5",
+      "title": "Product data is critical to consumer trust in AI shopping - FoodNavigator.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUUtjX0p3NWUxeVNlZ0dFUjBhOERoWjF2aFdvVWx3OXNTano1VFVIN18yN2lsaDdaMlhRaFhPYWJDakxIYkdWWGEwcFZ6cUdWdDRDdXhtQlB6SUZCbjlHaE9QVFJUNFlUMHoyYzdXTmhCNHRvU2VzVnk3N21VTVlONkhZSllORmUtQnJKWXQyOWFjNDNlWThCZW9zQmctT1k?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 10 Nov 2026 13:15:00 GMT",
-      "summary": "Agentic commerce is slow to catch on &nbsp;&nbsp; Semafor",
+      "published": "Tue, 10 Nov 2026 14:15:44 GMT",
+      "summary": "Product data is critical to consumer trust in AI shopping &nbsp;&nbsp; FoodNavigator.com",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794316500.0
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794320144.0
     },
     {
       "title": "Agentic Commerce in Mexico: AI Visibility and Retail Growth - Mexico Business News",
@@ -200,17 +200,6 @@
       "published_ts": 1790060400.0
     },
     {
-      "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZklGR0sxaUJqWGx3ZjY4OXJ0Ylp3bWk2UHZEZGMyOEZhWF9TTHMxcHhmbmNER2lJc2o1bElNTXJva1YwRkVjdWpIN3d5RVlyZUtzZUNtZnBTSFhKeVhhS1Q5ZElMN1hzb20tSTV0UUFMY3NB?oc=5",
-      "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) &nbsp;&nbsp; Shopify",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1787122800.0
-    },
-    {
       "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
       "source": "Google News: DTC ecommerce",
@@ -297,17 +286,6 @@
       "confidence": "medium",
       "reasoning": "Attentive + acquires",
       "published_ts": 1794495600.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 11 Nov 2026 08:28:50 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1794385730.0
     },
     {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -409,6 +387,17 @@
       "published_ts": 1789196400.0
     },
     {
+      "title": "ShipStation LTL Launch: The Time-Saving Play for SMBs - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekRlTjg0MUVGOEUxQW9tNWlwQ2t4TzFvRF9TTEtzR1VSYVM2SU03M25oZ2NJZWJTTG85MThRSWFxVmFyVkh2Qm56QjNpMjdIVVBDMkRKTDRUVGlma1BvSU1mX2xCNjFNMklZUkxsc2lEaUVSZWVsQ0RJOWdaYkZ3Rk1jSGhJemRwZ0dtT1ZScw?oc=5",
+      "source": "Google News: ShipStation",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "summary": "ShipStation LTL Launch: The Time-Saving Play for SMBs &nbsp;&nbsp; FreightWaves",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Shipstation",
+      "published_ts": 1788418800.0
+    },
+    {
       "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWs1TC1pb3J5NFQ4VTlqcXJLdm1uekp6YURUZmF0N0tNb2NwSFFyYjQwYWgyWnd0VlRNRHg0NFJDSm0zdllNVWdNaTJzSXRzTmIyNlA3NFJPWmMxOWhicmp5N1Y5V3laUkhObURRSmpMeWdvZ3hNcUVvRF80RzNaRzBWUlFwVmRPeWRqZEdEaHU?oc=5",
       "source": "Google News: Yotpo",
@@ -475,6 +464,17 @@
       "published_ts": 1769673600.0
     },
     {
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + acquires",
+      "published_ts": 1744095600.0
+    },
+    {
       "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlBnWklEb2JHNFlJZjIwa1Uydm16VUlvNGhDOGdIY0NvZmNMVlRyTl9SZDBvVHpNTkpkQXZjXzdRQ3lPbmFRU19BTE9oZFdrbFVSNVNtcDI2WmZVanRWYlVCdk5zazJXOGVlcXMzSW5UMUItMzJQbmVsYUlSenVWSjVqbTE3QTBN?oc=5",
       "source": "Google News: Narvar",
@@ -511,9 +511,9 @@
   "stats": {
     "total_fetched": 268,
     "kept": 46,
-    "opportunities": 25,
-    "threats": 21,
+    "opportunities": 24,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 8.5
+    "runtime_seconds": 9.7
   }
 }
