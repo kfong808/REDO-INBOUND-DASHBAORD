@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T14:36:41.497060+00:00",
+  "updated": "2026-11-14T19:33:33.538131+00:00",
   "items": [
     {
       "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1794590937.0
+    },
+    {
+      "title": "Talk to My Agent: AI Shopping Agents Are Coming to Your Texts and DMs - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEpjWjUtS2JMVmpGWWhaR0d1eGQ2ZUkxVFhIbjRMTTZiazhmR3lFdWdwWHlfRkttQUV1d0R1czlZV2hGcDZXNXpfczlVdGZ5TXY0Z2J4bEZSWlcyVjhLVm9nQ3dqVkxTWTZfYjBhOXhkZ1I4UTFuN0x0ZHUyaENOOXVSLW5jdU1GTkoyX3RPUE5ZcGtXMlNlSXVzTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 13 Nov 2026 16:00:00 GMT",
+      "summary": "Talk to My Agent: AI Shopping Agents Are Coming to Your Texts and DMs &nbsp;&nbsp; Yahoo",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794585600.0
     },
     {
       "title": "Agentic commerce - PPC Land",
@@ -156,17 +167,6 @@
       "published_ts": 1793170800.0
     },
     {
-      "title": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVkyWkxFTFhkOVg0SkJhU0wyczg3cGFQQ05XSUJnY3dwZU9CMDVkU2lMcGpTWGhFQ3FMXzhmWjZGUkJqV2FYQVpsWF9RcXFSS1BTNzV6emF0djhXQjJJRkxsN1dBUmlsTWo2dUVUc2p1X2NqeWRzR3FROG1BUzZVeTRDZXBybWhPeGM4WVBnbW8xRk0yZmhYZGpYUXFON2cwSm9tTFVIQ2cxTkFPUlJpR3d1MDFlSFlXUHZjbVRR?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "summary": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792998000.0
-    },
-    {
       "title": "AI Shopping Metrics Considered",
       "url": "https://www.practicalecommerce.com/ai-shopping-metrics-considered",
       "source": "Practical Ecommerce",
@@ -176,6 +176,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792676480.0
+    },
+    {
+      "title": "From Search to Sale: What Agentic Commerce Means for Main Street - U.S. Chamber of Commerce",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0hnRm9HMFlNUUVycVdJUXNNMjAzeldqZ2lEalVNQnEteWVfVl9aRkFFT2JCOUZUWk95aFg5Y2gwVmI2Umk2Vm1YUTRheVpJUldjVzVrZlFWLTM4Uy1FTGsxeENMdHJoQXlDS3BZMHh5YlRWYUFsbWhsSXBxNUNJOHdMUlJKaElzZ19iZXNGcTZQRE4xbE92aVhBTWczeXB6dktBT3VfNHc0cVNw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "summary": "From Search to Sale: What Agentic Commerce Means for Main Street &nbsp;&nbsp; U.S. Chamber of Commerce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792652400.0
     },
     {
       "title": "8 Best Post-Purchase Experience Platforms for US DTC Brands (2026) - ClickPost",
@@ -198,17 +209,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792479600.0
-    },
-    {
-      "title": "Trust in agentic commerce - Mastercard",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjlZM25BeTRwejJyYzVjSk45d21QeHk3MmlnRnozZWx0d2pOSVNEdXF1S3FzNTBjbzlOU0dVWHh0WjNrR3BfR3ZjelRmSnpQVXFLU3FnMEc2SmdxYjRZZDJmazZaRHhlVG4wRjY0YW1UbmNRV1lLd01DdS1xeWJUOG5tSk5DSFVmMEN0dGZPRExVLWdnaXZaOVcyMW5WVDJkVjliZUNSdjAzWEh0cU02VTVRTVpsaXVU?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "summary": "Trust in agentic commerce &nbsp;&nbsp; Mastercard",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1790751600.0
     },
     {
       "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
@@ -536,6 +536,6 @@
     "opportunities": 25,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.0
+    "runtime_seconds": 9.5
   }
 }
