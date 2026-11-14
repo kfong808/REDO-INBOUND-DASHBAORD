@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:15:43.896214+00:00",
+  "updated": "2026-11-14T00:01:23.260558+00:00",
   "items": [
     {
       "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
@@ -16,12 +16,12 @@
       "title": "Agentic commerce - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DakVOMldRbVctMW93MGNMb1FhckppdlRJUXVmcDBNdkwxT1NJNTNORmg0MjZ2d1dDZFltMV94cjNOYjJkNGJZRVlB?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 13 Nov 2026 13:01:49 GMT",
+      "published": "Fri, 13 Nov 2026 13:03:13 GMT",
       "summary": "Agentic commerce &nbsp;&nbsp; PPC Land",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794574909.0
+      "published_ts": 1794574993.0
     },
     {
       "title": "Consumers face higher grocery prices",
@@ -112,6 +112,17 @@
       "published_ts": 1794075837.0
     },
     {
+      "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2NYQVZMcW82UDlkR3ZsaExYYWVyT1p1d2E3eEZNS09kallEeDBXVVRxSUZtQnBoUTdSUGNmMld1OXc5ZFBFVEM2NkRUd2hlbllRTFhBdTJmU0k1cU1uY0RtMHNrYnpCekhFUjBLUXZwZmlLblJneWQyLWItM3JGX3dHdkhzTll3NTFKUXU4eFJfOWFxUF9BSVRXWTcwWUwxM0dCSXRrRUlNTE1MTkJPVnY2N0hpdw?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 06 Nov 2026 16:07:31 GMT",
+      "summary": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices &nbsp;&nbsp; GeekWire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1793981251.0
+    },
+    {
       "title": "Post-Purchase Experience Statistics 2026: US Shopper Insights - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQ21HRkstbWlKWGNLaXQ5S0JGVWF0NFM2LWUyS1poajlNYlhDcU5HbVhWUVlycWdMVWMySHMyZXloMElfNjFLUHFfdDJHZTZtaG5tTFNMWi1fZS0zeHNMQS05UW9IMWVFQ3JkM0lJSXJJQmVkZzF5ZWdHbw?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -167,17 +178,6 @@
       "published_ts": 1793170800.0
     },
     {
-      "title": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVkyWkxFTFhkOVg0SkJhU0wyczg3cGFQQ05XSUJnY3dwZU9CMDVkU2lMcGpTWGhFQ3FMXzhmWjZGUkJqV2FYQVpsWF9RcXFSS1BTNzV6emF0djhXQjJJRkxsN1dBUmlsTWo2dUVUc2p1X2NqeWRzR3FROG1BUzZVeTRDZXBybWhPeGM4WVBnbW8xRk0yZmhYZGpYUXFON2cwSm9tTFVIQ2cxTkFPUlJpR3d1MDFlSFlXUHZjbVRR?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "summary": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It &nbsp;&nbsp; Forbes",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1792998000.0
-    },
-    {
       "title": "AI Shopping Metrics Considered",
       "url": "https://www.practicalecommerce.com/ai-shopping-metrics-considered",
       "source": "Practical Ecommerce",
@@ -187,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1792676480.0
+    },
+    {
+      "title": "From Search to Sale: What Agentic Commerce Means for Main Street - U.S. Chamber of Commerce",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0hnRm9HMFlNUUVycVdJUXNNMjAzeldqZ2lEalVNQnEteWVfVl9aRkFFT2JCOUZUWk95aFg5Y2gwVmI2Umk2Vm1YUTRheVpJUldjVzVrZlFWLTM4Uy1FTGsxeENMdHJoQXlDS3BZMHh5YlRWYUFsbWhsSXBxNUNJOHdMUlJKaElzZ19iZXNGcTZQRE4xbE92aVhBTWczeXB6dktBT3VfNHc0cVNw?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "summary": "From Search to Sale: What Agentic Commerce Means for Main Street &nbsp;&nbsp; U.S. Chamber of Commerce",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792652400.0
     },
     {
       "title": "8 Best Post-Purchase Experience Platforms for US DTC Brands (2026) - ClickPost",
@@ -275,6 +286,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1718866800.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 13 Nov 2026 17:12:01 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1794589921.0
     },
     {
       "title": "Attentive.ai Makes First Acquisition, Buys Takeoff Monkey as Beam AI Powers $500 Billion in Construction Bids - Business Wire",
@@ -464,6 +486,28 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "Newsletter copy editor resets Mailchimp password for last time - The Daily Texan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmEyb2tTdEh5dXVGY3BlWVVBeXp6ekZyXzFXaXM2QUFGNldVWTdNOEtONEhkRVpQVExlcU5LN2MyRGZIck1nQ2hTbk1SSTltMkZ4UUZZRUttUTVyYXZxc2ZOS2E1c0NxVXBtRlNTMjB1Zk1zOGtRcm1BMjMtVHFyTkZZYy1xZm5fWWJ1YUZ4d3Rjcm5xUTU2X1NqODlRTDZ5bmc?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "Newsletter copy editor resets Mailchimp password for last time &nbsp;&nbsp; The Daily Texan",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1776927600.0
+    },
+    {
+      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1770278400.0
+    },
+    {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
       "source": "Google News: Omnisend",
@@ -497,17 +541,6 @@
       "published_ts": 1736150400.0
     },
     {
-      "title": "Yotpo | Company Overview & News - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DM1JtOUVHMHU3UTlpcXQtdDBKSVFlZ2pYZ0dLRjhsalA4d3ZKSWFyMDZiVWNxOGlXNld5YTlRQlE5Y0VHRnhycEVlclhFeG5P?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Tue, 08 Aug 2023 07:00:00 GMT",
-      "summary": "Yotpo | Company Overview & News &nbsp;&nbsp; Forbes",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1691478000.0
-    },
-    {
       "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
       "source": "Google News: Narvar",
@@ -531,11 +564,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 268,
-    "kept": 48,
-    "opportunities": 25,
-    "threats": 23,
+    "total_fetched": 270,
+    "kept": 51,
+    "opportunities": 26,
+    "threats": 25,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.0
+    "runtime_seconds": 10.4
   }
 }
