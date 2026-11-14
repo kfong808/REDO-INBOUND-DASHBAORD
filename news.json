@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:33:33.538131+00:00",
+  "updated": "2026-11-14T23:28:47.796674+00:00",
   "items": [
     {
       "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
@@ -211,6 +211,17 @@
       "published_ts": 1792479600.0
     },
     {
+      "title": "Trust in agentic commerce - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjlZM25BeTRwejJyYzVjSk45d21QeHk3MmlnRnozZWx0d2pOSVNEdXF1S3FzNTBjbzlOU0dVWHh0WjNrR3BfR3ZjelRmSnpQVXFLU3FnMEc2SmdxYjRZZDJmazZaRHhlVG4wRjY0YW1UbmNRV1lLd01DdS1xeWJUOG5tSk5DSFVmMEN0dGZPRExVLWdnaXZaOVcyMW5WVDJkVjliZUNSdjAzWEh0cU02VTVRTVpsaXVU?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "summary": "Trust in agentic commerce &nbsp;&nbsp; Mastercard",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1790751600.0
+    },
+    {
       "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
       "source": "Google News: AI shopping agent",
@@ -398,17 +409,6 @@
       "published_ts": 1789196400.0
     },
     {
-      "title": "ShipStation LTL Launch: The Time-Saving Play for SMBs - FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekRlTjg0MUVGOEUxQW9tNWlwQ2t4TzFvRF9TTEtzR1VSYVM2SU03M25oZ2NJZWJTTG85MThRSWFxVmFyVkh2Qm56QjNpMjdIVVBDMkRKTDRUVGlma1BvSU1mX2xCNjFNMklZUkxsc2lEaUVSZWVsQ0RJOWdaYkZ3Rk1jSGhJemRwZ0dtT1ZScw?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "ShipStation LTL Launch: The Time-Saving Play for SMBs &nbsp;&nbsp; FreightWaves",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Shipstation",
-      "published_ts": 1788418800.0
-    },
-    {
       "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWs1TC1pb3J5NFQ4VTlqcXJLdm1uekp6YURUZmF0N0tNb2NwSFFyYjQwYWgyWnd0VlRNRHg0NFJDSm0zdllNVWdNaTJzSXRzTmIyNlA3NFJPWmMxOWhicmp5N1Y5V3laUkhObURRSmpMeWdvZ3hNcUVvRF80RzNaRzBWUlFwVmRPeWRqZEdEaHU?oc=5",
       "source": "Google News: Yotpo",
@@ -475,17 +475,6 @@
       "published_ts": 1776927600.0
     },
     {
-      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Narvar",
-      "published_ts": 1770278400.0
-    },
-    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -519,6 +508,17 @@
       "published_ts": 1646640000.0
     },
     {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
+    },
+    {
       "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
       "source": "Google News: Postscript",
@@ -533,9 +533,9 @@
   "stats": {
     "total_fetched": 269,
     "kept": 48,
-    "opportunities": 25,
-    "threats": 23,
+    "opportunities": 26,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.5
+    "runtime_seconds": 11.1
   }
 }
