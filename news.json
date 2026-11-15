@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-15T18:09:12.515695+00:00",
+  "updated": "2026-11-15T23:14:16.000060+00:00",
   "items": [
+    {
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcmczYV81cnFFZGtmTVJhX3UxYzlGTkRXUjUzUnpNcGNSa2VOM21ELWxuZ3UwU0R0SVlFYlZLZFFQci0yZEdHbklpWDdWQmJMMmxUa3FCclZHREppZkRDdEEwUVEweVliQm84d2pqTV92MFlCb0lXakpGbk9fdTh1NE1FTWxJNnQ0eUw0UA?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 13 Nov 2026 19:00:01 GMT",
+      "summary": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet &nbsp;&nbsp; The Decoder",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794596401.0
+    },
     {
       "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
@@ -22,17 +33,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1794585600.0
-    },
-    {
-      "title": "Agentic commerce - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DakVOMldRbVctMW93MGNMb1FhckppdlRJUXVmcDBNdkwxT1NJNTNORmg0MjZ2d1dDZFltMV94cjNOYjJkNGJZRVlB?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 13 Nov 2026 13:03:13 GMT",
-      "summary": "Agentic commerce &nbsp;&nbsp; PPC Land",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794574993.0
     },
     {
       "title": "JPMorgan Blocking AI Shopping Agent Payments - marketscreener.com",
@@ -68,17 +68,6 @@
       "published_ts": 1794492000.0
     },
     {
-      "title": "Agentic Commerce: Are AI Agents Actually Buying? - insights4vc | Substack",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sMkJkS2ItV0pGdmIyS1BjOU13LUJDYmpPOGFlLURoRmZRYzFpMm1ISXF0T0otaVVjZGNITnJCYXZyVml4R25oSkF2eUxPZVVOdlJyWUlvbWRhWFl6VVRILTgteVJzeVowUm96b2tPS0RvSVFhaEtrSXQyRjdoMzg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 12 Nov 2026 12:09:32 GMT",
-      "summary": "Agentic Commerce: Are AI Agents Actually Buying? &nbsp;&nbsp; insights4vc | Substack",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794485372.0
-    },
-    {
       "title": "New Ecommerce Tools: November 11, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-11-2026",
       "source": "Practical Ecommerce",
@@ -90,26 +79,15 @@
       "published_ts": 1794410034.0
     },
     {
-      "title": "Product data is critical to consumer trust in AI shopping - FoodNavigator.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUUtjX0p3NWUxeVNlZ0dFUjBhOERoWjF2aFdvVWx3OXNTano1VFVIN18yN2lsaDdaMlhRaFhPYWJDakxIYkdWWGEwcFZ6cUdWdDRDdXhtQlB6SUZCbjlHaE9QVFJUNFlUMHoyYzdXTmhCNHRvU2VzVnk3N21VTVlONkhZSllORmUtQnJKWXQyOWFjNDNlWThCZW9zQmctT1k?oc=5",
+      "title": "Card Networks Use B2B Payments to Write the Rules for Agentic Commerce - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZVc3hkTERHX3lMRGxUdnRJcjRxM3pwY1QtVGtCbFliN1NvNlM2MmpXY0d6ZnVCdmktWV9lZk83Rzl3T3g1SjYxeDhldU1oUTJkUU5Rd3k1YU9Za2ZNdUZvczc4aDVxTFFMNFhtcEh0NTdXbW5GVnRYdl9RMmFtLTVNcXZCTVl4dnZ2SUJxNzNDZGFWdS1xdkxOMUFIUkQyWFB1ZS02TFh5V2xnWXFfSjBEaVpETEZC?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Tue, 10 Nov 2026 14:15:44 GMT",
-      "summary": "Product data is critical to consumer trust in AI shopping &nbsp;&nbsp; FoodNavigator.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794320144.0
-    },
-    {
-      "title": "Agentic Commerce Means Companies Have to Relearn Their Audiences - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13X1VXS2kwdHVmSkR2enNQZ19WNndaaGtobjN6LWdhbThCdks1a1UzNFhIWVBFWkUwSWppcjNqbXBkN3ZOQmhWQWp1M3B0dTZfNUtFZE5FQ2JBLXN5Ty1sM3NfYl9MNmVyU2NNTlhRc1dyVFE1Z251eQ?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 10 Nov 2026 11:06:01 GMT",
-      "summary": "Agentic Commerce Means Companies Have to Relearn Their Audiences &nbsp;&nbsp; International Business Times",
+      "published": "Wed, 11 Nov 2026 01:47:05 GMT",
+      "summary": "Card Networks Use B2B Payments to Write the Rules for Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794308761.0
+      "published_ts": 1794361625.0
     },
     {
       "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices - GeekWire",
@@ -187,6 +165,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792652400.0
+    },
+    {
+      "title": "The state of agentic commerce: insights from more than 100 leading global companies - Kearney",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnEtbzNPRjQzcG5UUkhJRVRhdGxvSEkxMFU5Q2JJNzdQc3ZYTVVaTTNmNkRxbFg0c051dHRCUHFoWVpXZEFtQnF3bXBzaGxkSmRibGk4YUgwRXRFbXJPRC1zWHFoQkxlYUJnNk1fWkJGQ1hxNnpUWmlyb25jS2prd0hvRVMxN29tRmlPeEJFay1FOTc4c3A5VlBOdVFhYTE1VHpjUUhPNUxSSkFJSmp5Y21Hc2hiVUU0NHRLU2UzWHZEbnEwcjJaR3FtSW1NTFZlU2xIQUpPOA?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "The state of agentic commerce: insights from more than 100 leading global companies &nbsp;&nbsp; Kearney",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792566000.0
     },
     {
       "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
@@ -330,17 +319,6 @@
       "confidence": "high",
       "reasoning": "Omnisend + raises, launches",
       "published_ts": 1793343600.0
-    },
-    {
-      "title": "This Week in Retail: Zendaya × On Pop-Ups, Omnisend Tracks Holiday Spending, Dwyane Wade Joins REVOLVE, Lacoste’s Foundation Activations, Golden Goose’s Padel Launch, and AMIRI’s Barcelona Wardrobe - RETAILBOSS | Substack",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56SURKV0VuanZrSDFDckNObjd5anM3NzRZbzZpQm9kRjY5R3ZRZGRoVFdzYzlfQmV6dE1Icll1dXFwbEdWWmk5M1hQUi1wVnA3N2k2YWloMEstaW94UXdoUG13bURtaDA2ei15OGNySVZOaEM4bTlB?oc=5",
-      "source": "Google News: Omnisend",
-      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "summary": "This Week in Retail: Zendaya × On Pop-Ups, Omnisend Tracks Holiday Spending, Dwyane Wade Joins REVOLVE, Lacoste’s Foundation Activations, Golden Goose’s Padel Launch, and AMIRI’s Barcelona Wardrobe &nbsp;&nbsp; RETAILBOSS | Substack",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Omnisend",
-      "published_ts": 1792652400.0
     },
     {
       "title": "Yotpo Discover Helps Ecommerce Brands Influence How AI Recommends Their Products - Winchester News Gazette",
@@ -517,14 +495,25 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
+    },
+    {
+      "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
+      "source": "Google News: Postscript",
+      "published": "Sun, 15 Oct 2017 07:00:00 GMT",
+      "summary": "Postscript: A high school reunion and the struggle to fit in &nbsp;&nbsp; MPR News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Postscript",
+      "published_ts": 1508050800.0
     }
   ],
   "stats": {
     "total_fetched": 268,
-    "kept": 47,
-    "opportunities": 25,
+    "kept": 46,
+    "opportunities": 24,
     "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 7.7
+    "runtime_seconds": 8.6
   }
 }
