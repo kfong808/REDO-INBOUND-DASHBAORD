@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T03:41:33.849622+00:00",
+  "updated": "2026-11-15T11:37:27.331579+00:00",
   "items": [
     {
       "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
@@ -11,6 +11,17 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1794590937.0
+    },
+    {
+      "title": "Talk to My Agent: AI Shopping Agents Are Coming to Your Texts and DMs - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEpjWjUtS2JMVmpGWWhaR0d1eGQ2ZUkxVFhIbjRMTTZiazhmR3lFdWdwWHlfRkttQUV1d0R1czlZV2hGcDZXNXpfczlVdGZ5TXY0Z2J4bEZSWlcyVjhLVm9nQ3dqVkxTWTZfYjBhOXhkZ1I4UTFuN0x0ZHUyaENOOXVSLW5jdU1GTkoyX3RPUE5ZcGtXMlNlSXVzTQ?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Fri, 13 Nov 2026 16:00:00 GMT",
+      "summary": "Talk to My Agent: AI Shopping Agents Are Coming to Your Texts and DMs &nbsp;&nbsp; Yahoo",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794585600.0
     },
     {
       "title": "Agentic commerce - PPC Land",
@@ -46,17 +57,6 @@
       "published_ts": 1794485372.0
     },
     {
-      "title": "AI Shopping Agents: Uber Reports Four Rides and About 500 Eats Orders - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGtZa0pWYi1IX1ExZTFBeGZlY2ZxLWw3RlV1OVBCZ1VyQnNYaFVSS3lmaFpBQnVxQ1JhQlVvTTBsUnB1a0E4OHQ2Ml9GNVg1RVZCTnIyOEFaRndhZzBRc2E4cllXNWo0bEx1RHZGc091R0FNYmN4TTk1S3E4Z1ZUMml6NURKQQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 11 Nov 2026 19:51:48 GMT",
-      "summary": "AI Shopping Agents: Uber Reports Four Rides and About 500 Eats Orders &nbsp;&nbsp; TechRepublic",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794426708.0
-    },
-    {
       "title": "New Ecommerce Tools: November 11, 2026",
       "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-11-2026",
       "source": "Practical Ecommerce",
@@ -66,17 +66,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1794410034.0
-    },
-    {
-      "title": "Card Networks Use B2B Payments to Write the Rules for Agentic Commerce - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZVc3hkTERHX3lMRGxUdnRJcjRxM3pwY1QtVGtCbFliN1NvNlM2MmpXY0d6ZnVCdmktWV9lZk83Rzl3T3g1SjYxeDhldU1oUTJkUU5Rd3k1YU9Za2ZNdUZvczc4aDVxTFFMNFhtcEh0NTdXbW5GVnRYdl9RMmFtLTVNcXZCTVl4dnZ2SUJxNzNDZGFWdS1xdkxOMUFIUkQyWFB1ZS02TFh5V2xnWXFfSjBEaVpETEZC?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 11 Nov 2026 01:47:05 GMT",
-      "summary": "Card Networks Use B2B Payments to Write the Rules for Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1794361625.0
     },
     {
       "title": "Product data is critical to consumer trust in AI shopping - FoodNavigator.com",
@@ -288,6 +277,17 @@
       "published_ts": 1718866800.0
     },
     {
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 14 Nov 2026 06:15:02 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1794636902.0
+    },
+    {
       "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
       "source": "Google News: Klaviyo",
@@ -297,17 +297,6 @@
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
       "published_ts": 1794594195.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 13 Nov 2026 17:42:27 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1794591747.0
     },
     {
       "title": "Attentive.ai Makes First Acquisition, Buys Takeoff Monkey as Beam AI Powers $500 Billion in Construction Bids - Business Wire",
@@ -543,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 49,
-    "opportunities": 26,
+    "kept": 48,
+    "opportunities": 25,
     "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 7.7
+    "runtime_seconds": 9.3
   }
 }
