@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T23:28:47.796674+00:00",
+  "updated": "2026-11-15T03:41:33.849622+00:00",
   "items": [
     {
       "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
@@ -11,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1794590937.0
-    },
-    {
-      "title": "Talk to My Agent: AI Shopping Agents Are Coming to Your Texts and DMs - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEpjWjUtS2JMVmpGWWhaR0d1eGQ2ZUkxVFhIbjRMTTZiazhmR3lFdWdwWHlfRkttQUV1d0R1czlZV2hGcDZXNXpfczlVdGZ5TXY0Z2J4bEZSWlcyVjhLVm9nQ3dqVkxTWTZfYjBhOXhkZ1I4UTFuN0x0ZHUyaENOOXVSLW5jdU1GTkoyX3RPUE5ZcGtXMlNlSXVzTQ?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Fri, 13 Nov 2026 16:00:00 GMT",
-      "summary": "Talk to My Agent: AI Shopping Agents Are Coming to Your Texts and DMs &nbsp;&nbsp; Yahoo",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794585600.0
     },
     {
       "title": "Agentic commerce - PPC Land",
@@ -101,6 +90,17 @@
       "published_ts": 1794320144.0
     },
     {
+      "title": "Agentic Commerce Means Companies Have to Relearn Their Audiences - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13X1VXS2kwdHVmSkR2enNQZ19WNndaaGtobjN6LWdhbThCdks1a1UzNFhIWVBFWkUwSWppcjNqbXBkN3ZOQmhWQWp1M3B0dTZfNUtFZE5FQ2JBLXN5Ty1sM3NfYl9MNmVyU2NNTlhRc1dyVFE1Z251eQ?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 10 Nov 2026 11:06:01 GMT",
+      "summary": "Agentic Commerce Means Companies Have to Relearn Their Audiences &nbsp;&nbsp; International Business Times",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1794308761.0
+    },
+    {
       "title": "Post-Purchase Experience Statistics 2026: US Shopper Insights - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQ21HRkstbWlKWGNLaXQ5S0JGVWF0NFM2LWUyS1poajlNYlhDcU5HbVhWUVlycWdMVWMySHMyZXloMElfNjFLUHFfdDJHZTZtaG5tTFNMWi1fZS0zeHNMQS05UW9IMWVFQ3JkM0lJSXJJQmVkZzF5ZWdHbw?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -178,17 +178,6 @@
       "published_ts": 1792676480.0
     },
     {
-      "title": "From Search to Sale: What Agentic Commerce Means for Main Street - U.S. Chamber of Commerce",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0hnRm9HMFlNUUVycVdJUXNNMjAzeldqZ2lEalVNQnEteWVfVl9aRkFFT2JCOUZUWk95aFg5Y2gwVmI2Umk2Vm1YUTRheVpJUldjVzVrZlFWLTM4Uy1FTGsxeENMdHJoQXlDS3BZMHh5YlRWYUFsbWhsSXBxNUNJOHdMUlJKaElzZ19iZXNGcTZQRE4xbE92aVhBTWczeXB6dktBT3VfNHc0cVNw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "summary": "From Search to Sale: What Agentic Commerce Means for Main Street &nbsp;&nbsp; U.S. Chamber of Commerce",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792652400.0
-    },
-    {
       "title": "8 Best Post-Purchase Experience Platforms for US DTC Brands (2026) - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYm5GYlVpM0FteVdIcXpPSmN3dTlub0N2OHFjeGJsRmRtazAxNDU2elZiQ2x0SE5rczFTbU94bVBnOVBscjl2UnJlMkE1VDNWMkdfS20tS2lncnZ5Q0NUTGxiZi1SNEIzV0E?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -198,6 +187,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792652400.0
+    },
+    {
+      "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Zk05c0Y5cjVYVUYyVTV3ZGs3M0JzX29FN2lLVVZ2YTVMNTc1VHZ3aTU4LXVxNlRUS29SMEd4VGpTNGFaaEpRRzRHdFlDc0lycVkxZE5CeDc2OGRycUR2Ti1xT01fWE5EYWZuREtyZXFYSnprRnhGTmlB?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce &nbsp;&nbsp; Boston Consulting Group",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1792566000.0
     },
     {
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
@@ -475,6 +475,17 @@
       "published_ts": 1776927600.0
     },
     {
+      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1770278400.0
+    },
+    {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
       "source": "Google News: Yotpo",
@@ -532,10 +543,10 @@
   ],
   "stats": {
     "total_fetched": 269,
-    "kept": 48,
+    "kept": 49,
     "opportunities": 26,
-    "threats": 22,
+    "threats": 23,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.1
+    "runtime_seconds": 7.7
   }
 }
