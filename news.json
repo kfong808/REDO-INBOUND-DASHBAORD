@@ -1,27 +1,38 @@
 {
-  "updated": "2026-11-17T04:51:12.842620+00:00",
+  "updated": "2026-11-17T13:57:17.590111+00:00",
   "items": [
+    {
+      "title": "Ping Identity’s Cayla Curtis on Retailers Building Consumer Trust in AI Shopping Agents: The RetailTouchPoints.com Q&A - Retail TouchPoints",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV0JkdzhxaVBLUDlXLUt5Z0s0WVF3c2dyUmhjZzhMOVZVeFdnWDdNeXJNckJpSVhjUVpQQjlMb3Y5WEoybV90SlltcUJaZnh1ZlBxU1VGaUU4OGphNGpuUHNPLXhEQ1QteUpGUm5KNWxUVHM2ejdzZjAzOS1UWEFLNEhoalBtcDFwZzBhaW5fOUNUWUtGRnowMVVqdWVzRUZpdVJfd2NMQWJ6akpUT3RBd3EzWkphc0szMm1KUUhFQ3hxbnBmTElRWVl5dkFDSGVFcXgwNlpXTmNNQ3BaeGQyUmJhNG4yUlN0d1VtRUM3clRIUWdtUkNIYUdR?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 17 Nov 2026 12:04:18 GMT",
+      "summary": "Ping Identity’s Cayla Curtis on Retailers Building Consumer Trust in AI Shopping Agents: The RetailTouchPoints.com Q&amp;A &nbsp;&nbsp; Retail TouchPoints",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794917058.0
+    },
+    {
+      "title": "OpenAI debuts ChatGPT Wallet for agentic commerce - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmxHZTMydHlfcjBoaGJtS2NCT3BTN1ctYlpYMnNja1ZOUDJLMEZ2cW5Uc29BX1hYWDdmWENCMFpqMTVZOTZUNDFiT2Z1Zi0xRHg4dTNuTThpZlhaamlGcWdqOVM2WXl2S0hZaF9uUFV5cW9ENHEyRUFLNzZ3X0VJbjhn?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Tue, 17 Nov 2026 09:27:51 GMT",
+      "summary": "OpenAI debuts ChatGPT Wallet for agentic commerce &nbsp;&nbsp; FinTech Futures",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1794907671.0
+    },
     {
       "title": "AI Shopping Agents Fail 43% of the Time. Most Failures Still End in a Purchase. - AIM Media House",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekc3TnlfV0g4U2ZrbVpvLVZsbEhFNV9ZUTFpOTlqam5WWGlaX0R1V3FEczdyRVFhMW9tWkNjZDBPaEZtZVBlWHJtZHJmV3FQVUk0TFFYbU15ZHhGQVEwOFBaQmxoampWamV5eXlFVHJSeGU5X2JEbnlmajFNenRkSWhMak9lTW8ydl9ndEFhNS04WDN2MjQ5NG1FemZQYUJTZk5YSmxTeXlDTk1INEE?oc=5",
       "source": "Google News: AI shopping agent",
-      "published": "Tue, 17 Nov 2026 04:18:03 GMT",
+      "published": "Tue, 17 Nov 2026 04:22:16 GMT",
       "summary": "AI Shopping Agents Fail 43% of the Time. Most Failures Still End in a Purchase. &nbsp;&nbsp; AIM Media House",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
-      "published_ts": 1794889083.0
-    },
-    {
-      "title": "Mem Is Shutting Down",
-      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-      "source": "Hacker News",
-      "published": "Tue, 17 Nov 2026 02:13:41 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: shutting down",
-      "published_ts": 1794881621.0
+      "published_ts": 1794889336.0
     },
     {
       "title": "AI shopping agents fail often. Build your platform for it. - DevPro Journal",
@@ -112,17 +123,6 @@
       "published_ts": 1793703600.0
     },
     {
-      "title": "Are CPG Companies Ready for Agentic Commerce? - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2R6V0stTUZVQ0VNNndHTFNLWm94QjlNNzFZbVN2a0ZwOVBwd3VfcTg1TWJKNXFKSGg2cDJmLXBsY1h3VVo1Rm1xYk5lRjRuc1lQSXVvVDNzY3JiYkR3eWR3dkNzbkVWenFfdThuQkU1Qm1nb25Wd0xNUHdJWG03NGpR?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "summary": "Are CPG Companies Ready for Agentic Commerce? &nbsp;&nbsp; Boston Consulting Group",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793343600.0
-    },
-    {
       "title": "Who wins when AI does the shopping? New evidence on agentic commerce - McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWENYYThmT1lvWlNUT25udnNwSWNJLWtEaE42ZjdWalpQZWhhY25yQV92a0VqNW1rd1RaNDF5bW9PTERqYnVUb3Y3NkdwZWJ4bXdUQ2d4dm1zOTNTUkVBTTFqSHF0SmdrTENmUUdkQXJIMWRNT3Z6UU5uMTg2ZXJyTnRsRUo5b2VFWmRqVFJSenhERlpzbF92UDY2czRXdjZ4c2RYai1NRm8yYnNNeG1YZUhYUXNsZjVoNTFhOVRWbGJ4ZklYOWppOFJkeVZnYllLdEJjZlRZQklvOTBSRHc?oc=5",
       "source": "Google News: agentic commerce",
@@ -145,19 +145,19 @@
       "published_ts": 1792652400.0
     },
     {
-      "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Zk05c0Y5cjVYVUYyVTV3ZGs3M0JzX29FN2lLVVZ2YTVMNTc1VHZ3aTU4LXVxNlRUS29SMEd4VGpTNGFaaEpRRzRHdFlDc0lycVkxZE5CeDc2OGRycUR2Ti1xT01fWE5EYWZuREtyZXFYSnprRnhGTmlB?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce &nbsp;&nbsp; Boston Consulting Group",
+      "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO &nbsp;&nbsp; Retail Technology Innovation Hub",
       "classification": "opportunity",
       "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792566000.0
+      "reasoning": "Matched: post-purchase",
+      "published_ts": 1792479600.0
     },
     {
       "title": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) - Shopify",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZklGR0sxaUJqWGx3ZjY4OXJ0Ylp3bWk2UHZEZGMyOEZhWF9TTHMxcHhmbmNER2lJc2o1bElNTXJva1YwRkVjdWpIN3d5RVlyZUtzZUNtZnBTSFhKeVhhS1Q5ZElMN1hzb20tSTV0UUFMY3NB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MNmZjRHI5NnBFQjhkdHZhR3ktZ19uRFpRa3hBeTgxT0RUQlVUZW45RmlBUWdmaGRNNHF6QkdmVWxnWkgtNzNnZG5TZUhPQ2E3aVc0VmM1cExrdXJSODNNc293bTg2YTJvWXpFNmZEcGY?oc=5",
       "source": "Google News: post-purchase ecommerce",
       "published": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "Post-Purchase Experience and How to Turn Buyers Into Fans (2026) &nbsp;&nbsp; Shopify",
@@ -165,17 +165,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1787122800.0
-    },
-    {
-      "title": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2YzWkdmd01raGFxeHdodVpvc090NVlfUHk4NVFkVmVOWGxFMkgxemFLS2FaYXRKdDBZV3REbUlrd1FHYkRoREtZOVRXZzRpU2xRQ3Jpc3hFcWRRX0ZVY2FpTGxobVpha3dxTFV0Y2I4MXhGRFpQOElRODhScmZ0c2V6ZVZQQ1hscjQzMkVMRENWZw?oc=5",
-      "source": "Google News: DTC ecommerce",
-      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "summary": "Levi (LEVI) Keeps DTC On Top As Ecommerce Growth And AI Efforts Build &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ecommerce growth",
-      "published_ts": 1783753200.0
     },
     {
       "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands - Inc42",
@@ -189,15 +178,15 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
+      "title": "Agentic Post-Purchase Services - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1779260400.0
+      "published_ts": 1773730800.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -220,6 +209,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1768464000.0
+    },
+    {
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sat, 14 Nov 2026 23:42:40 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Singapore",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Klaviyo",
+      "published_ts": 1794699760.0
     },
     {
       "title": "Attentive.ai Makes First Acquisition, Buys Takeoff Monkey as Beam AI Powers $500 Billion in Construction Bids - Business Wire",
@@ -255,6 +255,17 @@
       "published_ts": 1793343600.0
     },
     {
+      "title": "Yotpo Discover Helps Ecommerce Brands Influence How AI Recommends Their Products - Winchester News Gazette",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPa19lMHRZSFRxYm44Y3dOeHlPQTZ1b2FoeXMxby1GVktJOTZERHBzUmJnQ0NjU1h0RElheDhMN2FhWk5ueDc4bnJLQ194SlEyTUhRUm1hbXlYeHV0YnpLY2YwaDcwWkpDa001b2xZeWhuS1pTSE40V2pJUlVXWUQzbEZlVl9sbkVWb0dySVBxVnhza0dFTW5pQTZRdHJtbDBKQTJFaXhhTzBqRm9abkRkZGVielVKb3Q4cDZnNl9UcEdsNkdjQXNTQ0xqU1NMMTJKaUlRd1JxNGZVSi1OUUlLdkxLb0tUWjRVbDV5cHhaYWhvZEZHZDYwQWMwekdJYk5HOXRVZUdhWnMwcVNrd2pfOHB6UmU4bWVkc3k1ZVdOTG9GbnVlYmc?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "Yotpo Discover Helps Ecommerce Brands Influence How AI Recommends Their Products &nbsp;&nbsp; Winchester News Gazette",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1792479600.0
+    },
+    {
       "title": "Shop the Loop returns with student-run businesses and booths - The Echo News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkFBRVBKa2lObnFZYWh4dUdTbmVSXzFlTjI1Y2pTSHdfLVgxakJLSDBvY1JRTS1CZHdsamp5NjhhRDRwYl85eGs4Y1FkVFBjZXVUNWhvNHFLT0dpdUh3TTlTSnYxaF9xOUlrUjNYUmk2cXNlWmVwdVpXNUdvVTUxRWhzYXdfdWtxTWx6dFdyVjdsVFg5cVJjY3V6QUlqZWQzZ3N0T19OMA?oc=5",
       "source": "Google News: Loop Returns",
@@ -277,15 +288,26 @@
       "published_ts": 1791270000.0
     },
     {
-      "title": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnBQd05rQjdXbHlaV3hkQVhGREc2RVU2TkFRUGpvQmhCRVRzR1BURE81NnB2QTR4THFSMDRhT1J4TFZXTTNIdkI5LW9ITHV3eFJHQW9jR3RvQ196SlhmUC0xTzBYbzRQY193TXFaOTNRa3llOGpERDUzSEhGSzVLaUJZMFVINXVwNEZJSi03b1lGY1Q1YkFB?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "summary": "Attentive Releases New AI Pro and AI Reporting Functionality, Helping Brands Turn Customer Signals Into Higher-Value Engagement &nbsp;&nbsp; Yahoo Finance",
+      "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Sat, 12 Sep 2026 07:00:00 GMT",
+      "summary": "Yotpo - 2026 Funding Rounds & List of Investors &nbsp;&nbsp; Tracxn",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + funding round",
+      "published_ts": 1789196400.0
+    },
+    {
+      "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWs1TC1pb3J5NFQ4VTlqcXJLdm1uekp6YURUZmF0N0tNb2NwSFFyYjQwYWgyWnd0VlRNRHg0NFJDSm0zdllNVWdNaTJzSXRzTmIyNlA3NFJPWmMxOWhicmp5N1Y5V3laUkhObURRSmpMeWdvZ3hNcUVvRF80RzNaRzBWUlFwVmRPeWRqZEdEaHU?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "summary": "Learn how to rank in ChatGPT with Yotpo Discover today &nbsp;&nbsp; London Business News",
       "classification": "threat",
       "confidence": "low",
-      "reasoning": "Mentions Attentive",
-      "published_ts": 1790060400.0
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1787295600.0
     },
     {
       "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
@@ -297,6 +319,17 @@
       "confidence": "low",
       "reasoning": "Mentions Loop Returns",
       "published_ts": 1786431600.0
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785913200.0
     },
     {
       "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
@@ -341,14 +374,69 @@
       "confidence": "low",
       "reasoning": "Mentions Mailchimp",
       "published_ts": 1776927600.0
+    },
+    {
+      "title": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVGRJRXpNdEZWN3hNRml1eG1WbmRHLVFEUWhsVTB6Z05DODQtU3R2Y2xYemZHSENNcllKVWxqRWFIOVZkekI0VE1kVTlGYTlNRFV2OXJZNnpISTY1Z0tMRFl1eGF3WFpXc1ZjNld2NnE5RlBZSUxRVG4zVnE2SnBWSmtCZnA2ejNDdTN0and4SVZtV200dUJ6dnpnTnQ3b3packZ0SmRyamNLUmhlX2FZaDZUeDRqWmNtaWtPVlV2bUQ2S3JoSFpsRF80TTZuRG43NnF0R19zcllXaGFFUjRvUGdfSlJFeGdvVzdZRXJYTld4VS16Q09Zb20zVGpDWU5XaWdMbkd3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Narvar Finds January Returns Climb Nearly Twice as Fast as Holiday Sales, Marking a More Cautious Consumer Entering 2026 &nbsp;&nbsp; PR Newswire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1770278400.0
+    },
+    {
+      "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak40QTQteXRWbHpJSTlXSGZxT3BoanBfSklfdUw1blpLd1U5Z1pnQkFNOFo1TThJX253ejhabl9HdnlwQ1BISHVnX0tBTWlzLWlndTNLS3lBU21fU19lYkw0blNDdEZITGZpZWRRVEhLVDJjYzZkcF9PQzNRQlRHdXFOVmtxUHNKbVgyQ1FIWW5hb2lkR2ZjTGNfazVVMVdBUjdVUHlldnRqMFVQLTNrYWV2M1ljUzlHeElDMXNhbEZOdw?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "summary": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality &nbsp;&nbsp; AdExchanger",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Yotpo + acquires",
+      "published_ts": 1744095600.0
+    },
+    {
+      "title": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlBnWklEb2JHNFlJZjIwa1Uydm16VUlvNGhDOGdIY0NvZmNMVlRyTl9SZDBvVHpNTkpkQXZjXzdRQ3lPbmFRU19BTE9oZFdrbFVSNVNtcDI2WmZVanRWYlVCdk5zazJXOGVlcXMzSW5UMUItMzJQbmVsYUlSenVWSjVqbTE3QTBN?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 06 Jan 2025 08:00:00 GMT",
+      "summary": "Narvar Names Harish Mohan as President and Chief Revenue Officer to Boost Global Expansion &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + expansion",
+      "published_ts": 1736150400.0
+    },
+    {
+      "title": "Returns Tech Company Narvar Launches Pickup Service - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWZhTjNSUTdWVWdzS1Q0RHZGTjdoZW9Wc2J6cjBIRDhTSjB6ZVI1RDRVOEh3T0ZoSzdQQUpBRnp6c0FOVEltYXJIbk51b1V1SV9kM3RtVHBhaUtVTlJEOXNwbkxOaWdiSkhoUHJlZmhuWlZObTk0Z2N3a1lnbmFtM0R3dlZLZVlRVzVCMDAzVkFoY0M4?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Mon, 07 Mar 2022 08:00:00 GMT",
+      "summary": "Returns Tech Company Narvar Launches Pickup Service &nbsp;&nbsp; Business Insider",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + launches",
+      "published_ts": 1646640000.0
+    },
+    {
+      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
+      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Narvar + raises",
+      "published_ts": 1535526000.0
     }
   ],
   "stats": {
-    "total_fetched": 198,
-    "kept": 31,
-    "opportunities": 20,
-    "threats": 11,
+    "total_fetched": 266,
+    "kept": 39,
+    "opportunities": 19,
+    "threats": 20,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.6
+    "runtime_seconds": 7.9
   }
 }
