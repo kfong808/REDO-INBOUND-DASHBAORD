@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-18T20:58:16.898938+00:00",
+  "updated": "2026-11-19T02:15:32.410478+00:00",
   "items": [
+    {
+      "title": "Daydream Debuts AI Shopping Agent That Picks, Tries On and Buys Clothes for Users - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80NTlxeXQ3aUpFVTM3MU92XzNaWGxSbmdzb0ZTS29uMDB2V1E1OXotYklMNGtLR01ZSTZYelNNQmo2a2tQUTFqTEFka2xYUG1BbXNUbjNMTnZpcnhHWENkOHRyRi1sM2JEdkFwelNNZ094eHA4NkE?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Wed, 18 Nov 2026 22:05:00 GMT",
+      "summary": "Daydream Debuts AI Shopping Agent That Picks, Tries On and Buys Clothes for Users &nbsp;&nbsp; BigGo Finance",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1795039500.0
+    },
     {
       "title": "A Playbook for Marketers on Agentic Commerce - ADWEEK",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdE1oSEYwdV9lTUJzWGR2eFdpb1k1ZUNaZ1I1bFJZSGVReXhQSVB3cGtuTUI5LUxmR3kxZ0FtMFUxMFduUW15eWVTaDNKdWR5T21BVmwtLXNMaG1lU2hDMnVORlVtdmFuWVJCSUhzaGNoczRVN1VrUlRBMkJyS1dtenlBRQ?oc=5",
@@ -46,17 +57,6 @@
       "published_ts": 1794984838.0
     },
     {
-      "title": "How Retailers Can Prepare for AI Shopping Agents - E-Commerce Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG9leG1kc3kyYnk3ZXBteG1YZ2Znbm5kQkxCWWxsNWhOMC10UEFVTWdkZFpKZm9aR2pUSW5jbGttN0NWQnlESmRxTDRwUmg5S2c0OUtCbXBneUt5VTBBcE1HMHphQ1BWVGFTN21nLTRVb2ZlOUh6WWFrbmJmUlZKd09ISzdHODEwc01laDItRHhycE9xTm9uc1JHekM2Zw?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Tue, 17 Nov 2026 23:40:00 GMT",
-      "summary": "How Retailers Can Prepare for AI Shopping Agents &nbsp;&nbsp; E-Commerce Times",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794958800.0
-    },
-    {
       "title": "Klaviyo CMO Jamie Domenici Explains Its Edge in Agentic Commerce amid Holidays - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGV5RHFmZ2VfaUZ4QjlBTU53M1NuRWtGUDBOcERQOGtPbjdybnJnQ25XR2ZuLVFsMlRIdkc2V2o2b3c2MGFQZWR5ZmwtYkw5bEJzSWJzRW8wajFkSWo1T1BfR2ZLeDljaFdaX1NJb1U1UmlhT3Nrd2tMUmxQek14eE5GZTh1ZHN6eGc?oc=5",
       "source": "Google News: Klaviyo",
@@ -66,6 +66,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1794928017.0
+    },
+    {
+      "title": "Ping Identity’s Cayla Curtis on Retailers Building Consumer Trust in AI Shopping Agents: The RetailTouchPoints.com Q&A - Retail TouchPoints",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV0JkdzhxaVBLUDlXLUt5Z0s0WVF3c2dyUmhjZzhMOVZVeFdnWDdNeXJNckJpSVhjUVpQQjlMb3Y5WEoybV90SlltcUJaZnh1ZlBxU1VGaUU4OGphNGpuUHNPLXhEQ1QteUpGUm5KNWxUVHM2ejdzZjAzOS1UWEFLNEhoalBtcDFwZzBhaW5fOUNUWUtGRnowMVVqdWVzRUZpdVJfd2NMQWJ6akpUT3RBd3EzWkphc0szMm1KUUhFQ3hxbnBmTElRWVl5dkFDSGVFcXgwNlpXTmNNQ3BaeGQyUmJhNG4yUlN0d1VtRUM3clRIUWdtUkNIYUdR?oc=5",
+      "source": "Google News: AI shopping agent",
+      "published": "Tue, 17 Nov 2026 12:04:18 GMT",
+      "summary": "Ping Identity’s Cayla Curtis on Retailers Building Consumer Trust in AI Shopping Agents: The RetailTouchPoints.com Q&amp;A &nbsp;&nbsp; Retail TouchPoints",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794917058.0
     },
     {
       "title": "AI shopping agents fail often. Build your platform for it. - DevPro Journal",
@@ -200,15 +211,15 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
+      "published_ts": 1779260400.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -365,17 +376,6 @@
       "published_ts": 1786431600.0
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + acquires",
-      "published_ts": 1785913200.0
-    },
-    {
       "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -484,25 +484,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + raises",
       "published_ts": 1535526000.0
-    },
-    {
-      "title": "Postscript: A high school reunion and the struggle to fit in - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3V0dy1Mcmc3NzRGVjFZNmFCOWU3YkV6bDByb1F5QkkzOFdaRWRDVnpqWDRXX1c0YWR0M3BzNmFnZ3NqVTc3ck5ETnFXaEUtV2x1c1ZzbF9Ld1dMT2dPWklzX1FEYy1HTHpMWGFuRkZUeFFVa0JKNUR4cmNrS2ctb0JfR29yNmVxWXNoc1NNYUwzUVFhUHBqRXhNVVZOVFFvOUE?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Sun, 15 Oct 2017 07:00:00 GMT",
-      "summary": "Postscript: A high school reunion and the struggle to fit in &nbsp;&nbsp; MPR News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1508050800.0
     }
   ],
   "stats": {
     "total_fetched": 249,
-    "kept": 45,
-    "opportunities": 21,
-    "threats": 24,
+    "kept": 44,
+    "opportunities": 22,
+    "threats": 22,
     "classifier_mode": "keyword",
-    "runtime_seconds": 8.7
+    "runtime_seconds": 7.9
   }
 }
