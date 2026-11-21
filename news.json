@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:49:52.633300+00:00",
+  "updated": "2026-11-21T15:44:47.040903+00:00",
   "items": [
     {
       "title": "Closing the trust gap: How to properly implement AI shopping agents - SC Media",
@@ -24,26 +24,15 @@
       "published_ts": 1795206087.0
     },
     {
-      "title": "Reality Check: Agentic Commerce in Retail - Bain",
+      "title": "Reality Check: Agentic Commerce in Retail - Bain & Company",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzJuMGdDb1NUU3RybjVENG5rTHE2b1hMbmlEUWhrX3lHN2YxMzRnVnhVR1laakRTYkU0VVBlOFQ1Zl8xWjhvYnNNeE44aURNRG5maTNKZjhUS3BLY3ZZM05rbHZFMmdmZjVUWEo0TWVpRXZkelpyU0tVN2lMOFRxQzQ1SW1tSnRHS2xN?oc=5",
       "source": "Google News: agentic commerce",
       "published": "Fri, 20 Nov 2026 19:08:48 GMT",
-      "summary": "Reality Check: Agentic Commerce in Retail &nbsp;&nbsp; Bain",
+      "summary": "Reality Check: Agentic Commerce in Retail &nbsp;&nbsp; Bain & Company",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1795201728.0
-    },
-    {
-      "title": "New Agentic Commerce Guide Arrives as 22% of AI Agent Users Report Blocked Purchases - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnFTcVNBeHhVZHNFalNwUW91UTJ1TFA4QTVFS2NueExwUDBtaC1WSnJIcHhqLXNaV0pNQVlpdDlTSkdqZ2hHdzMwNWsyUlJ0dG1Va3lRSnlVTTNUMzNYUjFrSzVFLXlrTWRDYjJRS1kweDlPcm9fNHA3RXZlSFliQ0dmUUIwSlp0M2Z6VGVHbV9wYk02dzQ4OW44U2hldw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 20 Nov 2026 17:30:00 GMT",
-      "summary": "New Agentic Commerce Guide Arrives as 22% of AI Agent Users Report Blocked Purchases &nbsp;&nbsp; Yahoo Finance",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1795195800.0
     },
     {
       "title": "AI shopping agent drives 40% larger baskets, Walmart reveals - just-food.com",
@@ -57,15 +46,15 @@
       "published_ts": 1795182252.0
     },
     {
-      "title": "Agentic Commerce: A New Era for Consumer Sectors - Advisor Perspectives",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTdYazgtOTdnbmx0aUtiWGhGY2NPNWNzdTdXOVVLdi02VjJuM1JsSy1ETGZZdU9zRG1xdkQzMzIzQmZLeDJlNWcyY2phTmNOZnFzNlpvRUtNWWx3SW1xU0hrWnYzcXFZQU5pd3BwMUF6eUFQYjNSR040aEFrNlI1ZVR6TW1GS2czTDUzSl9CLWpzU3hFdnBNcXF1UlZ3T3Q4bklN?oc=5",
+      "title": "AWS Marketplace adds bevy of agentic commerce agents, removes approval friction for purchases - Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcU1jV1hiZHdFUVJlUmU3QWI4aktmZ0NlWkdWOUtqaU1FMmRwSnViLVZETV9jS1FNVl9DV2xvNlQ4TDdFT3JINHFMSXlJdXlDWFA3M1c2c2N3TWRoXzJVMVdsa1c3bnhmaVRnV3pSRFJGSUoyVmtGeHc1bzBTcDRvdzVncUVDTjJUdmo4OEhCUVdPMDJwYVJIaER1aUFjUWVnRzdVSWR5eVdVX2Q4SDFtUGtJZDAxOUVUY1VydXFUeUlEc0JINlZiTDRR?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Fri, 20 Nov 2026 11:55:19 GMT",
-      "summary": "Agentic Commerce: A New Era for Consumer Sectors &nbsp;&nbsp; Advisor Perspectives",
+      "published": "Thu, 19 Nov 2026 21:53:30 GMT",
+      "summary": "AWS Marketplace adds bevy of agentic commerce agents, removes approval friction for purchases &nbsp;&nbsp; Constellation Research",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1795175719.0
+      "published_ts": 1795125210.0
     },
     {
       "title": "Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop? - Forbes",
@@ -77,6 +66,17 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1795102972.0
+    },
+    {
+      "title": "Brands Must Sharpen Their Storytelling For Agentic Commerce - ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1V5UGc5eFpiYUFvMlNRdUZWS1RHMmFma3UxVlpyTnZQdEVvYmJWeDZWWGZXZFJ2Y21waUR5cXJUaVFtM1loU0c1dmZ2ZVVSUTBoOHp2RG4wUk15LUNSQ1FUbjg4bVltcW9CdWlQUGhJT2ViRE45Zkg4NV9aNEwxVnhDMWhXcVhmeTN5UnFkd0FBandETW5R?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 19 Nov 2026 14:24:12 GMT",
+      "summary": "Brands Must Sharpen Their Storytelling For Agentic Commerce &nbsp;&nbsp; ADWEEK",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1795098252.0
     },
     {
       "title": "In Graphic Detail: Welcome to the agentic commerce quarter - Modern Retail",
@@ -255,6 +255,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Rawlings Sporting Goods' new backer, Bending Spoons bets on Mailchimp - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWptYmNhcDVBaGZfdUVZOXhTX0xFQTl1WUZnTDhfSHBZb0RvYnhlb1F2ZGVCRHZldTJIejhTX290UWNQZ2F3bnZVTEZyMTFFZHVqOFRwVnBiVWpXVlVaVXBTR3pieTRyVndPejhGbkc2M05FNXEwX2lGaWtOalZfUFpSSFVsV0QtdjZXVy1PR1haTjB2c0dVZHVFT3ZTZGRYZkNWT0M0Wl94cWs?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Sat, 21 Nov 2026 12:46:42 GMT",
+      "summary": "Rawlings Sporting Goods' new backer, Bending Spoons bets on Mailchimp &nbsp;&nbsp; Axios",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1795265202.0
+    },
+    {
       "title": "Omnisend Launches Instagram-to-email Automation and Gamified Popups to Help Merchants Prepare for the Holiday Season - CustomerThink",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjhaZjdSaVMyNVVxRFFPZXIwcDg4enVKUXF2NFkxYm9MMXBPUi1KN0xsSWNWSU1zSFROckE1ZW13Q3l6MXlSTmpfdTQ0dVltRHpicEVfNDZuSkRqX0FYbUNEV3A3X05uM00wNktkcVFJZnA1MERNT1FENkxTR21FcXBwM0FCUkc0aTd6TGVaUnNMbXlnRG1jT3RDZlNDZGQ3TV9tc2JrYjFPR2NSbDRtMnV0WjAxOVZuSHlfU0RuX2ZVUzNlblZfNGJzMFZja2JiYmVZd2ZrYnRYYUU?oc=5",
       "source": "Google News: Omnisend",
@@ -299,17 +310,6 @@
       "published_ts": 1795196548.0
     },
     {
-      "title": "TD Cowen raises Klaviyo stock price target on AI growth potential - Investing.com Canada",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHVlaDhtZzQ2NzdEakpEcjJhcjRoSmNrMmN3MXpscTAzVUZlQVBNa0pacGxVczZDM01PbkI4b2JWOGxrLVprdGExT29VUHcwM2daLUJqUGVIQTBhWTA0ZTY0dnpRUGhma3RCQkVrbl9GQ2tyXzVPWWt1RkpTUGRNOTZuQndiSkhiNWhwWFdCdUxIU05iVzlUSk10NUhwQkx1Njc4UENObTBYd3R0UExMRlh6ZkpxbjJoYmxEcXJlX25KNmN5?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Fri, 20 Nov 2026 14:52:36 GMT",
-      "summary": "TD Cowen raises Klaviyo stock price target on AI growth potential &nbsp;&nbsp; Investing.com Canada",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Klaviyo + raises",
-      "published_ts": 1795186356.0
-    },
-    {
       "title": "TD Cowen maintains Klaviyo at Buy, raises price target to $30 from $26 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV3dCUFg4a1FoZWVlMmhFUzZFcUhwTVFEN1pLeGRMb1hEZUhCdm03Q1lMb0ZnUW1GSU5qMGExNUdOc2VXVDVUT2o0YUhZcDdzYkM1OWpzT1gtaTVWMVpUczNBZC1TWDhIejBoUHRMdGxtWW5PQ1l0T2VTb3dLUG4wWjIzMnV2SDYxckdRbGVhUVRybHE0RHJsWHdLWkxidlVkLWMtWVV3R05nX1J3LURhaGJ3QWxNMkdZV2t0OGdUQTdyZllLTG10WQ?oc=5",
       "source": "Google News: Klaviyo",
@@ -319,17 +319,6 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
       "published_ts": 1795185948.0
-    },
-    {
-      "title": "Yotpo Launches Sampling to Help Brands Bring New Products to Market With Reviews Already in Place - mykxlg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPaFNDVFhZWnh0ZEZ1cWxmU0E2dXpVNG1kQzB4aE5Gb181Tm9FUTcwa3VEcHZrbmFxYzVFTkNtVEx5SnJiM0xkcGNyUU9ncTh3X0ZYa3RyVGR4aXlkV0plRkVSRlFXaXRfMjctSDVYM3V3ZjliU1FvOHJ3TjhGc1pabVNybjd4QjgyRXdTMG1sSHpBU1ZqY1A5UXFZSXlSRTRnQ0pub1hmX0tiNFF2M1Y5MFdlUWZEb3JkUlpRWDJQbHZzN0FjYjc3NHNDNFMxVzZjOHk0NEp3WklxVUxxajBCQTE4emVDQVpRWnhZeHRzSHc0RTBONG9JMTN1NjhPV3puQm01ZVpOMkdjYk1rdlJDMEFOVjZZSUVjUkYzV0FEQS0?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Thu, 19 Nov 2026 23:40:02 GMT",
-      "summary": "Yotpo Launches Sampling to Help Brands Bring New Products to Market With Reviews Already in Place &nbsp;&nbsp; mykxlg.com",
-      "classification": "threat",
-      "confidence": "high",
-      "reasoning": "Yotpo + launches, new product",
-      "published_ts": 1795131602.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -363,6 +352,17 @@
       "confidence": "medium",
       "reasoning": "Attentive + acquires",
       "published_ts": 1794470400.0
+    },
+    {
+      "title": "Attentive's New CEO Eric Miao Sets New Vision to Transform How Brands Market to Consumers - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMG83dW9ITEctRG1CQzRrQWViYkwtUUZmelR0Z0dJQnhMUlVGTnNXMGlCbXFIeTQ4aFg1WHNRXzZzVUprbXRWV3FLR0VpcDdVV0p0ZXh6Y2tNMnpRT184MERFX2phcmFaMHlqdHg3ZGZNVHNZdXluRks4SkxRaHo5ZEI2eU4tS2ExZkwtR2dtZVYxallDQzlMeXBEaW56dm83RVRndHJzc1FRUW5PMnhkbVhmdXlLVFk4YUtxMnRxWjlmOVZ2SlNkRE42VkptLW9KcEs0UzhTNUFZOGtWckE?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "summary": "Attentive's New CEO Eric Miao Sets New Vision to Transform How Brands Market to Consumers &nbsp;&nbsp; Business Wire",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1794211200.0
     },
     {
       "title": "This Week in Retail: Zendaya × On Pop-Ups, Omnisend Tracks Holiday Spending, Dwyane Wade Joins REVOLVE, Lacoste’s Foundation Activations, Golden Goose’s Padel Launch, and AMIRI’s Barcelona Wardrobe - RETAILBOSS | Substack",
@@ -409,17 +409,6 @@
       "published_ts": 1791442800.0
     },
     {
-      "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWs1TC1pb3J5NFQ4VTlqcXJLdm1uekp6YURUZmF0N0tNb2NwSFFyYjQwYWgyWnd0VlRNRHg0NFJDSm0zdllNVWdNaTJzSXRzTmIyNlA3NFJPWmMxOWhicmp5N1Y5V3laUkhObURRSmpMeWdvZ3hNcUVvRF80RzNaRzBWUlFwVmRPeWRqZEdEaHU?oc=5",
-      "source": "Google News: Yotpo",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "summary": "Learn how to rank in ChatGPT with Yotpo Discover today &nbsp;&nbsp; London Business News",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Yotpo",
-      "published_ts": 1787295600.0
-    },
-    {
       "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWt3MVdBTU1tem85eHNTaVo4c1VhYnN1cmtMRkNEUGQ2eE9Ud2NtcVJud0Nlcm1paEVkLXpadUJPR2sydjdUXzBPbjVJVEJYa0VLXzNlbERqZnFnLWFmdVVEV0tDVXpLZ0hJSFZLNFRoMXBjUjkyY1hxRllDU1BvSV9QczVfSERRSjA2MDdXcHpGOVZKTXZqa0xMeEM3YXZRNWI0?oc=5",
       "source": "Google News: Loop Returns",
@@ -453,17 +442,6 @@
       "published_ts": 1782802800.0
     },
     {
-      "title": "Postscript: Mark Singer - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZcGpGUW4zU0RKSV9ZbmpSSFdybFFEdG1YdWxIakNzTHpPQTFRaUJHXzQzLUxzTlBJQ0lVZHowU1dhWEFHclJLZS11X1J4UWVMNTlMeTlDaWN3Z2xNWDBlSW1ZUHlEa0RwU1dHc0NTb1BLaGVZOC1j?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Postscript: Mark Singer &nbsp;&nbsp; The New Yorker",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1782716400.0
-    },
-    {
       "title": "Reward or threat? Omnisend offers quarterly raises for employees who use AI to drive business impact—and says those who don’t will get left behind - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1hOVXJRczdUYnE3Y0xMWkVjR2UwbWFtY29DQTZWdDBBNElMcDVCeHg0YlRVRXZjM1U2bGJHTzZMaTRYTXR3OEJ6T0h5cFlFbTVrZTdpQktRbkxtVmJQVEJvRUx6bG1aTmU3bi1hSHFHTUJqbVJEVllEbWdHeXMtaGpUYkItNjZ4Z0g4OUJYNERsNjdnZmtZNVhQU2xfX1lhbV9icjJR?oc=5",
       "source": "Google News: Omnisend",
@@ -484,6 +462,28 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1778569200.0
+    },
+    {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1772179200.0
+    },
+    {
+      "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Omnisend",
+      "published_ts": 1769673600.0
     },
     {
       "title": "Yotpo Acquires The CDP Coho AI, Solidifying Its Pitch For Retention Over Incrementality - AdExchanger",
@@ -517,25 +517,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
-    "total_fetched": 248,
-    "kept": 48,
+    "total_fetched": 249,
+    "kept": 47,
     "opportunities": 23,
-    "threats": 25,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 7.3
+    "runtime_seconds": 9.0
   }
 }
