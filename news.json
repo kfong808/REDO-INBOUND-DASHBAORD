@@ -1,28 +1,6 @@
 {
-  "updated": "2026-11-24T11:46:01.277441+00:00",
+  "updated": "2026-11-24T21:41:07.887742+00:00",
   "items": [
-    {
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "source": "Hacker News",
-      "published": "Tue, 24 Nov 2026 02:27:02 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: post-purchase",
-      "published_ts": 1795487222.0
-    },
-    {
-      "title": "PayPal Sets Virtual Card Rules for Agentic Commerce - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlRRY0hMWWVpT1pxNFBzVmV0Q0QxWXNDQjZDVlI2dHhJUnczQ3VNcDlhSDI3Z1NQRGVtOEZoWGxDV0pKcVd3YVNIa3ozSEFHOWQtN2JYQmxuOTJJVG5yd29zTzlGQlFjNW10bGRrRFVOMzROZ3g0S19TSWtQY3RBUjJ4STZnYjB2OTZsTHg4el9YMktpMVU3VG04MVpLdXN3QTluTUJYR2J1SXlteVE?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Mon, 23 Nov 2026 20:41:31 GMT",
-      "summary": "PayPal Sets Virtual Card Rules for Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1795466491.0
-    },
     {
       "title": "EU Targets AI Shopping Agents in Digital Consumer Overhaul - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFjR2NyN1JHczZHeUNfdUZuU1c0V3RjemtNWWNyZnpmS1hheFpYWTFmcUk4MDlEaE5RVUg4Z0RDdkRWQU9WRlFodzdYYTBZVlZjUU93R2prZ3VlY2MyTUYteGwyUkd1M3VMdzYtWWJBX29XcVZxeVdYbnRxVEttSWZ0aXh1SVJ0YVg2aEhXeGJ1U3F4UXBXUkhfMHV6NFdtWDRNOXRwMEVTMjRvNmNmT2swOUxwREE?oc=5",
@@ -33,17 +11,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1795465839.0
-    },
-    {
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "url": "https://arm.jonpalmisc.com/",
-      "source": "Hacker News",
-      "published": "Mon, 23 Nov 2026 19:17:55 +0000",
-      "summary": "Comments",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: discontinued",
-      "published_ts": 1795461475.0
     },
     {
       "title": "Your AI shopping agent screws up? The bank says that’s your problem - PCWorld",
@@ -57,26 +24,59 @@
       "published_ts": 1795439044.0
     },
     {
-      "title": "AI Shopping Agents: 5 Must-See Stats Before Black Friday Hits - CX Today",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51QnV5V05wNThWNTVfZ044MlF2NWVWc1lKaURlcy1zbm1LYVZ2Y2pFdlRMSHl4UmstX01oN3FES0d1M1VrdVBzTU15Sm01WDEyMk9UcTg1UmhSWU1RdVlhQXI4RXBFNTFfbXkzVjBDeEFiMU1KaFZtcXZRc1pNUXc?oc=5",
-      "source": "Google News: AI shopping agent",
-      "published": "Mon, 23 Nov 2026 12:51:02 GMT",
-      "summary": "AI Shopping Agents: 5 Must-See Stats Before Black Friday Hits &nbsp;&nbsp; CX Today",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1795438262.0
-    },
-    {
-      "title": "Agentic Commerce is Coming for Your Bank's Balance Sheet. Is Your Fraud Strategy Ready? - The Financial Brand",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVljZ210ejJoaHE1em00T3hYOU9Ucl9jX2tTVGtiNFIyekN5dkpRZ2VQNjgtcVNLTGcxVVNnVkpGS0hKcGc1TmktUV9oRjQ3QUh0RXJmN0FYbUI5bkFGeURmRXllVjBvaWlUNDh5UWJHanBERnI3ekgtVFFoREFuSkNPQlA2eFpqV3JEVV8xdGh6NlZlUHpkVHZnLWNOdTlYSXpvU2FuQTcxTktMQlVEWG1KcXh5QWVHUHQzLU9wT0VsVXdId3RCNlZmQXBocExqVDJZZUlvcnVFUQ?oc=5",
+      "title": "Agentic Commerce Accountability: Who Pays When an AI Agent Buys Wrong - FinanceX Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZklYa0hjakRMUzlOaWltOHdNbEdjUEJWcThZWjlSYXRKcVFCOG1HaW4zV3ZpU3R0VTF0THpTYkR5eGRraHlwcjIxSlo0UVg4R2IwUUhWdUpXekhaNU5ERjhvaWxxS3U0MXdLTXh1QWtnZEtZRmZ0OXlkT1dyTXlRODBubzFPYlBrUlo3M1B0T2trMk9qMS1UOHh5dU5MUVhyUXljN2h1RWdfZw?oc=5",
       "source": "Google News: agentic commerce",
-      "published": "Mon, 23 Nov 2026 05:15:46 GMT",
-      "summary": "Agentic Commerce is Coming for Your Bank's Balance Sheet. Is Your Fraud Strategy Ready? &nbsp;&nbsp; The Financial Brand",
+      "published": "Mon, 23 Nov 2026 08:24:42 GMT",
+      "summary": "Agentic Commerce Accountability: Who Pays When an AI Agent Buys Wrong &nbsp;&nbsp; FinanceX Magazine",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
-      "published_ts": 1795410946.0
+      "published_ts": 1795422282.0
+    },
+    {
+      "title": "mEinstein Outlines Framework for Evaluating Consumer Intent in Agentic Commerce - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZTc2dldhMDRNcjhTdHA3Y3NMNW1EYW9YYk5VOXMwNE9URmx0OExNeFhLWDRVYXlqQ283VVc2Zm5OMjhTcW1EMURUZGgxajVMdzZzVFBTdDZrTENPYlZXbW5GSjRjU2FDZ0hRWERuNGZsdXZYZzhRb0hqUUJMNURIVktWcTVsY2l6ZEhlUmRaQlNHNzFhYzdtdGlSM2NlLW5RS2FkZEp6U3Zuc3dvRWZJUTIxOWp4LVU3Sk1HckFFNkN6TzVn?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Sun, 22 Nov 2026 00:30:00 GMT",
+      "summary": "mEinstein Outlines Framework for Evaluating Consumer Intent in Agentic Commerce &nbsp;&nbsp; EIN Presswire",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1795307400.0
+    },
+    {
+      "title": "Adyen and Klarna Bring Payment Options Beyond Cards to AI Shopping - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnhpRG9tenBKM2JvbFpNbEs5M1kzRVdfeVFkdndzV0liNzVWcmh3N0J3eGxhVWZVUjVqUFhUbUNMZjItMXp5dzNEVWRpdVpNNzB4LTJyczJGazdIUWxvT0ZWMnRkcktBcXZUdHJkQjJidlBMcTFSN0V5VTdqVjhoVlY4c1M3djZaV3F5OWVubHNlRmoxWXluT3BnTExfM0N4YzVxajZzQlpDSHFBcG1qTmtaV1EzdU9GeVhZUktn?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 20 Nov 2026 20:21:27 GMT",
+      "summary": "Adyen and Klarna Bring Payment Options Beyond Cards to AI Shopping &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1795206087.0
+    },
+    {
+      "title": "Reality Check: Agentic Commerce in Retail - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzJuMGdDb1NUU3RybjVENG5rTHE2b1hMbmlEUWhrX3lHN2YxMzRnVnhVR1laakRTYkU0VVBlOFQ1Zl8xWjhvYnNNeE44aURNRG5maTNKZjhUS3BLY3ZZM05rbHZFMmdmZjVUWEo0TWVpRXZkelpyU0tVN2lMOFRxQzQ1SW1tSnRHS2xN?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Fri, 20 Nov 2026 19:08:48 GMT",
+      "summary": "Reality Check: Agentic Commerce in Retail &nbsp;&nbsp; Bain & Company",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1795201728.0
+    },
+    {
+      "title": "AWS Marketplace adds bevy of agentic commerce agents, removes approval friction for purchases - Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcU1jV1hiZHdFUVJlUmU3QWI4aktmZ0NlWkdWOUtqaU1FMmRwSnViLVZETV9jS1FNVl9DV2xvNlQ4TDdFT3JINHFMSXlJdXlDWFA3M1c2c2N3TWRoXzJVMVdsa1c3bnhmaVRnV3pSRFJGSUoyVmtGeHc1bzBTcDRvdzVncUVDTjJUdmo4OEhCUVdPMDJwYVJIaER1aUFjUWVnRzdVSWR5eVdVX2Q4SDFtUGtJZDAxOUVUY1VydXFUeUlEc0JINlZiTDRR?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Thu, 19 Nov 2026 21:53:30 GMT",
+      "summary": "AWS Marketplace adds bevy of agentic commerce agents, removes approval friction for purchases &nbsp;&nbsp; Constellation Research",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1795125210.0
     },
     {
       "title": "Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop? - Forbes",
@@ -90,28 +90,6 @@
       "published_ts": 1795102972.0
     },
     {
-      "title": "In Graphic Detail: Welcome to the agentic commerce quarter - Digiday",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbno5STNCcWViUUMxcHVYbDdxamd1NHRUWEZGRWphU0syS1lhMzNEZHlBWGcyZWFhU19lbERXYjlkVE10SkpEaDNKU2xvUHRpQTUySU5UcFNhMWdpdnJYZDJ5UzUtcW4tUXp5Nnc2TE9TZmFraF92UmhCMmtHSG54M3kxSzZQTmVLWkRxVTRhYkVSZw?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Thu, 19 Nov 2026 05:06:38 GMT",
-      "summary": "In Graphic Detail: Welcome to the agentic commerce quarter &nbsp;&nbsp; Digiday",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1795064798.0
-    },
-    {
-      "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
-      "url": "https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "source": "Modern Retail",
-      "published": "Thu, 19 Nov 2026 05:00:00 +0000",
-      "summary": "OpenAI, Google, Amazon and Walmart are betting on agent-led holiday shopping. Modern Retail sister site Digiday charts how far it still has to go.",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1795064400.0
-    },
-    {
       "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
       "source": "Google News: AI shopping agent",
@@ -121,17 +99,6 @@
       "confidence": "medium",
       "reasoning": "Matched: ai shopping",
       "published_ts": 1794556800.0
-    },
-    {
-      "title": "New Ecommerce Tools: November 11, 2026",
-      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-11-2026",
-      "source": "Practical Ecommerce",
-      "published": "Wed, 11 Nov 2026 15:13:54 +0000",
-      "summary": "This week: drone delivery, AI shopping agents, social commerce, WhatsApp marketing, multicurrency seller payouts, order management, consent compliance, and more. The post New Ecommerce Tools: November 11, 2026 appeared first on Practical Ecommerce .",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1794410034.0
     },
     {
       "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
@@ -156,17 +123,6 @@
       "published_ts": 1793865600.0
     },
     {
-      "title": "New Ecommerce Tools: November 4, 2026",
-      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-4-2026",
-      "source": "Practical Ecommerce",
-      "published": "Wed, 04 Nov 2026 16:50:22 +0000",
-      "summary": "New services this week include AI agents, agentic commerce, B2B payments, live commerce, programmatic ads, product discovery, multichannel marketing, reviews, loyalty plans, and more. The post New Ecommerce Tools: November 4, 2026 appeared first on Practical Ecommerce .",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1793811022.0
-    },
-    {
       "title": "Who wins when AI does the shopping? New evidence on agentic commerce - McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWENYYThmT1lvWlNUT25udnNwSWNJLWtEaE42ZjdWalpQZWhhY25yQV92a0VqNW1rd1RaNDF5bW9PTERqYnVUb3Y3NkdwZWJ4bXdUQ2d4dm1zOTNTUkVBTTFqSHF0SmdrTENmUUdkQXJIMWRNT3Z6UU5uMTg2ZXJyTnRsRUo5b2VFWmRqVFJSenhERlpzbF92UDY2czRXdjZ4c2RYai1NRm8yYnNNeG1YZUhYUXNsZjVoNTFhOVRWbGJ4ZklYOWppOFJkeVZnYllLdEJjZlRZQklvOTBSRHc?oc=5",
       "source": "Google News: agentic commerce",
@@ -178,17 +134,6 @@
       "published_ts": 1793170800.0
     },
     {
-      "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Zk05c0Y5cjVYVUYyVTV3ZGs3M0JzX29FN2lLVVZ2YTVMNTc1VHZ3aTU4LXVxNlRUS29SMEd4VGpTNGFaaEpRRzRHdFlDc0lycVkxZE5CeDc2OGRycUR2Ti1xT01fWE5EYWZuREtyZXFYSnprRnhGTmlB?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce &nbsp;&nbsp; Boston Consulting Group",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1792566000.0
-    },
-    {
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
@@ -198,17 +143,6 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1792479600.0
-    },
-    {
-      "title": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce - American Express",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2NYaktManBjYzl3a2xyQWM2V29JN2t6a0xwVWQtOFRjNnVkMHFHOUFQay1mT0lLMkc4LU5XV1ZZaUY1SUx5Z0xWZWJ4MnBLS1ZkOUxXWS01YUtJZ0xHbDJsYjVaWHU2d3BnV1ByWTZ5VW9HNDFyZWU3Zzg3ZmhfZ0JTTjRaWGNEWnZXV3ZicjQ0WDhsSlB5bHVOejctNlZYZUMyQng4V2NDZXcyWjRyT1U5cEVpNzg?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "summary": "American Express Publishes Intent Intelligence Framework for Trusted Agentic Commerce &nbsp;&nbsp; American Express",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: agentic commerce",
-      "published_ts": 1791874800.0
     },
     {
       "title": "Post-Purchase Experience: Best Practices for Ecommerce - Salesforce",
@@ -255,15 +189,15 @@
       "published_ts": 1782111600.0
     },
     {
-      "title": "Agentic Post-Purchase Services - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WY3hSeEY4TVVJWWZJNUZ5cWZ2TTllNHhZOEZESVlHZnNpc2JTUjNST3VZVktTWmxWQzBtREc3anhoeHVhSGVlMTRmY2NxZGxWaXdqaU9qLVpIOEpWMWtiR254cXFUc19OV2c?oc=5",
+      "title": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDVEa1YwNUdFWmMxQjF0N19KYUZzai1xaU5VX3ZfUmlZQUJacE85YVBRUVJ1MVlzR1JOOWZsczNFM3B1Y3l6TlhHeXF6WVJFS1RRTzNBT3l0RWFrVWRCaHBxOUdkWGNiUUF4MktaRmJJd0ZubGE1OFBUZzlLRVI1VEVIMEtPT2RZSjNWMDdzM0VGaUxoZk5SWUZkVDRMNmN4OU5rTGpXVjJrZXlZMUQ3VE5GWjlfbkktUzRDeThINE1TZW5UNm9oUGVuTmc2Rk5OT3ZDOFlQN1F5V2JNVWZCS2M1LVZRUQ?oc=5",
       "source": "Google News: post-purchase ecommerce",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Agentic Post-Purchase Services &nbsp;&nbsp; Trend Hunter",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "CWILL Showcases Unified Post-Purchase Retention Orchestration at The Lead Summit 2026 New York &nbsp;&nbsp; Business Wire",
       "classification": "opportunity",
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
-      "published_ts": 1773730800.0
+      "published_ts": 1779260400.0
     },
     {
       "title": "Authentic Brands to use Seel’s agentic AI for post-purchase processes - Digital Commerce 360",
@@ -288,6 +222,17 @@
       "published_ts": 1768464000.0
     },
     {
+      "title": "Attentive MCP Announced Launch on Snowflake Marketplace - MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY01FcW5XbHdvSWY3dS1uWXd3N2FnTnhjTHRYZ2JRbEVMTWF2SWhHNFVkNTBJRDFhUndlNkYwUGVxLVFXWHR1UWVoTkVsdkw0UkhtR0JERHNEUzhXSUJNNFEyeXdzQnpCWFVZSGc5Y0F3ZGVwMTU1WjAzYTcydnBjWWYtR3ktOE1yc0J0RQ?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 24 Nov 2026 13:36:37 GMT",
+      "summary": "Attentive MCP Announced Launch on Snowflake Marketplace &nbsp;&nbsp; MarTech Cube",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1795527397.0
+    },
+    {
       "title": "Attentive Announces Launch of Attentive Model Context Protocol on Snowflake Marketplace - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2VrbU9wUlBPcEVxb0VJN2poX1E3S2w1dVhJMWVpMnNhalB5N3dLc2Rkc09KM1ZRX2pZVUxKYnZDUlZ1RVRyYmQ2UFhCX0lNS1pldWE0bm03YkJqdHNRTW5QQ1lPRnYtSy1RZ0ZYaGRfdFVoU3ZSbmw1RVVvWVJEZDVmeFg4UUYwUWUwYUNraDVVdWtxTTFiSUhXWnhtRW9SVGpiQUFkUFJQSUtsOFc2aFVUMF9ZOFdqMmhvdF9kYXNZQkdCUDVkZEpsU2dwWTZwQkVYRWhVSQ?oc=5",
       "source": "Google News: Attentive",
@@ -297,17 +242,6 @@
       "confidence": "low",
       "reasoning": "Mentions Attentive",
       "published_ts": 1795458985.0
-    },
-    {
-      "title": "Attentive MCP Launches on Snowflake Marketplace - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGZsUW45cDF6LVROS19MVFpiaVcwNXRVWVdXNjVpWWVmS2V5RFZNa1pRWG5MV1ZOZDBJbm9RVm0zUWg3WGxIRTd6ZEVKMmRnSUl0UU5TZXE3VllYMldJRFF3RmdSVFdxM1BaUjRJdkd2NGszN0tqalJleWl1dFJ0SmpkaVdjcWZNUkVPd3pjc0FfeUo4ajJRSm1LdzRzc2VHNlFWYkFaTk1Fd1kx?oc=5",
-      "source": "Google News: Attentive",
-      "published": "Mon, 23 Nov 2026 14:00:00 GMT",
-      "summary": "Attentive MCP Launches on Snowflake Marketplace &nbsp;&nbsp; Yahoo Finance",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Attentive + launches",
-      "published_ts": 1795442400.0
     },
     {
       "title": "THE POSTSCRIPT: Thanksgiving Recipe - news-daily.com",
@@ -332,17 +266,6 @@
       "published_ts": 1795343666.0
     },
     {
-      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
-      "source": "Google News: Klaviyo",
-      "published": "Sat, 21 Nov 2026 22:16:57 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Klaviyo",
-      "published_ts": 1795299417.0
-    },
-    {
       "title": "Omnisend Launches Instagram-to-email Automation and Gamified Popups to Help Merchants Prepare for the Holiday Season - CustomerThink",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjhaZjdSaVMyNVVxRFFPZXIwcDg4enVKUXF2NFkxYm9MMXBPUi1KN0xsSWNWSU1zSFROckE1ZW13Q3l6MXlSTmpfdTQ0dVltRHpicEVfNDZuSkRqX0FYbUNEV3A3X05uM00wNktkcVFJZnA1MERNT1FENkxTR21FcXBwM0FCUkc0aTd6TGVaUnNMbXlnRG1jT3RDZlNDZGQ3TV9tc2JrYjFPR2NSbDRtMnV0WjAxOVZuSHlfU0RuX2ZVUzNlblZfNGJzMFZja2JiYmVZd2ZrYnRYYUU?oc=5",
       "source": "Google News: Omnisend",
@@ -352,6 +275,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + launches",
       "published_ts": 1795222253.0
+    },
+    {
+      "title": "TD Cowen raises Klaviyo stock price target on AI growth potential - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVBrZW5rOXo3WHdhcE1uUU9NLXE0aUFVeXBWR2pjaXRzOGJ2cHVGd1BvVV9wcHQ5TXpMbGV2Q2x6SUd4RzVUREFWWUpCZ2NxWS0yeG96MFVmYW5pOGNObDMtaTc0UW1TWFBZQmcxaVcwTkxmeThfQm4tYjNfVVUtWXZiM0kyTVM4QVNyLWxvOEtJX0hESjZNMDhaLWFwbzdKUGhQYnVkbUNrLVd6NjhjbXFWUi1ZMHRaMVpGYWZXc3Y0cnM?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Fri, 20 Nov 2026 14:57:12 GMT",
+      "summary": "TD Cowen raises Klaviyo stock price target on AI growth potential &nbsp;&nbsp; Investing.com",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + raises",
+      "published_ts": 1795186632.0
     },
     {
       "title": "TD Cowen maintains Klaviyo at Buy, raises price target to $30 from $26 - TradingView",
@@ -365,15 +299,15 @@
       "published_ts": 1795185948.0
     },
     {
-      "title": "Italy's Bending Spoons to buy Mailchimp for €3.35bn - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmtXV083T3M1Mk80bjgxSlJVWjJQQUVsbTdEY2YtbVVmb0dnZWFCWEt3QjYwdXJYLUNBNG1SSjhDbnBNLXhZSDFHWFpJejEyamJpbjJpNE5OVk5oaVROblZDNjJwOVRQdTJTdU51Z05EbDhmWjVmUUJlODEzQzc1NzVweUFjdVhTemFmdUIxLTdUVG1IVTVFQmJpeDNnajl0?oc=5",
-      "source": "Google News: Mailchimp",
-      "published": "Fri, 20 Nov 2026 11:39:14 GMT",
-      "summary": "Italy's Bending Spoons to buy Mailchimp for €3.35bn &nbsp;&nbsp; Euronews",
+      "title": "Attentive.ai acquires Takeoff Monkey to expand AI landscaping takeoffs - Landscape Management",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2J4Vkt1eFBqSC1xaExkYl9WOTYzUGVEOUZiQW5hckNkS0YtREtYRWN0djVvbGpvNkx1Rlk0U2VkR3ZEemZjdEk1a0YzYXU2QmdfRnZPTHpzZ0Mta3NPeEtTaDFVYnpaU09DLXkyd3JfaFozMzlzbHc1b0RLLV9XSXRnVTdVaHIzWDh5bTdqbkN2cGh6Z1RJRy15dGZLMjIwT2NPbTllb1U3TTA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 17 Nov 2026 16:58:33 GMT",
+      "summary": "Attentive.ai acquires Takeoff Monkey to expand AI landscaping takeoffs &nbsp;&nbsp; Landscape Management",
       "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Mailchimp",
-      "published_ts": 1795174754.0
+      "confidence": "medium",
+      "reasoning": "Attentive + acquires",
+      "published_ts": 1794934713.0
     },
     {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
@@ -431,15 +365,15 @@
       "published_ts": 1792135681.0
     },
     {
-      "title": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmF4VGo1N2cxY2dzclRfaGo2ZFNqVkJGOTdEOTNuSmZWOGlzOV9yUGk3cHhIeDNwbVJDMW1IVHhra3VNY3dYNkM3ZmtKd2RGM0VBSUJ6Zklwa3FtM1JJMC1zMHNhZGhneGVsSk13NXR1NUNxTFA5d092bXo1NHpMQjZacEhyVHJIeTlSVHNPck9oZUdRUHV6Rzdpek1iX056aDhheXlYaXFMbFU?oc=5",
-      "source": "Google News: ShipStation",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "summary": "ShipStation® Launches Ship with Walmart, Bringing Discounted Rates and Seller Protections Directly In the Platform &nbsp;&nbsp; Yahoo Finance",
+      "title": "Learn how to rank in ChatGPT with Yotpo Discover today - London Business News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWs1TC1pb3J5NFQ4VTlqcXJLdm1uekp6YURUZmF0N0tNb2NwSFFyYjQwYWgyWnd0VlRNRHg0NFJDSm0zdllNVWdNaTJzSXRzTmIyNlA3NFJPWmMxOWhicmp5N1Y5V3laUkhObURRSmpMeWdvZ3hNcUVvRF80RzNaRzBWUlFwVmRPeWRqZEdEaHU?oc=5",
+      "source": "Google News: Yotpo",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "summary": "Learn how to rank in ChatGPT with Yotpo Discover today &nbsp;&nbsp; London Business News",
       "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Shipstation + launches",
-      "published_ts": 1791270000.0
+      "confidence": "low",
+      "reasoning": "Mentions Yotpo",
+      "published_ts": 1787295600.0
     },
     {
       "title": "Phase Two of Crunchyroll’s The LOOP Returns With a New Lineup of Series - The Outerhaven",
@@ -553,11 +487,11 @@
     }
   ],
   "stats": {
-    "total_fetched": 238,
-    "kept": 50,
-    "opportunities": 26,
+    "total_fetched": 229,
+    "kept": 44,
+    "opportunities": 20,
     "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 9.8
+    "runtime_seconds": 11.7
   }
 }
