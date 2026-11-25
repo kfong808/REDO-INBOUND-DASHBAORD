@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-24T21:41:07.887742+00:00",
+  "updated": "2026-11-25T04:40:13.071153+00:00",
   "items": [
+    {
+      "title": "PayPal Sets Virtual Card Rules for Agentic Commerce - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlRRY0hMWWVpT1pxNFBzVmV0Q0QxWXNDQjZDVlI2dHhJUnczQ3VNcDlhSDI3Z1NQRGVtOEZoWGxDV0pKcVd3YVNIa3ozSEFHOWQtN2JYQmxuOTJJVG5yd29zTzlGQlFjNW10bGRrRFVOMzROZ3g0S19TSWtQY3RBUjJ4STZnYjB2OTZsTHg4el9YMktpMVU3VG04MVpLdXN3QTluTUJYR2J1SXlteVE?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Mon, 23 Nov 2026 20:41:31 GMT",
+      "summary": "PayPal Sets Virtual Card Rules for Agentic Commerce &nbsp;&nbsp; PYMNTS.com",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1795466491.0
+    },
     {
       "title": "EU Targets AI Shopping Agents in Digital Consumer Overhaul - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFjR2NyN1JHczZHeUNfdUZuU1c0V3RjemtNWWNyZnpmS1hheFpYWTFmcUk4MDlEaE5RVUg4Z0RDdkRWQU9WRlFodzdYYTBZVlZjUU93R2prZ3VlY2MyTUYteGwyUkd1M3VMdzYtWWJBX29XcVZxeVdYbnRxVEttSWZ0aXh1SVJ0YVg2aEhXeGJ1U3F4UXBXUkhfMHV6NFdtWDRNOXRwMEVTMjRvNmNmT2swOUxwREE?oc=5",
@@ -44,17 +55,6 @@
       "confidence": "medium",
       "reasoning": "Matched: agentic commerce",
       "published_ts": 1795307400.0
-    },
-    {
-      "title": "Adyen and Klarna Bring Payment Options Beyond Cards to AI Shopping - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnhpRG9tenBKM2JvbFpNbEs5M1kzRVdfeVFkdndzV0liNzVWcmh3N0J3eGxhVWZVUjVqUFhUbUNMZjItMXp5dzNEVWRpdVpNNzB4LTJyczJGazdIUWxvT0ZWMnRkcktBcXZUdHJkQjJidlBMcTFSN0V5VTdqVjhoVlY4c1M3djZaV3F5OWVubHNlRmoxWXluT3BnTExfM0N4YzVxajZzQlpDSHFBcG1qTmtaV1EzdU9GeVhZUktn?oc=5",
-      "source": "Google News: agentic commerce",
-      "published": "Fri, 20 Nov 2026 20:21:27 GMT",
-      "summary": "Adyen and Klarna Bring Payment Options Beyond Cards to AI Shopping &nbsp;&nbsp; PYMNTS.com",
-      "classification": "opportunity",
-      "confidence": "medium",
-      "reasoning": "Matched: ai shopping",
-      "published_ts": 1795206087.0
     },
     {
       "title": "Reality Check: Agentic Commerce in Retail - Bain & Company",
@@ -101,6 +101,17 @@
       "published_ts": 1794556800.0
     },
     {
+      "title": "New Ecommerce Tools: November 11, 2026",
+      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-11-2026",
+      "source": "Practical Ecommerce",
+      "published": "Wed, 11 Nov 2026 15:13:54 +0000",
+      "summary": "This week: drone delivery, AI shopping agents, social commerce, WhatsApp marketing, multicurrency seller payouts, order management, consent compliance, and more. The post New Ecommerce Tools: November 11, 2026 appeared first on Practical Ecommerce .",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: ai shopping",
+      "published_ts": 1794410034.0
+    },
+    {
       "title": "Branded Tracking Page: Redefining the Post-Purchase Journey in 2026 - ClickPost",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UmM0b0JXeFJYZU1XanJiSUFFRnVtMlg1WjdmWnExXzFkd0ZFbnIwWG5wa1ZZMHVTaXNLN0VtcF9kWEZzLWppU0ZoWkpWV0pqUGFHdldUQlg3Q0JtXzlCWGlmYXRnNVJh?oc=5",
       "source": "Google News: post-purchase ecommerce",
@@ -121,6 +132,17 @@
       "confidence": "medium",
       "reasoning": "Matched: post-purchase",
       "published_ts": 1793865600.0
+    },
+    {
+      "title": "New Ecommerce Tools: November 4, 2026",
+      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-4-2026",
+      "source": "Practical Ecommerce",
+      "published": "Wed, 04 Nov 2026 16:50:22 +0000",
+      "summary": "New services this week include AI agents, agentic commerce, B2B payments, live commerce, programmatic ads, product discovery, multichannel marketing, reviews, loyalty plans, and more. The post New Ecommerce Tools: November 4, 2026 appeared first on Practical Ecommerce .",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793811022.0
     },
     {
       "title": "Who wins when AI does the shopping? New evidence on agentic commerce - McKinsey & Company",
@@ -233,6 +255,17 @@
       "published_ts": 1795527397.0
     },
     {
+      "title": "Attentive MCP Launches on Snowflake Marketplace - Destination CRM",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXpnb3IyQm5DX1hlTUVNeFE0UGNvREVmM19ERDdpYUVfMXR4RWdaOHNwUmFCWDNKb1NuUmlmclBWeTdDVmpOaUFJRHFNdlZMY0FJNjdyU0Z0TmNyZnBWaHVOVmVQQl9ZQjBHWm9SclhIaElmRGdMNGpsWW1BY09Ea0JzdWRFYmd0Rk5KNVVRdXpvXzNER1NCQVMtSExvaVJyMVdjaFpmZ0xjQjNtNnNPYU9BbVVMNGNTaE5Rakp2aDlyWkdXRGFV?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 24 Nov 2026 05:00:40 GMT",
+      "summary": "Attentive MCP Launches on Snowflake Marketplace &nbsp;&nbsp; Destination CRM",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1795496440.0
+    },
+    {
       "title": "Attentive Announces Launch of Attentive Model Context Protocol on Snowflake Marketplace - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2VrbU9wUlBPcEVxb0VJN2poX1E3S2w1dVhJMWVpMnNhalB5N3dLc2Rkc09KM1ZRX2pZVUxKYnZDUlZ1RVRyYmQ2UFhCX0lNS1pldWE0bm03YkJqdHNRTW5QQ1lPRnYtSy1RZ0ZYaGRfdFVoU3ZSbmw1RVVvWVJEZDVmeFg4UUYwUWUwYUNraDVVdWtxTTFiSUhXWnhtRW9SVGpiQUFkUFJQSUtsOFc2aFVUMF9ZOFdqMmhvdF9kYXNZQkdCUDVkZEpsU2dwWTZwQkVYRWhVSQ?oc=5",
       "source": "Google News: Attentive",
@@ -244,26 +277,26 @@
       "published_ts": 1795458985.0
     },
     {
-      "title": "THE POSTSCRIPT: Thanksgiving Recipe - news-daily.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmIwVDYxeEJOanpyQkM2cnFKRUdTS3VuYWRZNVh2V1YxMGdQNTRmUldkak41ZW9iV1d6Sy15LV9OSDBVX1ZoRGtjckphaVBmZkFpcWVyekI5UldjS3V0dkJfbzF3ZlRfbUFrUVo5S0FsczcwNl9EMllQTG9vUjcxQVRZS1F5QUQ2d1ctZEpJS1gzUjZfSzNqS0lFcVJqcUg0MmljVk9DVEgzdGRRazVqakdSLWZjcVl3?oc=5",
-      "source": "Google News: Postscript",
-      "published": "Mon, 23 Nov 2026 09:00:00 GMT",
-      "summary": "THE POSTSCRIPT: Thanksgiving Recipe &nbsp;&nbsp; news-daily.com",
-      "classification": "threat",
-      "confidence": "low",
-      "reasoning": "Mentions Postscript",
-      "published_ts": 1795424400.0
-    },
-    {
-      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS0Z4azdlSzhRUTdldEJIallqT1MtZ2pscHZsWGlOdlRqVmkyX1Y0cjl5NmJCQjFZTGpPODBHQUFSYVlzc0lNenRVMVg5ekFGM2c?oc=5",
+      "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Sun, 22 Nov 2026 10:34:26 GMT",
-      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance UK",
+      "published": "Sun, 22 Nov 2026 20:48:02 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Singapore",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1795343666.0
+      "published_ts": 1795380482.0
+    },
+    {
+      "title": "Should Buyback Expansion Require Action From Klaviyo (KVYO) Investors? - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS19pNmk2ZUxtVmpzckR5RkR6VkFHaHFIRDFQOWYwMzJPUUQyUVM2RDB3Y0l2Uk05elFGWExoM0V0QldEYmxBNE94bEl4X0hUWjlfSmd3dVh4aEJta0N4bjJaSERaNzBKZ2Vma05jTkVLMndpbUV2V3hMSkVyVUlvSk5QcWh0QWpJR2wxangtb1dpWk9kV2pCTjMwZXVzOVhGNkRqUHc4NzAyYkhINnV5aDJyUHdUOTh5b1BVQnhMMjFSZ9IBxwFBVV95cUxPcW53Y1RNQ3hwdF9qWkljeXpZYmZveXVRLTBmUjlmbmJ5QTJsbjNBRjNGaTh4RGhTY3lUVThta3pnTkllLXpVazRIZW44MFF4emJaWXJiS3lQN21nOV96WXoxcjRrVWlpWGNVLWUwaGdSdll1SS1DZ0lFRmZlTWlxZkRWS1FyMmd4MEdjM21HU1NZaDMtOHp5cVJncVQxR0tJcVV5WUFQWFEzQ3ROb0hUeVhKQlRaMEU4bUpHNEc4T0RoUDNiU1N3?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Sun, 22 Nov 2026 04:18:00 GMT",
+      "summary": "Should Buyback Expansion Require Action From Klaviyo (KVYO) Investors? &nbsp;&nbsp; Simply Wall St",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + expansion",
+      "published_ts": 1795321080.0
     },
     {
       "title": "Omnisend Launches Instagram-to-email Automation and Gamified Popups to Help Merchants Prepare for the Holiday Season - CustomerThink",
@@ -297,6 +330,17 @@
       "confidence": "medium",
       "reasoning": "Klaviyo + raises",
       "published_ts": 1795185948.0
+    },
+    {
+      "title": "Italy's Bending Spoons to buy Mailchimp for €3.35bn - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmtXV083T3M1Mk80bjgxSlJVWjJQQUVsbTdEY2YtbVVmb0dnZWFCWEt3QjYwdXJYLUNBNG1SSjhDbnBNLXhZSDFHWFpJejEyamJpbjJpNE5OVk5oaVROblZDNjJwOVRQdTJTdU51Z05EbDhmWjVmUUJlODEzQzc1NzVweUFjdVhTemFmdUIxLTdUVG1IVTVFQmJpeDNnajl0?oc=5",
+      "source": "Google News: Mailchimp",
+      "published": "Fri, 20 Nov 2026 11:39:14 GMT",
+      "summary": "Italy's Bending Spoons to buy Mailchimp for €3.35bn &nbsp;&nbsp; Euronews.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Mailchimp",
+      "published_ts": 1795174754.0
     },
     {
       "title": "Attentive.ai acquires Takeoff Monkey to expand AI landscaping takeoffs - Landscape Management",
@@ -431,6 +475,28 @@
       "published_ts": 1780988400.0
     },
     {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
+    },
+    {
+      "title": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro - PezCycling News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc21MZUthNmhtSkM1cnVVYnA3NVFUcnlvSkpIaU0tNXJwT3BPN045ckdKUFBZQmpoNWFHVnVOSFJTOTB4bktMMzI3SEhjeG5YeXg0eEx6dUtCYmswZ1pOa3Zmb1hiVVJKUmZEc0M0WlAzM3VPT3VSY2lSVVB2WjBrcVp0WnV3MVVmbWlFMG9malQ2Z0dTY3pWX3FtMzRxaWlMMFptV1poZC1LZVlfeG15YkFGYW5LSTJPQXZHSzZkd2wzYmJKbzk1WA?oc=5",
+      "source": "Google News: Narvar",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Gear Break: Meteorological Spring — Tifosi Narvar, BMC Timemachine Mpc., LOOK 795 Blade RS, Basso Palta III, Continental Terra Competition, Giro Eclipse Pro &nbsp;&nbsp; PezCycling News",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Narvar",
+      "published_ts": 1772179200.0
+    },
+    {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXhybTFhVVdQS1ZZVnpwczlpQVAtRGJtRGxwRHVnVzAxY1lrRHBjM0JYNFJGOXlLQS1QVzJfM1pMUDY4S2xrS1MzeDdwMTlHejgxTl9EWUEza0JKaXRHRHpiZ212X2FQRzNjSlNCb2VHbVN3Z3JvOUZ2TVY5Tk16UklqU3llcXljSDQ0?oc=5",
       "source": "Google News: Omnisend",
@@ -473,25 +539,14 @@
       "confidence": "medium",
       "reasoning": "Narvar + launches",
       "published_ts": 1646640000.0
-    },
-    {
-      "title": "Post-purchase firm Narvar raises $30M - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWE1d2V5bF9GazRHODdJNmRIcjd4bUpoZll3S19oM0NOUk1NRmsxRWlTV2puTllvY2Z2eFNlS1dFMlkxVVNJQVd0ZWJfaVF4R1lfaUh1NGNGWEJPZlFLa25iRkwwNTlVMHZUYjh5Z2FfZUpiQTBjOXNpci1aNW9Wbkt3?oc=5",
-      "source": "Google News: Narvar",
-      "published": "Wed, 29 Aug 2018 07:00:00 GMT",
-      "summary": "Post-purchase firm Narvar raises $30M &nbsp;&nbsp; Retail Dive",
-      "classification": "threat",
-      "confidence": "medium",
-      "reasoning": "Narvar + raises",
-      "published_ts": 1535526000.0
     }
   ],
   "stats": {
-    "total_fetched": 229,
-    "kept": 44,
-    "opportunities": 20,
-    "threats": 24,
+    "total_fetched": 249,
+    "kept": 49,
+    "opportunities": 22,
+    "threats": 27,
     "classifier_mode": "keyword",
-    "runtime_seconds": 11.7
+    "runtime_seconds": 8.6
   }
 }
