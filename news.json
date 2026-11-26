@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:52:17.044782+00:00",
+  "updated": "2026-11-26T05:52:02.336111+00:00",
   "items": [
     {
       "title": "Amazon and Meta in Talks to Bring AI Shopping Agent Back to Amazon - TipRanks",
@@ -167,6 +167,17 @@
       "published_ts": 1793811022.0
     },
     {
+      "title": "Who wins when AI does the shopping? New evidence on agentic commerce - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWENYYThmT1lvWlNUT25udnNwSWNJLWtEaE42ZjdWalpQZWhhY25yQV92a0VqNW1rd1RaNDF5bW9PTERqYnVUb3Y3NkdwZWJ4bXdUQ2d4dm1zOTNTUkVBTTFqSHF0SmdrTENmUUdkQXJIMWRNT3Z6UU5uMTg2ZXJyTnRsRUo5b2VFWmRqVFJSenhERlpzbF92UDY2czRXdjZ4c2RYai1NRm8yYnNNeG1YZUhYUXNsZjVoNTFhOVRWbGJ4ZklYOWppOFJkeVZnYllLdEJjZlRZQklvOTBSRHc?oc=5",
+      "source": "Google News: agentic commerce",
+      "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "summary": "Who wins when AI does the shopping? New evidence on agentic commerce &nbsp;&nbsp; McKinsey & Company",
+      "classification": "opportunity",
+      "confidence": "medium",
+      "reasoning": "Matched: agentic commerce",
+      "published_ts": 1793170800.0
+    },
+    {
       "title": "Post-purchase intelligence platform Narvar announces the return of founder Amit Sharma as CEO - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2RlbGNreXg5cmN5Y3c0b2JQOUtBNEYtNHRfb2hwY1B6ODE4eGNMakhGVXFRdlZ2WGtxVFROT2NzNm9ETkZGSFFxeWQ3QW1MOEFjVXFjMEFwNFpscjFXcHJwWFJZODFtelJGUm9JVHFmNHBVMzZlclc1RlhNYjBxRTlxdDZ5Z203d2ZPWmFRaDNNWWZOTmdVWmdrdE5UdWlpMUpBX01NUVg4MXJyUktYdG1kLXJwaGxXOVU3aUxpemVUQThDVWtzb2F4OUpKWUQ4T1JiQTdyWHZGYzVGWlE?oc=5",
       "source": "Google News: Narvar",
@@ -255,15 +266,48 @@
       "published_ts": 1768464000.0
     },
     {
-      "title": "Klaviyo reports strong EMEA growth as AI use surges - ecommercenews.com.au",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0s3bE1XREJTdjRkRXAwc0JULXdUaGoxaUZHaGg3ME8yZWV1dnhDd2tXYmhCaXNkVmkwNlVSUjFEWlBmSE9KSy1UZ2dhNU9xaWNYX3JQUjlEUmhBRk5HUVlBX0wyU2x6V01EQ0hzcy1RaGpybHZUZ1dYaFdDLXdlVHgzd004MGdkZTJ5WlFCYw?oc=5",
+      "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5",
       "source": "Google News: Klaviyo",
-      "published": "Wed, 25 Nov 2026 09:15:00 GMT",
-      "summary": "Klaviyo reports strong EMEA growth as AI use surges &nbsp;&nbsp; ecommercenews.com.au",
+      "published": "Wed, 25 Nov 2026 18:21:09 GMT",
+      "summary": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
       "classification": "threat",
       "confidence": "low",
       "reasoning": "Mentions Klaviyo",
-      "published_ts": 1795598100.0
+      "published_ts": 1795630869.0
+    },
+    {
+      "title": "Attentive MCP Launches on Snowflake Marketplace - Destination CRM",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXpnb3IyQm5DX1hlTUVNeFE0UGNvREVmM19ERDdpYUVfMXR4RWdaOHNwUmFCWDNKb1NuUmlmclBWeTdDVmpOaUFJRHFNdlZMY0FJNjdyU0Z0TmNyZnBWaHVOVmVQQl9ZQjBHWm9SclhIaElmRGdMNGpsWW1BY09Ea0JzdWRFYmd0Rk5KNVVRdXpvXzNER1NCQVMtSExvaVJyMVdjaFpmZ0xjQjNtNnNPYU9BbVVMNGNTaE5Rakp2aDlyWkdXRGFV?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 24 Nov 2026 05:00:40 GMT",
+      "summary": "Attentive MCP Launches on Snowflake Marketplace &nbsp;&nbsp; Destination CRM",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1795496440.0
+    },
+    {
+      "title": "Attentive Announces Launch of Attentive Model Context Protocol on Snowflake Marketplace - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2VrbU9wUlBPcEVxb0VJN2poX1E3S2w1dVhJMWVpMnNhalB5N3dLc2Rkc09KM1ZRX2pZVUxKYnZDUlZ1RVRyYmQ2UFhCX0lNS1pldWE0bm03YkJqdHNRTW5QQ1lPRnYtSy1RZ0ZYaGRfdFVoU3ZSbmw1RVVvWVJEZDVmeFg4UUYwUWUwYUNraDVVdWtxTTFiSUhXWnhtRW9SVGpiQUFkUFJQSUtsOFc2aFVUMF9ZOFdqMmhvdF9kYXNZQkdCUDVkZEpsU2dwWTZwQkVYRWhVSQ?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 23 Nov 2026 18:36:25 GMT",
+      "summary": "Attentive Announces Launch of Attentive Model Context Protocol on Snowflake Marketplace &nbsp;&nbsp; marketscreener.com",
+      "classification": "threat",
+      "confidence": "low",
+      "reasoning": "Mentions Attentive",
+      "published_ts": 1795458985.0
+    },
+    {
+      "title": "Attentive MCP Launches on Snowflake Marketplace - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGZsUW45cDF6LVROS19MVFpiaVcwNXRVWVdXNjVpWWVmS2V5RFZNa1pRWG5MV1ZOZDBJbm9RVm0zUWg3WGxIRTd6ZEVKMmRnSUl0UU5TZXE3VllYMldJRFF3RmdSVFdxM1BaUjRJdkd2NGszN0tqalJleWl1dFJ0SmpkaVdjcWZNUkVPd3pjc0FfeUo4ajJRSm1LdzRzc2VHNlFWYkFaTk1Fd1kx?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Mon, 23 Nov 2026 14:00:00 GMT",
+      "summary": "Attentive MCP Launches on Snowflake Marketplace &nbsp;&nbsp; Yahoo Finance",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + launches",
+      "published_ts": 1795442400.0
     },
     {
       "title": "THE POSTSCRIPT: Thanksgiving Recipe - news-daily.com",
@@ -299,6 +343,17 @@
       "published_ts": 1795174754.0
     },
     {
+      "title": "Attentive.ai acquires Takeoff Monkey to expand AI landscaping takeoffs - Landscape Management",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2J4Vkt1eFBqSC1xaExkYl9WOTYzUGVEOUZiQW5hckNkS0YtREtYRWN0djVvbGpvNkx1Rlk0U2VkR3ZEemZjdEk1a0YzYXU2QmdfRnZPTHpzZ0Mta3NPeEtTaDFVYnpaU09DLXkyd3JfaFozMzlzbHc1b0RLLV9XSXRnVTdVaHIzWDh5bTdqbkN2cGh6Z1RJRy15dGZLMjIwT2NPbTllb1U3TTA?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "summary": "Attentive.ai acquires Takeoff Monkey to expand AI landscaping takeoffs &nbsp;&nbsp; Landscape Management",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + acquires",
+      "published_ts": 1794902400.0
+    },
+    {
       "title": "Yotpo - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGZMOGVYazB1bXYxaDhEYXFVRThuQ3YxVml1eHFtVTdEd09DaHNtSFZXTU96UXNMRzJGQU1xdm5uWDNCWE16SHcxSFJyTkhGdWliM3AtVldSSmhaQmdGV1ZKc2JUR1RodmNpV01SQ0J4UVNKOXJjX3h5em1iWURNZ2VUZnduT2w5a3VkdE5ac1UzX0U3WUJxZ2ZpYjB0bUE4RWNrZlNmWQ?oc=5",
       "source": "Google News: Yotpo",
@@ -308,6 +363,17 @@
       "confidence": "medium",
       "reasoning": "Yotpo + funding round",
       "published_ts": 1794773484.0
+    },
+    {
+      "title": "Attentive.ai acquires Takeoff Monkey - Lawn & Landscape",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1N6ZGRUR3pBZ1RJOWdYQTVodk41dmFScWs3TVpwQmpBaWRraHJPU3Nqdm9zQVgzeGtHejBLM3FsODRuTnFoVWtYZkQwcFhSN3Q0YVhxazN6ajh6YXdNTkMxZDNvV0JIaG5RSjFHSmJvQTZrZjhDRlo4QWItdnBndg?oc=5",
+      "source": "Google News: Attentive",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "summary": "Attentive.ai acquires Takeoff Monkey &nbsp;&nbsp; Lawn & Landscape",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Attentive + acquires",
+      "published_ts": 1794470400.0
     },
     {
       "title": "This Week in Retail: Zendaya × On Pop-Ups, Omnisend Tracks Holiday Spending, Dwyane Wade Joins REVOLVE, Lacoste’s Foundation Activations, Golden Goose’s Padel Launch, and AMIRI’s Barcelona Wardrobe - RETAILBOSS | Substack",
@@ -365,6 +431,17 @@
       "published_ts": 1786431600.0
     },
     {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
+      "source": "Google News: Klaviyo",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders &nbsp;&nbsp; TechCrunch",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Klaviyo + acquires",
+      "published_ts": 1785913200.0
+    },
+    {
       "title": "Scooping the Loop returns to downtown Ripon - Ripon Commonwealth Press",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFwNUc0T0RQZWs3dzRTR1F0dTU0a2ZuQ3R2OWZ6M2cyNjd6STZZZGo3YVVBZVdWTl9Dc1Fzd2hIRHVua3ZieUcyWHlNeV91dmZ3WExVU1EtSzdHLVhNR0JhUTE3MTYwNDY1dFRYT2xHRmFwZUhzTlJfaERPNERCTm1fNTVtS1A4Wl83VTU0ckhiaWV5clBlOGR1bXdIY0ZZQkZNUUE0LVdhWDZxcHJXRTZ0SnVzMkgwUW9sMTc2RUxhZ3c?oc=5",
       "source": "Google News: Loop Returns",
@@ -396,6 +473,17 @@
       "confidence": "medium",
       "reasoning": "Omnisend + raises",
       "published_ts": 1780988400.0
+    },
+    {
+      "title": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRktFWWJYbEhYbHZwQ0pyMDRkZW5ITE9kdHZ1MnR6YU9DOVdZTjBjR2phaFVnYXFqVExUd1FKQTA1Q3lPVUNNb1dsbmEySjg2blhPT2J5dDlQaXp4MHBQVWFqb1RNUU16UlFZeGVod0d1d3dYR3BmcGZhZ0xuanhEX003SlRORWRUSUF1bkV6bTAyTFdvVkRrZTU4WjJPZWgwT2FnQTdTaW5LakppcTNQd1cxY2FIS214NlM2bjljbkVIcjNINkRic25RTllBUQ?oc=5",
+      "source": "Google News: Omnisend",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Omnisend Launches MCP To Bring Ecommerce Marketing Into ChatGPT &nbsp;&nbsp; TradingView",
+      "classification": "threat",
+      "confidence": "medium",
+      "reasoning": "Omnisend + launches",
+      "published_ts": 1778569200.0
     },
     {
       "title": "New Omnisend Report Shows eCommerce Shift Toward High-Intent Engagement in 2025 - Yahoo Finance",
@@ -444,10 +532,10 @@
   ],
   "stats": {
     "total_fetched": 249,
-    "kept": 40,
-    "opportunities": 23,
-    "threats": 17,
+    "kept": 48,
+    "opportunities": 24,
+    "threats": 24,
     "classifier_mode": "keyword",
-    "runtime_seconds": 10.9
+    "runtime_seconds": 9.5
   }
 }
